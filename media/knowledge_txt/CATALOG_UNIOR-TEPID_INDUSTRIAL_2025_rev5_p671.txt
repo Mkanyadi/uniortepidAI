@@ -1,0 +1,112 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:671]
+KCV-50
+KCV-54AC
+Cleste taietor cu acumulator 18 V Li-ion
+• cutie plastic
+• se livreaza cu acumulator 
+12 V si incarcator
+Cablu polietilena 600V-CV325 mm² (31 mm OD)
+Cablu polietilena 600V-CV150 mm² x 3 (46 mm OD)
+Cablu polietilena 600V-CV500 mm² (38 mm OD)
+Cablu polietilena 600V-CVT150 mm² (45 mm OD)
+Cablu multistrat izolat VVR150 mm² (47 mm OD) 3 straturi
+Cablu cupru moale IV500 mm² (35 mm OD)
+Cablu cupru dur 150 mm² (21 mm OD)
+Cleste taietor cu acumulator 18 V Li-ion
+• cutie plastic
+• se livreaza cu acumulator 
+18 V si incarcator
+Cablu polietilena 600V-CV325 mm² (31 mm OD)
+Cablu polietilena 600V-CV150 mm² x 3 (46 mm OD)
+Cablu polietilena 600V-CV500 mm² (38 mm OD)
+Cablu polietilena 600V-CVT150 mm² (45 mm OD)
+Cablu multistrat izolat VVR150 mm² (47 mm OD) 3 straturi
+Cablu cupru moale IV500 mm² (35 mm OD)
+Cablu cupru dur 150 mm² (21 mm OD)
+KCV-50
+Ø
+Φ 50 mm
+1
+1G
+Capacitate taiere cabluri neferoase
+Tip motor
+Lungime
+Greutate
+1
+2200
+Φ 50 mm
+18 V CC
+317 mm
+2,2 kg
+9200.00
+KCV-54AC
+Φ 54 mm
+Ø
+1
+1G
+Capacitate taiere cabluri neferoase
+Tip motor
+Lungime
+Greutate
+12650.00
+1
+2900
+Φ 54 mm
+18 V CC
+317 mm
+2,2 kg
+KCV-54
+KCV-65
+Cleste taietor cu acumulator 18 V Li-ion
+• cutie plastic
+• se livreaza cu acumulator 18 V si incarcator
+Cablu de polietilena 600V-CV325 mm² (31 mm OD)
+Cablu multistrat cu izolatie VVR150mm² (47 mm OD) 3 straturi
+SB-ACSR ACSR120mm² (18,6 mm OD)
+Cablu din aluminiu dur HAL-OC400mm² (31,9 mm OD)
+Cablu de cupru dur OE-OC150mm² (21mm OD)
+Cablu SS 0,4 mm, 400 CPC-F-SS (CR)
+Cablu LCCP fara suport de sarma cu diametrul exterior de 54 mm
+Cleste taietor cu acumulator 18 V Li-ion
+• cutie plastic
+• se livreaza cu acumulator 18 V si incarcator
+Cablu polietilena 600V-CV325 mm² (31 mm OD)
+Cablu polietilena 600V-CV150 mm² x 3 (46 mm OD)
+Cablu polietilena 600V-CV500 mm² (38 mm OD)
+Cablu polietilena 600V-CVT150 mm² (45 mm OD)
+Cablu multistrat izolat VVR150 mm² (47 mm OD) 3 straturi
+Cablu cupru moale IV500 mm² (35 mm OD)
+KCV-54
+Ø
+Φ 54 mm
+1
+1G
+Capacitate taiere cabluri neferoase
+Capacitate taiere cabluri telefonice
+Tip motor
+Lungime
+Greutate
+1
+3000
+Φ 54 mm
+cu 400 conductori
+18 V CC
+338 mm
+3,0 kg
+15308.20
+KCV-65
+Ø
+Φ 65 mm
+1
+1G
+Capacitate taiere cabluri neferoase
+Tip motor
+Lungime
+Greutate
+13168.44
+1
+3500
+Φ 65 mm
+18 V CC
+340 mm
+3,5 kg

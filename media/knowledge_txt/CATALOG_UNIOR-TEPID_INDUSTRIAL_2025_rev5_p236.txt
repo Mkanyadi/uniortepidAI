@@ -1,0 +1,482 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:236]
+266INS.3
+Cap cheie inelara decupata interschimbabil 
+pentru cheie dinamometrica 9x12 mm
+• pentru chei dinamometrice cu suport dreptunghiular
+• fixare prin blocare pin
+• placare cromata peste nichel, permanenta si fara descuamare
+• forjat, calire si revenire totala
+• extrem de rezistent, extrem de durabil
+733a/10
+9x12
+14x18
+Cap cheie inelara interschimbabil pentru cheie 
+dinamometrica 9x12 mm
+• pentru chei dinamometrice cu suport dreptunghiular
+• fixare prin blocare pin
+• placare cromata peste nichel, permanenta si fara descuamare
+• forjat, calire si revenire totala
+• extrem de rezistent, extrem de durabil
+NOU
+9x12
+b
+h
+S
+Antrenare
+10
+11
+12
+13
+14
+16
+17
+18
+19
+21
+22
+24
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+53
+55
+55
+55
+59
+61
+63
+69
+71
+74
+76
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+139
+14x18
+628105
+628106
+628107
+628108
+628109
+628110
+628111
+628112
+628113
+628114
+628115
+628116
+733/10
+Cap cheie inelara interschimbabil pentru cheie 
+dinamometrica 9x12 mm
+• pentru chei dinamometrice cu suport dreptunghiular
+• fixare prin blocare pin
+• placare cromata peste nichel, permanenta si fara descuamare
+• forjat, calire si revenire totala
+• extrem de rezistent, extrem de durabil
+SW 58231010
+SW 58231011
+SW 58231012
+SW 58231013
+SW 58231014
+SW 58231016
+SW 58231017
+SW 58231018
+SW 58231019
+SW 58231021
+SW 58231022
+SW 58231024
+10
+11
+12
+13
+14
+16
+17
+18
+19
+21
+22
+24
+W
+7.1
+8.6
+9
+10
+11
+13
+14
+14.8
+15.8
+16.2
+17
+18
+b
+21.5
+22.5
+24.5
+26
+27
+30.5
+31.5
+33
+34
+38.5
+39.5
+40
+h
+11
+11
+12
+12
+13
+13
+13
+15
+15
+15
+15
+15
+S
+17.5
+17.5
+17.5
+17.5
+17.5
+17.5
+17.5
+17.5
+17.5
+20
+20
+20
+Antrenare
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+57
+55
+59
+55
+60
+65
+64
+74
+70
+88
+92
+75
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+170.66
+170.66
+170.66
+170.66
+170.66
+170.66
+179.84
+179.84
+179.84
+179.84
+179.84
+307.38
+9x12
+361.97
+361.97
+361.97
+361.97
+361.97
+373.13
+361.97
+380.82
+361.97
+391.00
+361.97
+361.97
+SW 58631024
+3/8"
+SW 58631028
+7/16"
+SW 58631032
+1/2"
+SW 58631034
+9/16"
+W
+7.1
+8.6
+9.5
+11
+SW 58631036
+5/8"
+12.7
+SW 58631038
+11/16"
+14
+SW 58631040
+3/4"
+15.8
+b
+21.5
+22.5
+26
+27.5
+30.5
+33
+34
+h
+11
+11
+12
+13
+13
+15
+15
+S
+17.5
+17.5
+17.5
+17.5
+17.5
+17.5
+17.5
+Antrenare
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+55
+56
+58
+59
+61
+48
+76
+732G/10
+Cap cheie inelara interschimbabil pentru cheie 
+dinamometrica 9x12 mm
+• otel rezistent HPQ®, finisaj metalic
+b
+11.5
+12.4
+14
+15.6
+19.3
+h
+6
+6
+8
+8
+9.2
+S
+45
+45
+45
+45
+45
+Antrenare
+9x12
+9x12
+9x12
+9x12
+9x12
+31
+33
+44
+45
+60
+SW 58620007
+SW 58620008
+SW 58620009
+SW 58620010
+SW 58620013
+7
+8
+9
+10
+13
+732aG/10
+Cap cheie inelara interschimbabil pentru cheie 
+dinamometrica 9x12 mm
+• otel rezistent HPQ®, finisaj metalic
+SW 58621216
+SW 58621220
+SW 58621224
+SW 58621228
+SW 58621232
+SW 58621234
+SW 58621236
+1/4"
+5/16"
+3/8"
+7/16"
+1/2"
+9/16"
+5/8"
+b
+10.4
+12.4
+14.9
+17
+19
+21
+23
+h
+6
+6
+8
+8
+9.2
+9.2
+12
+S
+45
+45
+45
+45
+45
+45
+45
+Antrenare
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+28
+31
+42
+43
+58
+58
+74
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+380.82
+380.82
+380.82
+380.82
+380.82
+391.00
+391.00
+NOU
+9x12
+320.27
+358.57
+358.57
+358.57
+370.94
+NOU
+9x12
+451.18
+402.91
+402.91
+466.56
+466.56
+423.58
+466.56

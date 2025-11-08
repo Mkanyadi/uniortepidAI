@@ -1,0 +1,488 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:449]
+5105
+1031651
+1031711
+Freze biax din carbura metalica 
+sinterizata - CMS cilindrica cu taiere 
+frontala, Forma B ( ZYAS )
+• freze biax din carbura metalica sinterizata - CMS - cilindrica 
+cu taiere frontala, forma B ( ZYAS )
+• in conformitate cu DIN 8033
+• pentru a debavura, rotunjire muchii, curatire / finisare 
+ornamente, curatire cordoane de sudura si operatii de 
+prelucrare suprafete pentru piese din fonta, otel si otel 
+inoxidabil.
+• se foloseste pe masini portabile pneumatice sau electrice
+PROFI
+by BOHRC RAFT
+PLUS
+DIN
+8033
+VHM
+B
+ZYAS
+Z-KR
+Ø          d2         L            l2
+3
+6
+8
+10
+12
+16
+19
+3
+6
+6
+6
+6
+6
+6
+38
+50
+64
+64
+70
+70
+70
+13
+16
+20
+20
+25
+25
+25
+52.79
+87.05
+106.23
+127.38
+183.93
+271.80
+412.62
+51050300303
+51050300600
+51050300800
+51050301000
+51050301200
+51050301600
+51050301900
+1031641
+Freza din carbura de tungsten forma C
+cilindrica cu cap rotunjit, tais simplu 
+tip C
+• material: carbura HM
+• forma C - cilindrica cu cap rotunjit
+• pentru oteluri cu duritate pana la 1400 N/mm², otel inoxidabil
+Freza din carbura de tungsten forma C
+cilindrica cu cap rotunjit, tais dublu
+(incrucisat) tip D
+• material: carbura HM
+• forma C - cilindrica cu cap rotunjit
+• pentru oteluri cu duritate pana la 700 N/mm², fonta, aliaje cupru
+Freza din carbura de tungsten forma M
+conica cu varf ascutit, tais dublu 
+(incrucisat) tip D
+• material: carbura HM
+• forma M - conica cu varf ascutit
+• pentru oteluri cu rezistenta la rupere ≤ 700 N/mm², fonta, 
+aliaje cupru
+2
+d
+L
+Ø
+l1
+l2
+2
+d
+L
+Ø
+l1
+l2
+Ø          d2         L            l2
+4
+14
+6
+16
+8
+20
+10
+20
+12
+25
+16
+25
+16
+25
+20
+25
+20
+25
+50
+50
+65
+65
+70
+70
+70
+70
+70
+6
+6
+6
+6
+6
+8
+6
+8
+6
+10316510400
+10316510600
+10316510800
+10316511000
+10316511200
+10316511600
+103165116006
+10316512000
+103165120006
+5110
+181.48
+181.48
+226.98
+260.49
+371.34
+485.64
+485.64
+727.77
+727.77
+10317110400
+10317110600
+10317110800
+10317111000
+10317111200
+10317111600
+103171116006
+1031721
+Ø          d2         L            l2
+4
+6
+8
+10
+12
+16
+16
+6
+6
+6
+6
+6
+8
+6
+50
+50
+63
+65
+70
+70
+70
+12
+16
+16
+20
+25
+25
+25
+180.05
+180.05
+189.98
+218.61
+265.66
+364.75
+364.75
+Freze biax din carbura metalica 
+sinterizata - CMS cilindrica cu cap 
++semisferic, Forma C ( WRC )
+• freze biax din carbura metalica sinterizata - CMS - cilindrica 
+cu taiere frontala, forma C ( WRC )
+• in conformitate cu DIN 8033
+• pentru a debavura, rotunjire muchii, curatire / finisare 
+ornamente, curatire cordoane de sudura si operatii de 
+prelucrare suprafete pentru piese din fonta, otel si otel inoxidabil.
+• se foloseste pe masini portabile pneumatice sau electrice
+Freza din carbura, conica cu varf 
+ascutit la 90º, tais simplu tip C
+• material: carbura HM
+• conica cu varf ascutit la 90º
+• pentru oteluri cu rezistenta la rupere ≤ 1400 N/mm², otel inoxidabil
+2
+d
+L
+Ø
+l1
+l2
+2
+d
+L
+Ø
+l1
+l2
+Ø          d2         L            l2
+4
+6
+8
+10
+12
+16
+16
+6
+6
+6
+6
+6
+8
+6
+50
+50
+65
+65
+70
+70
+70
+14
+16
+20
+20
+25
+25
+25
+151.36
+151.36
+191.75
+218.61
+309.38
+404.85
+404.85
+10316410400
+10316410600
+10316410800
+10316411000
+10316411200
+10316411600
+103164116006
+1036681
+51100300303
+51100300600
+51100300800
+51100301000
+51100301200
+51100301600
+51100301900
+1031701
+Freza din carbura de tungsten forma C
+cilindrica cu cap rotunjit, tais simplu
+tip A
+• material: carbura HM
+• forma C - cilindrica cu cap rotunjit
+• pentru aluminiu
+Freza din carbura de tungsten forma M
+conica cu varf ascutit, tais simplu tip C
+• material: carbura HM
+• forma M - conica cu varf ascutit
+• pentru oteluri cu rezistenta la rupere ≤ 1400 N/mm², otel inoxidabil
+PROFI
+by BOHRC RAFT
+PLUS
+DIN
+8033
+VHM
+C
+WRC
+Z-KR
+Ø          d2         L            l2
+13
+3
+16
+6
+20
+8
+20
+10
+25
+12
+25
+16
+25
+19
+38
+50
+64
+64
+70
+70
+70
+3
+6
+6
+6
+6
+6
+6
+52.79
+84.43
+98.69
+127.38
+181.48
+281.64
+404.75
+10317210400
+10317210600
+10317210800
+10317211000
+10317211200
+103172116006
+1031741
+Ø          d2         L            l2
+4
+6
+8
+10
+12
+16
+6
+6
+6
+6
+6
+8
+50
+50
+63
+65
+70
+70
+12
+16
+16
+20
+25
+25
+126.23
+126.23
+133.00
+151.36
+189.98
+221.88
+Freza din carbura, conica cu varf 
+ascutit la 60º, tais simplu tip C
+• material: carbura HM
+• conica cu varf ascutit la 60º
+• pentru oteluri cu duritate pana la 1400 N/mm², otel inoxidabil
+2
+d
+L
+Ø
+l1
+l2
+2
+d
+L
+Ø
+l1
+l2
+2
+d
+L
+Ø
+l1
+l2
+10366811000
+10366811200
+10366811600
+Ø          d2         L            l2
+20
+10
+25
+12
+25
+16
+65
+70
+70
+6
+6
+6
+10317010600
+10317010800
+10317011000
+10317011200
+10317011600
+103170116006
+10317012000
+260.49
+371.34
+453.91
+Ø          d2         L            l2
+16
+16
+20
+25
+25
+25
+25
+50
+63
+65
+70
+70
+70
+70
+6
+8
+10
+12
+16
+16
+20
+6
+6
+6
+6
+8
+6
+8
+149.81
+158.07
+183.26
+221.88
+299.11
+299.11
+404.85
+Ø          d2         L            l2
+10317410400
+10317410600
+10317411000
+10317411200
+103174116006
+4
+6
+10
+12
+16
+6
+6
+6
+6
+8
+50
+50
+65
+70
+70
+12
+16
+20
+25
+25
+131.22
+131.22
+158.07
+196.57
+240.35

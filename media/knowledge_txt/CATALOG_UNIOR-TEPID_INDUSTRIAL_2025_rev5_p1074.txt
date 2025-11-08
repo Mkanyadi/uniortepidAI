@@ -1,0 +1,112 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1074]
+950/2
+950/2
+950/6-BLACK
+Vestiar,2 compartimente
+• vestiarul este vopsit in camp electrostatic pentru a asigura 
+protectia impotriva ruginei.
+• ca protectie suplimentara tabla este lacuita ecologic cu 
+cadmiu si vopsea
+• corpul vestiarului din tabla de 0,8 mm de inalta calitate
+• usile din tabla de 1 mm, ranforsate impotriva torsiunii si indoirii 
+Vestiar, 6 compartimente
+• vestiarul este vopsit in camp electrostatic pentru a asigura 
+protectia impotriva ruginei.
+• ca protectie suplimentara tabla este lacuita ecologic cu 
+cadmiu si vopsea
+• corpul vestiarului din tabla de 0,8 mm de inalta calitate
+• usile din tabla de 1 mm, ranforsate impotriva torsiunii si indoirii 
+Vestiar, 6 compartimente
+• vestiarul este vopsit in camp electrostatic pentru a asigura 
+protectia impotriva ruginei.
+• ca protectie suplimentara tabla este lacuita ecologic cu 
+cadmiu si vopsea
+• corpul vestiarului din tabla de 0,8 mm de inalta calitate
+• usile din tabla de 1 mm, ranforsate impotriva torsiunii si indoirii 
+A
+B
+H A1 B1 H1
+A
+B
+H A1 B1 H1
+A
+B
+H A1 B1 H1
+617115
+350 500 1880 300 20 875
+35000 2987.54
+616652
+1000 500 1880 300 20 875
+75000 8076.89
+628588
+1000 500 1880 300 20 875
+75000 9887.92
+950/3V
+950/9
+Vestiar cu 3 compartimente
+•  Vestiarul este vopsit in camp electrostatic pentru a asigura protectia impotriva ruginei.
+Ca protectie suplimentara tabla este lacuita ecologic cu cadmiu si vopsea.Usile 
+vestiarului in culori luminoase confera fiecarui compartiment o atmosfera placuta
+•  Corpul vestiarului din tabla de 0,8 mm de inalta calitate
+•  Usile din tabla de 1 mm, ranforsate impotriva torsiunii si indoirii.Usile sunt vopsite in 
+Vestiar cu 9 compartimente
+•  Vestiarul este vopsit in camp electrostatic pentru a asigura protectia impotriva ruginei.
+Ca protectie suplimentara tabla este lacuita ecologic cu cadmiu si vopsea.Usile 
+vestiarului in culori luminoase confera fiecarui compartiment o atmosfera placuta
+•  Corpul vestiarului din tabla de 0,8 mm de inalta calitate
+•  Usile din tabla de 1 mm, ranforsate impotriva torsiunii si indoirii.Usile sunt vopsite in 
+sase culori diferite ( RAL 1021, RAL 3020, RAL 5010, RAL 6029, RAL 2004 si RAL 7035)
+sase culori diferite ( RAL 1021, RAL 3020, RAL 5010, RAL 6029, RAL 2004 si RAL 7035)
+A
+B
+H
+617175 1000
+500
+1880
+A1
+300
+B1
+20
+H1
+A
+B
+H
+1775
+75000
+ 1K 
+1
+5621.80
+617116 1000
+500
+1880
+A1
+300
+B1
+20
+H1
+575
+95000
+ 1K 
+1
+8548.03
+950.1
+Rama eticheta
+950.4
+Suport din plastic 
+pentru  950/9,6,3,2,1
+K950COMB
+Incuietoare cu cifru
+pentru vestiar
+617188
+24
+ 1V 
+1
+28.20
+617187 150
+ 1V 
+1
+47.21
+617183 216
+ 1X 
+1
+311.31

@@ -1,0 +1,260 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:151]
+AN16 1”
+Adaptor de impact mama-mama 1"
+• patrat de antrenare 1” DIN 3121 - forma H 25
+U16 1”
+Intermediar cardanic de impact 1"
+• patrat de antrenare 1” DIN 3121 - forma H 25
+Patrat 
+                 D 
+                 L                      Greutate
+interior          interior 
+mm 
+mm 
+    gr
+AN1612
+AN1616
+1"
+1"
+AN2416
+1 1/2"
+3/4"
+1"
+1"
+54
+54
+86
+63
+59
+83
+680
+750
+2050
+433.25
+382.28
+1146.84
+Z16 1”
+Adaptor de impact tata-tata 1"
+Patrat 
+                 D 
+                 L                      Greutate
+interior          exterior 
+U1616
+1"
+1"
+mm 
+67
+mm 
+136.5
+    gr
+1600
+764.41
+750 SWH
+Prelungitor cu eliberare rapida 1”
+• actionare: patrat 1”, DIN 3121 Forma H 25
+• deschidere: patrat, Forma A cu bila
+Patrat 
+                 D 
+                 L                      Greutate
+exterior          exterior 
+mm 
+mm 
+    gr
+1000075950
+750 SWH 1''
+E
+A
+1''
+L
+96
+D2
+54
+927
+ 1C 
+1
+1316.80
+233.8/4
+Inel de retinere cu stift 1"
+• materialul pinului: crom molibden
+• materialul inelului: cauciuc
+• finisaj de suprafata al stiftului: fosfatat conform DIN standard 
+D
+46
+75
+d
+3.5
+5.7
+L
+43
+75
+d1
+5
+6
+21
+38
+ 1E 
+ 1E 
+1
+1
+48.03
+48.03
+615254 22 - 70
+615255 75 - 80
+PR16 1”
+Accesorii de impact 1"
+1"
+1"
+1"
+1"
+1"
+1"
+1"
+1"
+1"
+1"
+Z1603
+Z1604
+Z1605
+Z1606
+Z1607
+Z1610
+Z1613
+Z1615
+Z1616
+Z1617
+233.6/4
+1"
+1"
+1"
+1"
+1"
+1"
+1"
+1"
+1"
+1"
+33
+33
+33
+33
+33
+33
+33
+33
+33
+33
+76
+101
+127
+152
+177
+254
+330
+381
+406
+432
+400
+560
+730
+870
+980
+1380
+2100
+2460
+2580
+2750
+127.48
+127.48
+203.90
+560.66
+560.66
+662.61
+764.63
+781.45
+781.45
+781.45
+Intermediar cardanic de impact 1"
+•  material:crom molibden
+•  acoperire prin brunare dupa standardul DIN 12476
+•  forjata, calire si revenire totala
+D
+54
+L
+110
+1051
+ 1C 
+1
+718.20
+615216
+1"
+450 KG
+Intermediar cardanic de impact 1"
+• material: crom molibden
+• actionare: patrat 1”
+• conform DIN 3121 - H 25
+• deschidere: patrat, DIN 3121
+1000004504 450 KG-4
+E
+1”
+A
+1”
+D2
+54
+L
+110
+1053
+ 1C 
+1
+1153.63
+Patrat             Tip                    Q
+d                   L 
+                 D
+mm               mm                mm
+P16127
+P1654
+P1686
+R16127
+R1654
+R1686
+1"
+1"
+1"
+1"
+1"
+1"
+pin
+pin
+pin
+inel
+inel
+inel
+Ø 127
+Ø 54 
+Ø 86 
+Ø 127
+Ø 54 
+Ø 86
+5
+5
+5
+-
+-
+-
+45
+77
+118
+-
+-
+-
+-
+-
+-
+45
+77
+118
+5.02
+5.02
+5.02
+8.48
+8.48
+8.48

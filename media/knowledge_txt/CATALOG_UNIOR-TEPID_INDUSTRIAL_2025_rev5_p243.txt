@@ -1,0 +1,117 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:243]
+PTS-72-1000
+PTS-72-2000
+Multiplicator de cuplu pneumatic 200-1000 Nm
+• fara impact - nivel redus de vibratii pentru o utilizare confortabila si sigura
+• functionare foarte silentioasa - reducerea necesitatii de protectie cu nivel de presiune 
+acustica de la 77dB (A) la 79dB (A) 
+• livrat standard cu un certificat de calibrare numai in sensul orar
+• functionare rapida pentru desfacere rapida a suruburilor
+• greutate redusa
+• comutator usor accesibil pentru functionarea inainte si inapoi
+• cuplaj de aer conceput pentru siguranta si functionare rapida
+• ± 5% repetabilitate a citirii de la 20% la 100% din interval
+• patrat de antrenare inlocuibil
+3/4”
+Multiplicator de cuplu pneumatic 400-2000 Nm
+• fara impact - nivel redus de vibratii pentru o utilizare confortabila si sigura
+• functionare foarte silentioasa - reducerea necesitatii de protectie cu nivel de presiune 
+acustica de la 77dB (A) la 79dB (A) 
+• livrat standard cu un certificat de calibrare numai in sensul orar
+• functionare rapida pentru desfacere rapida a suruburilor
+• greutate redusa
+• comutator usor accesibil pentru functionarea inainte si inapoi
+• cuplaj de aer conceput pentru siguranta si functionare rapida
+• ± 5% repetabilitate a citirii de la 20% la 100% din interval
+• patrat de antrenare inlocuibil
+1”
+76
+318
+290
+80
+76
+352
+323
+80
+167
+Ø72
+266
+256
+167
+Ø72
+266
+256
+N.m
+lbf.ft
+N.m
+lbf.ft
+180243.B06 200 - 1000
+147 - 738
+3/4” ±3%
+±3%
+20.4 rpm
+6240 55843.83
+180245.B08 400-2000
+295-1475
+1” ±3%
+±3%
+9.2 rpm
+6600 58460.24
+PTS-72-1350
+PTS-80-2700
+Multiplicator de cuplu pneumatic 270-1350 Nm
+• fara impact - nivel redus de vibratii pentru o utilizare confortabila si sigura
+• functionare foarte silentioasa - reducerea necesitatii de protectie cu nivel de presiune 
+acustica de la 77dB (A) la 79dB (A) 
+• livrat standard cu un certificat de calibrare numai in sensul orar
+• functionare rapida pentru desfacere rapida a suruburilor
+• greutate redusa
+• comutator usor accesibil pentru functionarea inainte si inapoi
+• cuplaj de aer conceput pentru siguranta si functionare rapida
+• ± 5% repetabilitate a citirii de la 20% la 100% din interval
+• patrat de antrenare inlocuibil
+1”
+Multiplicator de cuplu pneumatic 540-2700 Nm
+• fara impact - nivel redus de vibratii pentru o utilizare confortabila si sigura
+• functionare foarte silentioasa - reducerea necesitatii de protectie cu nivel de presiune 
+acustica de la 77dB (A) la 79dB (A) 
+• livrat standard cu un certificat de calibrare numai in sensul orar
+• functionare rapida pentru desfacere rapida a suruburilor
+• greutate redusa
+• comutator usor accesibil pentru functionarea inainte si inapoi
+• cuplaj de aer conceput pentru siguranta si functionare rapida
+• ± 5% repetabilitate a citirii de la 20% la 100% din interval
+• patrat de antrenare inlocuibil
+1”
+59
+287
+263
+69
+76
+325
+295
+80
+131
+Ø52
+266
+256
+167
+Ø80
+266
+256
+N.m
+lbf.ft
+N.m
+lbf.ft
+180244.B08 270-1350
+200-1000
+1” ±3%
+±3%
+14.7 rpm
+6240 55843.83
+180246.B08 540-2700
+400-2000
+1” ±3%
+±3%
+7.3 rpm
+6150 64728.63

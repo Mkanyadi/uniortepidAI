@@ -1,0 +1,155 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:285]
+2872
+Dispozitiv digital pentru masurat grosimi
+• varf si nicovala ceramice
+• butoane: on/off, zero, mm/inch
+• baterie CR2032, oprire automata
+• iesire date
+• optional: cablu date (cod 7315-, 7302-, 7305-)
+4605
+Lere de grosime
+• material: otel aliat tratat
+• in conformitate cu DIN 2275
+• acuratete ±(3+T/80)µm, T este grosimea lerei in µm
+: 
+lera
+Dimensiune 
+                 Lere                 Piese          L        A        B
+4605-13
+0.05-1.00 mm
+4605-131
+0.05-1.00 mm
+4605-132
+0.05-1.00 mm
+4605-201
+0.05-1.00 mm
+4605-202
+0.05-1.00 mm
+13
+150
+135
+295
+79.28
+13
+200
+185
+395
+92.19
+13
+300
+285
+590
+130.20
+20
+200
+185
+395
+121.80
+20
+300
+285
+590
+179.55
+0.05, 0.10, 0.15,
+0.20,0.25, 0.30, 
+0.40, 0.50,0.60, 
+0.70, 0.80, 0.90, 
+1.00
+0.05, 0.10, 0.15,
+0.20,0.25, 0.30, 
+0.40, 0.50,0.60, 
+0.70, 0.80, 0.90, 
+1.00
+0.05, 0.10, 0.15,
+0.20,0.25, 0.30, 
+0.40, 0.50,0.60, 
+0.70, 0.80, 0.90, 
+1.00
+0.05, 0.10, 0.15, 
+0.20, 0.25, 0.30, 
+0.35, 0.40, 0.45, 
+0.50, 0.55, 0.60, 
+0.65, 0.70, 0.75, 
+0.80, 0.85, 0.90, 
+0.95, 1.00
+0.05, 0.10, 0.15, 
+0.20, 0.25, 0.30, 
+0.35, 0.40, 0.45, 
+0.50, 0.55, 0.60, 
+0.65, 0.70, 0.75, 
+0.80, 0.85, 0.90, 
+0.95, 1.00
+260
+NOU
+Lere de grosime, lungime 100 mm
+• lere de precizie
+• lamele fabricate din otel pentru arcuri calit
+• lame de forma conica in lungime de 100 mm
+• suport nichelat cu piulita de blocare
+• ambalat in pungă de plastic
+5
+3
+1
+0
+3
+Ø10
+Ø 5 8
+120
+195
+Scala 
+Acuratete 
+              Rezolutie
+2872-10
+0 - 10 mm
+±0.02 mm
+0.01 mm / 0.0005”
+1375.50
+2871
+Dispozitiv digital pentru masurat grosimi
+• varf si nicovala ceramice
+• butoane: on/off, zero, mm/inch
+• baterie CR2032, oprire automata
+• iesire date
+• optional: cablu date (cod 7315-, 7302-, 7305-)
+Ø 5 8
+5
+2
+1
+0
+2
+Ø10
+30
+95
+Dimensiune
+Lere
+260-2492
+0.05-1.00 mm
+0.05, 0.10, 0.15, 0.20, 0.25,
+Piese
+13
+L
+100
+22.73
+0.30, 0.40, 0.50, 0.60, 0.70, 0.08, 
+0.90, 1.00
+Scala 
+Acuratete 
+              Rezolutie
+2871-10
+0 - 10 mm
+±0.02 mm
+0.01 mm / 0.0005”
+2871-101
+0 - 10 mm
+±0.005 mm
+0.001 mm / 0.00005”
+1060.50
+2331.00
+260-2508
+0.05-1.00 mm
+0.05, 0.10, 0.15, 0.20, 0.25, 0.30,
+20
+100
+31.09
+0.35, 0.40, 0.45, 0.50, 0.55, 0.60,  0.65,
+0.70, 0.75, 0.80, 0.85, 0.90, 0.95, 1.00

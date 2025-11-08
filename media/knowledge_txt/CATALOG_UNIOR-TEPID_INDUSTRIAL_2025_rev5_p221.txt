@@ -1,0 +1,238 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:221]
+IST-WS Tip A
+NOU
+IST-25WM
+NOU
+Cheie dinamometrica mecanica cu setare digitala
+• fara masuratori in timp real
+• functionare numai in sens orar
+• unitati: N.m, in.lb, ft.lb, kg.cm
+• cheie dinamometrica mecanic cu “click” , valoarea cuplului pre-setat este afisat pe display 
+Cheie dinamometrica digitala
+• functionare in sensul acelor de ceasornic si invers acelor de ceasornic
+• unitati: N.m, in.lb, ft.lb, kg.cm
+• trei moduri de măsurare:
+   - Modul unghiular: unghiul de rotatie poate fi setat, cand se întoarce la unghi, 2 LED-uri care 
+clipesc si soneria emite un bip, captand valorile cuplului
+   - Mod de afisare a valorii maxime: captarea valorilor de varf ale cuplului
+   - Mod de afisare a valorii in timp real: urmărirea in timp real a valorilor cuplului
+• in modul unghiul si in modul valoare maxima, limitele superioare si inferioare de toleranta pot fi 
+setate pentru a determina trecerea sau esecul de catre luminile LED
+• memorie de 50 de rezultate
+• intrati în modul de economisire a energiei dupa 2 minute
+• maner antiderapant
+• cu inregistrare de suprasarcina (odata ce cuplul atinge 110% din intervalul maxim)
+• alimentare: 2 x AA (pentru 110 ore de lucru)
+buton 
+schimbare sens
+prindere 
+patrat
+display LCD
+alarma
+sonora
+port
+calibrare
+LED-uri rosii
+LED-uri verzi
+butoane
+IST-4W30A
+N.m
+6-30
+IST-4W135A
+27-135
+IST-4W200A
+40-200
+IST-4W340A
+38-340
+1/4”
+3/8”
+1/2”
+1/2”
+±2%
+±3%
+0.01
+±2%
+±3%
+±2%
+±3%
+±2% ±3%
+0.1
+0.1
+0.1
+L
+390
+415
+530
+650
+N.m
+IST-25WM60
+12-60
+IST-25WM100
+20-100
+9x12
+9x12
+IST-25WM140
+28-140
+14x18
+IST-25WM200
+40-200
+IST-25WM300
+60-300
+14x18
+14x18
+±3%
+±3%
+±3%
+±3%
+±3%
+-
+-
+-
+-
+-
+0.1
+0.1
+0.1
+0.1
+0.1
+L
+408
+431
+492
+510
+568
+760
+940
+1340
+1540
+7182.00
+7591.50
+8211.00
+9019.50
+IST-WS Tip B
+NOU
+IST-19WM
+1300
+1400
+1450
+1500
+1700
+2005.50
+2310.00
+2688.00
+2793.00
+3181.50
+NOU
+Cheie dinamometrica mecanica cu setare digitala
+• fara masuratori in timp real
+• functionare numai in sens orar
+• unitati: N.m, in.lb, ft.lb, kg.cm
+• cheie dinamometrica mecanic cu “click” , valoarea cuplului pre-setat este afisat pe display 
+Cheie dinamometrica digitala
+• functionare in sensul acelor de ceasornic si invers acelor de ceasornic
+• unitati: N.m, in.lb, ft.lb, kg.cm
+• trei moduri de măsurare:
+   - Modul unghiular: unghiul de rotatie poate fi setat, cand se întoarce la unghi, 2 LED-uri care 
+clipesc si soneria emite un bip, captand valorile cuplului
+   - Mod de afisare a valorii maxime: captarea valorilor de varf ale cuplului
+   - Mod de afisare a valorii in timp real: urmărirea in timp real a valorilor cuplului
+• in modul unghiul si in modul valoare maxima, limitele superioare si inferioare de toleranta pot fi 
+setate pentru a determina trecerea sau esecul de catre luminile LED
+• memorie de 50 de rezultate
+• intrati în modul de economisire a energiei dupa 2 minute
+• maner antiderapant
+• cu inregistrare de suprasarcina (odata ce cuplul atinge 110% din intervalul maxim)
+• alimentare: 2 x AA (pentru 110 ore de lucru)
+buton 
+schimbare sens
+prindere 
+patrat
+display LCD
+LED-uri rosii
+LED-uri verzi
+butoane
+alarma
+sonora
+port
+calibrare
+N.m
+IST-19WM60
+12-60
+IST-19WM100
+20-100
+3/8”
+3/8”
+IST-19WM140
+28-140
+1/2”
+IST-19WM200
+40-200
+IST-19WM300
+60-300
+1/2”
+1/2”
+±3%
+±3%
+±3%
+±3%
+±3%
+-
+-
+-
+-
+-
+0.1
+0.1
+0.1
+0.1
+0.1
+L
+408
+431
+492
+510
+568
+1300
+1400
+1450
+1500
+1700
+2310.00
+2719.50
+3160.50
+3265.50
+3727.50
+N.m
+IST-4W850A
+170-850
+3/4”
+±2.5%
+±3.5%
+0.1
+IST-4W1200A
+240-1200
+IST-4W1500A
+300-1500
+1”
+1”
+±2.5%
+±3.5%
+±2.5%
+±3.5%
+IST-4W2000A
+400-2000 1” ±2.5% ±3.5%
+1
+1
+1
+L
+1220
+1800
+1800
+1800
+6000 26491.50
+9100
+9100
+35343.00
+38871.00
+10500
+46641.00

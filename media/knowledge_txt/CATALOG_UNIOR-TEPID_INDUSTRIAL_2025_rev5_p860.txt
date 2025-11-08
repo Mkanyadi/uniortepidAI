@@ -1,0 +1,154 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:860]
+TG74MD
+CG08M
+Freza pentru indreptat cant cu placute amovibile 
+si rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+Placuta amovibila utilizare universala
+HW - 35°
+• placutele K01S HW cu o muchie de taiere superioara, care are un impact pozitiv asupra 
+finisajului si a duratei de viata a sculei. 
+• datorita duritatii medii, gama CG08M este potrivita pentru o utilizare universala
+H
+A
+h
+D
+CG01MEA310
+F03FH02737
+2
+1
+30
+1,5
+°
+5
+3
+H
+L
+S
+I
+L
+H
+°
+5
+3
+S
+D               h              H              A                                           Z       rpm max.
+L                             H                            S                           I            
+TG74MD CE3
+19
+30
+90
+12
+2
+-
+425.90
+TG76MD
+Freza pentru indreptat cant cu placute amovibile 
+si rulment copier superior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+CG08MAA310
+CG08MMA310
+CG08MBA310
+CG08McA310
+CG08MDA310
+CG08MEA310
+CG08MLA310
+CG08MFA310
+7,6
+9,6
+12
+15
+20
+30
+40
+50
+CG05M
+12
+12
+12
+12
+12
+12
+12
+12
+1,5
+1,5
+1,5
+1,5
+1,5
+1,5
+1,5
+1,5
+14
+26
+26
+130.49
+131.15
+197.38
+150.82
+163.93
+187.54
+278.69
+269.51
+H
+A
+h
+Placuta amovibila pentru PAL
+HW - 35°
+• produs cu duritate ridicata 
+• este recomandat in special pentru prelucrarea panourilor din PAL melaminat, MDF si a altor 
+materiale compozite din lemn
+°
+5
+3
+H
+L
+S
+I
+L
+H
+°
+5
+3
+S
+D
+CG01MEA310
+F03FH02737
+2
+1
+30
+1,5
+D               h              H              A                                           Z       rpm max.
+TG76MD CD3
+19
+30
+90
+8
+2
+-
+519.39
+L                             H                            S                           I            
+CG05MBA310
+CG05MDA310
+CG05MEA310
+CG05MFA310
+12
+20
+30
+50
+12
+12
+12
+12
+1,5
+1,5
+1,5
+1,5
+14
+26
+240.66
+186.23
+244.59
+383.61

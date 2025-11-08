@@ -1,0 +1,96 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:678]
+UCP-2712
+HYCP-4413
+Cleste hidraulic pentru sertizat maxim 400 mm²
+• include bacuri UCP-2712 (Cu dies) CU 16/25/35/50/70/95/120/150/185/240/300/400
+• compresie maxima conectori Cu 400 mm²
+• pentru bacuri Alcoa, Burndy, T&B, Klauke, Cembreand si Blackburn pana la 12 tone
+• greutate redusa, design compact in ingust
+• sistem hidraulic in doua etape pentru reducerea numarului de pompari
+• cap rotativ la 180º pentru operare facila
+• valva de siguranta pentru protectie la suprasarcina
+• pentru bacuri semirotunde
+• cutie plastic
+Cleste hidraulic pentru sertizat maxim 400 mm²
+• include bacuri HYCP-4413 (Cu) CU 16/25/35/50/70/95/120/150/185/240/300/400
+• compresie maxima conectori Cu 400 mm²
+• pentru bacuri Alcoa, Burndy, T&B, Klauke, Cembreand si Blackburn pana la 12 tone
+• greutate redusa, design compact in ingust
+• sistem hidraulic in doua etape pentru reducerea numarului de pompari
+• cap rotativ la 180º pentru operare facila
+• valva de siguranta pentru protectie la suprasarcina
+• pentru bacuri semirotunde
+• cutie plastic
+Deschidere falci: 44 mm
+Ø
+1
+1
+Ø
+1
+1
+UCP-2712
+400 mm²
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+13313.61
+6200
+400 mm²
+14.01 tone (124.6 kN)
+50 cc
+700 bar
+590 mm
+6.2 kg
+HYCP-4413
+400 mm²
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+13396.43
+7600
+400 mm²
+14.01 tone (124.6 kN)
+80 cc
+700 bar
+641 mm
+7.6 kg
+UB-412
+Cleste hidraulic pentru sertizat maxim 400 mm²
+• include bacuri UB-412 (Cu dies) CU 16/25/35/50/70/95/120/150/185/240/300/400
+• compresie maxima conectori Cu 400 mm²
+• pentru bacuri Alcoa, Burndy, T&B, Klauke, Cembreand si Blackburn pana la 12 tone
+• greutate redusa, design compact in ingust
+• sistem hidraulic in doua etape pentru reducerea numarului de pompari
+• cap rotativ la 180º pentru operare facila
+• valva de siguranta pentru protectie la suprasarcina
+• pentru bacuri semirotunde
+• cutie plastic
+Deschidere falci: 32 mm
+UB-412
+Ø
+400 mm²
+1
+1
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+12607.96
+6400
+400 mm²
+12.87 tone (114.5 kN)
+53 cc
+700 bar
+630 mm
+6.4 kg

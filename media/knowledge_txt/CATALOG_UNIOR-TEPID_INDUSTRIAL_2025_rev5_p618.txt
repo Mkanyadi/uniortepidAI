@@ -1,0 +1,232 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:618]
+S 90 PE
+SS 210 B
+NOU
+LOM 180
+Fierastrau vertical 750 W
+AVATAJELE PRODUSULUI
+• reglare miscare pendulara in 
+3 pozitii
+• ghidaj de sprijin in pozitie joasa 
+pentru taiere precisa
+• control electronic cu 6 viteze
+• suflanta de aer in zona de lucru
+• laser ghidare pentru taiere
+• racord exhaustare
+• lama cu schimbare rapida
+DOTAREA STANDARD
+• 2 panze pendular
+• ghidaj lateral
+• cheie de service.
+• racord pentru aspirare praf
+• 2 baterii pentru ghidajul cu laser
+Fierastrau sabie 1050 W
+AVATAJELE PRODUSULUI
+• schimbare rapida a lamei - Insertie universala
+• maner rotativ
+• regulator electronic de viteza
+• carcasa acoperita cu cauciuc
+• regulator de adancime reglabil fara unelte
+• lampa de lucru L.E.D
+DOTAREA STANDARD
+• panza sabie 150 mm
+ROTARY
+UNIVERSAL
+INSERTION
+LIGHT
+ELECTRONIC
+HANDLE
+QUICK
+BLADE CHANGE
+L.E.D
+SPEED
+CONTROLLER
+SS 210 B
+1.2765
+Putere motor
+Turatii in gol
+Cursa panza
+Capacitate maxima de taiere tevi si profile
+Capacitate taiere lemn
+Capacitate taiere otel
+Capacitate taiere aluminiu
+Greutate
+1050 W 220V/50Hz
+1050 W
+0-2800 rpm
+29 mm
+110 mm
+210 mm
+20 mm
+30 mm
+7,2 kg
+BEVEL
+CUT
+CUTTING GUIDE
+BUILT-IN
+BASE
+CUT
+INSERTION T
+LIGHT
+ELECTRONIC
+SS 280 P
+45º
+LASER
+VACUUMING
+ANTI
+SCRATCHING
+PENDULAR
+QUICK
+BLADE CHANGE
+L.E.D
+SPEED
+CONTROLLER
+S 90 PE
+1.1457
+750 W
+Putere motor
+Turatii in gol
+Capacitate taiere lemn
+Capacitate taiere otel
+Capacitate taiere plastic
+Reglare taieri inclinate
+Greutate
+639.34
+220V/50Hz
+750 W
+0-3000 rpm
+80 mm
+8 mm
+10 mm
+0-15-30-45º
+2,3 kg
+Fierastrau sabie 1200 W
+AVATAJELE PRODUSULUI
+• schimbare rapidă a lamei - insertie universala
+• fierastrau pendulular cu 4 pozitii.
+• regulator electronic cu 6 trepte.
+• carcasa acoperita cu cauciuc.
+• ghidaj frontal reglabil fara unelte
+• lampa de lucru cu LED
+DOTAREA STANDARD
+• 2 panze sabie
+• ghidaj frontal
+Slefuitor orbital 90x185 mm 260 W
+AVATAJELE PRODUSULUI
+• masina de slefuit cu un motor de 260 W pentru slefuirea lemnului si 
+a gips-cartonului.
+• baza din aluminiu pentru rezistenta si greutate redusa
+• comutator de siguranta pentru a evita activarile si accidentele 
+neintentionate.
+• refrigerare optima pentru a reduce caldura de lucru, extinzand timpul 
+de lucru si durata de viata a instrumentului.
+• maner ergonomic din cauciuc pentru a reduce vibratiile.
+• sistem de fixare a foilor de slefuire dubla: cu cleme sau placa 
+autoaderenta armata pentru a evita ruperea foii in timpul slefuirii.
+• pregatit pentru extragerea prafului, rezervor de praf inclus.
+DOTAREA STANDARD
+• placa dreptunghiulara: 90x185 mm
+• rezervor de praf
+• foaie de slefuit: 90x185 mm
+737.70
+CLAMPS
+NO ADHERENT
+SANDPAPER
+SELF ADHERING
+PLATE
+COMPONENTS
+DUST
+BUILT-IN
+ORBIT
+MADE OF
+ALUMINUM
+COLLECTING
+BAG
+VACUUMING
+2 mm
+LOM 180
+1.2553 260 W
+Putere motor
+Turatii in gol
+Dimensiune pad
+Cursa orbitala
+Greutate
+393.44
+220V/50Hz
+260 W
+12000 rpm
+90x185 mm
+2,0 mm
+1,7 kg
+LOM 230
+NOU
+Slefuitor orbital 115x230 mm 400 W
+AVATAJELE PRODUSULUI
+• motor puternic S1 de serviciu constant.
+• cleme pentru smirghel fara aderenta
+• aspirare încorporata
+• placa autoaderanta
+• design ergonomic cu vibratii reduse
+DOTAREA STANDARD
+• sac de colectare a prafului
+• x2 foi de slefuit P80
+ADJUSTMENT
+CUT
+UNIVERSAL
+INSERTION
+LIGHT
+ELECTRONIC
+NO TOOLS
+REQUIRED
+PENDULAR
+QUICK
+BLADE CHANGE
+L.E.D
+SPEED
+CONTROLLER
+SS 280 P
+1.2001
+Putere motor
+Turatii in gol
+Cursa panza
+Capacitate maxima de taiere tevi si profile
+Capacitate taiere lemn
+Capacitate taiere otel
+Capacitate taiere aluminiu
+Greutate
+1200 W 220V/50Hz
+1200 W
+800-2800 rpm
+28 mm
+100 mm
+230 mm
+25 mm
+35 mm
+3,7 kg
+819.67
+DUST
+BUILT-IN
+ORBIT
+SELF ADHERING
+PLATE
+CLAMPS
+COLLECTING
+BAG
+VACUUMING
+2 mm
+NO ADHERENT
+SANDPAPER
+LOM 230
+1.2135 400 W
+Putere motor
+Turatii in gol
+Dimensiune pad
+Cursa orbitala
+Greutate
+786.89
+220V/50Hz
+400 W
+12000 rpm
+115x230 mm
+2,0 mm
+2,9 kg

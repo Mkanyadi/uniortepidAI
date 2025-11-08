@@ -1,0 +1,215 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:223]
+266
+730D
+Cheie dinamometrica cu afisaj electronic 
+1/2" 10-200 Nm 
+Cheia dinamometrica digitala cu cap de antrenare 
+interschimbabil MANOSKOP® 
+• avertizare atingere cuplul setat: sonor + 12 LED-uri
+• modul de functionare: Peak hold / Track
+• selectie unitate: N-m, in-lb, ft-lb, kg-cm
+• tip cap: cap interschimbabil
+• numar de dinti clichet: 52
+• baterii: AA × 2 bucati
+• durata de viata a bateriei (functionare continua): 110 ore
+• durata de viata a bateriei (standby): 1 an
+• capacitate memorie: 250 masuratori
+• 10 setari cuplu prestabilite
+• temperatura de functionare: -10˚C ~ 60˚C
+• temperatura de depozitare: -20˚C ~ 70˚C
+• umiditate: pana la 90% fara condens
+• test la cadere: 1 m
+• test vibratii: 10G
+• garantie: 10.000 cicluri / un an
+• etalonari online
+• certificat de compatibilitate electromagnetic
+• acuratete CW: +/-2%, CCW: +/-3%
+• posibilitate de conecatre la PC
+627577
+1/2"
+10 - 200
+7.4 - 147.5
+410
+0.01 Nm
+14x18
+1
+2399.67
+L
+Rezolutie
+Antrenare
+266B
+Cheie dinamometrica cu afisaj electronic
+• chei dinamometrice special concepute pentru servisarea bicicletelor
+• maner anti-alunecare
+• avertizare la atingerea cuplului: sonor + 2 LED-uri
+• mod de functionare: peak hold / track
+• unitati de masura: N-m, in-lb, ft-lb, kg-cm
+• numar dinti clichet: 60
+• baterie: 1 × AAA (nu sunt incluse), compatibil cu baterie reincarcabila
+• garantie: 10.000 cicluri / un an
+• oprirea automata dupa 5 minute
+627784
+627785
+1/4"
+1/2"
+1.0 - 20
+4.2 - 85
+L
+207
+290
+ 1S 
+ 1S 
+1
+1
+1702.19
+1702.19
+• semnal de declansare tactil si acustic
+• utilizare cu capete interschimbabile
+• blocare de siguranta QuickRelease
+• setare rapida utilizand tastatura convenabila
+• compensare automata pentru a obtine un cuplu de strangere corect chiar daca este 
+introdusa o extensie modificata
+• protectie la suprasarcina prin intermediul semnalelor acustice si vizuale
+• blocarea automata a tastaturii previne modificarile accidentale
+• afisajul functioneaza si pentru cuplul in sens invers acelor de ceasornic
+• unitati de masura: N · m, ft · lb, in   · lb
+• pot fi stabilite limite diferite de toleranta pentru fiecare articulatie
+• semnalele vizuale rosii di verzi de pe afisaj confirma starea articulatiei
+• securitate suplimentara pentru presetari (modul functional, declansator sau valoare presetata, 
+unitate de masura, toleranta, salvare, extensie deviata) utilizand codul PIN
+• pot fi stocate pana la 7.500 de masuratori
+• interfata USB
+• notificare automata a urmatoarei date de calibrare
+• calibrare utilizand unitatea de calibrare perfectControl® nr. 7794 sau sistemul de calibrare 
+nr. 7791
+• maner bicomponent cu straturi mai moi de culoare verde proiectate ergonomic (rezistente 
+la uleiuri, grasimi, combustibili, lichide de frana si skydrol)
+• certificat in conformitate cu DIN EN ISO 6789-2: 2017
+• in cutie de plastic robusta (dimensiuni 40-100 in cutie de otel)
+• brevet
+• livrat cu doua baterii de 1,5 V AA. Se pot utiliza si baterii reincarcabile AA / LR6, 1,2 V
+• fiseaza valoarea deviatiei ± 2%, ± 1 digit
+SW 96501710
+SW 96501720
+SW 96501740
+SW 96501765
+SW 96502080
+SW 96502100
+-
+-
+-
+-
+-
+-
+10 - 100
+7.4 - 75
+20 - 200
+15 - 150
+40 - 400
+30 - 300
+65 - 650
+48 - 480
+L
+467
+548
+688
+870
+1510
+1896
+5155
+6000
+80 - 800
+60 - 600
+1160
+10500
+100 - 1000
+74 - 750
+1344
+11000
+Antrenare
+9x12
+14x18
+14x18
+14x18
+22x28
+22x28
+1
+1
+1
+1
+1
+1
+4858.13
+5225.22
+7257.22
+8964.80
+NOU
+NOU
+NOU
+14335.18
+NOU
+17630.82
+TWS (Super)
+Cheie dinamometrica cu afisaj electronic si cu 
+capete interschimbabile Super acuratete ±1%
+• abaterea maxima admisibila ± 1% din citirea masurarii efective
+• comunicare standard prin USB sau prin Bluetooth
+• comunicare prin serial si Zigbee disponibile la cerere
+• durata de viata a bateriei: pana la 180 de ore.
+• limbi: engleza, germana, franceza, spaniola, italiana, rusa, poloneza, portugheza, chineza
+• unitati: Nm, ozf.in, lbf.in, lbf.ft, kgf.cm, kgf.m
+• unghi de vizualizare de 170 grade
+• clichet reversibil
+• LED si ecran cu vizibilitate mare
+• Semnale de avertizare
+• Membrana tactila
+• Comutator cu semnale de avertizare verde/rosu
+• Manere ergonomice pentru confort
+• 4 baterii AA
+TW010S
+TW050S
+TW200S
+TW340S
+TW600S
+3/8”
+3/8”
+1/2”
+1/2”
+1 - 5
+5 - 50
+20 - 200
+34 - 340
+3/4”
+60 - 600
+-
+-
+-
+-
+-
+L
+410
+410
+625
+625
+1200
+Antrenare
+850
+850
+1300
+1300
+4000
+9x12
+9x12
+14x18
+14x18
+24x32
+1
+1
+1
+1
+1
+5381.80
+5381.80
+5670.98
+5670.98
+11649.84

@@ -1,0 +1,165 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:654]
+57146
+NOU
+1508A
+Pistol de curatire pneumatic
+•  presiunea maxima de aer comprimat: 10,9 bar
+•  consum de aer comprimat 220 l/min
+Nituitor pneumatic 2,4 - 3,2 - 4,0 - 4,8
+AVANTAJELE PRODUSULUI
+• usor de utilizat datorita designului ergonomic si greutatii reduse
+• nivel redus de zgomot
+• consum redus de aer
+• presiune de lucru de 6.3 bar
+• declansator sensibil pentru o utilizare fina si precisa
+• surubelnita dreapta cu regulator de viteza
+• nivel redus de vibratii
+• reversibila
+• usor de utilizat cu o mana
+1500
+Filtru regulator si ungator 
+pneumatic 1/4"
+•  racord de aer 1/4"
+•  presiune maxima de aer comprimat: 9,5 Bar
+•  debit maxim 600 l/min
+•  presiunea de lucru 0,5 - 8,5 Bar
+•  temperatura de lucru 5 - 60 °C
+•  grad de filtrare 5 microni
+•  capacitate filtru 15ml
+•  capacitate lubrificator 25ml
+57146
+Capacitate
+2,4 - 3,2 - 4,0 - 4,8
+Nituri
+Putere tragere
+Cursa
+Capacitate
+Presiune de lucru
+Nivel vibratii
+Nivel de zgomot
+Racord aer
+Lungime
+Greutate
+1864.63
+1500
+ 2,4 - 3,2 - 4,0 - 4,8 
+880 kg
+14 mm
+4,8 mm (3/16”)
+6,3 bar / 90 PSI 
+<2,5m/s² 
+88,8 dBA
+1/4”
+270 mm
+1.5 kg
+57147
+NOU
+Nituitor pneumatic 2,4 - 3,2 - 4,0 - 4,8 - 6,4 
+AVANTAJELE PRODUSULUI
+• usor de utilizat datorita designului ergonomic si greutatii reduse
+• nivel redus de zgomot
+• consum redus de aer
+• presiune de lucru de 6.3 bar
+• declansator sensibil pentru o utilizare fina si precisa
+• surubelnita dreapta cu regulator de viteza
+• nivel redus de vibratii
+• reversibila
+• usor de utilizat cu o mana
+57147
+Capacitate
+2,4 - 3,2 - 4,0 - 4,8 - 6,4 
+Nituri
+Putere tragere
+Cursa
+Capacitate
+Presiune de lucru
+Nivel vibratii
+Nivel de zgomot
+Racord aer
+Lungime
+Greutate
+2100
+4713.23
+ 2,4 - 3,2 - 4,0 - 4,8 - 6,4 
+1400 kg
+19 mm
+6,4 mm (1/4”)
+6,3 bar / 90 PSI 
+<2,5m/s² 
+92,1 dBA
+1/4”
+325 mm
+2.1 kg
+153
+ 1E 
+10
+63.61
+617735 90
+155
+491
+ 1F 
+1
+628.03
+L
+A
+1500C
+Set de pahare pentru 1500
+L
+A
+617767 260
+135
+D
+6
+1508B
+Pistol pneumatic de curatire 
+lung
+•  presiunea maxima de aer comprimat: 10,9 
+•  consum de aer comprimat 220 l/min
+L
+A
+617768 420
+135
+D
+6
+178
+ 1E 
+10
+55842
+Pistol pneumatic de curatire 
+90.66
+NOU
+•  presiunea maxima de aer comprimat: 1 Mpa (10 bar)  
+617738
+71
+ 1E 
+1
+156.89
+1501
+Filtru regulator si ungator
+pneumatic 3/8"
+•  racord de aer 3/8"
+•  presiune maxima de aer comprimat: 9,5 Bar
+•  debit maxim1800 l/min
+•  presiunea de lucru 0,5 - 8,5 Bar
+•  temperatura de lucru 5 - 60 °C
+•  grad de filtrare 5 microni
+•  capacitate filtru 60ml
+•  capacitate ungator 90ml
+L1
+A
+55842
+100 135
+D
+6
+80
+ 1E 
+10
+102.12
+617736 150
+220
+1285
+ 1F 
+1
+920.16
+L
+A

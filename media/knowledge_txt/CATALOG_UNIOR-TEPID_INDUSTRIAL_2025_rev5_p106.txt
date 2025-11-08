@@ -1,0 +1,227 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:106]
+410
+Adaptor patrat interior 3/8”- patrat exterior 1/4” si 3/8”
+• actionare: patrat 3/8”, DIN 3121 Forma G 10
+• deschidere: patrat, DIN 3121 Forma A
+Inel retentie
+1000004101
+410-1
+1000004102
+410-2
+E
+3/8”
+3/8”
+A
+1/4”
+1/2”
+L
+32
+36
+D2
+19,0
+22,0
+29
+61
+ 1C 
+ 1C 
+1
+1
+132.90
+67.21
+410 KG
+Intermediar cardanic 3/8”
+• actionare: patrat 1/4”, DIN 3121 Forma G 6.3
+• deschidere: patrat, DIN 3121 Forma E cu stift cu arc 
+E
+A
+L
+Ø
+1000004103
+410 KG-2
+3/8” 3/8”
+60
+25,0
+D2
+22
+126
+ 1C 
+1
+249.95
+E060 3/8”
+Prelungitor de impact 3/8"
+• patrat de antrenare (interior) 3/8” DIN 3121 - forma G 10
+• patrat exterior 3/8”
+               Patrat                             D 
+        interior 
+exterior 
+  mm 
+E0603
+E0604
+E0605
+E0606
+3/8"
+3/8"
+3/8"
+3/8"
+3/8"
+3/8"
+3/8"
+3/8"
+19
+19
+19
+19
+L 
+ mm 
+75
+100
+125
+150
+Greutate
+         gr
+150
+190
+240
+300
+42.42
+44.63
+50.53
+55.18
+R06 3/8”
+Inel cu stift de siguranta 3/8"
+mm
+4
+4
+mm
+3
+3
+mm
+≤ SW12
+> SW 12
+mm
+≤ SW12
+> SW 12
+D2
+19
+24
+D2
+20
+25
+D2
+19
+22
+D2
+19
+22
+60720
+60721
+Pin blocare
+60722
+60723
+710 GR
+Inel retentie
+1000071900
+1000071901
+710 ST
+Pin blocare
+1000071910
+1000071911
+700 DF2
+Clema blocare
+ 1C 
+ 1C 
+ 1C 
+2.70
+2.70
+000.00
+ 1C 
+ 1C 
+ 1C 
+2.70
+2.70
+000.00
+ 1C 
+ 1C 
+ 1C 
+13.68
+14.57
+000.00
+ 1C 
+ 1C 
+ 1C 
+4.62
+5.39
+000.00
+Patrat                Tip 
+Cap tubular
+pin
+pin
+inel
+inel
+6-19 mm
+20-23 mm
+6-19 mm
+20-23 mm
+P0619
+P0622
+R0619
+R0622
+3/8"
+3/8"
+3/8"
+3/8"
+230.8/4
+ d               L               D
+        mm
+mm           mm 
+2,5
+2,5
+-
+-
+14
+16
+-
+-
+-
+-
+14
+15,5
+5.02
+5.02
+8.48
+8.48
+Accesorii pentru capete chei tubulare de impact 3/8"
+199921
+D2
+13
+ 1C 
+37.50
+Capetele tubulare de impact suporta un cuplu 
+100% mai mare decat o cheie 
+standard cu clichet, de aceea 
+cheile acestea sunt in mod 
+deosebit potrivite pentru 
+scule pneumatice care cer 
+un cuplu ridicat
+612079 6 - 12
+612080 13 - 21
+D
+16
+19
+d
+2.4
+2.4
+L
+15
+18
+d1
+2.5
+2.5
+7
+7
+ 1E 
+ 1E 
+10
+10
+5.25
+5.25

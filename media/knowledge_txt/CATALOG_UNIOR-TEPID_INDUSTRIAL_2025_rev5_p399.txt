@@ -1,0 +1,129 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:399]
+02230
+NOU
+U0004920
+Trusa 20 biti si accesorii
+cu inel colorat
+Set biti 80 piese
+U0004320
+Set biti 45 piese
+1/4“
+02230
+20 piese
+19 biti lungi  - 1/4” C 6,3 - 90 mm
+2x PH 1; 3 x PH 2; PH 3
+2 x PZ 1; 3 x PZ 2; PZ 3
+TX 10; TX 15; 2 x TX 20; 2 x TX 25; TX30
+1 prelungitor biti - 1/4“ E 6,3 - 50 mm
+02231
+NOU
+Trusa 39 biti si accesorii
+cu inel colorat
+226.64
+GERMANY
+GERMANY
+U0004920
+1130.16
+80 piese
+1 adaptor magnetic FOX II 1/4"
+1 surubelnita port-bit echipata cu 8 biti
+(PH 1, PH 2, PZ 1, PZ 2, Torx T 15, T 20, T 25, T 30)
+biti Industry:
+SL 0.5x3.0 - 0.6x4.5 - 0.8x5.5 (x2) - 1.2x6.5 - 1,6x8,0
+PH 0 -1 - 2(x4) - 3(x2)
+PZ 1 - 2(x4) - 3(x2)
+TX 10 - 15 - 20(x2)- 25(x2) - 27 - 30 - 40
+HEX 2.0 - 2.5 - 3.0 - 4.0 - 5.0 - 6.0 - 7.0 - 8.0
+TW 1 - 2 - 3 - 4 - 5
+TS 5 - 6 - 8 - 10
+Square 0 - 1 - 2 - 3
+TX Tamper 10 - 15 - 20 - 25 - 30 - 40
+HEX Tamper 3.0 - 4.0 - 5.0 - 6.0
+Spanner 4 - 6 - 8 - 10 / TX 05 - 06 - 07 - 08 - 09
+U0004320
+45 piese
+567.04
+1 surubelnita cu clichet reversibil 1/4" 
+1 adaptor cu patrat interior de 1/4"
+si hexagon interior pentru biti C 6,3
+1x 1/4" square adaptor on hexagon E6,3 -50mm
+1 adaptor magnetic FOX II 1/4"
+1 surubelnita port-bit echipata cu 8 biti
+(Ph 1, Ph 2, Pz 1, Pz 2, Torx T 15, T 20, T 25, T 30)
+biti Industry:
+SL 0,5x3,0-0,6x4,5-0,8x5,5-1,0x5,5-1,2x6,5-1,6x8,0
+PH 1(x2) - 2(x2) - 3(x2)
+PZ 1(x2) - 2(x2) - 3(x2)
+HEX 2,5-3,0-4,0-5,0-6,0-7,0
+TORX 10-15-20-25-30-40
+SW 5,6,7,8,9,10,11,12,13,14 (tubulare de impact)
+1/4“
+02231
+02075
+Trusa 32 biti si accesorii 
+Allrounder cu inel de 
+identificare
+02222
+Trusa 50 biti, burghie si 
+accesorii cu inel de identificare
+226.64
+1/4“
+1/4“
+1/4“
+39 piese
+19 biti lungi - 1/4“ C 6,3 - 25 mm
+2x PH 1; 3 x PH 2; PH 3
+2 x PZ 1; 3 x PZ 2; PZ 3
+TX 10; TX 15; 2 x TX 20; 2 x TX 25; TX30
+1 prelungitor biti - 1/4“ E 6,3 - 50 mm
+19 biti lungi - 1/4“ C 6,3 - 50mm
+2x PH 1; 3 x PH 2; PH 3
+2 x PZ 1; 3 x PZ 2; PZ 3
+TX 10; TX 15; 2 x TX 20; 2 x TX 25; TX30
+1 prelungitor biti - 1/4“ E 6,3 - 50 mm
+02075
+02075
+1
+32 piese
+82,52
+32 piese
+114.18
+30 biti - 1/4" C 6,3 - 25 mm - cu inel colorat S2 - sablati - uleiati:
+30 biti - 1/4" C 6,3 - 25 mm - cu inel colorat S2 - sablati - uleiati:
+CR portocaliu: 1x 0,6 x 3,5; 1x 0,6 x 4,5; 1x 1,0 x 5,5; 1x 1,2 x 6,5
+CR portocaliu: 1x 0,6 x 3,5; 1x 0,6 x 4,5; 1x 1,0 x 5,5; 1x 1,2 x 6,5
+CR albastru: 1x PZ 1; 2x PZ 2; 1x PZ 3
+CR albastru: 1x PZ 1; 2x PZ 2; 1x PZ 3
+CR rosu: 1x PH 1; 2x PH 2; 1x PH 3
+CR rosu: 1x PH 1; 2x PH 2; 1x PH 3
+CR portocaliu deschis: HEX 3; HEX 4; HEX 5; HEX 6
+CR portocaliu deschis: HEX 3; HEX 4; HEX 5; HEX 6
+CR galben: 1x TX 10; 1x TX 15; 1x TX 20; 1x TX 25; 1x TX 27; 
+CR galben: 1x TX 10; 1x TX 15; 1x TX 20; 1x TX 25; 1x TX 27; 
+1x TX 30; 1x TX 40
+1x TX 30; 1x TX 40
+CR portocaliu deschis: HEX 3; HEX 4; HEX 5; HEX 6
+CR albastru inchis: 1x TX BO 10; 1x TX BO 15; 1x TX BO 20; 
+CR albastru inchis: 1x TX BO 10; 1x TX BO 15; 1x TX BO 20; 
+1x TX BO 25; 1x TX BO 27; 1x TX BO 30; 1x TX BO 40
+1x TX BO 25; 1x TX BO 27; 1x TX BO 30; 1x TX BO 40
+1 prelungitor biti - 1/4“ E 6,3 - 65 mm QuickLock - magnetic
+1 prelungitor biti - 1/4“ E 6,3 - 65 mm QuickLock - magnetic
+1 adaptor - 1/4" C 6,3 x 1/4" patrat interior - 25 mm - cu bila
+1 adaptor - 1/4" C 6,3 x 1/4" patrat interior - 25 mm - cu bila
+02222
+284.02
+50 piese
+40 bit - 1/4" C 6,3 - 25 mm - cu inel colorat S2 - sablati- uleiati:
+CR albastru: 2x PZ 1; 5x PZ 2; 1x PZ 3
+CR rosu: 1x PH 1; 2x PH 2; 1x PH 3
+CR galben: 3x TX 10; 3x TX 15; 5x TX 20; 3x TX 25; 1x TX 27; 
+3x TX 30; 3x TX 40
+CR albastru inchis: 1x TX BO 10; 1x TX BO 15; 1x TX BO 20; 
+1x TX BO 25; 1x TX BO 27; 1x TX BO 30; 1x TX BO 40
+4 burghie HSS pentru metal - 1/4" E 6,3 
+3 x 61 mm; 4 x 75 mm; 5 x 86 mm; 6 x 93 mm
+4 burghie HSS pentru lemn - 1/4" E 6,3
+3 x 61mm; 4 x 75mm; 5 x 86mm; 6 x 93mm
+1 tesitor HSS - 1/4" C 6,3 x 12,4 - 25 mm
+1 prelungitor biti - 1/4" E 6,3 - 65 mm QuickLock - magnetic

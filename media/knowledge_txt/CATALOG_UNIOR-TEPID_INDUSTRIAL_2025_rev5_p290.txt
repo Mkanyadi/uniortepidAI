@@ -1,0 +1,131 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:290]
+4838-1
+Subler sudura
+• material: otel inoxidabil
+4832-1
+Sablon pentru sudura
+• material: otel inoxidabil
+• marcaj pe ambele fete
+fata
+spate
+inaltime coroana
+inaltime picior
+adancime sub cota
+dimensiune cordon
+latime cordon sudura
+unghi
+inaltime cordon
+inaltime picior
+Masuratori 
+inaltime cordon
+                            Domeniu                        Acuratete
+± 0,5 mm
+4, 5, 6, 7, 8, 9, 10, 12
+inaltime picior
+4, 6, 7.5, 10, 12, 14, 16, 18
+± 0,5 mm
+119.70
+4832-1
+4834-1
+Sablon sudura
+• indicatorul poate fi blocat pentru referinte ulterioare
+• material: otel inoxidabil
+• scala gravata cu laser
+deschidere
+lungime
+Masuratori 
+inaltime cordon
+                   Domeniu           Scala 
+1 mm
+0-10 mm
+inaltime picior
+adancimea sub cota
+4838-1
+dimensiune cordon
+lungime sudura
+unghi
+deschidere
+lungime
+inaltime cordon
+inaltime picior
+adancimea sub cota
+4838-2
+dimensiune cordon
+lungime sudura
+unghi
+deschidere
+lungime
+0-14 mm
+0-5 mm
+0-13 mm
+0-40 mm
+90º-150º
+0.5-5 mm
+0-40 mm
+0-15 mm
+0-15 mm
+0-5 mm
+0-13 mm
+0-60 mm
+80º-160º
+1-6 mm
+0-50 mm
+Acuratete
+± 0,5 mm
+± 0,5 mm
+± 0,5 mm
+± 0,5 mm
+± 1 mm
+± 1º
+± 0,5 mm
+± 0,5 mm
+± 0,5 mm
+± 0,5 mm
+1 mm
+0.05 mm
+1 mm
+1 mm
+5º
+1 mm
+1 mm
+1 mm
+1 mm
+0.05 mm
+± 0,05 mm
+1 mm
+1 mm
+5º
+1 mm
+1 mm
+± 0,5 mm
+± 1 mm
+± 1º
+± 0,5 mm
+± 0,5 mm
+331.80
+429.45
+adancime sub cota
+inaltime coroana
+compararea marimii porozitatii
+porozitatea per 24 mm
+4834-1
+Masuratori 
+inaltime cordon 
+                   Domeniu           Scala 
+0.5 mm
+0-6 mm
+adancimea sub cota 
+0-6 mm
+0.5 mm
+dimensiune porizitate
+1.5 mm, 3 mm
+-
+Acuratete
+± 0,5 mm
+± 0,5 mm
+± 0,2 mm
+porozitate per 25 mm
+25 mm
+1.0 mm
+-
+232.05

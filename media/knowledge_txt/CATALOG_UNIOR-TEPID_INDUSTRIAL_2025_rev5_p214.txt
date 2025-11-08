@@ -1,0 +1,434 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:214]
+Cheie dinamometrica cu citire directa
+Cheie dinamometrica cu citire directa
+• doua ace, unul pentru presetare si altul pentru citire
+• scala larga usor si clar de citit
+• acuratete: ±3%
+• functionare in sensul acelor de ceasornic si invers acelor de ceasornic
+• in conformitate cu DIN ISO 6789, ASME B107.300
+• acuratete: ±3%
+NOU
+IST-DW
+ceas indicator
+cu scala dubla
+Nm
+0.05
+0.1
+0.2
+0.5
+1
+2
+3
+2.5
+L
+254
+254
+254
+254
+378
+546
+546
+546
+480
+480
+480
+480
+820
+1300
+1300
+1300
+1942.50
+1942.50
+2016.00
+2016.00
+2247.00
+2583.00
+2583.00
+2583.00
+cap
+antrenare
+N.m
+in.lb / ft.lb
+IST-DW3D5
+0.7 - 3.5
+6 - 30 in.lb
+600
+600
+600
+600
+900
+NOU
+NOU
+NOU
+NOU
+NOU
+2441.33
+2441.33
+2441.33
+2441.33
+4437.62
+IST-DW9
+IST-DW18
+IST-DW35
+IST-DW70
+1/4”
+1/4”
+3/8”
+3/8”
+1.8 - 9
+15 - 75 in.lb
+3.6 - 18
+30 - 150 in.lb
+7 - 35
+60 - 300 in.lb
+14 - 70
+120 - 600 in. lb
+3/8”
+1000
+NOU
+4437.62
+IST-DW140
+28 - 140
+20 - 100 ft.lb
+1000
+NOU
+4882.52
+IST-DW240
+40 - 240
+35 - 175 ft.lb
+6500
+NOU
+7866.32
+IST-DW350
+70 - 350
+50 - 250 ft.lb
+1/2”
+1/2”
+1/2”
+9000
+NOU
+17359.57
+IST-PW
+Cheie dinamometrica cu moment presetat
+• cuplul este presetat, pentru a preveni reglarea din greseala in timpul utilizarii
+• cuplul este setat din fabrica inainte de livrare
+• utilizatorii pot seta, de asemenea, cuplul cu instrumentul de reglare a cuplului si testerul digital 
+de cuplu
+• actionare numai in sensul acelor de ceasornic
+N.m
+0 - 2
+0 - 8
+0 - 20
+0 - 50
+in.lb / ft.lb
+0 - 18 in.lb
+0 - 75 in.lb
+1/4”
+1/4”
+0 - 175 in.lb
+3/8”
+0 - 35 ft.lb
+3/8”
+1/2”
+0 - 100
+0 - 70 ft.lb
+0 - 200
+0 - 150 ft.lb
+1/2”
+0 - 350
+0 - 250 ft.lb
+1/2”
+L
+310
+310
+310
+310
+480
+550
+550
+0 - 800
+0 - 600 ft.lb
+3/4”
+1190
+0 - 2000
+0 - 1500 ft.lb
+1”
+1620
+A
+26
+26
+26
+26
+26
+26
+26
+31
+31
+B
+28
+28
+31
+31
+45
+45
+45
+55
+60
+C
+50
+50
+55
+55
+55
+55
+55
+65
+70
+D
+30
+30
+30
+30
+30
+30
+30
+50
+50
+E
+38
+38
+38
+38
+38
+38
+38
+65
+65
+56930
+56931
+56932
+56933
+56934
+56935
+56936
+56937
+56938
+IST-9WM
+Cheie dinamometrica
+• in conformitate cu DIN 6789, ASME B107.300
+• constructie din metal robusta si rezistenta
+cap
+antrenare
+inel
+reglare cuplu
+IST-9WM12
+IST-9WM20
+IST-9WM30
+IST-9WM60
+IST-9WM100
+IST-9WM125
+IST-9WM200
+IST-9WM335
+N.m
+2.5 - 12
+4 - 20
+6 - 30
+10 - 60
+20 - 100
+25 - 125
+40 - 200
+65 - 335
+IST-9WM500
+100 - 500
+IST-9WM800
+160 - 800
+1/4”
+1/4”
+3/8”
+3/8”
+1/2”
+1/2”
+1/2”
+1/2”
+3/4”
+3/4”
+IST-9WM1000
+200 - 1000
+3/4”
+IST-9WM1500
+300 - 1500
+IST-9WM2000
+400 - 2000
+IST-9WM3000
+600 - 3000
+1”
+1”
+1”
+±4%
+±4%
+±4%
+±4%
+±4%
+±4%
+±4%
+±4%
+±4%
+±4%
+±4%
+±4%
+±4%
+±4%
+valori cuplu
+L
+290
+290
+318
+318
+443
+443
+468
+528
+855
+1055
+1055
+1260
+1260
+1260
+0.1
+0.1
+0.2
+0.5
+0.5
+0.5
+1
+1
+2.5
+4
+5
+5
+10
+15
+cap
+antrenare
+N.m
+2.5 - 12
+4 - 20
+6 - 30
+10 - 60
+25 - 125
+40 - 200
+65 - 340
+100 - 500
+150 - 650
+160 - 800
+IST-PW12
+IST-PW20
+IST-PW30
+IST-PW60
+IST-PW125
+IST-PW200
+IST-PW340
+IST-PW500
+IST-PW650
+IST-PW800
+IST-PW1000A
+200 - 1000
+IST-PW1000B
+200 - 1000
+1/4”
+1/4”
+3/8”
+3/8”
+3/8”
+1/2”
+1/2”
+3/4”
+3/4”
+3/4”
+3/4”
+1”
+680
+680
+820
+960
+1040
+1040
+1160
+1300
+5000
+5900
+5900
+9200
+9200
+1011.15
+1165.50
+1047.90
+1071.00
+1113.00
+1071.00
+1186.50
+1281.00
+6174.00
+6825.00
+1113.00
+11613.00
+11613.00
+10500
+15372.00
+±3%
+±3%
+±3%
+±3%
+±3%
+±3%
+±3%
+±3%
+±4%
+±4%
+±4%
+±4%
+L
+184
+184
+214
+255
+366
+457
+691
+910
+910
+1037
+1265
+1265
+450
+450
+500
+560
+790
+1200
+1960
+2800
+2800
+5000
+6000
+6000
+1312.50
+1312.50
+1312.50
+1354.50
+1501.50
+2005.50
+2772.00
+5554.50
+6583.50
+7654.50
+8547.00
+8694.00
+1. Desurubati surubul de la baza ca sa eliberati 
+surubul pentru ajustarea cuplului de strangere
+2. Ajustati la cuplul de strangere stabilit
+3. Insurubati la loc surubul de la baza pentru a fixa 
+ajustarea cuplului.
+4. Ajustati si incepeti strangerea ( in sensul cuplului 
+prestabilit). Cand auziti semnalul audio (click), cuplul 
+prestabilit a fost atins. Opriti strangerea.

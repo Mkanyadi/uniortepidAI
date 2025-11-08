@@ -1,0 +1,177 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:344]
+721/6
+721Q/6
+Menghina de banc tip IRONGATOR
+•  corpul turnat din fonta cenusie
+•  bacuri forjate din otel carbon, calite si revenite
+•  carcasa vopsita, bacuri protejate anti-coroziune, celelalte parti zincate
+•  ax protejat impotriva deteriorarii
+•  glisirele uniPRO asigira miscarea exacta a partii mobile
+•  menghina poate fi combinata cu un suport rotitor
+Menghina de banc tip IRONGATOR cu sistem 
+mobil rapid
+•  corpul turnat din fonta cenusie
+•  bacuri forjate din otel carbon, calite si revenite
+•  carcasa vopsita, bacuri protejate anti-coroziune, celelalte parti zincate
+•  glisirele uniPRO asigira miscarea exacta a partii mobile
+•  menghina poate fi combinata cu un suport rotitor
+•  sistem rapid de miscare
+B D
+L
+621564 80
+100 215 11 - 35
+621481 125 160 336 17 - 62
+621567 150 190 400 20 - 66
+C
+46
+73
+88
+621570 200 220 461 24 - 80 103
+a
+42
+66
+80
+93
+b
+28
+44
+53
+62
+c
+64
+95
+A
+113
+3500
+176 14400
+117
+211 24200
+140
+265 37800
+ 1G 
+ 1G 
+ 1G 
+ 1G 
+1
+1
+1
+1
+755.41
+1384.43
+2180.82
+2934.75
+B D
+L
+621482 125 120 336
+17 - 62
+621568 150 190 400
+20 - 66
+C
+77
+88
+a
+66
+80
+b
+44
+53
+c
+A
+95
+176 14500  1G 
+117 211 23500  1G 
+1
+1
+1983.77
+2706.89
+721.1/6
+Corp pivotant principal pentru 
+721/6 si 721Q/6
+•  corpul din otel turnat
+•  materialul altor parti: otel special de scule
+•  baza menghinei poate fi rotita cu 360°
+722.1/7
+Bacuri de schimb pentru 
+art. 722
+•  material:otel special de scule
+•  forjate,tratate complet
+•  set de 2 piese
+722.1AL
+Bacuri de schimb din aluminiu 
+pentru 722/6
+•  material: aluminiu
+•  set de 2 piese
+621566
+621483
+621569
+621572
+80
+125
+150
+200
+2570
+2575
+2580
+2585
+ 1F 
+ 1F 
+ 1F 
+ 1F 
+1
+1
+1
+1
+194.75
+623083
+380.00
+619020
+474.10
+619021
+635.90
+619023
+B
+80
+125
+150
+200
+240
+378
+1030
+1365
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+1
+1
+1
+1
+130.00
+623084
+140.33
+619026
+233.93
+619027
+274.92
+619029
+B
+80
+125
+150
+200
+110
+156
+400
+541
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+1
+1
+1
+1
+130.00
+139.51
+241.97
+284.59

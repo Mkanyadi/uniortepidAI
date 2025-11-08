@@ -1,0 +1,274 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:781]
+8326
+NOU
+605E
+Surubelnita port bit 4 mm
+MICRO LINE PROFI
+• potrivite pentru asamblarea si repararea dispozitivelor mici (de 
+exemplu, telefoane mobile, instrumente de masură sau camere).
+• material: otel aliat tratat
+• suprafata cromata
+• partea de lucru cu finisaj negru
+• maner cu 2 componente cu sectiune transversală rotunda
+• miez dur PP, capac moale TPE
+Surubelnite varf plat pentru 
+electronisti
+•  material: tija-crom vanadiu tratata complet
+•  maner ergonomic rezistent bimaterial
+•  model cu protectie anticoroziva
+•  maner cu cap rotitor
+DIN 5266, ISO 2381
+608CS5E
+Set de surubelnite pentru 
+electronisti in cutie de carton
+D
+C
+L
+C
+L
+D
+832600 SW4 25
+132
+4.0
+13
+ 4A 
+1
+28.11
+619E
+Surubelnita electronica cu 
+profil TS
+•  material: tija-crom vanadiu tratata complet
+•  maner ergonomic rezistent bimaterial
+•  model cu protectie anticoroziva
+•  maner cu cap rotitor
+•  pentru suruburi pentalobe
+•  folosire: pentru modelele mai noi de Apple iPhone
+D
+C
+L
+C
+L
+D
+623364 TS 1 60
+153
+2,5
+13
+ 4A 
+1
+40.33
+615E
+Surubelnite cu profil Phillps
+pentru electronisti
+•  material: tija-crom vanadiu tratata complet
+•  maner ergonomic rezistent bimaterial
+•  model cu protectie anticoroziva
+•  maner cu cap rotitor
+DIN 5262PH, ISO 8764PH
+D
+12
+12
+14
+22
+C
+L
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+10
+10
+10
+10
+36.72
+31.48
+22.13
+22.79
+C L
+D
+608304 PH 000 60 153 2.5
+608305 PH 00 60 153 2.5
+608306 PH 0
+60 153
+3
+608307 PH 1
+80 173 4.5
+a
+b
+D
+C
+L
+a x b
+C L D
+620962
+5
+133
+ 1G 
+1
+138.20
+ 615E (PH 000x60, PH 00x60, PH 0x60, PH 1x80)
+ 625E (PZ 0 x 60)
+606CS5E
+Set de surubelnite pentru 
+electronisti in cutie de carton
+620959
+5
+131
+ 1G 
+1
+131.31
+605E (0.23 x 1.5 x 60, 0.3 x 1.8 x 60, 
+0.4 x 2.5 x 75, 0.5 x 3.0 x 100, 0.8 x 4.0 x 100)
+607CS7E
+Set de surubelnite pentru 
+electronisti in cutie de carton
+620960
+7
+170
+ 1G 
+1
+176.23
+605E (0.3 x 1.8 x 60, 0.4 x 2.5 x 75, 
+0.5 x 3.0 x 100, 0.8 x 4.0 x 100),
+615E (PH 00 x 60, PH 0 x 60, PH 1 x 80)
+621CS7E
+Set de surubelnite TORX pentru 
+electronisti in cutie de carton
+608296 0.25x1.2 60 153 2.5 10  4A 
+608297 0.23x1.5 60 153 2.5 11  4A 
+608298 0.3x1.8
+60 153 2.5 12  4A 
+608299 0.4x2.5
+75 168 2.5 12  4A 
+608300 0.5x3.0 100 193
+608301 0.5x3.0 150 243
+608302 0.8x4.0 100 193
+608303 0.8x4.0 150 243
+3
+3
+4
+4
+13  4A 
+18  4A 
+23  4A 
+28  4A 
+10
+10
+10
+10
+10
+10
+10
+10
+27.54
+27.05
+26.56
+24.75
+22.79
+25.08
+25.74
+26.72
+621E
+Surubelnite cu profil TORX
+pentru electronisti
+•  material: tija-crom vanadiu tratata complet
+•  maner ergonomic rezistent bimaterial
+•  model cu protectie anticoroziva
+•  maner cu cap rotitor
+C L
+D
+604546 TX 4
+60 153
+604547 TX 5
+60 153
+608310 TX 6
+60 153
+608311 TX 7
+60 153
+608312 TX 8
+60 153
+608313 TX 9
+60 153
+608314 TX 10 60 153
+3
+3
+3
+3
+3
+3
+3
+608315 TX 15 60 153 3.5
+608316 TX 20 80 173
+4
+D
+12
+12
+13
+14
+12
+15
+14
+17
+19
+C
+L
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+27.87
+27.87
+27.87
+27.87
+27.87
+28.20
+28.20
+28.20
+29.67
+625E
+Surubelnite cu profil Pozidrive
+pentru electronisti 
+•  material: tija-crom vanadiu tratata complet
+•  maner ergonomic rezistent bimaterial
+•  model cu protectie anticoroziva
+•  maner cu cap rotitor
+DIN 5262PZ, ISO 8764PZ
+D
+C
+L
+C
+L
+608308 PZ 0 60
+153
+D
+3
+608309 PZ 1 80
+173
+4.5
+13
+26
+ 4A 
+ 4A 
+10
+10
+23.11
+23.93
+620961 TX 6 - TX 20 / 7
+166
+ 1G 
+1
+197.54
+ 621E (TX 6, TX 7, TX 8, TX 9, TX 10, TX 15, TX 20)

@@ -1,0 +1,188 @@
+[SOURCE:KRONUS_-_CATALOG_Editia_II_-_2025_-_06.06.2025_web] [PAGE:39]
+Fontele cenușii se toarnă foarte bine și se prelucrează prin așchiere, fiind ieftine.
+Fontele nodulare se obțin prin adăugarea de magneziu în baia de fontă. Prezintă proprietăți 
+mecanice la fel de bune ca oțelul și se toarnă la fel de bine ca fonta cenușie.
+Manganul joacă un rol diferit în fonta ductilă decât în   fonta cenușie. În fonta cenușie, pe lângă 
+întărirea feritei și stabilizarea perlitei, manganul poate reduce și efectul nociv al sulfului. 
+În fonta ductilă (grafit nodular) , elementul sferoidizant are o capacitate puternică de desulfurare, 
+iar manganul nu mai are acest efect. Deoarece manganul are o tendință pozitivă serioasă de
+segregare, acesta este adesea îmbogățit la granițele grupului eutectic, ceea ce favorizează 
+formarea de carburi intergranulare și reduce semnificativ duritatea fontei ductile. Pentru fonta 
+ductilă de secțiune groasă și mare, tendința de segregare a manganului este mai gravă. În același 
+timp, odată cu creșterea conținutului de mangan, conținutul de perlită din matrice crește, astfel încât 
+indicele de rezistență este îmbunătățit, iar duritatea este redusă în același timp. Controlul conținutului 
+de mangan în fonta ductilă de înaltă duritate ar trebui să fie mai strict.
+Prin urmare, cu cât Mn este mai mic, cu atât materia primă este mai bună. Limita superioară 
+a controlului manganului pentru piese turnate mari este Mn
+DIMENSIUNE 
+FALCI [mm]
+INCH
+FORTA STRANGERE [KN]
+FORTA STRANGERE [KN]
+CONFORM STAS 
+KRONUS
+80
+100
+125
+150
+180/200
+2''
+3''
+4''
+5''
+6''
+15
+20
+25
+30
+35
+17
+23
+28
+35
+40
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+40
+35
+35
+28
+25
+30
+23
+20
+17
+15
+2''
+80
+3''
+100
+4''
+125
+5''
+150
+6''
+180/200
+FORTA STRANGERE [KN] CONFORM STAS 
+FORTA STRANGERE [KN] KRONUS
+7722GN
+Menghina universala incasabila pentru banc
+Fabricata din fonta incasabila speciala (grafit nodular)
+• glisarea in spate a falcii mobile: designul falcii frontale fiind stationar ajuta la transmiterea
+unei forte suplimentare de actionare si este mult mai rezistenta fata de designul obisnuit
+• menghinele paralele asigura prinderea ferma a pieselor de diferite dimensiuni in vederea
+prelucrarii
+ATENTIE! Nicovala se utilizeaza numai pentru lucrari de finete
+B
+80
+100
+125
+150
+200
+A
+135
+168
+170
+195
+220
+C
+80
+97
+105
+127
+129
+D max.
+80
+100
+120
+150
+200
+902337
+902338
+902349
+902340
+902341
+L
+220
+290
+315
+360
+420
+a
+54
+80
+92
+115
+146
+b
+39
+48
+55
+64
+82
+A
+5900
+9500
+13900
+22000
+29000
+373.48
+514.08
+709.95
+1046.65
+1433.91
+bacuri din otel C55
+maner din otel forjat C25
+bacuri striate, tratate termic
+SG 500/7 si echivalenta 
+SR EN 1561:1999EN-GJS-500-7C
+cu nicovala incorporata
+EN-GJS-500-7C
+Rezistenta la
+tractiune/ rupere
+Rezistenta la 
+compresie
+Rezistenta la
+forfecare
+Elongatie / Alungire
+pana la rupere
+500 N/mm²
+900 MPa
+450 N/mm²
+7%
+Duritate
+170 - 230 HB
+Compozitie chimica SG 500/7
+acoperire:
+vopsite
+ax din otel forjat C25
+cu fixare pe banc in 4 puncte
+Carbon C 3.4 [%]
+Silicon Si 2.3 [%]
+Mangan Mn 0.1-0.3 [%] 
+fonta incasabila speciala (grafit nodular)
+(mangan mai putin=materie prima mai buna)
+logo KRONUS din turnare
+Sulphur S 0.02 max. [%]
+Phosphorus P 0.10 max. [%]
+Iron Fe
+falci
+surub
+maner
+C55
+C25
+C25
+otel
+otel
+otel
+corp
+SGgrad 500/7
+39

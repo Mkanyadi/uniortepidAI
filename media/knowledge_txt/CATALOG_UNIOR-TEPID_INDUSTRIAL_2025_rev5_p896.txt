@@ -1,0 +1,159 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:896]
+10905
+Suport pentru pile silex
+• cu pila grosiera
+12920
+Oglinda de inspectie telescopica rotund
+• maner telescopic
+SW 72160000
+L
+365
+b
+35
+h
+110
+265
+1
+947.68
+Pila silex pentru caroserie
+• se utilizeaza impreuna cu suportul 10905
+• lungime: 350 mm
+Φ
+30
+40
+50
+60
+L
+265 - 705
+275 - 715
+285 - 725
+295 - 735
+108
+115
+110
+130
+1
+1
+1
+1
+331.20
+337.31
+370.49
+389.42
+SW 77401030
+SW 77401040
+SW 77401050
+SW 77401060
+12920N
+Oglinda de inspectie telescopica dreptunghiulara
+• cu sectiunea bratului ovala impotriva rasucurii
+Φ
+L
+SW 77401001
+65 x 43
+301 - 750
+65
+1
+389.42
+L
+350
+350
+350
+350
+286
+279
+282
+252
+10
+10
+10
+10
+461.06
+435.42
+381.65
+361.97
+6617
+Cleste de forta cu tais frontal
+• pentru coarda de pian si otel special
+• DIN ISO 5748
+Art.
+10907
+10908
+10915
+10916
+SW 79060002
+SW 79060003
+SW 79060012
+SW 79060013
+12921M
+ascutire
+TPI
+forma
+radial
+radial
+semifina
+bastard
+unghiular
+semifina
+unghiular
+bastard
+12
+9
+12
+9
+Oglinda de inspectie telescopica INOX
+• oglinzi incasabile din otel inox (DOM)
+• fara imbinari filetate (DOM)
+• rezistenta la rugine datorita bratulului telescpic din otel inoxidabil
+• cap cu cardan (actiune 180°), auto-tensionare
+• maner plastic special care asigura o prindere ferma si conditii de siguranta
+de lucru, rezistent la produse chimice
+L
+215
+440
+1
+674.47
+      
+SW 66170215
+4.0
+3.5
+2.8
+2.5
+
+
+
+
+Capacitate de taiere in mm pentru sarma moale
+Capacitate de taiere in mm pentru sarma dura mediu
+Capacitate de taiere in mm pentru sarma dura
+Capacitate de taiere in mm pentru coarda de pian
+10599/2
+Cleste pentru echilibrat roti
+• material: crom-vanadiu
+• acoperire: cromare
+SW 77401032
+Φ
+32
+SW 77401045
+45 x 70
+SW 77401057
+57
+L
+171 - 699
+178 - 927
+178 - 921
+60
+76
+70
+1
+1
+1
+282.64
+293.65
+282.64
+SW 76294003
+L
+245
+380
+1
+610.44

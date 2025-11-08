@@ -1,0 +1,182 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:613]
+SD 27 CE
+Polizor drept 750 W 
+AVANTAJELE PRODUSULUI
+• polizor drept de mare putere (750W) cu regulator de viteza pentru
+puncte de sudura si bavuri cu ax ø6 / ø6,3 / ø8 mm.
+• Soft Start: unealta atinge puterea maxima la 2 secunde dupa ce a 
+fost pornita.
+• regulator electronic de turatie cu 6 niveluri de la 10000 pana la 30000 rpm
+• tacometru incorporat pentru a mentine puterea constanta sub sarcina
+• motor special conceput pentru a rezista la praf.
+• sistem electronic de limitare a curentului de intrare la comutatorul sculei
+pornit, pastrand viteza constanta chiar si la turatii mici.
+• intrerupator de siguranta impotriva activarilor accidentale.
+• special conceput pentru slefuirea liniilor de sudura, lustruirea si luminarea
+tuturor tipurilor de materiale, de la lemn la vopsea sau metal. Performanta 
+excelenta la indepartarea bavurilor
+• potrivit special pentru bavuri montate pe corindon, roti cu clapete, perii
+din metal dur si perii de sarma
+DOTAREA STANDARD
+• 1 bucsa elastica de fixare 6 mm
+SOFT
+ELECTRONC
+CONSTANT
+SPEED
+6
+START
+SPEED
+CONTROLLER
+UNDER LOAD
+       Putere motor
+1.1705 
+            750 W 
+                      655.74
+Putere motor
+Turatii in gol
+Diametru maxim disc
+Diametru bucsa
+Greutate
+650 W
+10000-30000 rpm
+Φ 25 mm
+Φ 6 / 6.3 / 8 mm
+1,7 kg
+AGR 24-23 CAL
+Polizor unghiular Ø230 mm, 2400 W
+AVANTAJELE PRODUSULUI
+• motor puternic S1 de serviciu constant 2400W.
+• maner rotativ spate
+• comutator cu palete cu declansator de blocare de siguranta 
+si sistem NVR
+• adecvat special pentru lucrari de atelier, cariera si constructii.
+• inlocuirea periei de carbune externa fara dezasamblarea sculei.
+• pornire soft
+DOTAREA STANDARD
+• aparatoare de protectie
+• maner lateral
+• flansa si piulita de prindere
+• cheie speciala pentru schimbat disc
+• discul abraziv nu este inclus
+SAB 26-23 AL
+BA 115
+Stand pentru polizoare unghiulare
+Ø115 mm
+• pentru polizoare unghiualre Ø115 mm
+Polizor unghiular Ø230 mm, 2600 W
+AVANTAJELE PRODUSULUI
+• potrivit special pentru ateliere.
+• inlocuirea periei de cărbune externă fără dezasamblarea sculei.
+• pornire soft
+• comutator cu palete cu declansator de blocare de siguranta
+DOTAREA STANDARD
+• aparatoare de protectie
+• maner lateral
+• flansa si piulita de prindere
+• cheie speciala pentru schimbat disc
+• discul abraziv nu este inclus
+       Dimensiune
+12.300 
+            115 mm 
+245.90
+SOFT
+DISC
+START
+ø230 mm
+12.465
+       Putere motor 
+1.1689 
+            2600 W 
+                   1163.93
+Putere motor
+Turatii in gol
+Diametru disc abraziv
+Filet
+Greutate
+2600 W
+6500 rpm
+Φ 230 mm
+M 14
+4,4 kg
+Sanie de ghidare cu racord de aspirare
+pentru polizoare unghiulare Ø125 mm
+AVANTAJELE PRODUSULUI
+• ideal pentru aplicatii in constructii
+• potrivit pentru SAB 780/781/900/901R
+• prindere Ø46-48 mm
+CCM 350
+NOU
+Masina de taiat beton Ø350 mm, 
+3200 W
+AVANTAJELE PRODUSULUI
+• potrivit in special pentru lucrari de constructii care necesita
+taierea pieselor voluminoase sau adanci.
+• motor puternic fara perii pentru o eficienta sporita, reducand 
+in mod semnificativ acumularea de caldura si marind
+considerabil durata de viață a motorului si a bateriei.
+• pornire soft
+• racire.
+• comutator de protectie PRCD
+DOTAREA STANDARD
+• disc Ø300mm
+       Dimensiune 
+12.465 
+           125 mm 
+196.72
+Accesorii polizoare unghiulare
+Panza circulara neplacata pentru lemn
+• utilizare pe polizoare unghiualre
+ROTARY
+DISC
+HANDLE
+ø230 mm
+Motor
+BRUSHLESS
+       Putere motor 
+SOFT
+DISC
+START
+ø350 mm
+       Putere motor 
+1.3352 
+            3200 W 
+                   3606.56
+1.1816 
+            2400 W 
+                   1131.15
+Putere motor
+Turatii in gol
+Diametru disc abraziv
+Filet
+Greutate
+2400 W
+6500 rpm
+Φ 230 mm
+M 14
+4,4 kg
+Putere motor
+Turatii in gol
+Diametru disc
+Adancime matima de taiere
+Latime de taiere
+Greutate
+3200 W
+2600 rpm
+Φ 300-350 mm
+300 (122) / 345 (147) mm
+25.4 mm
+11.0 kg
+       Dimensiune
+Φ 115x22.2 mm
+Φ 125x22.2 mm
+Φ 230x22.2 mm 
+Nr. dinti
+Z4
+Z4
+Z4
+2.196
+2.197
+2.198
+34.43
+39.34
+93.44

@@ -1,0 +1,131 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:284]
+2322
+Trusa de masurat alezaje, cu ceas comparator
+• ceas comparator cu cursa de 10 mm ( cod 2308-10FA )
+• gradatii: 0.01 mm
+2365-10
+Dispozitiv cu ceas comparator pentru masurat 
+grosimi
+ATTENTION: NOT SUITABLE
+FOR 0.001 MM DIAL INDICATORS
+nicovala
+(ceramica)
+varf contact
+nicovala
+(ceramica)
+varf contact
+35-450 mm
+Optional
+varf ceramic de contact
+nicovala ceramica
+         Scala 
+             Acuratete 
+Repetabilitate
+2322-35A
+2322-60A
+18-35 mm
+35-60 mm
+2322-100A
+50-100 mm
+2322-160A
+50-160 mm
+2322-161A
+100-160 mm
+2322-250A
+160-250 mm
+2322-450A
+250-450 mm
+±0.015 mm
+±0.018 mm
+±0.018 mm
+±0.018 mm
+±0.018 mm
+±0.018 mm
+±0.018 mm
+0.003 mm
+0.003 mm
+0.003 mm
+0.003 mm
+0.003 mm
+0.003 mm
+0.003 mm
+3227
+Trusa de masurat alezaje, cu ceas comparator
+• ceas comparator cu cursa de 10 mm
+• gradatii: 0.01 mm
+951.30
+973.35
+1012.20
+993.30
+1134.00
+1459.50
+1774.50
+NOU
+8
+3
+1
+0
+3
+8
+Ø 5
+120
+195
+Ø10
+Ø10
+Scala 
+Acuratete 
+      Igradatii                    Tip
+2365-10
+0-10 mm
+±0.02 mm
+0.01 mm
+A
+910.35
+2361-10
+Dispozitiv cu ceas comparator pentru masurat 
+grosimi
+• acuratete: ±0.05 mm
+• scala: 0-10 mm
+• gradatii: 1 mm
+Scala
+Acuratete
+Repetabilitate
+Adancime masurare
+220-7138
+18-35 mm
+±0.015 mm
+0.003 mm
+220-7145
+35-60 mm
+±0.018 mm
+0.003 mm
+220-7152
+50-160 mm
+±0.018 mm
+0.003 mm
+220-9552
+160-250 mm
+±0.018 mm
+220-9569
+250-450 mm
+±0.018 mm
+0.003 mm
+0.003 mm
+150 mm
+150 mm
+150 mm
+250 mm
+250 mm
+795.17
+801.53
+804.62
+930.46
+1043.38
+Scala 
+Acuratete 
+      citire
+2361-10
+0-10 mm
+±0.05 mm
+1 mm
+362.25

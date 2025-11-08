@@ -1,0 +1,226 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:661]
+MASTEREX 79658
+NOU
+MASTEREX 79618
+NOU
+MASTEREX 79816
+NOU
+Fierastrau pneumatic cu banda 0.5 kW
+• proiectat pentru aplicatii miniere generale, este ideal pentru cea mai 
+grea utilizare in lucrari subterane, maritime, demolari in mare liber etc.
+• in medii umede nu prezinta risc de soc electric sau scurtcircuit.
+• este mai sigur de utilizat decat fierastraul electric in atmosfere cu risc 
+de explozie
+• are o capacitate de taiere de pana la 7”
+• carcasa din aluminiu
+Fierastrau portabil pneumatic 1.1 kW
+•  este conceput pentru cele mai dificile aplicatii in rafinarii, centrale 
+electrice, constructii, aplicarii de demolare, industria petrolului
+• o solutie ideala pentru taierea in spatii restranse
+• tip supapa TWIST2
+• dimensiune compacta ideala pentru taierea in spatii inguste
+• este potrivit pentru foi de pana la 37” lungime
+Fierastrau sabie pneumatic 1.0 kW
+•  este conceput pentru cele mai dificile aplicatii in rafinarii, centrale 
+electrice, constructii, aplicarii de demolare, industria petrolului
+• o solutie ideala pentru taierea in spatii restranse
+• dimensiune compacta ideala pentru taierea in spatii inguste
+ZONE M2 MINIERE
+ZONE 1, 2 GAZ
+Putere
+79658
+0.5 kW
+Presiune de lucru
+Capacitate taiere
+Putere
+Material carcasa
+Consum aer
+Racorduri
+Diamentru interior furtun
+Nivel zgomot
+Nivel vibratii
+Dimensiuni
+Marcaje ATEX
+Greutate
+19000
+35927.13
+6 bar
+ø80 mm/AxB=80x100 mm/AxB=3"x4"
+0.5 kW 
+Aluminiu
+0.5 m³/min 
+R 1/4"
+7 mm
+87.0 dB
+<2,5 m/s²
+640 x 390 x 315 mm 
+EX II 2G Ex h IIB T6 Gb
+19 kg
+MASTEREX 79617
+NOU
+Fierastrau portabil pneumatic 1.1 kW
+•  este conceput pentru cele mai dificile aplicatii in rafinarii, centrale 
+electrice, constructii, aplicarii de demolare, industria petrolului
+• o solutie ideala pentru taierea in spatii restranse
+• tip supapa TWIST2
+• dimensiune compacta ideala pentru taierea in spatii inguste
+• este potrivit pentru foi de pana la 37” lungime
+Putere
+79618
+1.1 kW
+Presiune de lucru
+Cursa
+Numar de curse
+Putere
+Tip supapa
+Consum aer
+Racorduri
+Diamentru interior furtun
+Nivel zgomot
+Nivel vibratii
+Material carcasa
+Marcaje ATEX
+Greutate
+6 bar
+60 mm
+330 curse / minut
+1.1 kW
+TWIST2
+1.45 m³/min 
+R 3/4" a
+13 mm
+84.0 dB
+<2,5 m/s²
+Zamak
+EX I M2 Ex h I Mb T5 
+7,5 kg
+MASTEREX 36809
+NOU
+Fierastrau sabie pneumatic 1.25 kW
+•  este conceput pentru cele mai dificile aplicatii in rafinarii, centrale 
+electrice, constructii, aplicarii de demolare, industria petrolului
+• o solutie ideala pentru taierea in spatii restranse
+• dimensiune compacta ideala pentru taierea in spatii inguste
+7500
+62293.43
+79816
+Putere
+1.0 kW
+ZONE M2 MINIERE
+7000
+37875.02
+Presiune de lucru
+Cursa
+Numar de curse
+Putere
+Capacitate taiere lemn
+Capacitate taiere otel
+Consum aer
+Nivel zgomot
+Nivel vibratii
+Marcaje ATEX
+Greutate
+6 bar
+28 mm
+1200 curse / minut
+1.0 kW
+160 mm
+19 mm
+1.3 m³/min
+81-92 dB
+<2,5 m/s²
+EX I M2 Ex h I Mb T5
+7 kg
+MASTEREX 79836
+NOU
+Fierastrau circular pneumatic 1.8 kW
+•  este conceput pentru cele mai dificile aplicatii in rafinarii, centrale 
+electrice, constructii, aplicarii de demolare, industria petrolului
+• o solutie ideala pentru taierea in spatii restranse
+• dimensiune compacta ideala pentru taierea in spatii inguste
+ZONE 1, 2 GAZ
+Putere
+79617
+1.1 kW
+Presiune de lucru
+Cursa
+Numar de curse
+Putere
+Tip supapa
+Consum aer
+Racorduri
+Diamentru interior furtun
+Nivel zgomot
+Nivel vibratii
+Material carcasa
+Marcaje ATEX
+Greutate
+6400
+40688.52
+6 bar
+60 mm
+330 curse / minut
+1.1 kW
+TWIST2
+1.45 m³/min 
+R 3/4" a
+13 mm
+84.0 dB
+<2,5 m/s²
+Aluminiu
+EX II2GcT5
+6,4 kg
+36809
+Putere
+1.25 kW
+Presiune de lucru
+Cursa
+Numar de curse
+Putere
+Capacitate taiere lemn
+Capacitate taiere otel
+Consum aer
+Nivel zgomot
+Nivel vibratii
+Marcaje ATEX
+Greutate
+ZONE 1, 2 GAZ
+4000
+27933.79
+6 bar
+28 mm
+2300 curse / minut
+1.25 kW
+160 mm
+19 mm
+1.45 m³/min
+101-102  dB
+<2,5 m/s²
+EX II 2G Ex h IIB T5 Gb 
+4 kg
+ZONE: 2 GAZ
+79836
+Putere
+1.8 kW
+11000
+61090.48
+Presiune de lucru
+Capacitate
+Dimensiuni panza circular
+Putere
+Consum aer
+Racord
+Nivel zgomot
+Nivel vibratii
+Marcaje ATEX
+Greutate
+6 bar
+120 mm
+≤ 320 mm
+1.8 kW
+2 m³/min
+R 1/2"
+95 dB
+<2,5 m/s²
+EX II 3G Ex h IIB T5 Gc 
+11 kg

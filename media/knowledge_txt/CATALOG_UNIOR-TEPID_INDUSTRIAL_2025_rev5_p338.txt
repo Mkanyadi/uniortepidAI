@@ -1,0 +1,309 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:338]
+P2CR/102
+Pila plata cu muchii rotunjite pentru
+ascutit panze circulare 
+• pila rectangulara cu tais simplu pe toate cele 4 fete
+• pentru panze fierastrau circular si panglica
+•  1 - bastard; 2 - semifina; 3 - fina
+MCMTM/016
+DNF
+Pila semirotunda pentru aluminiu
+• pentru aluminiu si alte metale usoare
+Pila plata diamantata 
+• pentru prelucrarea otelurilor calite, carburii, sticlei,
+ceramicii si a plasticului armat cu fibre
+DIN
+7261
+Forma
+E
+L
+Taiere
+a x b
+MCMTM016200
+MCMTM016250
+MCMTM016300
+MCMTM016350
+200
+250
+300
+350
+0
+0
+0
+0
+20 x 5,5
+24 x 7,0
+29 x 8,2
+34 x 9,5
+130
+240
+440
+280
+75.87
+88.38
+136.25
+156.91
+113
+Pila plata pentru intretinere schiuri
+• cu tais incrucisat
+•  1 - bastard; 2 - semifina; 3 - fina
+L
+Taiere
+a x b
+DNF100
+100
+2
+4,0 x 1,0
+80
+217.75
+DNH
+Pila semirotunda diamantata
+• pentru prelucrarea otelurilor calite, carburii, sticlei,
+ceramicii si a plasticului armat cu fibre
+L
+Taiere
+a x b
+1131200
+200
+1
+20,0 x 3,0
+70
+36.94
+L
+Taiere
+a x b
+DNH100
+100
+2
+3,5 x 1,5
+80
+217.75
+DND
+Pila triunghiulara diamantata
+• pentru prelucrarea otelurilor calite, carburii, sticlei, 
+ceramicii si a plasticului armat cu fibre
+DIN
+7276
+Forma
+E
+L
+Taiere
+a x b
+150
+150
+150
+200
+200
+200
+250
+250
+250
+300
+300
+300
+P2CR102150BA
+P2CR102150SF
+P2CR102150FI
+P2CR102200BA
+P2CR102200SF
+P2CR102200FI
+P2CR102250BA
+P2CR10250SF
+P2CR102250FI
+P2CR102300BA
+P2CR102300SF
+P2CR102300FI
+170-179
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+2
+3
+15 x 2.5
+15 x 2.5
+15 x 2.5
+20 x 3.5
+20 x 3.5
+20 x 3.5
+24 x 4.0
+24 x 4.0
+24 x 4.0
+29 x 5.0
+29 x 5.0
+29 x 5.0
+60
+60
+60
+120
+120
+120
+190
+190
+190
+340
+340
+340
+34.14
+35.60
+37.21
+36.81
+38.02
+39.79
+53.52
+55.53
+57.47
+64.98
+66.51
+68.61
+Pila rotunda pentru lant de motofierastrau
+• cu tais incrucisat
+• pentru ascutirea dintilor fierastraielor cu lant
+• pila este confectionata din otel special pentru pile de precizie,
+ cu rezistenta ridicata la uzura
+• duritate 65-66 HRC
+1703150
+1723150
+1703200
+1713200
+1723200
+1733200
+1753200
+1773200
+1793200
+L
+Taiere
+b
+150
+150
+200
+200
+200
+200
+200
+200
+200
+3
+3
+3
+3
+3
+3
+3
+3
+3
+Ø 3,2
+Ø4,0
+Ø3,2
+Ø3,5
+Ø4,0
+Ø4,5
+Ø4,8
+Ø5,5
+Ø6,3
+10
+20
+20
+20
+20
+30
+30
+40
+50
+11.54
+11.54
+11.78
+11.78
+11.78
+11.78
+11.78
+13.56
+13.56
+XMTM/019
+Pila plata pentru aluminiu
+• pentru aluminiu si alte metale usoare
+0322200-CP
+Set 5 pile semifine 72 HRC 200 mm
+cu maner plastic CX CHROMINOX®
+• duritate 72 HRC - acoperire HI-TEC
+• cel mai dur strat posibil pentru pile
+• fara infundarea dintilor, fara rugina
+• utilizari multiple si performanta ridicata 
+• ideale pentu prelucrari pe otel inoxidabil, aliaje de otel, titan,
+molibden, nichel, cupru etc. si pe toate tipurile de plastic
+• cu manere din plastic
+• setul include pile forma lata, semirotunda, triunghiulara,
+patrata, rotunda
+DIN
+7261
+Forma
+A
+Taiere
+a x b
+0
+0
+0
+20 x 4.5
+24 x 6.0
+29 x 6.5
+140
+250
+400
+64.90
+77.08
+117.44
+XMTM019200
+XMTM019250
+XMTM019300
+L
+200
+250
+300
+mm
+0322200-CP
+200
+lata, semirotunda, triunghiulara, patrata, rotunda
+800
+5
+602.79
+L
+100
+Taiere
+a x b
+2
+2,5 x 2,5
+80
+217.75
+DND100
+DNV
+Pila patrata diamantata
+• pentru prelucrarea otelurilor calite, carburii, sticlei,
+ceramicii si a plasticului armat cu fibre
+L
+100
+Taiere
+a x b
+2
+2,0 x 2,0
+80
+217.75
+DNV100
+DNR
+Pila rotunda diamantata
+• pentru prelucrarea otelurilor calite, carburii, sticlei, 
+ceramicii si a plasticului armat cu fibre
+L
+100
+Taiere
+2
+a x b
+1,5-1
+DNR100
+80
+217.75

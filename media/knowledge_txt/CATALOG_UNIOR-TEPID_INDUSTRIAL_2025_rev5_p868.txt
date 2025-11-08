@@ -1,0 +1,357 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:868]
+13355-30
+13355-35
+12067-30
+12067-35
+Cutite de rindeluit/abric 
+HSS18%-1.3355 latime 
+30 mm pentru lemn dur
+• material: 1.3355 pentru lemn dur, 1.3343 
+pentru lemn dur si moale, 1.2379 pentru lemn 
+moale, 1.2067 pentru lemn moale. 
+• cutite de rindeluit fabricate cu dimensiuni 
+metrice si in toli “la comanda”, 
+• cutite de rindeluit cu durata de viata dubla 
+• duritatea cutitelor de rindeluit 59 pana la
+64 HRC
+• prelucrare termica executata in cuptoare 
+speciale, comandate prin calculator 
+• productie la comanda a cutitelor de rindeluit 
+cu dimensiuni arbitrare
+Cutite de rindeluit/abric 
+HSS18%-1.3355 latime 
+35 mm pentru lemn dur
+• material: 1.3355 pentru lemn dur, 1.3343 
+pentru lemn dur si moale, 1.2379 pentru lemn 
+moale, 1.2067 pentru lemn moale. 
+• cutite de rindeluit fabricate cu dimensiuni 
+metrice si in toli “la comanda”, 
+• cutite de rindeluit cu durata de viata dubla 
+• duritatea cutitelor de rindeluit 59 pana la
+64 HRC
+• prelucrare termica executata in cuptoare 
+speciale, comandate prin calculator 
+• productie la comanda a cutitelor de rindeluit 
+cu dimensiuni arbitrare
+Cutite de rindeluit/abric 
+DS-1.2067 latime 30 mm 
+pentru lemn moale
+• material: 1.3355 pentru lemn dur, 1.3343 
+pentru lemn dur si moale, 1.2379 pentru lemn 
+moale, 1.2067 pentru lemn moale. 
+• cutite de rindeluit fabricate cu dimensiuni 
+metrice si in toli “la comanda”, 
+• cutite de rindeluit cu durata de viata dubla 
+• duritatea cutitelor de rindeluit 59 pana la
+64 HRC
+• prelucrare termica executata in cuptoare 
+speciale, comandate prin calculator 
+• productie la comanda a cutitelor de rindeluit 
+cu dimensiuni arbitrare
+Cutite de rindeluit/abric 
+DS-1.2067 latime 35 mm 
+pentru lemn moale
+• material: 1.3355 pentru lemn dur, 1.3343 
+pentru lemn dur si moale, 1.2379 pentru lemn 
+moale, 1.2067 pentru lemn moale. 
+• cutite de rindeluit fabricate cu dimensiuni 
+metrice si in toli “la comanda”, 
+• cutite de rindeluit cu durata de viata dubla 
+• duritatea cutitelor de rindeluit 59 pana la
+64 HRC
+• prelucrare termica executata in cuptoare 
+speciale, comandate prin calculator 
+• productie la comanda a cutitelor de rindeluit 
+cu dimensiuni arbitrare
+13355-30-1003030
+13355-30-1203030
+13355-30-1303030
+13355-30-1503030
+13355-30-1803030
+13355-30-2103030
+13355-30-2403030
+13355-30-2603030
+L x H x S
+100x30x3.0
+120x30x3.0
+130x30x3.0
+150x30x3.0
+180x30x3.0
+210x30x3.0
+240x30x3.0
+260x30x3.0
+36.73
+43.96
+47.81
+55.04
+66.11
+77.01
+88.09
+95.38
+13355-35-1003030
+13355-35-1203030
+13355-35-1303030
+13355-35-1503030
+13355-35-1803030
+13355-35-2103030
+13355-35-2403030
+L x H x S
+100x35x3.0
+120x35x3.0
+130x35x3.0
+150x35x3.0
+180x35x3.0
+210x35x3.0
+240x35x3.0
+39.59
+47.40
+51.42
+59.23
+71.13
+82.96
+94.80
+12067-30-1003030
+12067-30-1203030
+12067-30-1303030
+12067-30-1503030
+12067-30-1803030
+12067-30-2103030
+12067-30-2403030
+13355-35-2603030
+260x35x3.0
+102.84
+12067-30-2603030
+13355-30-3103030
+310x30x3.0
+113.74
+13355-35-3103030
+310x35x3.0
+122.55
+12067-30-3103030
+13355-30-4003030
+400x30x3.0
+146.80
+13355-35-4003030
+400x35x3.0
+158.05
+12067-30-4003030
+13355-30-4103030
+410x30x3.0
+150.41
+13355-35-4103030
+410x35x3.0
+162.07
+12067-30-4103030
+13355-30-4503030
+450x30x3.0
+165.16
+13355-35-4503030
+450x35x3.0
+177.93
+12067-30-4503030
+13355-30-5003030
+500x30x3.0
+183.53
+13355-35-5003030
+500x35x3.0
+197.64
+12067-30-5003030
+13355-30-5103030
+510x30x3.0
+194.21
+13355-35-5103030
+510x35x3.0
+209.27
+12067-30-5103030
+13355-30-5303030
+530x30x3.0
+201.95
+13355-35-5303030
+530x35x3.0
+217.38
+12067-30-5303030
+L x H x S
+100x30x3.0
+120x30x3.0
+130x30x3.0
+150x30x3.0
+180x30x3.0
+210x30x3.0
+240x30x3.0
+260x30x3.0
+310x30x3.0
+400x30x3.0
+410x30x3.0
+450x30x3.0
+500x30x3.0
+510x30x3.0
+530x30x3.0
+12067-35-1003030
+12067-35-1203030
+12067-35-1303030
+12067-35-1503030
+12067-35-1803030
+12067-35-2103030
+12067-35-2403030
+12067-35-2603030
+12067-35-3103030
+12067-35-4003030
+12067-35-4103030
+12067-35-4503030
+12067-35-5003030
+L x H x S
+100x35x3.0
+120x35x3.0
+130x35x3.0
+150x35x3.0
+180x35x3.0
+210x35x3.0
+240x35x3.0
+260x35x3.0
+310x35x3.0
+400x35x3.0
+410x35x3.0
+450x35x3.0
+500x35x3.0
+19.88
+23.90
+25.83
+29.79
+35.74
+41.68
+47.57
+51.60
+61.56
+79.35
+81.21
+89.26
+99.23
+12067-35-5103030
+510x35x3.0
+104.91
+12067-35-5303030
+530x35x3.0
+109.08
+17.78
+21.22
+22.91
+26.58
+31.95
+37.08
+42.44
+46.06
+54.86
+70.72
+72.47
+79.52
+88.50
+93.65
+97.22
+13355-30-6103030
+610x30x3.0
+232.50
+13355-35-6103030
+610x35x3.0
+250.35
+12067-30-6103030
+610x30x3.0
+112.05
+12067-35-6103030
+610x35x3.0
+125.54
+13355-30-6403030
+640x30x3.0
+243.82
+13355-35-6403030
+640x35x3.0
+262.63
+12067-30-6403030
+640x30x3.0
+117.43
+12067-35-6403030
+640x35x3.0
+131.71
+13355-30-7103030
+710x30x3.0
+270.56
+13355-35-7103030
+710x35x3.0
+291.19
+12067-30-7103030
+710x30x3.0
+130.32
+12067-35-7103030
+710x35x3.0
+146.17
+13355-30-8103030
+810x30x3.0
+308.67
+13355-35-8103030
+810x35x3.0
+332.27
+12067-30-8103030
+810x30x3.0
+148.77
+12067-35-8103030
+810x35x3.0
+166.80
+13355-30-9103030
+910x30x3.0
+346.73
+13355-35-9103030
+910x35x3.0
+373.29
+12067-30-9103030
+910x30x3.0
+167.04
+12067-35-9103030
+910x35x3.0
+187.25
+13355-30-10003030
+1000x30x3.0
+380.85
+13355-35-10003030
+1000x35x3.0
+410.19
+12067-30-10003030
+1000x30x3.0
+183.50
+12067-35-10003030
+1000x35x3.0
+205.88
+13355-30-10103030
+1010x30x3.0
+384.84
+13355-35-10103030
+1010x35x3.0
+414.36
+12067-30-10103030
+1010x30x3.0
+185.49
+12067-35-10103030
+1010x35x3.0
+207.88
+13355-30-10503030
+1050x30x3.0
+400.09
+13355-35-10503030
+1050x35x3.0
+430.64
+12067-30-10503030
+1050x30x3.0
+192.81
+12067-35-10503030
+1050x35x3.0
+216.23
+13355-30-12203030
+1220x30x3.0
+422.51
+13355-35-12203030
+1220x35x3.0
+454.96
+12067-30-12203030
+1220x30x3.0
+203.61
+12067-35-12203030
+1220x35x3.0
+228.31

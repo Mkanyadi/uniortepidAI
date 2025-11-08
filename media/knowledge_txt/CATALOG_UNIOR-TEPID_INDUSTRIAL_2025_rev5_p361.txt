@@ -1,0 +1,254 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:361]
+612CR
+626TBI
+625TBI
+Surubelnita profil Phillips (PH)
+pentru electricieni,
+maner polipropilena, cromata
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  lama cromata, varful brunat
+•  maner: forma ergonomica
+•  maner: polipropilena
+•  gaura de agatare
+Surubelnita profil Phillips (PH)
+varianta Stubby,
+maner trimaterial TBI, cromata
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  lama cromata, varful brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2
+Surubelnita profil Pozidrive (PZ)
+maner trimaterial TBI, cromata
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  lama cromata, varful brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2
+D
+C
+L
+611741 PZ 0
+611742 PZ 1
+C
+60
+80
+L
+145
+D
+3
+180 4.5
+611743 PZ 2 100 210
+611744 PZ 3 150 270
+6
+8
+34
+60
+93
+ 4B 
+ 4B 
+ 4B 
+156  4B 
+10
+10
+10
+5
+20.66
+28.36
+36.07
+46.56
+625CR
+Surubelnita profil Pozidrive (PZ)
+maner polipropilena, cromata
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  lama cromata, varful brunat
+•  maner: forma ergonomica
+•  maner: polipropilena
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2
+D
+C
+L
+C
+L
+D
+616360 PH 1 280 365
+4.5
+616361 PH 2 200 300
+616362 PH 2 280 380
+6
+6
+67
+98
+113
+ 4B 
+ 4B 
+ 4B 
+5
+10
+5
+29.51
+36.89
+41.97
+616TBI
+D
+C
+L
+Surubelnita profil Phillips (PH), 
+mecanica cu hexagon
+maner trimaterial TBI, cromata
+612830 PH 1
+612831 PH 2
+C
+25
+25
+L
+87
+87
+D
+4.5
+6
+37
+41
+ 4B 
+ 4B 
+10
+10
+23.61
+24.43
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  lama cromata, varful brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2
+D
+C
+L
+C
+L D
+611709 PH 1 80 180 4.5 8
+60  4B 
+611710 PH 2 100 210
+6 10 94  4B 
+10
+10
+35.41
+44.26
+616CR
+Surubelnita profil Phillips (PH), 
+mecanica cu hexagon
+maner polipropilena, cromata
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  lama cromata, varful brunat
+•  maner: forma ergonomica
+•  maner: polipropilena
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2
+D
+C
+L
+C L D
+616370 PH 1 80 180 4.5 8
+60  4B 
+616371 PH 2 100 210 6 10 94  4B 
+616372 PH 3 150 270 8 13 154  4B 
+10
+10
+5
+24.75
+31.97
+49.18
+626CR
+Surubelnita profil Phillips (PH)
+varianta Stubby,
+maner polipropilena, cromata
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  lama cromata, varful brunat
+•  maner: forma ergonomica
+•  maner: polipropilena
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2
+D
+C
+L
+D
+C
+L
+616393 PZ 0
+616394 PZ 1
+C
+60
+80
+L
+145
+D
+3
+165 4.5
+616395 PZ 2 100 200
+616396 PZ 3 150 260
+6
+8
+34
+60
+93
+ 4B 
+ 4B 
+ 4B 
+156  4B 
+10
+10
+10
+5
+15.08
+17.21
+23.61
+34.92
+616397 PH 1
+616398 PH 2
+C
+25
+25
+L
+85
+85
+D
+4.5
+6
+37
+41
+ 4B 
+ 4B 
+10
+10
+16.39
+17.38
+636
+Surubelnita reversibila
+maner polipropilena, nichelata
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  lama nichelata
+•  maner: forma ergonomica
+•  maner: polipropilena
+a
+b
+a
+D
+b
+L
+a x b
+L D
+608922 1.0 x 6.0 PH 2 140 6
+42  1E 
+10
+20.49

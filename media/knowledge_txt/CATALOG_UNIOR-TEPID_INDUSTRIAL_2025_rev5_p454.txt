@@ -1,0 +1,455 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:454]
+113
+     Dimensiune      Lungime activa    Lungime totala    Ambalare
+Burghie SDS-plus cu 3 muchii pentru beton cu armatura 
+Booster PLUS
+• varf din carbura monobloc cu autocentrare - pentru gauri precise
+• ascutirea unghiului: 150º
+• 3 muchii taietoare
+• spira cu sectiune patrata - pentru o mai buna extractie a prafului
+• coada compatibila SDS-plus
+• gaurire in toate tipurile de beton
+• precizie in inceperea gaurii
+• orificiu perfect rotund si calibrat
+• evacuare rapida a prafului
+• rezistenta si durata lunga de viata
+Ø 10
+L 50 x 110
+113D05L0110
+113D06L0110
+113D06.5L0110
+113D08L0110
+113D10L0110
+L 100 x 160
+113D05L0160
+113D06L0160
+113D06.5L0160
+113D07L0160
+113D08L0160
+113D09L0160
+113D10L0160
+113D12L0160
+113D13L0160
+113D14L0160
+113D15L0160
+113D16L0160
+L 150 x 210
+113D06L0210
+113D06.5L0210
+113D07L0210
+113D08L0210
+113D09L0210
+113D10L0210
+113D12L0210
+113D13L0210
+113D14L0210
+113D15L0210
+113D16L0210
+113D18L0210
+113D20L0210
+L 200 x 260
+113D06L0260
+113D06.5L0260
+113D08L0260
+113D10L0260
+113D12L0260
+113D14L0260
+113D16L0260
+113D18L0260
+113D20L0260
+T E N
+T
+E
+D
+A
+P
+< 5 KG
+     Dimensiune      Lungime activa    Lungime totala    Ambalare
+5
+6
+6.5
+8
+10
+5
+6
+6.5
+7
+8
+9
+10
+12
+13
+14
+15
+16
+6
+6.5
+7
+8
+9
+10
+12
+13
+14
+15
+16
+18
+20
+6
+6.5
+8
+10
+12
+14
+16
+18
+20
+50
+50
+50
+50
+50
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+200
+200
+200
+200
+200
+200
+200
+200
+200
+110
+110
+110
+110
+110
+160
+160
+160
+160
+160
+160
+160
+160
+160
+160
+160
+160
+210
+210
+210
+210
+210
+210
+210
+210
+210
+210
+210
+210
+210
+260
+260
+260
+260
+260
+260
+260
+260
+260
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+43.61
+39.67
+43.61
+42.62
+51.48
+41.97
+41.31
+46.23
+51.31
+42.79
+54.75
+51.64
+63.44
+91.97
+74.75
+89.02
+94.43
+58.52
+58.52
+60.49
+59.67
+65.57
+67.70
+76.56
+88.36
+99.18
+111.97
+118.03
+165.41
+220.98
+63.61
+68.69
+58.52
+65.08
+77.70
+95.41
+100.82
+128.36
+157.70
+L 250 x 310
+113D06L0310
+113D06.5L0310
+113D07L0310
+113D08L0310
+113D09L0310
+113D10L0310
+113D12L0310
+113D13L0310
+113D14L0310
+113D15L0310
+113D16L0310
+113D18L0310
+113D20L0310
+L 400 x 460
+113D08L0460
+113D10L0460
+113D12L0460
+113D14L0460
+113D16L0460
+113D18L0460
+113D20L0460
+L 550 x 610
+113D08L0610
+113D10L0610
+113D12L0610
+113D14L0610
+113D16L0610
+113D18L0610
+113D20L0610
+6
+6.5
+7
+8
+9
+10
+12
+13
+14
+15
+16
+18
+20
+8
+10
+12
+14
+16
+18
+20
+8
+10
+12
+14
+16
+18
+20
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+400
+400
+400
+400
+400
+400
+400
+550
+550
+550
+550
+550
+550
+550
+310
+310
+310
+310
+310
+310
+310
+310
+310
+310
+310
+310
+310
+460
+460
+460
+460
+460
+460
+460
+610
+610
+610
+610
+610
+610
+610
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+61.31
+61.31
+78.36
+78.36
+86.23
+86.56
+103.11
+110.00
+120.82
+117.70
+124.10
+188.69
+240.98
+201.48
+204.92
+225.25
+249.02
+256.89
+348.36
+372.13
+206.39
+208.36
+210.16
+265.90
+277.70
+372.95
+426.56
+TEHNOLOGIE CU 3 MUCHII TAIETOARE
+3 puncte  
+de contact
+Varf cu 
+autocentrare
+GAURI PERFECTE
+Unghiul de 120° garanteaza gauri
+perfect concentrice (3X120°=360). 
+Booster plus permite gauriri drepte.
+VARF DIN CARBURA
+MONOBLOC
+unghi 135°,
+pentru un bun
+efect de daltuire
+GAURIRE FARA FISURAREA BETONULUI
+burghiu competitor
+Varful din carbura Booster plus realizeaza gauri curate si perfecte
+fara fisurarea betonului la gaurirea in apropierea unei margini.
+3 puncte de contact simultane permit
+o performanta constanta in timp.
+FIXARE OPTIMA
+In conformitate cu standardele de fixare europene (ATE)
+Mecanismul de suport si contra-suport al burghiului
+Booster-Plus permite trecerea acestuia prin
+armatura fara blocare.
+contra-suport
+Burghiul ramane drept si isi mentine traiectoria
+suport

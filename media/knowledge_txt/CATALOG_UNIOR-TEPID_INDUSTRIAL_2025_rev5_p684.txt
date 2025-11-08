@@ -1,0 +1,148 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:684]
+HP-700A
+Pompa hidraulica cu actionare la mana
+• pompa cu piston cu doua trepte de viteza pentru actionare rapida
+• presiune exercitata exterioare ajustabila pana la 700 bar
+• rezervorul de ulei permite utilizarea in orice pozitie
+• include furtun de 2 m
+EP-30S
+Pompa hidraulica
+• tensiune de alimentare: 230 V
+• putere motor: 350 W
+• telecomanda cu control total
+• 2 furtune hidraulice atasate
+• nivel ulei vizibil
+• constructie robusta din otel
+• pompa cu dubla actiune
+MANUAL
+Follow User Guide
+MAINTAIN
+Maintain Regularly
+PROTECTION
+Put On Goggles
+PROTECTION
+Work With Glove
+SKIDPROOF
+Comfortable Design
+MANUAL
+Follow User Guide
+MAINTAIN
+Maintain Regularly
+PROTECTION
+Put On Goggles
+PROTECTION
+Work With Glove
+EASY
+For Small Space
+RELOAD
+Back To Origin
+HP-700A
+bar
+700 bar
+Preiune maxima
+Necesar ulei
+Debit ulei trapta 1
+Debit ulei trapta 2
+Lungime
+Greutate
+1
+1G
+1
+9000
+5938.52
+EP-30S
+700 bar
+720 cc
+12,26 cc/cursa
+2,26 cc/cursa
+595 mm
+9,0 kg
+bar
+700 bar
+1
+1G
+Capacitate livrare ulei la presiune scazuta
+Capacitate livrare ulei la presiune inalta
+Necesar ulei
+Presiune maxima
+Inaltime
+Greutate
+1
+18000
+2,6 litri / minut
+0,32 litri / minut
+3000 cc
+700 bar
+374 mm
+18,0 kg
+22811.48
+HYP-700FT
+HP-180N
+Pompa hidraulica cu actionare la picior
+• pompa cu piston cu doua trepte de viteza pentru actionare rapida
+• presiune exercitata exterioare ajustabila pana la 700 bar
+• rezervorul de ulei permite utilizarea in orice pozitie
+• include furtun de 2 m
+Pompa hidraulica cu actionare la mana
+• pompa cu piston ideala pentru perforatorul PNST-10
+• presiune exercitata exterioare ajustabila pana la 590 bar
+• rezervorul de ulei permite utilizarea in orice pozitie
+• include furtun de 1 m
+MANUAL
+Follow User Guide
+MAINTAIN
+Maintain Regularly
+PROTECTION
+Put On Goggles
+PROTECTION
+Work With Glove
+SKIDPROOF
+Comfortable Design
+HYP-700FT
+bar
+700 bar
+Preiune maxima
+Necesar ulei
+Debit ulei trapta 1
+Debit ulei trapta 2
+Lungime
+Greutate
+1
+1G
+700 bar
+720 cc
+35,8 cc/cursa
+2,1 cc/cursa
+720 mm
+12,0 kg
+1
+12000
+9954.10
+HP-180N
+MANUAL
+Follow User Guide
+MAINTAIN
+Maintain Regularly
+PROTECTION
+Put On Goggles
+PROTECTION
+Work With Glove
+SKIDPROOF
+Comfortable Design
+1
+3700
+2413.11
+bar
+590 bar
+Preiune maxima
+Necesar ulei
+Debit ulei trapta
+Lungime
+Greutate
+1
+1G
+590 bar
+180 cc
+0,9 cc/cursa
+320 mm
+3,7 kg

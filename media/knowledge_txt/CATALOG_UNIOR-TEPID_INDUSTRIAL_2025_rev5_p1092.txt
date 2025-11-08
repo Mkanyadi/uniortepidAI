@@ -1,0 +1,95 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1092]
+C.D. 11
+Organizator de perete 216 
+module
+C.D. 13
+C.D. 14
+Organizator de perete 192 
+module
+Organizator de perete 108 
+module
+216 x P.C. 011
+192 x P.C. 013
+108 x P.C. 014
+A
+  B   H
+A
+  B   H
+A
+  B   H
+C.D. 11
+1420
+315 1090
+55130
+1
+6108.19
+C.D. 13
+1430
+315 1090
+57230
+1
+6176.06
+C.D. 14
+1440
+315 1090
+54310
+1
+5746.22
+Cu precomanda
+Cu precomanda
+Cu precomanda
+CKM. 30
+CKM. 40
+CKM. 50
+Organizator mobil 432 module
+Organizator mobil 384 module
+Organizator mobil 216 module
+432 x P.C. 011
+384 x P.C. 013
+216 x P.C. 014
+A
+  B   H
+A
+  B   H
+A
+  B   H
+Cu precomanda
+Cu precomanda
+Cu precomanda
+CKM. 30
+1520
+970 840 114900
+1
+10412.41
+CKM. 40
+1540
+1010 880 119110
+1
+10686.41
+CKM. 50
+1560
+1010 880 111900
+1
+9699.98
+DP.01
+Suport de perete cu 
+accesorii pentru scule
+suport de perete: 2 bucati (420x590x20 mm)
+module mici: 16 bucati (115x100x74 mm)
+module medii: 8 bucati (165x100x74 mm)
+module mari: 4 bucati (210x100x74 mm)
+carlige: 10 bucati (50x10x20 mm)
+suport scule: 1 bucata (210x95x43 mm)
+suport burghie/biti: 1 (165x50x27 mm)
+suport chei: 1 pereche (215x65x28 mm)
+suruburi + dibluri: 20 bucati
+DP.01
+A
+590
+  B
+840
+  H
+20
+2674
+1
+270.97

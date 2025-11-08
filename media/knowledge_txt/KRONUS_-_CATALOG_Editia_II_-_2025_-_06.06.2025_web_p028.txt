@@ -1,0 +1,193 @@
+[SOURCE:KRONUS_-_CATALOG_Editia_II_-_2025_-_06.06.2025_web] [PAGE:28]
+7605
+Surubelnita profil lat cu varf 
+magnetizat si maner monomaterial
+• lama: otel crom vanadiu molibden, tratata integral
+• lama nichelata
+• maner: forma ergonomica
+• maner: polipropilena
+• gaura de agatare
+• in concordanta cu standardul ISO 2380-1,2
+• varf magnetizat
+7630
+Tester de tensiune
+• surubelnita detectoare pana la 220-250 V
+• Standard: EN60900
+• clips de agatare
+7660A
+Dalta lata pentru constructii
+• material: OLC 45
+• forjata
+• capete tratat prin curenti de inalta frecventa
+• duritate pe capete: 48 ± 3 HRC
+• acoperire: vopsire
+• executie conform standardului DIN 7254
+a
+b
+D
+C
+a x b         C          L           D
+4,0
+100
+0,8 x 4,0
+6,0
+150
+1,2 x 6,5
+185
+250
+621767
+621768
+7615
+L
+49
+95
+5.93
+11.41
+Surubelnita profil Phillips cu varf
+magnetizat si maner monomaterial
+• lama: otel crom vanadiu molibden, tratata integral
+• lama nichelata
+• maner: forma ergonomica
+• maner: polipropilena
+• gaura de agatare
+• in concordanta cu standardul ISO 2380-1,2
+• varf magnetizat
+D
+C
+L
+Phillips         C          L           D
+4,5
+80
+6,0
+100
+PH 1
+PH 2
+165
+200
+55
+83
+5.93
+9.88
+621771
+621772
+7625
+Surubelnita profil Pozidrive cu varf
+magnetizat si maner monomaterial
+• lama: otel crom vanadiu molibden, tratata integral
+• lama nichelata
+• maner: forma ergonomica
+• maner: polipropilena
+• gaura de agatare
+• in concordanta cu standardul ISO 2380-1,2
+• varf magnetizat
+C
+L
+7630140 0,5 x 3,0
+a x b                C              L
+140
+60
+Material
+OLC
+70978
+70980
+7670A
+13
+8.31
+mm          B           L
+250
+23
+16
+350
+26
+16
+403
+725
+19.09
+26.41
+7627
+Set 6 surubelnite cu varf magnetizat 
+si maner monomaterial 
+in cutie de carton
+Spit pentru constructii
+• material: OLC 45
+• forjata
+• capete tratat prin curenti de inalta frecventa
+• duritate pe capete: 48 ± 3 HRC
+• acoperire: vopsire
+• executie conform standardului DIN 7256
+Articol          Nr. piese
+7627
+6 piese
+622109
+550
+51.68
+7615 (PH 1x80, PH 2x100), 7625 (PZ 1x80, PZ 2x100),
+7605 (0.8x4.0x100, 1.2x6.5x150)
+7626
+Set 7 surubelnite cu varf magnetizat,
+maner monomaterial si tester 
+tensiune in cutie de carton
+Material
+OLC
+70974
+70975
+7667A
+mm                       L
+300
+16
+350
+16
+578
+696
+22.43
+26.41
+Dalta lata pentru zidarie
+• material: OLC 45
+• forjata
+• capete tratat prin curenti de inalta frecventa
+• duritate pe capete: 45 ± 3 HRC
+• acoperire: vopsire
+D
+C
+L
+Pozidrive       C         L          D
+4,5
+80
+6,0
+100
+PZ 1
+PZ 2
+165
+200
+621769
+621770
+Articol            Nr. piese
+7626
+7 piese
+622110
+600
+60.31
+55
+84
+5.93
+9.88
+7615 (PH 1x80, PH 2x100), 7625 (PZ 1x80, PZ 2x100),
+7605 (0.8x4.0x100, 1.2x6.5x150), 7630 (180 mm)
+Material
+OLC
+70950
+70951
+28
+mm      B       L       a
+13
+50
+13
+70
+230
+230
+23
+23
+480
+580
+39.95
+41.94

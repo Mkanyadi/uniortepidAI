@@ -1,0 +1,314 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:79]
+192/2TX
+Capete chei tubulare cu profil TX exterior 1/2"
+•  material capete chei tubulare: crom-vanadiu, acoperire cromare
+•  bit: otel special de scule
+•  capul cheii este tratat in intregime
+192/2ZX
+Capete chei tubulare cu profil ZX exterior 1/2"
+•  material capete chei tubulare: crom-vanadiu, acoperire cromare
+•  bit: otel special de scule
+•  capul cheii este tratat in intregime
+D
+22.9
+22.9
+22.9
+22.9
+22.9
+22.9
+22.9
+22.9
+22.9
+L
+52
+52
+52
+52
+52
+52
+52
+57
+57
+L1
+16
+16
+16
+16
+16
+16
+16
+21
+21
+71
+73
+73
+75
+77
+78
+80
+85
+96
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+41.80
+41.80
+41.80
+42.46
+45.25
+45.25
+46.89
+56.07
+56.07
+605562
+605563
+605564
+605565
+605566
+605567
+605568
+605569
+605570
+TX 20
+TX 25
+TX 27
+TX 30
+TX 40
+TX 45
+TX 50
+TX 55
+TX 60
+192/2TXL
+Capete chei tubulare cu profil TX exterior lungi 1/2"
+•  material capete chei tubulare: crom-vanadiu, acoperire cromare
+•  bit: otel special de scule
+•  capul cheii este tratat in intregime
+D
+22.9
+22.9
+22.9
+22.9
+22.9
+22.9
+22.9
+L
+52
+52
+52
+57
+57
+57
+57
+L1
+16
+16
+16
+21
+21
+21
+21
+72
+70
+80
+84
+90
+97
+155
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+10
+10
+10
+10
+42.13
+42.13
+42.13
+46.07
+46.07
+50.49
+54.75
+612165
+612166
+612167
+M 5
+M 6
+M 8
+612168 M 10
+612169 M 12
+612170 M 14
+620257 M 16
+192/2ZXL
+Capete chei tubulare cu profil ZX exterior 
+lungi 1/2"
+•  material capete chei tubulare: crom-vanadiu, acoperire cromare
+•  bit: otel special de scule
+•  capul cheii este tratat in intregime
+612171
+612172
+M 6
+M 8
+612173 M 10
+612174 M 12
+619845 M 14
+620258 M 16
+D
+22.9
+22.9
+22.9
+22.9
+22.9
+22.9
+L
+100
+100
+100
+100
+100
+100
+L1
+64
+64
+64
+64
+64
+64
+85
+91
+110
+123
+143
+235
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+10
+10
+10
+48.20
+48.20
+51.31
+54.10
+54.43
+59.34
+612422
+612423
+612424
+612425
+612426
+612427
+612428
+612429
+612430
+619857
+TX 20
+TX 25
+TX 27
+TX 30
+TX 40
+TX 45
+TX 50
+TX 55
+TX 60
+TX 60
+D
+22.9
+22.9
+22.9
+22.9
+22.9
+22.9
+22.9
+22.9
+22.9
+22.9
+L
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+L1
+64
+64
+64
+64
+64
+64
+64
+64
+64
+64
+76
+86
+86
+86
+90
+92
+94
+100
+110
+110
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+51.64
+51.64
+51.64
+51.97
+55.90
+55.90
+58.20
+69.67
+69.67
+69.67

@@ -1,0 +1,279 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:170]
+CS 720 SF
+Capete chei tubulare de impact cu manson
+si profil de protectie CoverS 1/2"
+• material: crom molibden
+• actionare: patrat 1/2”
+• conform DIN 3121 - G 12.5
+• deschidere: Hexagon DIN / ISO 691 
+CS 720
+Capete chei tubulare de impact cu manson
+CoverS 1/2"
+• material: crom molibden
+• actionare: patrat 1/2”
+• conform DIN 3121 - G 12.5
+• deschidere: Hexagon DIN / ISO 691 
+D2
+26,4
+31,5
+31,5
+31,5
+31,5
+31,5
+31,5
+D1
+22,5
+26,5
+27,5
+29,5
+34,0
+36,5
+40,5
+L
+38
+38
+38
+38
+38
+45
+50
+T
+10,0
+11,0
+12,0
+13,0
+13,0
+14,0
+16,0
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+13
+16
+17
+19
+22
+24
+27
+1000472005
+1000472008
+1000472009
+1000472012
+1000472016
+1000472017
+1000472018
+CS 720 M
+Capete chei tubulare de impact cu manson
+si magnet CoverS 1/2"
+• material: crom molibden
+• actionare: patrat 1/2”
+• conform DIN 3121 - G 12.5
+• deschidere: Hexagon DIN / ISO 691 
+1000472034
+1000472037
+1000472038
+1000472040
+D2
+26,4
+31,5
+31,5
+31,5
+D1
+22,5
+26,5
+28,5
+30,5
+L
+38
+38
+38
+38
+13
+16
+17
+19
+T
+5,0
+6,0
+7,0
+7,0
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+Tabel compatibilitate prindere biti si masini
+DIN 3126, Form C 6,3 - ISO 1173
+Bosch, Fein, Holz-Her, Lecureux, Metabo 
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1/4”
+5/16”
+1/4”
+DIN 3126, Form C 8 - ISO 1173
+Bosch, Fein, Holz-Her, Lecureux, Metabo 
+DIN 3126, Form C 6,3 - ISO 1173
+AEG, Atlas Copco, Biax, Black & Decker, 
+Bosch, Buckeye Tools, Chicago Pneumatic, 
+Deprag, Desoutter, Gardner Denver, Hitachi, 
+Makita, Metabo, Rockwell, Skil Tool, Stanley, 
+Virax 
+11 mm
+7 mm
+5.5 mm
+515.37
+515.37
+515.37
+515.37
+571.62
+590.43
+684.17
+D2
+26,4
+31,5
+31,5
+D1
+22,5
+26,5
+27,5
+L
+38
+38
+38
+T
+10,0
+11,0
+12,0
+ 1C 
+ 1C 
+ 1C 
+1
+1
+1
+524.81
+524.81
+524.81
+1000472113
+1000472115
+1000472116
+13
+16
+17
+CS 720 L
+Capete chei tubulare de impact lungi cu manson
+CoverS 1/2"
+• material: crom molibden
+• actionare: patrat 1/2”
+• conform DIN 3121 - G 12.5
+• deschidere: Hexagon DIN / ISO 691 
+D2
+26,5
+31,5
+31,5
+31,5
+31,5
+D1
+22,5
+26,5
+27,5
+30,2
+33,5
+L
+78
+78
+78
+78
+78
+T
+12,0
+12,0
+13,0
+13,0
+13,0
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+13
+16
+17
+19
+22
+1
+1
+1
+1
+1
+740.35
+740.35
+759.09
+759.09
+768.40
+1000472062
+1000472064
+1000472065
+1000472067
+1000472069
+CS 330
+Adaptor hexagon exterior 1/4”- patrat exterior 3/8” 
+cu manson CoverS
+• material: crom molibden
+• actionare: 1/4‘‘ hexagon, DIN/ISO 1173-Forma E 6,3
+• conform DIN 3121 - Forma E
+• deschidere: patrat DIN 3121-Forma E siguranta pin cu arc
+557.62
+562.37
+571.62
+571.62
+1000403305
+1000403307
+E
+1/4”
+1/4”
+A
+3/8”
+3/8”
+L
+50
+102
+Ø
+-
+-
+ 1C 
+ 1C 
+1
+1
+393.51
+618.55
+DIN 3126, Form E 11.2 mm - ISO 1173
+AEG, Atlas Copco, Biax, Black & Decker, 
+Bosch, Buckeye Tools, Chicago Pneumatic, 
+Fein, Holz-Her, Ingersoll-Rand, Milwaukee, 
+Rotor Tool, Star, Stanley, Virax
+5/16”
+DIN 3126, Form E G 7 - ISO 1173
+Baier, Fein 
+DIN 3126, Form A 5.5 - ISO 1173
+AEG, Bosch, Holz-Her, Kress, Metabo 
+M 4 - M 6
+& 10-32 UNF
+SDS-plus®
+Buckeye Tools, Demag Pokorny, Desoutter, 
+Fiam, Grasso, Suhner
+Böllhof / Uniquick, Holz-Her, USM, DVSG, 
+Duofast
+AEG, Atlas Copco, Bosch, Hitachi, Kress, 
+Metabo

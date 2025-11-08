@@ -1,0 +1,125 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:676]
+HYCC-P100HE
+TC-120HE
+Cap hidraulic pentru taiat cabluri max Ø85 mm
+• taiere rapida cu functionare de la distanta
+• poate fi actionat orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari 
+(10000 psi)
+• angrenare piston / cilindru cu actiune simpla
+• lamele sunt usor de inlocuit
+Cap hidraulic pentru taiat cabluri max Ø120 mm
+• taiere rapida cu functionare de la distanta
+• poate fi actionat orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari 
+(10000 psi)
+• angrenare piston / cilindru cu actiune simpla
+• lamele sunt usor de inlocuit
+■ Capacitate de taiere:
+toroane Cu: 42 mm
+toroane Al: 46 mm 
+CCP: 100 mm
+* Taierea firului de pian este interzisa.
+■ Capacitate de taiere:
+toroane Cu: 50 mm
+toroane Al: 50  mm 
+CCP: 120 mm
+* Taierea firului de pian este interzisa.
+Ø
+1
+1
+Ø
+1
+1
+HYSC-P100HE
+Φ 100 mm
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+12700
+Φ 100 mm
+9.73 tone (86.6 kN)
+140 cc
+700 bar
+544 mm
+12.7 kg
+9539.34
+TC-120HE
+Φ 120 mm
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+13347.54
+8900
+Φ 120 mm
+11.77 tone (104.7 kN)
+193 cc
+700 bar
+560 mm
+9.8 kg
+HYCC-105HE
+9H-150
+Cap hidraulic pentru taiat cabluri max Ø105 mm
+• taiere rapida cu functionare de la distanta
+• poate fi actionat orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari 
+(10000 psi)
+• angrenare piston / cilindru cu actiune simpla
+• lamele sunt usor de inlocuit
+Cleste hidraulic pentru sertizat maxim 150 mm²
+• pentru terminale neizolate si mansoane pana la 150 mm²
+• cu bacuri 14, 22, 38~70 si 80~150 mm²
+• greutate redusa, design compact in ingust
+• cap totativ pentru reglare usoara
+• pompa in doua etape pentru avans rapid
+• cutie plastic
+■ Capacitate de taiere:
+toroane Cu: 42 mm
+toroane Al: 46 mm 
+CCP: 105 mm
+* Taierea firului de pian este interzisa.
+Ø
+1
+1
+HYCC-105HE
+Φ 105 mm
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+13200
+Φ 105 mm
+11.24 tone (100 kN)
+178 cc
+700 bar
+590 mm
+13.2 kg
+11311.48
+9H-150
+Ø
+Φ 150 mm
+1
+1
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+6127.05
+5200
+Φ 150 mm
+14.01 tone (124.6 kN)
+21 cc
+700 bar
+528 mm
+5.0 kg

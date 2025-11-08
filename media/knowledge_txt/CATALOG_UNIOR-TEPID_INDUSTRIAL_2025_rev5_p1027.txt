@@ -1,0 +1,160 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1027]
+964/2FSOS
+Set de chei combinate in modul 
+SOS
+vl964/5SOS
+Modul SOS pentru set 964/5SOS
+621908 6 - 17 / 12
+1680
+ 1F 
+1
+432.62
+ 125/1  (6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 
+16, 17), v964/2FSOS (188 x 364 x 30)
+964/4SOS
+v964/2FSOS
+Modul SOS pentru set 964/2FSOS 
+Set de chei inelare dublu cotite
+in modul SOS
+B
+L
+620888 188
+364
+H
+30
+964/5S12SOS
+25
+ 1V 
+1
+58.01
+Set de capete chei tubulare
+si accesorii 1/4" in modul 
+de SOS
+B
+L
+621909 188
+364
+H
+30
+964/3SOS
+621056
+21 - 32 / 4
+2220
+ 1F 
+1
+379.34
+63
+ 1V 
+1
+58.01
+ 180/1  (21 x 23, 24 x 26, 25 x 28,    
+27 x 32), vl964/4SOS  (188 x 364 x 30)
+Set de chei inelare dublu cotite
+in modul SOS
+621055
+6 - 22 / 8
+1350
+ 1F 
+1
+384.43
+ 180/1  (6 x 7, 8 x 9, 10 x 11, 12 x 13, 
+14 x 15, 16 x 17, 18 x 19, 20 x 22), vl964/3SOS  (188 
+x 364 x 30)
+vl964/3SOS
+Modul SOS pentru set 964/3SOS
+B
+L
+620886 188
+364
+H
+30
+45
+ 1V 
+1
+58.01
+vl964/4SOS
+Modul SOS pentru set 964/4SOS
+B
+L
+620887 188
+364
+H
+30
+25
+ 1V 
+1
+58.01
+621185
+45
+1170
+ 1F 
+1
+1039.02
+ 188/2 12p  (4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 13), 
+ 188.1/1ABI  (1/4"),  
+ 188.6/2  (1/4"),  
+ 188.3/2  (1/4"),  
+ 188.4/2  (1/4" x 55, 
+ 188.7/2 
+ 187/2PH  (PH 1, PH 2, PH 3), 
+188.2/2BI  (1/4"),  
+1/4"x150),  
+188.8  (1/4"),  
+(1/4" - 3/8"),  
+187/2SL  (0.8 x 4, 1 x 5.5, 1.2 x 7), 
+4, 5, 6, 7), 
+TX 25, TX 27, TX 30, TX 40), 
+E 7, E 8, E 10, E 11), vl964/5S12SOS (188 x 364 x 30)
+ 187/2HX  (3, 
+ 187/2TX  (TX 8, TX 10, TX 15, TX 20, 
+ 189/2 (E 4, E 5, E 6, 
+964/5SOS
+Set de capete chei tubulare si 
+accesorii 1/4" in modul SOS
+vl964/5S12SOS
+Modul SOS pentru set 964/5SSOS
+B
+L
+621237 188
+364
+H
+30
+964/6SOS
+25
+ 1V 
+1
+58.01
+Set de clesti BI in modul SOS
+621057
+45
+1200
+ 1F 
+1
+1039.02
+PH 2, PH 3), 
+ 187/2HX  (3, 4, 5, 6, 7), 
+ 187/2PH  (PH 1, 
+ 187/2SL  (0.8x4, 1x 5.5, 1.2 x 7), 
+ 187/2TX  (TX 8, TX 10, TX 15, TX 20, TX 25, 
+ 188/2 6p  (4, 4.5, 5, 5.5, 
+ 188.1/1ABI  (1/4"),  
+TX 27, TX 30, TX 40), 
+6, 7, 8, 9, 10, 11, 13), 
+(1/4"),  
+ 188.2/2BI  (1/4"),  
+ 188.4/2  (1/4" x 150, 1/4" x 55),  
+ 188.3/2 
+ 188.6/2  (1/4"),  
+ 188.7/2  (1/4" - 3/8"),  
+ 188.8  (1/4"),  
+ 189/2  (E 4, E 5, E 6,    
+E 7, E 8, E 10, E 11),  vl964/5SOS (188 x 364 x 30)
+621058
+3
+850
+ 1F 
+1
+365.41
+ 406/1BI  (180), 
+ 461/1BI  (160), 
+508/1BI  (170), vl964/6SOS  (188 x 364 x 30)

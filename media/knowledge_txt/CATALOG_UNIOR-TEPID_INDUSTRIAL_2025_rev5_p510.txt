@@ -1,0 +1,605 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:510]
+4610
+Insertii metric pas fin 1,0xD
+• insertii din otel inoxidabil
+• insertii de ranforsare filete in materiale cu rezistenta redusa la forfecare, de ex. aliaje 
+de aluminiu si magneziu, precum si pentru repararea filetelor uzate si deteriorate
+4613
+Insertii metric pas fin 2,5xD
+• insertii din otel inoxidabil
+• insertii de ranforsare filete in materiale cu rezistenta redusa la forfecare, de ex. aliaje 
+de aluminiu si magneziu, precum si pentru repararea filetelor uzate si deteriorate
+46101500810
+46101501010
+46101501012
+46101501210
+46101501212
+46101501215
+46101501410
+46101501412
+46101501415
+46101501615
+46101501815
+46101501820
+46101502015
+46101502020
+46101502215
+46101502220
+46101502415
+46101502420
+          M filet           Pas (mm)       Diametru (mm)
+1,00
+1,00
+1,25
+1,00
+1,25
+1,50
+1,00
+1,25
+1,50
+1,50
+1,50
+2,00
+1,50
+2,00
+1,50
+2,00
+1,50
+2,00
+MF 8
+MF 10
+MF 10
+MF 12
+MF 12
+MF 12
+MF 14
+MF 14
+MF 14
+MF 16
+MF 18
+MF 18
+MF 20
+MF 20
+MF 22
+MF 22
+MF 24
+MF 24
+8,30
+10,30
+10,30
+12,30
+12,30
+12,40
+14,30
+14,40
+14,40
+16,40
+18,50
+18,50
+20,50
+20,50
+22,50
+22,50
+24,50
+24,50
+100
+100
+100
+50
+50
+50
+50
+50
+50
+50
+25
+25
+25
+25
+10
+10
+10
+10
+4611
+Insertii metric pas fin 1,5xD
+• insertii din otel inoxidabil
+• insertii de ranforsare filete in materiale cu rezistenta redusa la forfecare, de ex. aliaje 
+de aluminiu si magneziu, precum si pentru repararea filetelor uzate si deteriorate
+46111500810
+46111501010
+46111501012
+46111501210
+46111501212
+46111501215
+46111501410
+46111501412
+46111501415
+46111501615
+46111501815
+46111501820
+46111502015
+46111502020
+46111502215
+46111502220
+46111502415
+46111502420
+          M filet           Pas (mm)       Diametru (mm)
+1,00
+1,00
+1,25
+1,00
+1,25
+1,50
+1,00
+1,25
+1,50
+1,50
+1,50
+2,00
+1,50
+2,00
+1,50
+2,00
+1,50
+2,00
+MF 8
+MF 10
+MF 10
+MF 12
+MF 12
+MF 12
+MF 14
+MF 14
+MF 14
+MF 16
+MF 18
+MF 18
+MF 20
+MF 20
+MF 22
+MF 22
+MF 24
+MF 24
+8,30
+10,30
+10,30
+12,30
+12,30
+12,40
+14,30
+14,40
+14,40
+16,40
+18,50
+18,50
+20,50
+20,50
+22,50
+22,50
+24,50
+24,50
+100
+100
+100
+50
+50
+50
+50
+50
+50
+50
+25
+25
+25
+25
+10
+10
+10
+10
+4612
+Insertii metric pas fin 2,0xD
+• insertii din otel inoxidabil
+• insertii de ranforsare filete in materiale cu rezistenta redusa la forfecare, de ex. aliaje 
+de aluminiu si magneziu, precum si pentru repararea filetelor uzate si deteriorate
+46121500810
+46121501010
+46121501012
+46121501210
+46121501212
+46121501215
+46121501410
+46121501412
+46121501415
+46121501615
+46121501815
+46121501820
+46121502015
+46121502020
+46121502215
+46121502220
+46121502415
+46121502420
+          M filet           Pas (mm)       Diametru (mm)
+1,00
+1,00
+1,25
+1,00
+1,25
+1,50
+1,00
+1,25
+1,50
+1,50
+1,50
+2,00
+1,50
+2,00
+1,50
+2,00
+1,50
+2,00
+MF 8
+MF 10
+MF 10
+MF 12
+MF 12
+MF 12
+MF 14
+MF 14
+MF 14
+MF 16
+MF 18
+MF 18
+MF 20
+MF 20
+MF 22
+MF 22
+MF 24
+MF 24
+8,30
+10,30
+10,30
+12,30
+12,30
+12,40
+14,30
+14,40
+14,40
+16,40
+18,50
+18,50
+20,50
+20,50
+22,50
+22,50
+24,50
+24,50
+100
+100
+100
+50
+50
+50
+50
+50
+50
+50
+25
+25
+25
+25
+10
+10
+10
+10
+MF
+2.30
+2.46
+2.46
+3.28
+3.28
+3.28
+5.57
+4.75
+4.75
+6.39
+9.67
+9.67
+10.66
+10.66
+11.64
+11.64
+14.59
+14.59
+MF
+2.30
+2.62
+2.62
+3.93
+3.93
+3.93
+5.74
+5.25
+5.25
+6.56
+6.56
+12.30
+13.28
+13.28
+15.25
+15.25
+18.20
+18.20
+MF
+2.79
+2.95
+2.95
+4.10
+4.10
+4.10
+6.72
+5.57
+5.57
+8.03
+14.59
+14.59
+17.38
+17.38
+19.02
+19.02
+22.13
+22.13
+46131500810
+46131501010
+46131501012
+46131501210
+46131501212
+46131501215
+46131501410
+46131501412
+46131501415
+46131501615
+46131501815
+46131501820
+46131502015
+46131502020
+46131502215
+46131502220
+46131502415
+46131502420
+          M filet           Pas (mm)       Diametru (mm)
+1,00
+1,00
+1,25
+1,00
+1,25
+1,50
+1,00
+1,25
+1,50
+1,50
+1,50
+2,00
+1,50
+2,00
+1,50
+2,00
+1,50
+2,00
+MF 8
+MF 10
+MF 10
+MF 12
+MF 12
+MF 12
+MF 14
+MF 14
+MF 14
+MF 16
+MF 18
+MF 18
+MF 20
+MF 20
+MF 22
+MF 22
+MF 24
+MF 24
+8,30
+10,30
+10,30
+12,30
+12,30
+12,40
+14,30
+14,40
+14,40
+16,40
+18,50
+18,50
+20,50
+20,50
+22,50
+22,50
+24,50
+24,50
+100
+100
+100
+50
+50
+50
+50
+50
+50
+50
+25
+25
+25
+25
+10
+10
+10
+10
+4614
+Insertii metric pas fin 3,0xD
+• insertii din otel inoxidabil
+• insertii de ranforsare filete in materiale cu rezistenta redusa la forfecare, de ex. aliaje 
+de aluminiu si magneziu, precum si pentru repararea filetelor uzate si deteriorate
+46141500810
+46141501010
+46141501012
+46141501210
+46141501212
+46141501215
+46141501410
+46141501412
+46141501415
+46141501615
+46141501815
+46141501820
+46141502015
+46141502020
+46141502215
+46141502220
+46141502415
+46141502420
+          M filet           Pas (mm)       Diametru (mm)
+1,00
+1,00
+1,25
+1,00
+1,25
+1,50
+1,00
+1,25
+1,50
+1,50
+1,50
+2,00
+1,50
+2,00
+1,50
+2,00
+1,50
+2,00
+MF 8
+MF 10
+MF 10
+MF 12
+MF 12
+MF 12
+MF 14
+MF 14
+MF 14
+MF 16
+MF 18
+MF 18
+MF 20
+MF 20
+MF 22
+MF 22
+MF 24
+MF 24
+8,30
+10,30
+10,30
+12,30
+12,30
+12,40
+14,30
+14,40
+14,40
+16,40
+18,50
+18,50
+20,50
+20,50
+22,50
+22,50
+24,50
+24,50
+100
+100
+100
+50
+50
+50
+50
+50
+50
+50
+25
+25
+25
+25
+10
+10
+10
+10
+4615
+Insertii metric pas fin pentru reconditionarea
+filetelor de bujii
+• insertii din otel inoxidabil
+• insertii de ranforsare filete in materiale cu rezistenta redusa la forfecare, de ex. aliaje 
+de aluminiu si magneziu, precum si pentru repararea filetelor uzate si deteriorate
+MF
+46151514084
+46151514124
+46151514164
+          M filet           Pas (mm)       Diametru (mm)                          H
+8,4
+12,4
+16,4
+MF 14
+MF 14
+MF 14
+14,40
+14,40
+14,40
+1,25
+1,25
+1,25
+50
+50
+50
+MF
+3.11
+3.61
+3.61
+5.08
+5.08
+5.08
+8.03
+6.72
+6.72
+8.69
+17.54
+17.54
+19.18
+19.18
+22.30
+22.30
+26.39
+26.39
+MF
+3.93
+4.10
+4.10
+6.23
+6.23
+6.23
+9.51
+8.03
+8.03
+9.51
+20.98
+20.98
+22.13
+22.13
+25.90
+25.90
+31.64
+31.64
+5.25
+5.25
+5.25

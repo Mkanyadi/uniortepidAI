@@ -1,0 +1,239 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:665]
+79921
+NOU
+79911
+NOU
+79918
+NOU
+Polizor hidraulic pentru mediu 
+subacvatic 3600 rpm
+• EGA Master ofera o gama larga de unelte pentru lucrari subacvatice, 
+cum ar fi polizorul unghiular hidraulic
+• un instrument versatil folosit in industria metalica si a constructiilor 
+pentru a lucra cu diferite materiale (otel, beton, piatra, lemn etc.) in 
+medii subacvatice.
+• ideal pentru cele mai solicitante aplicatii de dslefuire sau lustruire in 
+lucrarile de intretinere si inspectie subacvatice
+• in functie de instrumentul de insertie ales, se pot face diverse lucrari 
+precum slefuirea, polizarea, debavurarea, taierea, decuparea, 
+indepartarea ruginii etc.
+• puternic si usor
+Polizor hidraulic drept pentru mediu 
+subacvatic 7000 rpm
+• EGA Master ofera o gama larga de unelte pentru lucrari subacvatice, 
+cum ar fi polizorul unghiular hidraulic
+• un instrument versatil folosit in industria metalica si a constructiilor 
+pentru a lucra cu diferite materiale (otel, beton, piatra, lemn etc.) in 
+medii subacvatice.
+• ideal pentru cele mai solicitante aplicatii de dslefuire sau lustruire in 
+lucrarile de intretinere si inspectie subacvatice
+• in functie de instrumentul de insertie ales, se pot face diverse lucrari 
+precum slefuirea, polizarea, debavurarea, taierea, decuparea, 
+indepartarea ruginii etc.
+• puternic si usor
+Masina de insurubat hidraulica pentru
+mediu subacvatic 1” 1700 Nm
+• cheile hidraulice de impact EGA Master sunt instrumentele ideale pentru
+operatiuni subacvatice si operatiuni in atmosfere explozive: intretinere, 
+reparatii si constructie
+• esential pentru lucrarile de imersie, cum ar fi repararea si inspectia 
+navelor, lucrarile de constructie si intretinere subacvatica
+• esential pentru a lucra in zone periculoase precum industria petrolului,
+rafinarii, uzine chimice, minerit, lucrari subterane... etc.
+• acesta este un instrument ideal pentru aplicarea cuplurilor mari la orice 
+tip de surub datorita actiunii simple de declansare
+• permite strangerea si desfacerea suruburilor, oricat de ruginite sunt 
+acestea, imposibil de facut manual.
+40905.07
+79911
+RPM
+7000
+7600
+51509.86
+Presiune de lucru
+Disc
+Turatie mers in gol
+Putere
+Debit ulei
+Racord
+Nivel zgomot
+Nivel vibratii
+Greutate
+140 bar
+≤ 200 mm
+7000 rpm
+1,8 kW
+18-50 l/min
+1/2"FF
+80,60 db
+<2,5 m/s²
+7,6 kg
+79917
+NOU
+Masina de insurubat hidraulica pentru
+mediu subacvatic 3/4” 1700 Nm
+• cheile hidraulice de impact EGA Master sunt instrumentele ideale pentru
+operatiuni subacvatice si operatiuni in atmosfere explozive: intretinere, 
+reparatii si constructie
+• esential pentru lucrarile de imersie, cum ar fi repararea si inspectia 
+navelor, lucrarile de constructie si intretinere subacvatica
+• esential pentru a lucra in zone periculoase precum industria petrolului,
+rafinarii, uzine chimice, minerit, lucrari subterane... etc.
+• acesta este un instrument ideal pentru aplicarea cuplurilor mari la orice 
+tip de surub datorita actiunii simple de declansare
+• permite strangerea si desfacerea suruburilor, oricat de ruginite sunt 
+acestea, imposibil de facut manual.
+ZONE 1, 2 GAZ
+Nm
+79918
+1700
+Categorie Atex
+Presiune de lucru
+Pentru suruburi si piulite
+Cuplu maxim
+Debit ulei
+Conexiune
+Nivel zgomot
+Nivel vibratii
+Diametru recomandat furtun
+Lungime
+Greutate
+52375.47
+7300
+EX II2GcT5
+70-140 bar
+≤ M30 (46 mm AF)
+1700 Nm
+20-40 l/min
+M18x1,5
+85,30 db
+3,8 m/s²
+12 mm Øint.
+245 mm
+7,3 kg
+79919
+NOU
+Masina de insurubat hidraulica pentru
+mediu subacvatic 1” 2500 Nm
+• cheile hidraulice de impact EGA Master sunt instrumentele ideale pentru
+operatiuni subacvatice si operatiuni in atmosfere explozive: intretinere, 
+reparatii si constructie
+• esential pentru lucrarile de imersie, cum ar fi repararea si inspectia 
+navelor, lucrarile de constructie si intretinere subacvatica
+• esential pentru a lucra in zone periculoase precum industria petrolului,
+rafinarii, uzine chimice, minerit, lucrari subterane... etc.
+• acesta este un instrument ideal pentru aplicarea cuplurilor mari la orice 
+tip de surub datorita actiunii simple de declansare
+• permite strangerea si desfacerea suruburilor, oricat de ruginite sunt 
+acestea, imposibil de facut manual.
+79921
+RPM
+3600
+Presiune de lucru
+Disc abraziv
+Filat disc
+Turatie mers in gol
+Putere
+Debit ulei
+Racord
+Greutate
+5800
+90-140 bar
+≤ 230 mm
+22.2/5/8-11UNC
+3600 rpm
+3,5 kW
+20-45 l/min
+3/4”-16UNF
+5,8 kg
+79909
+NOU
+Polizor hidraulic drept pentru mediu 
+subacvatic 10400 rpm
+• EGA Master ofera o gama larga de unelte pentru lucrari subacvatice, 
+cum ar fi polizorul unghiular hidraulic
+• un instrument versatil folosit in industria metalica si a constructiilor 
+pentru a lucra cu diferite materiale (otel, beton, piatra, lemn etc.) in 
+medii subacvatice.
+• ideal pentru cele mai solicitante aplicatii de slefuire sau lustruire in 
+lucrarile de intretinere si inspectie subacvatice
+• in functie de instrumentul de insertie ales, se pot face diverse lucrari 
+precum slefuirea, polizarea, debavurarea, taierea, decuparea, 
+indepartarea ruginii etc.
+79909
+RPM
+10400
+5800
+29867.19
+Presiune de lucru
+Penseta
+Filet montaj
+Turatie mers in gol
+Putere
+Debit ulei
+Racord
+Nivel zgomot
+Nivel vibratii
+Lungime
+Greutate
+105 bar
+6 mm
+1/4"
+10400 rpm
+1,1 kW
+7,5 l/min
+R 1/2"FF
+90,70 db
+<2,5 m/s²
+270 mm
+1,6 kg
+ZONE 1, 2 GAZ
+Nm
+79917
+1700
+Categorie Atex
+Presiune de lucru
+Pentru suruburi si piulite
+Cuplu maxim
+Debit ulei
+Conexiune
+Nivel zgomot
+Nivel vibratii
+Diametru recomandat furtun
+Lungime
+Greutate
+51942.80
+7300
+EX II2GcT5
+70-140 bar
+≤ M30 (46 mm AF)
+1700 Nm
+20-40 l/min
+M18x1,5
+85,30 db
+3,8 m/s²
+12 mm Øint.
+245 mm
+7,3 kg
+ZONE 1, 2 GAZ
+Nm
+79919
+2500
+Categorie Atex
+Presiune de lucru
+Pentru suruburi si piulite
+Cuplu maxim
+Debit ulei
+Conexiune
+Diametru recomandat furtun
+Greutate
+10700
+69040.62
+EX II 2G Ex h IIB T5 Gb 
+140 bar
+≤ M36 (55 mm AF) 
+2500 Nm
+25-45 l/min
+1/2"FF 
+12 mm Øint.
+10,7 kg

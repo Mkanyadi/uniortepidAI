@@ -1,0 +1,299 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:845]
+56-
+Freza uluc placata CMS pentru arbore Z3
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se utilizeaza pe masini de frezat portabile sau stationare
+58-
+Freza uluc placata CMS pentru arbore Z4
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se utilizeaza pe masini de frezat portabile sau stationare
+d
+D
+d
+D
+h
+h
+D               h              d                                             Z           rpm max.
+D               h              d                                             Z           rpm max.
+50,8
+50,8
+50,8
+50,8
+50,8
+50,8
+50,8
+1,5
+1,98
+2,5
+3
+3,5
+3,97
+5
+8
+8
+8
+8
+8
+8
+8
+56-09908P
+56-10408P
+56-11308P
+56-11408P
+56-11508P
+56-10908P
+56-11608P
+99-
+3
+3
+3
+3
+3
+3
+3
+24000
+24000
+24000
+24000
+24000
+24000
+24000
+121.31
+127.38
+131.64
+115.25
+118.36
+121.31
+124.43
+58-09908P
+58-10408P
+58-11308P
+58-11408P
+58-11608P
+58-11108P
+50,8
+50,8
+50,8
+50,8
+50,8
+50,8
+1,5
+1,98
+2,5
+3
+5
+5,95
+8
+8
+8
+8
+8
+8
+4
+4
+4
+4
+4
+4
+24000
+24000
+24000
+24000
+24000
+24000
+133.44
+136.56
+136.56
+145.57
+151.64
+142.62
+Exemplu de aplicatie
+E
+Contraprofil
+Spatiu necesar
+piese
+distantier
+Profil
+Freza cu coada pentru profil lamba uluc
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se utilizeaza pe masini de frezat cu masa portabile sau stationare
+A
+H
+h
+h
+C
+D
+A
+C
+D
+CONTRAPROFIL
+H
+Exemplu de aplicatie
+11
+11,2
+,
+4
+5
+2
+5
+,
+9
+5
+,
+9
+PROFIL
+D               h              d             A             C               Z           rpm max.
+99-03612P
+44
+5,5
+9,5
+12
+22
+2
+24000
+758.20
+5
+,
+5
+6
+5
+3
+,
+6
+5
+7
+,
+6
+5
+1
+,
+7
+5
+5
+,
+7
+-
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+-
+0,5 mm
+0,5 mm
+0,2 mm
+0,15 mm
+1 mm
+0,15 mm
+0,10 mm
+1 mm
+0,5 mm
+0,15 mm
+1 mm
+0,5 mm
+0,2 mm
+0,15 mm
+5
+,
+5
+6
+5
+3
+,
+6
+5
+7
+,
+6
+5
+1
+,
+7
+5
+5
+,
+7
+Contraprofil
+Spatiu necesar
+piese
+distantier
+Profil
+2
+2
+1
+1
+3
+1
+1
+3
+1
+1
+3
+1
+1
+3
+1
+1
+1 mm
+0,2 mm
+0,15 mm
+0,10 mm
+1 mm
+0,15 mm
+0,10 mm
+1 mm
+0,15 mm
+0,10 mm
+1 mm
+0,5 mm
+0,15 mm
+1 mm
+0,5 mm
+0,15 mm
+5
+9
+,
+7
+5
+3
+,
+8
+5
+7
+,
+8
+5
+1
+,
+9
+5
+,
+9
+5
+9
+,
+7
+5
+3
+,
+8
+5
+7
+,
+8
+5
+1
+,
+9
+5
+,
+9

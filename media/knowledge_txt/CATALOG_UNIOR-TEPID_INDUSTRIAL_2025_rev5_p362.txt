@@ -1,0 +1,422 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:362]
+636TX
+620TBI
+621CR
+Tija cu varfuri TORX reversibila
+•  lama: otel crom vanadium molibden tratata integral
+•  lama nichelata
+Surubelnita profil hexagon
+cu cap sferic,
+maner trimaterial TBI, cromata
+•  lama: otel crom vanadium molibden tratata integral 
+•  lama cromata, varful brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+Surubelnita profil TORX® (TX)
+maner polipropilena, cromata
+•  lama: otel crom vanadium molibden tratata integral 
+•  lama cromata, varful brunat
+•  maner: forma ergonomica
+•  maner: polipropilena
+•  gaura de agatare
+620399
+TX 20 TX 25
+46  1E 
+10
+13.61
+625NI
+Surubelnita profil Pozidrive (PZ)
+maner polipropilena, nichelata
+•  lama: otel crom vanadium molibden tratata integral 
+•  lama nichelata
+•  maner: forma ergonomica
+•  maner: polipropilena
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2
+D
+C
+L
+C
+L
+D
+616433 PZ 1 80 165 4.5
+616434 PZ 2 100 200
+6
+60
+93
+ 4B 
+ 4B 
+10
+10
+14.59
+20.16
+628TBI
+Surubelnita profil Pozidrive (PZ)
+varianta Stubby,
+maner trimaterial TBI, cromata
+•  lama: otel crom vanadium molibden tratata integral 
+•  lama cromata, varful brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2
+D
+C
+L
+C L D
+611715 2
+65 150
+611716 2.5 75 160
+3
+3
+34
+34
+611717 3
+75 160 3.5 37
+611718 4
+100 200
+611719 5
+100 210
+5
+6
+68
+93
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+10
+10
+27.05
+27.05
+30.00
+39.67
+46.72
+621TBI
+Surubelnita profil TORX® (TX)
+maner trimaterial TBI, cromata
+•  lama: otel crom vanadiu molibden tratata integral 
+•  lama cromata, varful brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+611722 TX 6
+611723 TX 7
+611724 TX 8
+611725 TX 9
+C
+60
+60
+60
+60
+611726 TX 10 80
+611727 TX 15 80
+145
+145
+145
+145
+165
+165
+D
+C
+L
+L
+D
+3
+3
+3
+3
+3
+3
+4
+4.5
+5.5
+6
+7
+34
+34
+34
+34
+35
+37
+43
+63
+76
+98
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+130  4B 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+23.61
+23.61
+23.61
+23.61
+23.61
+26.07
+27.38
+33.44
+36.56
+42.95
+52.30
+D
+C
+L
+C
+L
+D
+616379 TX 6
+60 145
+616381 TX 8
+80 165
+616382 TX 9
+80 165
+616383 TX 10
+80 165
+3
+3
+3
+3
+616384 TX 15
+80 165 3.5
+616385 TX 20 100 185
+4
+616386 TX 25 100 185 4.5
+616387 TX 27 115 215 5.5
+616388 TX 30 115 215
+616389 TX 40 130 240
+6
+7
+34
+34
+34
+35
+37
+43
+63
+76
+98
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+130  4B 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+17.70
+17.70
+17.70
+17.70
+18.36
+20.00
+21.48
+26.07
+28.20
+37.38
+629TBI
+Surubelnita profil hexagon
+interior 6 laturi
+maner trimaterial TBI, cromata
+•  lama: otel crom vanadium molibden tratata integral 
+•  lama cromata, varful brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  conform cu standardul DIN 3125
+D
+C
+L
+C L D
+612672 5.5 125 235
+611747 6
+125 235
+611748 7
+125 245
+611749 8
+125 245
+611750 9
+125 245
+611751 10 125 245
+611752 11 125 245
+611753 12 125 245
+611754 13 125 245
+6
+6
+6
+7
+8
+8
+8
+9
+9
+103  4B 
+103  4B 
+123  4B 
+140  4B 
+155  4B 
+157  4B 
+166  4B 
+184  4B 
+186  4B 
+10
+10
+5
+5
+5
+5
+5
+5
+5
+58.85
+58.85
+66.23
+66.89
+67.70
+69.34
+76.39
+83.28
+86.07
+629CR
+Surubelnita profil hexagon
+interior 6 laturi
+maner polipropilena, cromata
+•  lama: otel crom vanadium molibden tratata integral 
+•  lama cromata, varful brunat
+D
+C
+611728 TX 20 100 185
+611729 TX 25 100 200
+611730 TX 27 115 215
+L
+611731 TX 30 115 225
+611732 TX 40 130 250
+C L D
+612838 PZ 2
+25
+87
+6
+41  4B 
+10
+24.92
+621/1TBI
+628CR
+Surubelnita profil Pozidrive (PZ)
+varianta Stubby,
+maner polipropilena, cromata
+•  lama: otel crom vanadium molibden tratata integral 
+•  lama cromata, varful brunat
+•  maner: forma ergonomica
+•  maner: polipropilena
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2
+Surubelnita profil TORX® (TX)
+pentru suruburi cu pin
+maner trimaterial TBI, cromata
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  lama cromata, varful brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+D
+C
+L
+611734 TR 10
+611735 TR 15
+C
+80
+80
+L D
+165
+3
+35
+165 3.5 37
+611736 TR 20 100 185
+4
+43
+C L D
+616403 PZ 2 25
+85
+6
+41  4B 
+10
+17.38
+611737 TR 25 100 200 4.5 63
+D
+C
+L
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+10
+D
+C
+L
+C
+L D
+616408 6
+125 225
+6 103  4B 
+616409 7
+125 235
+6 123  4B 
+616410 8
+125 235
+7 140  4B 
+616411 10 125 235
+8 157  4B 
+616414 13 125 245
+9 186  4B 
+10
+10
+10
+10
+10
+55.57
+57.87
+58.85
+70.16
+46.72
+51.80
+52.46
+55.25
+69.02

@@ -1,0 +1,199 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:339]
+GDS
+CXCR/405
+CLP/410
+Set 5 pile diamantate linia hobby
+• pentru prelucrarea otelurilor calite, carburii, sticlei, 
+ceramicii si a plasticului armat cu fibre
+• maner PVC
+Pila ac semirotunda 
+• pentru lucrari de precizie, ceasornicarie etc.
+Pila ac eliptica
+• pentru lucrari de precizie, ceasornicarie etc.
+   Lungime           Taiere
+   Lungime           Taiere
+CXCR405160
+CXCR405180
+160
+180
+0
+0
+120
+150
+23.93
+26.49
+CLP410160
+CLP410180
+160
+180
+0
+0
+120
+150
+23.93
+26.49
+CT/406
+Pila ac triunghiulara
+• pentru lucrari de precizie, ceasornicarie etc.
+CB/412
+Pila ac triunghiulara danturata pe
+o singura latura
+• pentru lucrari de precizie, ceasornicarie etc.
+   Lungime           Taiere
+   Lungime           Taiere
+CT406160
+CT406180
+160
+180
+0
+0
+120
+150
+23.93
+26.49
+CB412160
+CB412180
+160
+180
+0
+0
+120
+150
+23.93
+26.49
+CQ/407
+Pila ac patrata
+• pentru lucrari de precizie, ceasornicarie etc.
+CFET/414
+Pila ac  rombica
+• pentru lucrari de precizie, ceasornicarie etc.
+   Lungime           Taiere
+   Lungime           Taiere
+CQ407160
+CQ407180
+160
+180
+0
+0
+120
+150
+23.93
+26.49
+CFET414160
+CFET414180
+160
+180
+0
+0
+120
+150
+23.93
+26.49
+CR/408
+Pila ac rotunda
+• pentru lucrari de precizie, ceasornicarie etc.
+CJ6/415 / CJ12/400
+Set de pile ac
+• pentru aluminiu si alte metale usoare
+GDS
+5
+307.01
+CP/401
+Pila ac plata muchiile danturate
+• pentru lucrari de precizie, ceasornicarie etc.
+   Lungime           Taiere
+CP401160
+CP401180
+160
+180
+0
+0
+120
+150
+23.93
+26.49
+CPCR/402
+Pila ac plata muchiile rotunjite
+nedanturate
+• pentru lucrari de precizie, ceasornicarie etc.
+   Lungime           Taiere
+CPCR402160
+CPCR402180
+160
+180
+0
+0
+120
+150
+23.93
+26.49
+CX/403
+Pila ac plata ascutita muchiile danturate
+• pentru lucrari de precizie, ceasornicarie etc.
+   Lungime           Taiere
+CR408160
+CR408180
+160
+180
+0
+0
+0,012
+0,015
+23.93
+26.49
+   Lungime           Taiere
+CF/409
+CX403160
+CX403180
+160
+180
+0
+0
+120
+150
+23.93
+26.49
+Pila ac cutit
+• pentru lucrari de precizie, ceasornicarie etc.
+CXCR/404
+Pila ac plata muchiile danturate rotunjite
+• pentru lucrari de precizie, ceasornicarie etc.
+   Lungime           Taiere
+CF409160
+CF409180
+160
+180
+0
+0
+120
+150
+23.93
+26.49
+   Lungime                             
+CJ6415160
+CJ6415180
+CJ12400160
+CJ12400180
+160
+180
+160
+180
+6
+6
+12
+12
+168.33
+184.20
+315.93
+342.36
+   Lungime           Taiere
+CXCR404160
+CXCR404180
+160
+180
+0
+0
+120
+150
+23.93
+26.49

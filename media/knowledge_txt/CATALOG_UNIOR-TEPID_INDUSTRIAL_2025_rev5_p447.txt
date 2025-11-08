@@ -1,0 +1,267 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:447]
+MF
+2,0 
+ mm
+1,5 
+ mm
+Filet surub
+Amb
+8030161
+1915
+NOU
+Perforator cu surub
+• pentru o perforare exacta si fara bavuri a tablei din diferite materiale precum aluminiu, fier, otel inoxidabil, cupru si alama
+• grosimea maxima a materialului 2 mm
+Freza cilindro frontala extralunga, 
+HSS-E8 (Co 8%), Z4
+• material: HSS-E8 (Co 8%)
+• varf drept, fara sanfren
+• pentru oteluri cu rezistenta la rupere ≤ 1200 N/mm²
+• unghiul spirei: 40º
+• numar de dinti: Z4
+2
+d
+L
+Ø
+l1
+l2
+80301610600
+80301610800
+80301611000
+80301611200
+80301611400
+80301611600
+80301611800
+80301612000
+Ø        d2        L        l2        Z
+95
+6
+4
+110
+4
+8
+115
+4
+10
+130
+4
+12
+135
+4
+14
+155
+4
+16
+160
+4
+18
+175
+4
+20
+50
+60
+65
+75
+80
+95
+100
+110
+6
+10
+10
+12
+12
+16
+16
+20
+174.48
+237.71
+258.83
+300.20
+391.48
+407.61
+575.20
+576.41
+19150301270
+19150301520
+19150301600
+19150301650
+19150301860
+19150301900
+19150302040
+19150302250
+19150302400
+19150302500
+19150302540
+19150302600
+19150302830
+19150303000
+19150303200
+19150303250
+19150303500
+19150303700
+19150304000
+19150304050
+19150304500
+19150304700
+19150305000
+19150305050
+19150306000
+19150306350
+d
+12,7
+15,2
+16,0
+16,5
+18,6
+19,0
+20,4
+22,5
+24,0
+25,0
+25,4
+26,0
+28,3
+30,0
+32,0
+32,5
+35,0
+37,0
+40,0
+40,5
+45,0
+47,0
+50,0
+50,5
+60,0
+63,5
+M25
+M32
+M40
+M50
+M63
+ø d
+DIN 1412 A
+Intre dimensiuni
+Dimensiuni teava
+M12
+M16
+PG7
+PG9
+PG11
+M20
+PG13,5
+PG16
+1/2"
+PG21
+3/4"
+Toli
+1/2"
+3/4"
+7/8"
+1"
+MF8x1.0
+MF8x1.0
+MF8x1.0
+MF10x1.0
+MF10x1.0
+MF10x1.0
+MF10x1.0
+MF10x1.0
+MF10x1.0
+MF10x1.0
+MF10x1.0
+MF12x1.5
+MF12x1.5
+MF12x1.5
+MF12x1.5
+MF12x1.5
+PG29
+PG36
+PG48
+1.3/8"
+MF12x1.5
+MF12x1.5
+MF12x1.5
+MF16x1.5
+MF16x1.5
+MF16x1.5
+MF16x1.5
+MF16x1.5
+MF16x1.5
+MF16x1.5
+1.1/2"
+2.1/2"
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+135.90
+135.90
+135.90
+142.62
+152.79
+152.79
+152.79
+167.05
+167.05
+183.11
+183.11
+183.11
+183.11
+203.44
+203.44
+234.59
+234.59
+234.59
+320.82
+320.82
+380.98
+380.98
+418.20
+459.02
+614.43
+706.07
+NOU
+BL 2835
+NOU
+BL 1663
+Trusa perforat tabla 6 piese
+Trusa perforat tabla 12 piese
+19151330006
+230
+6 piese
+1x Ø 18,3 · 32,0 · 35,0 mm
+2x surub de schimb MF 12 x 1,5
+1x burghiu in trepte Gr. 2 / 6 – 20 mm
+974.75
+2530
+19151330012
+12 piese
+1x Ø 16,5 · 20,4 · 25,4 · 32,5 · 40,5 · 50,5 · 63,5 mm
+1x surub de schimb MF 10 x 1,0 · MF 12 x 1,5 · MF 16 x 1,5
+1x burghiu in trepte Gr. 2 / 6 – 20 mm
+1x pasta gaurire BP20
+3047.38

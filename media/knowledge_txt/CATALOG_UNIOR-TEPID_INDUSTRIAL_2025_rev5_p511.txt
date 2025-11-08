@@ -1,0 +1,162 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:511]
+Mod de utilizare
+1
+2
+3
+4
+       Curatati filetul deteriorat cu un burghiu standard. Pentru repararea un filet de bujie nu este necesară o pre-gaurire 
+1
+daca se foloseste tarodul special cu varf de ghidare.
+        Folositi trodul potrivit pentru formarea filetului de sustinere in orificiul curatat. Tarodul este potrivit gauri infundate si 
+2
+strapunse. Este recomandat sa folositi un ulei potrivit pentru aschiere.
+3
+        Asezati insertia pe scula de instalare si pozitionati inelul reglabil, astfel incat coada insertiei sa fie centrata in fanta de 
+fixare. Introducerea insertiei se face cu presiune redusa de la 1/4 pana la 1/2 rotatii sub nivelul suprafatei. Nu rotiti împo-
+triva directiei de filetare, deoarece coada insertiei poate fi rupta.
+4
+        Scoateti instrumentul de motaj indepartati coada insertiei cu ajutorul instrumentul special pe care il apasati brusc. 
+Pentru dimensiuni mai mari de M12 precum si pentru filetele de bujii, folositi un cleste de varf lung pentru a indeparta coa-
+da insertiei.
+Trusa reconditionat filete cu insertii metric pas normal
+• burghiu DIN 338 (art. 1121) pana la M12
+• tarod STI
+• scula montaj
+• pin rupere pana la M12
+• insertii 1,5xD
+GR-M3 – GR-M12
+GR-M14 – GR-M24
+Set                        Filet                      Pas                       Burghiu                      Tarod                           Scula montaj                Pin rupere                    Insertii
+46011330300
+46011330400
+46011330500
+46011330600
+46011330800
+46011331000
+46011331200
+46011331400
+46011331600
+46011331800
+46011332000
+46011332200
+46011332400
+GR-M3
+GR-M4
+GR-M5
+GR-M6
+GR-M8
+GR-M10
+GR-M12
+GR-M14
+GR-M16
+GR-M18
+GR-M20
+GR-M22
+GR-M24
+M 3
+M 4
+M 5
+M 6
+M 8
+M 10
+M 12
+M 14
+M 16
+M 18
+M 20
+M 22
+M 24
+0,50
+0,70
+0,80
+1,00
+1,25
+1,50
+1,75
+2,00
+2,00
+2,50
+2,50
+2,50
+3,00
+3,20
+4,20
+5,20
+6,30
+8,30
+10,40
+12,40
+-
+-
+-
+-
+-
+-
+M3 x 0,50
+M4 x 0,70
+M5 x 0,80
+M6 x 1,00
+M8 x 1,25
+M10 x 1,50
+M12 x 1,75
+M14 x 2,00
+M16 x 2,00
+M18 x 2,50
+M20 x 2,50
+M22 x 2,50
+M24 x 3,00
+No. 4
+No. 6
+No. 8
+No. 9
+No. 11
+No. 13
+No. 15
+No. 16
+No. 18
+No. 20
+No. 21
+No. 22
+No. 23
+No. 4
+No. 6
+No. 8
+No. 9
+No. 11
+No. 13
+No. 15
+-
+-
+-
+-
+-
+-
+20
+20
+20
+20
+20
+15
+10
+10
+10
+3
+3
+3
+3
+M
+HSS
+G
+243.11
+243.11
+253.93
+253.93
+315.74
+340.82
+413.28
+428.03
+471.48
+562.13
+616.39
+721.80
+797.87

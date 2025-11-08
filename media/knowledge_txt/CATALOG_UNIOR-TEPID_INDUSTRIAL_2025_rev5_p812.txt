@@ -1,0 +1,79 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:812]
+034855
+C-364-C
+Cleste de faltuit la 90°
+• maner plastizolat
+• adancime pliere: 58 mm  
+034555
+Cleste cu varf la 45° 80 mm
+• manere din PVC (plastizolat)
+• articulatie suprapusa
+• adancime pliere: 48 mm  
+972
+Cleste indoit la 45° pentru faltuit 
+50 mm
+• material:  forjat din otel inalt aliat
+• acoperire prin brunare
+• manson PVC
+L                   A 
+972/50 PH
+240
+50
+470
+563.69
+973
+Cleste indoit la 90° pentru faltuit 
+50 mm
+• material:  forjat din otel inalt aliat
+• acoperire prin brunare
+• manson PVC
+mm
+48
+034555
+034255
+1030
+924.59
+Cleste cu varf la 45° 22 mm
+• manere din PVC (plastizolat)
+• articulatie suprapusa
+• adancime pliere: 28 mm  
+latime
+adancime
+034855
+60
+58
+770
+660.82
+034455
+Cleste cu varf la 45° 60 mm
+• manere din PVC (plastizolat)
+• articulatie suprapusa
+• adancime pliere: 48 mm  
+034455
+mm
+48
+730
+640.66
+034255
+mm
+28
+730
+481.48
+L                   A 
+973/50 PH
+220
+50
+500
+611.64
+993
+Cleste indoit la 45° pentru faltuit 
+24 mm
+• material:  forjat din otel inalt aliat
+• acoperire prin brunare
+• manson PVC
+L                   A 
+993/24 PH
+180
+24
+225
+311.15

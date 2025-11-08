@@ -1,0 +1,246 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:105]
+QCAD06 3/8”
+Adaptor de impact cu schimbare rapida 3/8"
+• patrat de antrenare (interior) 3/8” DIN 3121 - forma G 10
+• patrat exterior 3/8”
+230.7/4
+Adaptor de impact 3/8"-1/2"
+•  material:crom molibden
+•  forjata, calire si revenire totala
+•  acoperire prin brunare dupa standardul DIN 12476
+               Patrat                             D 
+        interior 
+exterior 
+QCAD06
+3/8"
+3/8"
+  mm 
+20
+L 
+ mm 
+46
+Greutate
+         gr
+60
+432.07
+U0606 3/8”
+Intermediar cardanic de impact 3/8"
+• patrat de antrenare (interior) 3/8” DIN 3121 - forma G 10
+• patrat exterior 3/8”
+612078 3/8" - 1/2"
+D
+22
+L
+36
+67
+ 1E 
+10
+58.03
+NOU
+Adaptor de impact 3/8"
+•  material:crom molibden
+•  forjata, calire si revenire totala
+•  acoperire prin brunare dupa standardul DIN 12476
+D
+22
+22
+L
+36
+36
+67
+67
+10
+10
+20.88
+22.83
+60191
+60992
+3/8" - 1/4"
+3/8" - 1/2"
+510
+               Patrat                             D 
+        interior 
+exterior 
+U0606
+3/8"
+3/8"
+  mm 
+20,4
+L 
+ mm 
+50
+Greutate
+         gr
+130
+Prelungitor 3/8”
+• actionare: patrat 3/8”, DIN 3121 Forma G 10
+• deschidere: patrat, DIN 3121 Forma E cu stift cu arc 
+144.66
+230.6/4
+Intermediar cardanic de impact 3/8"
+•  material:crom molibden
+•  forjata, calire si revenire totala
+•  acoperire prin brunare dupa standardul DIN 12476
+E
+3/8''
+3/8''
+3/8''
+3/8''
+3/8''
+A
+3/8''
+3/8''
+3/8''
+3/8''
+3/8''
+L
+50
+75
+150
+200
+300
+D2
+19
+19
+19
+22
+22
+68
+75
+164
+213
+307
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+1000005101
+1000005102
+1000005103
+1000005104
+1000005105
+510 - 1
+510 - 2
+510 - 3
+510 - 4
+510 - 5
+510
+D
+23.9
+L
+51
+98
+ 1E 
+10
+155.08
+Prelungitor cu bila 3/8”
+• actionare: patrat 1/4”, DIN 3121 Forma G 10
+• deschidere: patrat, Forma A cu bila
+NOU
+612077
+3/8"
+510
+Prelungitor 3/8”
+• actionare: patrat 3/8”, DIN 3121 Forma G 10
+• deschidere: patrat, DIN 3121 Forma E cu stift cu arc 
+E
+1000005111
+510 - 1 - W
+3/8''
+1000005112
+510 - 2 - W
+3/8‘‘
+1000005113
+510 - 3 - W
+3/8‘‘
+A
+3/8‘‘
+3/8‘‘
+3/8‘‘
+L
+50
+75
+150
+D2
+19
+19
+19
+68
+75
+164
+ 1C 
+ 1C 
+ 1C 
+710 SWH
+Prelungitor cu eliberare rapida 3/8”
+• actionare: patrat 3/8”, DIN 3121 Forma G 10
+• deschidere: patrat, Forma A cu bila
+1
+1
+1
+1
+1
+1
+1
+1
+122.12
+85.25
+97.54
+205.65
+221.44
+165.46
+171.62
+184.85
+60963
+60964
+60965
+60966
+E
+3/8''
+3/8''
+3/8''
+3/8''
+A
+3/8''
+3/8''
+3/8''
+3/8''
+L
+75
+150
+200
+300
+D2
+19
+19
+19
+22
+68
+75
+164
+213
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+1
+1
+1
+1
+49.99
+61.13
+100.08
+111.28
+1000071950 710 SWH 3/8'
+3/8''
+E
+A
+L
+46
+D2
+20
+72
+ 1C 
+1
+485.41

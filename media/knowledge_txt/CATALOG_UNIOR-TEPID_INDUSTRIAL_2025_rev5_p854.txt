@@ -1,0 +1,65 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:854]
+39-
+Freza cilindro frontala profilata concav convex 
+cu tesire intre ele, cu rulment copier superior, 
+placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se pot utiliza atat pe CNC, cat si pe masini portabile de frezat cu sau fara masa
+• pentru adancimi de frezare mari, se recomanda trecerile multiple prin material
+A
+Exemple de profiluri care pot fi realizate 
+cu o singura trecere
+Aceste profile standard pot fi realizate intr-o singura trecere folosind freza 
+multiprofil 99-PK112.
+H
+h
+R
+R
+R
+D
+R
+Exemple de profiluri care pot fi realizate 
+cu doua treceri
+Aceste profile standard pot fi realizate din doua treceri folosind freza 
+multiprofil 99-PK112.
+D               h              H              A              C             R             Z       rpm max.
+39-53808P
+28
+14
+56,8
+8
+28
+4
+2
+24000
+227.54
+99-
+Freza multiprofil, placata CMS Z2, 
+cu coada si rulment copier inferior
+• pentru materiale compozite, placaj, lemn de esenta tare si rasinoase
+• utilizare pe masini masini de frezat portabile
+• folositi mai multe treceri atunci cand eliminati cantitati mari de material
+R
+2
+R2
+R1
+R3
+H
+h
+A
+C
+D
+R 8
+R 8
+R 6
+R 10
+D               h              H              A              C                            Z       rpm max.
+99-PK112P
+54,7
+49
+102
+12
+12,7
+2
+10000
+576.23

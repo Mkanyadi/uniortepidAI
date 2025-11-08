@@ -1,0 +1,306 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:914]
+79071
+NOU
+NOU
+FR350
+Trusa capete chei tubulare
+3/8" izolate la 1000 V 
+in cutie de aluminiu
+•  Dimensiunea cutiei : 288 x 180 x 53  mm
+79071
+6
+1500
+ 1G 
+1
+3651.48
+(8, 10, 13, 17)
+(HX 4, HX 5),
+73685 (3/8”),
+  73280 
+79072
+Trusa capete chei tubulare
+3/8" izolate la 1000 V 
+in cutie de aluminiu
+•  Dimensiunea cutiei : 288 x 180 x 53  mm
+Adaptor izolat 
+la 1000 V 
+•  material: crom vanadiu
+•  forjata, calire si revenire totala
+•  cap: cromat in concordanta cu EN12540
+•  in concordanta cu standardul EN 60900
+Avantaje:
+•  dublu strat-dubla protectie, doua straturi de culori diferite 
+•  100% control - fiecare piesa este testata
+Important
+•  daca al doilea strat devine vizibil inlocuiti scula VDE cu una noua 
+Cap cheie tubulara 1/2"
+izolat la 1000 V
+•  material: crom vanadiu
+•  forjata, calire si revenire totala
+•  cap:cromat in concordanta cu EN12540
+•  in concordanta cu standardul EN 60900
+Avantaje:
+•  dublu strat-dubla protectie, doua straturi de 
+culori diferite
+•  100% control - fiecare piesa este testata
+Important
+•  daca al doilea strat devine vizibil inlocuiti 
+scula VDE cu una noua
+73286
+73449 
+inch
+1/2” -1/4“
+1/2” - 3/8”
+190/2VDEDP
+80
+80
+505.65
+505.65
+Dimensiune
+Ø mm
+NOU
+Cap cheie tubulara 1/2"
+izolat la 1000 V
+•  material: crom vanadiu
+•  forjata, calire si revenire totala
+•  cap: cromat in concordanta cu EN12540
+•  in concordanta cu standardul EN 60900
+Avantaje:
+•  dublu strat-dubla protectie, doua straturi de 
+culori diferite
+•  100% control - fiecare piesa este testata
+Important
+•  daca al doilea strat devine vizibil inlocuiti 
+scula VDE cu una noua
+79072
+10
+2000
+ 1G 
+1
+3672.60
+(8-10-13-14-17-19-21)
+(HX 5),
+73685 (3/8”),
+  73280 
+79073
+NOU
+Trusa capete chei tubulare
+3/8" izolate la 1000 V 
+in cutie de aluminiu
+•  Dimensiunea cutiei : 288 x 180 x 53  mm
+79073
+2000
+26
+(6-7-8-9-10-11-12-13-14-16-17-18-19-20-21-22-23-24)
+9515.41
+ 1G 
+1
+(HX 4, HX 5. HX 6, HX 7),
+73685 (3/8”),
+  73281
+(3/8"-1/2" - 3/8"-1/4"),
+D1 D2
+L
+T
+617803 8
+18 27.4 54.6 12
+612195 10
+18
+26 51.5 12
+612196 11 19.5 26.5 51.5 12
+612197 12 20.5 26.5 51.5 12
+612198 13 21.5 26.5 51.5 12
+612199 14 22.5 26.5 51.5 12
+621594 15 51.5 23.5 26.5 12
+621595 16 51.5 26 25.2 12
+612200 17
+28
+26 51.5 12
+621596 18 51.5 28.5 26.5 12
+612201 19
+30
+28 51.5 14
+65
+72
+75
+74
+77
+75
+78
+82
+83
+94
+96
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+621597 20 51.5 31.3 27.3 14
+106  4B 
+621598 21 51.5 32.5 28.2 14
+115  4B 
+612202 22
+34
+29 51.5 14
+108  4B 
+612203 24
+37 32.5 55
+617804 27 40.5 32.5 58
+16
+18
+158  4B 
+176  4B 
+621602 30 59.5 44 37.1 22
+247  4B 
+621603 32 59.5 46.6 39.4 22
+284  4B 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+66.56
+67.70
+67.70
+68.20
+68.52
+68.52
+68.52
+69.02
+72.46
+74.92
+78.36
+78.36
+82.13
+86.72
+92.13
+100.98
+121.15
+125.08
+98.67
+98.67
+98.67
+98.67
+98.67
+98.67
+99.68
+99.68
+100.95
+100.95
+100.95
+100.95
+111.27
+111.27
+111.27
+111.27
+116.65
+124.69
+124.69
+126.24
+126.24
+128.61
+350082
+350099
+350105
+350112
+350129
+350136
+350143
+350150
+350167
+350174
+350181
+350198
+350204
+350211
+350228
+350235
+350242
+350266
+350273
+350280
+350303
+350327
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+26
+27
+28
+30
+32
+60
+58
+60
+63
+64
+64
+67
+63
+69
+74
+91
+83
+101
+107
+114
+118
+117
+138
+181
+185
+195
+200
+190.1VDE
+Antrenor cu clichet reversibil 
+1/2” izolat la 1000 V
+•  material: crom vanadium
+•  cu 36 dinti
+•  unghiul minim de rotatie 10°
+•  Buton de schimbare sens
+•  100% control - fiecare piesa este testata
+•  in concordanta cu standardul EN 60900
+L
+612206 1/2" 275
+B
+46
+A
+66
+553
+ 4B 
+1
+708.03

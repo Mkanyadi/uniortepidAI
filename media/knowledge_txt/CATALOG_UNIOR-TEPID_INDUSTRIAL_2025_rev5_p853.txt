@@ -1,0 +1,118 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:853]
+48-
+39-
+Freza profilata in V placata CMS Z-2, 
+cu coada si rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, laminate, placaj, lemn masiv.
+• se pot utiliza pe masini portabile de frezat
+• pentru adancimi de frezare mari, se recomanda trecerile multiple prin material
+Freza cilindro frontala profilata complex, 
+placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se pot utiliza atat pe CNC, cat si pe masini portabile de frezat cu sau fara masa
+• pentru adancimi de frezare mari, se recomanda trecerile multiple prin material
+A
+C
+D
+H
+h
+α
+A
+D
+H
+h
+R
+R
+4
+,
+5
+2
+R
+R
+D            h              H            A            C                       Z         rpm max.
+α
+48-10208P
+15,8
+25,4
+71,5
+8
+12,7
+90°
+2
+24000
+163.77
+39-
+D               h              H              A                            R             Z       rpm max.
+39-10208P
+39-11408P
+25,4
+31,8
+12,7
+12,7
+44,7
+44,7
+8
+8
+3,2
+4
+2
+2
+24000
+24000
+169.84
+201.15
+39-
+Freza cilindro frontala profilata sinusoidal, 
+cu tesire sus, cu rulment copier superior, 
+placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv
+• se pot utiliza pe masini portabile de frezat cu sau fara masa
+A
+Freza cilindro frontala profilata complex, 
+placata CMS, Z2, cu coada
+• pentru materiale compozite, placaj, lemn de esenta tare si rasinoase
+• utilizare pe masini masini de frezat portabile
+• folositi mai multe treceri atunci cand eliminati cantitati mari de material
+A
+h
+R
+R
+D
+H
+R
+R
+R
+D
+H
+h
+R
+D               h              H              A              C            R             Z       rpm max.
+39-52808P
+28
+14
+56,8
+8
+28
+4
+2
+24000
+227.54
+D               h              H              A                            R             Z       rpm max.
+39-30408P
+39-30608P
+15,8
+22,2
+9,5
+12
+41,5
+44
+8
+8
+2,4
+3,2
+2
+2
+24000
+24000
+145.25
+174.75

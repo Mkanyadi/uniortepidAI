@@ -1,0 +1,145 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:191]
+528/4BP
+Cleste pentru ceramica
+•  material: compozitie speciala pentru calire 
+revenire
+•  tratat complet
+•  partile taietoare tratate prin inductie
+•  cap vopsit
+•  acoperire: fosfatare conform standardului DIN 
+12476
+•  manere de plastic
+Avantaje:
+•  arc de redeschidere
+429/3
+Cleste menghina
+•  falci forjate din otel special de scule
+•  manere din tabla
+•  acoperire nichelare
+•  surub fosfatat
+•  falci simetrice
+432/3C
+Cleste menghina pentru sudura
+•  falci forjate din otel special de scule
+•  manere din tabla
+•  acoperire nichelare
+•  surub fosfatat
+Utilizare
+•  pentru table si profile
+L
+613101 175
+605206 250
+613102 300
+A
+10
+12
+14
+430/3
+30
+35
+40
+362
+596
+ 1E 
+ 1E 
+1010  1E 
+10
+10
+5
+132.62
+147.54
+228.69
+Cleste menghina
+•  falci forjate din otel special de scule
+•  manere din tabla
+•  acoperire nichelare
+•  surub fosfatat
+L
+A
+B C D
+601144 280 82
+10
+55
+50 717  1E 
+5
+191.48
+434/3C
+Cleste menghina
+•  falci forjate din otel special de scule
+•  manere din tabla
+•  acoperire nichelare
+•  clesti menghina
+A D
+8.4
+8
+240
+ 4B 
+10
+64.43
+L
+612988 200
+B
+40
+558/5P
+Cleste de perforat cu 6 pozitii
+•  manerul confectionat din tabla
+•  preducelele confectionate din otel special de 
+scule, tratate, ascutite
+•  acoperire:zincare
+•  manere de plastic
+•  dimensiuni preducele:2, 2.5, 3, 3.5, 4, 5
+L
+601551 175
+601552 250
+601553 300
+A
+10
+12
+14
+432/3A
+30
+35
+40
+365
+596
+ 1E 
+ 1E 
+1023  1E 
+10
+10
+5
+128.36
+144.10
+223.11
+Cleste menghina pentru sudura
+•  falci forjate din otel special de scule
+•  manere din tabla
+•  acoperire nichelare
+•  surub fosfatat
+Utilizare
+•  pentru tevi indoite
+L
+616723 250
+A
+16
+80
+615
+ 1E 
+5
+221.48
+L
+601557
+210
+287
+ 4B 
+10
+122.46
+L
+A
+B C D
+601142 280 30
+76
+75
+45 851  1E 
+5
+197.38

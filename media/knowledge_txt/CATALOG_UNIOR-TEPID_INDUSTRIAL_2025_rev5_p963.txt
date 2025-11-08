@@ -1,0 +1,359 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:963]
+Surubelnite Phillips izolate la 
+1000 V pentru lucru la 
+inaltime
+• lama:otel crom vanadium molibden tratata integral
+• capat brunat
+• maner: forma ergonomica
+• in conformitate cu standardul ISO EN 60900
+• greutatea sculei este marcata pe fiecare scula
+Surubelnite TORX® izolate 
+la 1000 V pentru lucru la 
+inaltime
+• lama:otel crom vanadium molibden tratata integral
+• capat brunat
+• maner: forma ergonomica
+• in conformitate cu standardul ISO EN 60900
+• greutatea sculei este marcata pe fiecare scula
+Surubelnite imbus izolate la 
+1000 V pentru lucru la 
+inaltime
+• lama:otel crom vanadium molibden tratata integral
+• capat brunat
+• maner: forma ergonomica
+• in conformitate cu standardul ISO EN 60900
+• greutatea sculei este marcata pe fiecare scula
+AD766287
+PH-0
+AD767387
+PH-1
+AD766297
+PH-1
+AD766307
+PH-2
+AD766317
+PH-3
+AD766327
+PH-4
+L
+60
+80
+100
+125
+150
+200
+0.030
+0.088
+0.880
+0.105
+0.040
+0.165
+125.09
+140.62
+142.94
+173.26
+236.55
+294.06
+Surubelnite SL/PH izolate la 
+1000 V pentru lucru la 
+inaltime
+• lama:otel crom vanadium molibden tratata integral
+• capat brunat
+• maner: forma ergonomica
+• in conformitate cu standardul ISO EN 60900
+• greutatea sculei este marcata pe fiecare scula
+AD766387
+TX 6
+AD766397
+TX 7
+AD766407
+TX 8
+AD766417
+TX 9
+AD766427
+TX 10
+AD766437
+TX 15
+AD766447
+TX 20
+AD766457
+TX 25
+AD766467
+TX 27
+AD766477
+TX 30
+AD766487
+TX 40
+AD766497
+TX 45
+AD766507
+TX 50
+L
+50
+50
+50
+75
+75
+75
+100
+100
+115
+125
+125
+150
+175
+0.050
+0.050
+0.050
+0.200
+0.050
+0.050
+0.050
+0.050
+0.200
+0.200
+0.200
+0.040
+0.040
+146.08
+146.08
+146.08
+146.08
+146.08
+146.08
+158.64
+163.76
+165.08
+171.44
+195.90
+223.74
+236.96
+AD747107
+2,5
+AD747117
+AD747127
+AD747137
+AD747147
+AD747157
+3
+4
+5
+6
+8
+L
+75
+.75
+100
+100
+125
+150
+0.050
+0.050
+0.050
+0.100
+0.100
+0.200
+142.52
+147.81
+160.95
+168.88
+183.51
+212.01
+Surubelnite cap tubular 
+izolate la 1000 V pentru 
+lucru la inaltime
+• lama:otel crom vanadium molibden tratata integral
+• capat brunat
+• maner: forma ergonomica
+• in conformitate cu standardul ISO EN 60900
+• greutatea sculei este marcata pe fiecare scula
+Surubelnite Temper TORX® 
+izolate la 1000 V pentru 
+lucru la inaltime
+• lama:otel crom vanadium molibden tratata integral
+• capat brunat
+• maner: forma ergonomica
+• in conformitate cu standardul ISO EN 60900
+• greutatea sculei este marcata pe fiecare scula
+AD791637
+PH-1
+AD791647
+PH-2
+L
+100
+125
+0.074
+0.104
+153.18
+187.06
+Surubelnite Pozidrive izolate 
+la 1000 V pentru lucru la 
+inaltime
+• lama:otel crom vanadium molibden tratata integral
+• capat brunat
+• maner: forma ergonomica
+• in conformitate cu standardul ISO EN 60900
+• greutatea sculei este marcata pe fiecare scula
+AD750377
+AD750387
+AD750397
+AD750407
+TT 6
+TT 7
+TT 8
+TT 9
+AD750417
+TT 10
+AD750427
+TT 15
+AD750437
+TT 20
+AD750447
+TT 25
+0.070
+0.088
+0.105
+0.170
+0.210
+125.09
+AD750457
+TT 27
+143.85
+AD750467
+TT 30
+175.16
+AD750477
+TT 40
+243.66
+AD750487
+TT 45
+298.19
+AD750497
+TT 50
+L
+50
+50
+50
+75
+75
+75
+100
+100
+115
+125
+125
+150
+175
+0.028
+0.028
+0.028
+0.030
+0.050
+0.050
+0.072
+0.073
+0.100
+0.103
+0.165
+0.180
+0.240
+146.08
+146.08
+146.08
+146.08
+146.08
+146.08
+158.64
+163.76
+165.08
+171.44
+195.90
+223.74
+236.96
+AD766337
+PZ-0
+AD766347
+PZ-1
+AD766357
+PZ-2
+AD766367
+PZ-3
+AD766377
+PZ-4
+L
+60
+100
+125
+150
+200
+L
+150
+150
+150
+160
+175
+175
+175
+175
+175
+175
+175
+175
+0.100
+0.120
+0.093
+0.120
+0.120
+0.130
+0.130
+0.180
+0.235
+0.170
+0.230
+0.180
+198.38
+211.60
+211.60
+211.60
+232.09
+245.72
+248.70
+252.83
+282.90
+290.83
+316.69
+338.09
+AD746987
+AD746997
+4
+5
+AD747007
+5,5
+AD747017
+AD747027
+AD747037
+AD747047
+AD747057
+AD747067
+AD747077
+AD747087
+AD747097
+6
+7
+8
+9
+10
+11
+12
+13
+14
+AD586417
+Lanterna de buzunar si inel pentru 
+sistem anticadere
+LED        LUMENI        L
+AD586417
+CREE XPG
+100
+150
+0,057
+572.49

@@ -1,0 +1,206 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:633]
+TIG AC/DC 180 HF PULSED
+NOU
+MIG 165 MULTI
+NOU
+Aparat de sudura TIG AC/DC 180 HF PULSED
+AVANTAJELE PRODUSULUI
+• echipament profesional de sudura TIG, cu 60% ciclu de lucru si 200 Amperi, special potrivit pentru inox, aluminiu, aliaje si toate tipurile de oteluri.
+• panou de control intuitiv gestionat de microprocesor cu software STAYER.
+• setari profesionale ale HF-HV (inalta frecventa / inaltă tensiune) 2T/4T, mod optional de control DC, mod puls, control AC, control rampă si gaz, 
+debit si post debit. Sudarea prin puncte cu si fara repetare.
+• structura metalica robusta ranforsata, componente de calitate, filtru EMI de ultima generatie si sistem dublu de ventilatie.
+• pregatit pentru utilizare generatoare stabilizate, cu o abatere de intrare a tensiunii de +/-17%.
+PEAK
+CURRENT
+PULSE
+FREQUENCY
+UP
+SLOPE TIME
+GAS
+PRE - FLOW
+IGNITION
+CURRENT
+PULSE
+WIDTH
+BASE
+CURRENT
+DOWN
+SPLOPE TIME
+FINISH
+CURRENT
+GAS
+POST - FLOW
+SPOT
+WELDING TIME
+IGNITION
+CURRENT
+ARC
+FORCE
+AC PULSED 
+DC PULSED 
+• 
+•
+AC  •
+DC  •
+MMA 
+•
+MMA CURRENT
+SPOT WELDING 
+•
+ANTI STICK 
+•
+REPEAT 4T 
+REPEAT 2T 
+•
+•
+4T  •
+2T  •
+LIFT ARC 
+•
+HF START 
+•
+GAS CHECK 
+•
+VRD  •
+Invertor de sudura MIG MULTI LINE / 
+MIG - MAG 160 A
+AVANTAJELE PRODUSULUI
+• proiectat pentru sudare MIG, TIG si MMA de inalta calitate.
+• setari MIG usoare, configuratie usoara pentru sudarea flux
+• cu gaz, conectati lanterna la polul pozitiv (+).
+• cu miez de flux, conectati torta la polul negativ (-).
+• setari eficiente si simple ale firului cu 2 butoane: unul pentru 
+viteza si altul pentru tensiune. Un comutator permite diferite 
+moduri de lucru fir (MIG) & Electrod (MMA) & TIG.
+• protejat impotriva temperaturilor ridicate si supratensiunii.
+• complet echipat cu torte, role, impamantare si clesti pentru 
+electrozi
+• tehnologie IGBT bazata pe un microprocesor de ultima 
+generatie capabil sa utilizeze pana la 160-170 Amperi.
+• portabil si robust: compact, greutate redusa datorita circuitelor 
+invertorului. Componente supradimensionate de calitate.
+• MIG 160 pentru bobine de la 0,5 la 1Kg.
+• MIG165 / 170 pentru bobine de la 0,5 la 5Kg.
+• pregatit pentru utilizare generatoare stabilizate, cu o abatere 
+de intrare a tensiunii de +/-17%.
+• proiectat si produs conform reglementarilor europene 
+2014/35/UE, 2014/30/EU si 2011/65/UE care garanteaza un 
+design sigur si robust
+TIG AC/DC 180 HF PULSED
+1.2887
+14000
+6803.28
+Putere de iesire
+200 A
+Tensiune de alimentare
+230 V
+Ciclu de funcționare
+60 %
+Electrozi acoperiți
+1.6 - 6 mm
+Electrozi de wolfram
+3.25 mm
+Utilizarea generatorului
+9 KVA / 230V ±17%
+Dimensiuni
+- cm
+Greutate
+13 kg
+Conector DINSE
+1/2” (35 - 50) ø
+Cablu de alimentare
+2m x 2.5 mm²
+Torta TIG HF
+4m x 16 mm²
+Accesorii lanterne
+Furtun de gaz
+NOU
+~
+MIG 131 MULTI
+SPOT
+HF
+PULSED
+Aparat de sudura FLUX CORE WELDER - 120A
+AVANTAJELE PRODUSULUI
+• echipament de sudura cu Fundent Center Arc Welding FCAW (miez de flux, cu Torta incorporata). STAYER MIG MULTI LINE, 
+potrivit pentru electrozi acoperiți.
+• grup ușor și multifuncțional pentru sudarea sârmei cu lanternă încorporată pentru bobine de până la 1 kg fără gaz.
+• configurație est și cu moduri de sudare pentru miez de flux de 0,9 mm și 1 mm și electrod acoperit, cu un singur buton.
+• setări profesionale, sinergice pentru viteza firului și puterea de ieșire cu timpi de răspuns rapid, sincronizând ambele valori.
+• configurare usoara fara a fi necesare rezervoare de gaz datorita Flux Core, instrument flexibil si versatil.
+• design compact, cu maner de transport si greutate redusa, potrivit pentru uz casnic cu limita de admisie de 16A.
+• tehnologie IGBT bazata pe un microprocesor de ultima generatie capabil sa utilizeze pana la 120 de Amperi.
+• pregătit pentru utilizare generatoare stabilizate, cu o abatere de intrare a tensiunii de +/-17%.
+• proiectat și produs conform reglementărilor europene 2014/35/UE, 2014/30/EU și 2011/65/UE care garantează un design sigur și solid
+MIG 131 MULTI
+1.2687
+27000
+1967.21
+Putere de iesire
+120 A
+Tensiune de alimentare
+230 V
+Ciclu de funcționare
+30 %
+Electrozi acoperiti
+1.6 - 3.2 mm
+Grosimea firului
+0.9 mm
+Greutatea bobinei
+0.5 - 1 kg
+Generator recomandat
+2.5 - 5 KVA / 230V ±17%
+FLUX
+SYNERGIC
+MIG 165 MULTI
+1.2688
+13000
+3278.69
+Putere de iesire
+160 A
+Tensiune de alimentare
+230 V
+Ciclu de functionare
+60 %
+Electrozi acoperiti
+1.6 - 4 mm
+Grosimea firului
+0.6 - 1.0 mm
+Greutatea bobinei
+0.5 - 1 - 5 kg
+Generator recomandat
+7 KVA / 230V ±17%
+Dimensiuni
+42 x 31 x 18 cm
+Greutate
+13.0 kg
+Dimensiuni
+31.5 x 25.5 x 13.5 cm
+Conector DINSE
+3/8” (10 - 25) ø
+Greutate
+2.5 kg
+Cablu de alimentare
+2.0 m x 2.5 mm²
+Conector DINSE
+3.8” (10 - 25) ø
+Cablu + cleste de impamantare
+1.5 m - 16 mm²
+Cablu de alimentare
+2
+Cablu + cleste electrod
+2.5 m - 16 mm²
+Cablu + cleste de împământare
+2.5m - 10 mm²
+Torta MIG
+15 AK
+Cablu + cleste electrod
+2.5m - 10 mm²
+Varfuri de contact incluse
+1.0 mm
+SYNERGIC
+FLUX
+Torta sarmă
+Role incluse
+0.8 - 1.0 mm

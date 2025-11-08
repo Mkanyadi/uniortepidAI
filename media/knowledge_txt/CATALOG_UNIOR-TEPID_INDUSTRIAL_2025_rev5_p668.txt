@@ -1,0 +1,61 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:668]
+MASTEREX 76757
+NOU
+79815
+NOU
+79999
+NOU
+Ulei hidraulic
+Furtune hidraulice
+• lungime: 10 m
+• racorduri: 1/4”
+79815
+litri
+20
+18560
+3084.25
+79999
+m
+10
+6500
+22075.61
+Pompa hidraulica cu actionare 
+electrica
+• pompa hidraulica ATEX EGA Master 76757 nu numai ca ofera cele
+mai bune performante in ceea ce priveste presiunea si debitul pentru 
+lucrul rapid si ergonomic, dar asigura si respectarea masurilor de 
+siguranta cerute de Directiva 2014/34/UE pentru
+medii explozive
+• aceste pompe sunt potrivite pentru operatiuni de ridicare prin 
+actionarea cilindrilor hidraulici, pentru operatiuni de testare a presiunii 
+si operatiuni de strangere hidraulica a suruburilor folosind chei 
+dinamometrice hidraulice
+• in conformitate cu directiva ATEX 2014/34/UE, astfel incat acestea 
+pot fi utilizate in atmosfere explozive din zona 1 si zona 2 de risc
+• capacitate rezervor de pana la 10 litri.
+• motor electric trifazat, 1,1 kW
+• supapă electrica pentru controlul cheii hidraulice
+• accesorii incluse: cleste de impamantare, cadru cu roti, bloc cvadruplu 
+pentru a utiliza pana la 4 chei dinamometrice, manometru 0/100 bar, 
+telecomandă cu buton de control (cablu de 5 m) si supapa de evacuare 
+externa reglabila
+ZONE 1, 2 GAZ
+76757
+Putere
+1,1 kW
+45000
+178102.31
+Tensiune
+Putere
+Capacitate
+Debit
+Porturi
+Categorie ATEX
+Dimensiuni
+400 V
+1,1 kW
+10 l
+ 7,5l/min. @ 70 bar / 0,9l/min @ 700 bar 
+4
+EX II 2G Ex IIB T3 Gb X Tmax = +90ºC
+520x520x640 mm

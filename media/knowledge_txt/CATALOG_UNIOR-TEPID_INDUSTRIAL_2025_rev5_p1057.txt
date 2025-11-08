@@ -1,0 +1,201 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1057]
+990CAU
+990B
+Perete perforat, 2 bucati in set
+• vopsite cu vopsele ecologice fara cadmiu si plumb
+• material: tabla
+990SL-BLACK
+Suport stanga, tabla perforata
+pentru bancuri modulare
+• acoperit cu vopseaecologică de calitate Qualicoat
+• material: tablă premium PLUS
+Dulap suspendat pentru banc de lucru
+• material: tablă premium PLUS
+• usa blocata cu incuietoare si cheie plianta
+• încuietoare cu cheie inclusă și breloc din spumă
+• acoperit cu vopsea ecologică de calitate Qualicoat
+• capacitatea maximă de încărcare a dulapului suspendat 
+de 1000 mm este de 40 kg, pentru 1250 mm și 1500 mm 
+este de 50 kg. Capacitatea de încărcare a raftului este de 15 kg
+• usa suspendata cu mecanism telescopic
+• in partea inferioară a dulapului este amplasat un suport 
+de lumină
+• două posibilități de agățare - pe piciorul de sprijin al bancului 
+de lucru modular sau pe perete. Pentru agățarea pe perete 
+este inclus un suport suplimentar. 
+L
+1000
+1250
+1500
+B
+350
+350
+350
+H
+510
+510
+510
+20000
+24000
+28000
+2745.57
+3072.30
+4052.79
+627088
+627089
+627090
+990NCA
+Vestiar
+• tabla cu gauri perforate
+• usi incuiate cu cheie de blocare si pliere
+• vopsite cu vopsele ecologice fara cadmiu si plumb
+• 5 rafturi reglabile in inaltime
+• dimensiuni L 500 x W 450 x H 2065 mm
+A         B        A1        B1          L
+627694
+32
+45
+80
+75
+1155
+2604
+350.35
+990SR-BLACK
+Suport dreapta, tabla perforata
+pentru bancuri modulare
+• acoperit cu vopseaecologică de calitate Qualicoat
+• material: tablă premium PLUS
+1mm
+A              B             H
+625652
+625653
+625654
+952
+1202
+1436
+28
+28
+28
+1018
+1018
+1018
+12600
+16400
+19800
+844.10
+1001.80
+1229.34
+A         B        A1        B1          L
+627690
+32
+45
+80
+75
+1155
+2610
+350.35
+990BA
+Panou spate perforat pentru banc
+modular de colt, set 4 bucati
+•  confectionat din tabla
+• 
+vopsite cu vopsele ecologice fara cadmiu si plumb
+990SM-BLACK
+Suport de mijloc, tabla perforata
+pentru bancuri modulare
+• acoperit cu vopseaecologică de calitate Qualicoat
+• material: tablă premium PLUS
+A         B        A1        B1          L
+627691
+32
+45
+80
+70
+1155
+2600
+352.87
+990C
+Traversa bancuri modulare
+• vopsite cu vopsele ecologice fara cadmiu si plumb
+• material: tabla
+L
+B
+H
+Lorem 
+628201
+228
+28,5
+509
+6700
+664.10
+990BA1
+Set de acoperire pentru banc modular
+pentru unghi, set de 2 bucati
+•  confectionat din tabla
+• 
+vopsite cu vopsele ecologice fara cadmiu si plumb
+A           L           B          H
+625636
+625637
+625638
+1500
+2000
+2500
+1425
+1925
+2302
+80
+80
+80
+40
+40
+40
+3400
+4800
+6000
+326.23
+360.49
+419.34
+990C-BLACK
+Traversa bancuri modulare
+• vopsite cu vopsele ecologice fara cadmiu si plumb
+• material: tabla
+Hmin.
+Hmax.
+H
+1mm
+B
+L
+L        B         H         Hmin                Hmax
+L
+B
+H
+625745
+500
+450
+2065
+120
+1620
+54000
+5392.79
+628203
+241,4
+130
+31,8
+700
+155.94
+A           L           B          H
+629603
+629602
+1500
+2000
+1425
+1925
+80
+80
+40
+40
+3400
+4800
+326.23
+360.49

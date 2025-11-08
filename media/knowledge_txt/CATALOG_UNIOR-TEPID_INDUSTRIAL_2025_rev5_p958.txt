@@ -1,0 +1,152 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:958]
+AD790577
+AD790587
+NOU
+Foarfeca universala izolata 
+la 1000 V cu inel pentru 
+carabiniera
+• fara bresa
+Foarfeca universala izolata 
+la 1000 V cu inel pentru 
+carabiniera
+• cu bresa ingusta
+Cheie reglabila TITACROM®
+izolata la 1000 V cu rola 
+laterala inel si pentru 
+carabiniera
+L
+160
+AD790577
+AD730297
+Minibomfaier izolat 
+la 1000 V cu inel pentru 
+carabiniera
+• cu panza 150 mm 6 TPI
+0.098
+389.82
+AD790587
+L
+160
+AD790597
+Foarfeca universala izolata 
+la 1000 V cu inel pentru 
+carabiniera
+• cu bresa larga
+AD765787
+AD765807
+AD765817
+L (mm)
+L (inch)
+150
+250
+300
+6
+10
+12
+0.098
+389.82
+AD794727
+0.200
+421.21
+0.600
+559.03
+1.000
+745.92
+NOU
+Cheie reglabila TITACROM®
+izolata la 1000 V cu rola 
+laterala inel si pentru 
+carabiniera
+• proiectata pentru lucrul sub tensiune sau in vecinatatea 
+instalatiilor sub tensiune
+• izolatia PVC ofera aderenta maxima si siguranta impotriva
+eventualelor evenimente neprevazute.
+• marcaj cu laser de nesters
+L
+150
+TPI
+6
+0.500
+629.01
+AD790597
+L
+160
+0.098
+425.67
+AD794727
+300
+40
+120
+38
+L (mm)
+A
+B
+C
+AD730297
+AD730307
+D
+14
+0.980
+1371.13
+NOU
+Bomfaier izolat 
+la 1000 V cu inel pentru 
+carabiniera
+• cu panza 300 mm 12 TPI
+Cheie reglabila TITACROM®
+izolata la 1000 V cu inel 
+pentru carabiniera
+Cheie reglabila fosfatata
+izolata la 1000 V cu inel 
+pentru carabiniera
+AD730307
+L
+300
+TPI
+12
+AD765507
+AD765517
+AD765527
+0.600
+1469.28
+AD765537
+L (mm)
+L (inch)
+L (mm)
+L (inch)
+150
+200
+250
+300
+6
+8
+10
+12
+0.215
+262.82
+AD765547
+0.375
+297.61
+AD765557
+0.611
+367.09
+0.953
+472.19
+AD765567
+AD765577
+150
+200
+250
+300
+6
+8
+10
+12
+0.220
+252.74
+0.420
+285.46
+0.670
+352.06
+1.005
+451.86

@@ -1,0 +1,235 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:610]
+M 1200 C
+H4
+NOU
+DX 1800 B
+NOU
+Amestecator 1200 W
+AVANTAJELE PRODUSULUI
+• motor puternic S1 pentru utilizare continua
+• 6 trepte de control electronic al cuplului
+• maner ergonomic
+• corp din aluminiu, robust si usor
+• 2 trepte de viteza pentru cuplu maxim
+DOTAREA STANDARD
+• 1 paleta H2 Ø 160 mm
+• 1 paleta H3 Ø 140 mm
+• cutie transport
+Paleta H3 pentru M 1100 C / M 1200 C
+/ M 1600
+• pentru materiale de inalta densitate
+• reduce incalzirea materialului
+            Ø
+114 mm
+L
+600 mm
+103.28
+12.235
+T3
+Paleta H3 pentru M 1100 C / M 1200 C
+/ M 1600
+• paleta de centrifugare combinata
+• viteza de amestecare crescuta
+12.444
+            Ø
+170 mm
+L
+600 mm
+SU 650 EDK
+Suflanta aer cald 50-650ºC
+98.36
+NOU
+DOTAREA STANDARD
+• set complet de accesorii
+• cutie din plastic pentru transport
+1.2951 
+AVANTAJELE PRODUSULUI
+• ideala pentru uscare, inlaturare 
+lac, indoire plastic, indepartarea 
+hartiei adezive
+• 2 viteze
+• electronica
+• temperatura variabila
+• debit variabil de aer
+• display digital LED
+Suflanta aer cald 350 - 600ºC
+DOTAREA STANDARD
+• set complet de accesorii
+AVANTAJELE PRODUSULUI
+• pistol cu aer cald cu rezistenta 
+ceramica
+• 2 moduri de lucru presetate flux 
+de aer și temperatura:
+1- 350ºC cu 300 l/min
+2- 600ºC cu 500 l/min
+• usuca si dezlipeste lacul. Pliaza materiale plastice. Separa hartiile
+adezive.
+• cap ranforsat impotriva temperaturilor ridicate
+WORK
+MAX
+TEMPERATURE
+2
+MODES
+600 ºC
+                    213.11
+1800 W
+300 - 500 l/min
+350 - 600ºC
+0,9 kg
+       Putere motor
+            1800 W 
+Putere motor
+Debit aer
+Temperatura
+Greutate
+LP 700 E
+NOU
+Slefuitor pentru pereti si tavan 
+Ø225 mm, 710 W 
+AVANTAJELE PRODUSULUI
+• sistem de aspirare incorporat.
+• gata pentru cuplare cu un aspirator extern.
+• 2 presetari: tavan si perete.
+• carter detasabil pentru slefuirea marginilor si colturilor.
+• regulator electronic de viteza pe 6 nivele
+DOTAREA STANDARD
+• 5 foi abrazive de gr. P60, P80, P100, P180, P240
+• furtun 4 m / cuplaj aspirare
+protectie detasabila 
+pentru acces la 
+margine
+360º
+perete
+tavan
+SOFT
+MORTAR
+PAINT
+SPEEDS
+COMPONENTS
+ELECTRONIC
+START
+1.1474 
+2
+MECHANICAL
+MADE OF
+ALUMINUM
+SPEED
+CONTROLLER
+       Putere motor  
+            1200 W 
+Putere motor
+Turatie in gol
+Filet
+Paleta
+Moment cuplu
+Greutate
+                    901.64
+1200 W
+200-400 / 350-700 rpm
+M 14
+Φ 120 mm
+20,5 Nm
+4,8 kg
+H2
+NOU
+Paleta H2 pentru M 1100 C / M 1200 C
+/ M 1600
+• pentru vopsea, fluide, materiale vascoase
+• amesteca de jos in sus
+            Ø
+120 mm
+140 mm
+140 mm (detasabil)
+160 mm
+L
+600 mm
+600 mm
+600 mm
+600 mm
+81.97
+108.20
+108.20
+113.11
+12.231
+12.232
+12.485
+12.527
+H3
+Paleta H3 pentru M 1100 C / M 1200 C
+/ M 1600
+• pentru materiale dense cu vascozitate scazuta
+• amesteca de jos in sus si penetreaza materialul
+12.887
+12.233
+12.234
+            Ø
+120 mm
+140 mm
+160 mm
+L
+600 mm
+600 mm
+600 mm
+NOU
+NOU
+98.36
+113.11
+127.87
+SCALED
+SETTINGS
+CONTROL
+MAX
+TEMPERATURE
+ELECTRONIC
+CARRY CASE
+CEILLING
+DETACHABLE
+CARTER
+BUILT-IN
+SELF ADHERING
+PLATE
+ELECTRONIC
+MODE
+CORNER
+SANDING
+VACUUMING
+ø225 mm
+       Putere motor
+6
+SPEED
+CONTROLLER
+5 to 5 ºC
+LCD
+SCREEN
+650 ºC
+SPEED
+CONTROLLER
+INCLUDED
+1.1450 
+             710 W                              1475.41
+1.834 
+       Putere motor
+            2000 W 
+Putere motor
+Debit aer
+Temperatura
+Greutate
+                    639.34
+2000 W
+250-500 l/min
+50-650ºC
+0,9 kg
+Putere motor
+Turatii in gol
+Diametru foaie abraziva
+Inaltime de lucru
+Unghi de pivotare cap
+Racord exhaustare
+Greutate
+710 W
+800 - 1700 rpm
+Φ 225 mm
+110-170 cm
+90º
+Φ 45 mm
+3,5 kg

@@ -1,0 +1,183 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:846]
+58-
+52-
+Freza din carbura solida pentru sculptura
+• se utilizeaza pe masini de frezat portabile
+Freza profilata pentru canale T, 
+placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se utilizeaza pe masini de frezat portabile sau stationare cu masa
+A
+H
+h
+α
+D
+A
+52-52212P
+F03FR02012
+H
+h
+D
+9,52
+28,58
+52-52212P
+F03FR02012
+,
+7
+2
+1
+9
+7
+,
+D               h              H             A                                Z           rpm max.
+α
+D               h              H              A                                             Z      rpm max.
+52-52212P
+28,58
+20,6
+63,5
+12
+2
+24000
+242.62
+PI01MD6083
+8
+6
+70
+8
+25°
+1
+30000
+485.25
+18-
+22-
+Freza profilata coada de randunica, 
+placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se utilizeaza pe masini de frezat portabile sau stationare cu masa
+• pentru adancimi de frezare mari, se recomanda trecerile multiple prin material
+Freza cilindro-frontala profilata convex 1/2C, 
+placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se pot utiliza atat pe CNC, cat si pe masini portabile de frezat
+• pentru adancimi de frezare mari, se recomanda trecerile multiple prin material
+A
+A
+A
+D
+H
+h
+α
+D
+D               h              H              A                                              Z      rpm max.
+α
+22-10208P
+22-10408P
+22-10508P
+22-10608P
+9,5
+12,7
+15,8
+19
+9,5
+12,7
+22,2
+22,2
+47,6
+47,5
+54,2
+54,2
+8
+8
+8
+8
+9°
+14°
+7°
+7°
+2
+2
+2
+2
+24000
+24000
+24000
+24000
+106.72
+110.33
+132.46
+136.72
+H
+h
+R
+D
+R
+Carbura solida
+H
+h
+D
+R
+D               h              H              A                              R            Z      rpm max.
+18-10008P
+18-10208P
+18-10408P
+18-10608P
+18-10808P
+18-11008P
+18-11208P
+3,2
+4,8
+6
+9,5
+12
+15,8
+19
+9,5
+9,5
+12,7
+9
+9
+11
+11
+50,5
+50,5
+50,8
+46
+46
+50,8
+50,8
+8
+8
+8
+8
+8
+8
+8
+1,6
+2,4
+3
+4,8
+6
+8
+9,5
+2
+2
+2
+2
+2
+2
+2
+24000
+24000
+24000
+24000
+24000
+24000
+24000
+173.77
+173.77
+176.89
+107.05
+112.30
+118.36
+128.85

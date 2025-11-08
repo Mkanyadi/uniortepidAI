@@ -1,0 +1,109 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:14]
+Freud
+Scule pentru industrializarea lemnului
+Lider in industria prelucrarii lemnului de peste 50 de ani.
+Performantele  de  top  ale  frezelor  cu  coada  marca  Freud  sunt  rezultatul  a  doi 
+factori: calitatea inalta si durata de viata.
+Compania Freud utilizeaza in procesul de productie cele mai bune materii prime, 
+utilizand cele mai noi si sofisticate procese de productie.
+Fara reparatii, fara rupere, fara marcaje, fara presiune pe masina
+MIZAR
+GAMMA IV
+GAMMA III
+GAMMA III
+GAMMA I
+INDUS
+THYCO
+ALGOR (+)
+ALGOR (+)
+Fantacci / Diafant
+Freze cu alezaj - Capete de frezat cu alezaj
+°
+5
+1
+°
+0
+1
+2 0 °
+LM04 0700
+    300x3,2/2,2x70 Z24+4 HW
+n max 6500 RPM
+00000000 - 00/13 
+°
+5
+1
+°
+0
+1
+2 0 °
+LG1C 0400
+    300x3,2/2,2x30 Z26 HW
+n max 6500 RPM
+00000000 - 00/13
+°
+8
+1
+  0,8x45°
+2 
+,
+0
+5 °
+LG3D 0600
+    300x3,2/2,2x30 Z96 HW
+n max 6500 RPM
+00000000 - 00/13  
+Panze circulere multilama
+Panze circulare pentru lemn masiv
+Panze circulare lemn placat
+°
+5
+1
+°
+6
+0 °
+LI25M31DA3
+    115x3,1/2,2x20 Z24 HW
+n max 18000 RPM
+00000000 - 00/13 
+Incizoare
+Burghie carbura monobloc
+Burghie masini multigaurire
+Burghie precizie gauri mari
+Freze profilate
+Placute amovibile
+First
+Scule pentru industrializarea lemnului
+Infiintata in anii ’60, FIRST a fost intodeauna o referinta constanta in Italia si in 
+alte tari, pentru toti consumatorii care cauta scule fiabile si de inalta calitate.
+O preferinta obtinuta prin imbinarea experientei artizanale cu utilizarea celei mai 
+moderne tehnologii industriale.
+Produsele  marca  First  sunt  fabricate  in  Italia  si  urmeaza  un  ciclu  complet  si 
+automatizat  de  productie,  care  porneste  de  la  debitarea  materialului  brut  cu 
+ajutorul unor CNC-uri cu laser; procesul continua sa dezvolte toate etapele, sub 
+controlul constant al unui sistem informatic, ceea ce ii permite firmei sa atinga si 
+sa mentina cel mai bun nivel de toleranta industriala
+Fantacci  Industrie  SRL  este  producator  de  scule  pentru  prelucrarea  lemnului  cu 
+renume mondial. In portofoliul acestuia se regasesc atat scule standard, cat si scule 
+speciale, freze placate CMS, dar si cu placute amovibile.
+Avand o traditie de peste 50 de ani, Fantacci Industrie isi perfectioneaza continuu 
+produsele, astfel incat sa satisfaca cele mai inalte standarde de calitate. Ferestrele 
+termopan realizate cu ajutorul seturilor de freze Fantacci sunt marcate CE, in confor-
+mitate cu Regulamentul pentru Produse de Constructii.
+Panze tamplarie
+Panza debitat busteni
+Freze cu alezaj pentru uluc
+Freze cu alezaj pentru imbinari
+Set freze mobilier antic
+Freze falt cu placute amovibile
+Freze cu alezaj pentru tablie
+Capete de rindeluit
+Freze tablie multiprofil
+Set freze usi interior
+Set freze usi exterior
+Wellershaus
+Panze continue
+WELLERSHAUS este un program german de panze de fierastrau, panze bimetal, 
+panze continue de dimensiuni standard si solicitate de catre client, recomandate 
+pentru  toate  tipurile  de  materiale  feroase  (oteluri)  si  neferoase,  aliaje,  materiale 
+compozite / sintetice, stratificate, placi aglomerate si lemn, cu performante inalte de 
+taiere.

@@ -1,0 +1,96 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:403]
+CaBo-3-330 mK
+NOU
+KL-60 Security
+NOU
+05033
+NOU
+Trusa adaptoare 1/4” D 6,3
+• material:crom vanadium
+• capul cheii este tratat in intregime
+• conform cu standardul DIN 7428
+Trusa 60 biti si accesorii "SECURITY"
+Trusa 27 biti si tubulare IMPACT
+pentru tamplarie
+1000003065
+Dimensiune
+1/4”
+1/4”; 3/8”; 1/2”
+3
+215.66
+KL-60 Allround
+NOU
+Trusa 60 biti si accesorii "ALLROUND"
+1/4“
+05033
+27 piese
+360.33
+10 biti IMPACT - 1/4" C 6,3 x 25 mm - TORSION:
+PH 2/3; TX 20/25/30(3x)/40(3x)
+2 Bits - 1/4" C 6,3 x 25 mm: TX 45/50
+1 Bit PH 2 - 1/4" C 6,3 x 25 mm cu limitator pentru gips carton
+7 biti IMPACT - 1/4" E 6,3 x 70 mm - TORSION:
+TX 20/25(2x)/30(2x)/40(2x)
+1 prelungitor IMPACT - 1/4" E 6,3 x 54 mm
+1 adaptor Quick-Lock de la hex. 1/4" E 6,3 la patrat 1/2"
+2 capete chei tubulare IMPACT 1/2" x 38 mm HEX SW 17/19
+1 pin siguranta pentru tubulare IMPACT 1/2” - 3 mm x 25 mm
+1 pin siguranta pentru tubulare IMPACT 1/2” - Ø 24 mm x Ø 3 mm
+1 adaptor de la patrat 1/2" la hexagon 1/4"
+05036
+NOU
+Trusa 28 biti si biti tubulari cu inel
+colorat
+1000003059
+60 piese
+661.31
+60 biti - 1/4” C 6,3 - 25 mm
+PH0 PH1 PH2 (2X) PH3
+PZ1 PZ2 (2X) PZ3
+SL 0,6X3,5 SL 0,6X4,5 SL 0,8X5,5 SL 1,2X6,5
+H3 H4 H5 H6
+T5 T6 T7 T8 T9 T10 T15 T20 !2X" T25 (2X) T27
+T30 (2X) T40 (2X) 
+TX10 TX15 TX20 (2X) TX25 (2X) TX30 (2X) TX40
+M4 M5 M6 M8
+TW2 TW3 TW4 TW5
+TS4 TS6 TS8 TS10
+AW10 AW20 AW25 AW40
+prelungitor - 1/4” E 6,3 - 50 mm, blocare rapida - magnetic
+maner 1/4”- cu 2 componente 130 mm - blocare rapida - magnetic
+05047
+NOU
+Trusa 33 biti si accesorii IMPACT-TORSION
+1/4“
+1000003055
+60 piese
+467.09
+60 biti - 1/4” C 6,3 - 25 mm
+PH1 (3X) PH2 (3X) PH3 (3X)
+PZ1 (3X) PZ2 (3X) PZ3 (3X)
+SL 0,6X3,5 SL 0,6X4,5 (2X) SL 0,8X5,5 SL 1,2X6,5
+H4 (2X) H5 (2X) H6 (2X) H8 (2X)
+T10 (3X) T15 T20 T25 T27 (2X) T30 T40
+TX10 TX15 TX20 TX25 TX30 TX40
+prelungitor - 1/4” E 6,3 - 50 mm, blocare rapida - magnetic
+maner 1/4”- cu 2 componente 130 mm - blocare rapida - magnetic
+05047
+180.74
+33 piese
+32 biti - 1/4” C 6,3 - 25 mm
+PH 1(2x)/2(3x)/3(1x)
+PZ 1(2x)/2(3x)/3(2x)
+TX 15(2x)/20(5x)/25(5x)/30(5x)/40(2x)
+1 prelungitor biti - 1/4“ E 6,3 - 60 mm: magnetic
+05036
+28 piese
+391.31
+12 biti IMPACT - TORSARE - 25 mm 1/4“ C 6.3
+PH 1/2/3; PZ 1/2/3; TX 10/15/20/25/30/40
+8 bitiIMPACT - TORSION 50 mm - 1/4“ E 6.3
+PH 2/3; PZ 2/3; TX 20/25/30/40
+1 suport magnetic biti IMPACT - 54 mm - 1/4" E 6.3 - cu inel de fixare
+6 biti tubulari IMPACT - 50 mm - 1/4" E 6.3 - cu magnet cu arc
+HEX 1/4"; HEX 7,0 HEX 8,0 (2x); HEX 10.0 HEX 13.0
+1 adaptor IMPACT Quick-Lock - 75 mm - de la hexagon 1/4"
+E 6,3 la patrat  1/2" - cu bila

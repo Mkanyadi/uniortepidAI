@@ -1,0 +1,477 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:433]
+KS 6 HSS
+KSB 6
+1675
+NOU
+Trusa tesitoare conice 6 piese
+• tesitor conic DIN 335 forma D, cu coada conica, 90º
+• material : HSS, tratat termic
+• cu 3 muchii taietoare ; unghiul la varf 90º
+Trusa tesitoare cu prindere 1/4" 
+conice 6 piese
+• tesitor conic, Norma BOHRCRAFT, 90º HSS, coada hex 1/4"
+• material : HSS, tratat termic
+• cu 3 muchii taietoare ; unghiul la varf 90º
+• suprafetele zencuite rezulta netede si fara arsuri.
+Alezor de masina cu coada conica,
+conform DIN 208 forma B, HSS-E
+(Co 5%)
+• material: HSS-E5 (Co 5%), tratat termic
+• in conformitate cu DIN 212 forma B/D
+• toleranta: H7
+• unghiul spirei: 7-90, taiere pe dreapta
+• unghiul conului de atac 450
+• numai pentru alezarea gaurilor strapunse,
+• pentru oteluri ne aliate, aliate si pentru tratament termic
+cu σr ≤ 1200 N / mm² si oteluri inoxidabile, pentru aliaje
+neferoase, plastic dur sau moale
+PROFI
+by BOHRCRAF T
+17001410006
+6 piese
+6,3 / 8,3 / 10,4 / 12,4 / 16,5 / 20,5 mm
+371.64
+17051410006
+6 piese
+16,3 / 8,3 / 10,4 / 12,4 / 16,5 / 20,5 mm
+458.52
+1670
+NOU
+1673
+NOU
+Alezor de mana conform DIN 206
+forma B, HSS
+• material: HSS, tratat termic
+• in conformitate cu DIN 206 forma B
+• toleranta: H7
+• unghiul spirei: 7-90, taiere pe dreapta
+• unghiul conului de atac 450
+• numai pentru alezarea gaurilor strapunse
+• pentru oteluri ne aliate, aliate si pentru tratament termic
+cu σr ≤ 700 N / mm², pentru aliaje neferoase, plastic dur
+sau moale
+PROFI
+by BOHRCRAF T
+Alezor de masina conform DIN 212
+forma B/D, HSS-E (Co 5%)
+• material: HSS-E5 (Co 5%), tratat termic
+• in conformitate cu DIN 212 forma B/D
+• toleranta: H7
+• unghiul spirei: 7-90, taiere pe dreapta
+• unghiul conului de atac 450
+• numai pentru alezarea gaurilor strapunse,
+• pentru oteluri ne aliate, aliate si pentru tratament termic
+cu σr ≤ 1200 N / mm² si oteluri inoxidabile, pentru aliaje
+neferoase, plastic dur sau moale
+PROFI
+by BOHRCRAF T
+DIN
+208
+HSS-E
+FORM
+Co5
+B
+ L
+7°
+R
+Tol.
+H7
+16750301000
+16750301200
+16750301400
+16750301600
+16750301800
+16750302000
+16750302200
+16750302400
+16750302500
+16750302600
+16750302800
+16750303000
+Ø
+10
+12
+14
+16
+18
+20
+22
+24
+25
+26
+28
+30
+L
+168
+182
+189
+210
+219
+228
+237
+268
+268
+273
+277
+281
+l2
+38
+44
+47
+52
+56
+60
+64
+68
+68
+70
+71
+73
+CM
+CM1
+CM1
+CM1
+CM2
+CM2
+CM2
+CM2
+CM3
+CM3
+CM3
+CM3
+CM3
+Z
+6
+6
+8
+8
+8
+8
+8
+8
+8
+8
+10
+10
+204.75
+253.77
+296.07
+360.82
+401.31
+469.34
+537.21
+619.18
+720.98
+795.57
+870.66
+992.95
+DIN HSS
+206
+FORM
+B
+45°
+ L
+7–9°
+Ø
+4
+5
+6
+7
+8
+9
+10
+11
+12
+14
+16
+18
+20
+22
+24
+25
+26
+28
+30
+L
+76
+87
+93
+107
+115
+124
+133
+142
+152
+163
+175
+188
+201
+215
+231
+231
+231
+247
+247
+l2
+38
+44
+47
+54
+58
+62
+66
+71
+76
+81
+87
+93
+100
+107
+115
+115
+115
+124
+124
+R
+d2
+4
+5
+6
+7
+8
+9
+10
+11
+12
+14
+16
+18
+20
+22
+24
+25
+26
+28
+30
+3
+3,8
+4,9
+5,5
+6,2
+7
+8,0
+9,0
+9
+11,0
+12,0
+14,5
+16,0
+18,0
+20,0
+20,0
+20,0
+22,0
+24,0
+Tol.
+H7
+Z
+4
+6
+6
+6
+6
+6
+6
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+88.69
+99.18
+100.82
+106.72
+109.67
+142.13
+152.46
+180.33
+190.16
+222.79
+252.62
+283.93
+356.89
+474.75
+575.41
+616.56
+660.00
+812.46
+928.69
+16700300400
+16700300500
+16700300600
+16700300700
+16700300800
+16700300900
+16700301000
+16700301100
+16700301200
+16700301400
+16700301600
+16700301800
+16700302000
+16700302200
+16700302400
+16700302500
+16700302600
+16700302800
+16700303000
+DIN
+212
+ L
+7–9°
+Ø
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+L
+61
+75
+86
+93
+109
+117
+125
+133
+142
+151
+151
+160
+162
+170
+175
+182
+189
+195
+l2
+15
+19
+23
+26
+30
+32
+36
+38
+41
+44
+44
+47
+50
+52
+54
+56
+58
+60
+HSS-E
+FORM
+Co5
+B/D
+45°
+R
+d2
+3
+4
+5
+6
+7
+8
+9
+10
+10
+10
+10
+12,5
+12,5
+12,5
+14
+14
+16
+16
+Tol.
+H7
+Z
+4
+4
+6
+6
+6
+6
+6
+6
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+110.82
+116.23
+122.95
+129.51
+156.23
+161.48
+212.13
+225.90
+268.36
+285.74
+314.75
+324.92
+330.33
+359.34
+519.18
+532.79
+560.98
+580.98
+16730300300
+16730300400
+16730300500
+16730300600
+16730300700
+16730300800
+16730300900
+16730301000
+16730301100
+16730301200
+16730301300
+16730301400
+16730301500
+16730301600
+16730301700
+16730301800
+16730301900
+16730302000

@@ -1,0 +1,48 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1062]
+990MC9
+Banc de lucru modular - Modul 9
+Art.
+625759
+1155 x 1500 mm
+Denumire
+990MC9
+ 990MA12 
+5779.51
+Banc de lucru modular- model A12
+990SL (32x45x1155), 990SR (32x45x1155), 990B (1436x1018), 990SHELF (1500), 990HPC 
+(1467x53x131), 990HPB (1500), PB.990HPB (235x155x125 (3x)), 990HL (1499), 990LIGHT
+(1200), 997.1 (50 (2x))
+990MA10
+Banc de lucru modular - Modul 10
+Art.
+626730
+2000 x 750 x 2025 mm
+Denumire
+990MA12
+Buc. Nr.
+20500.82
+900WD6 (663x650x870), 990WDD2 (663x650x870), 990TW (2000x750x40), 990SL (32x45x1155),
+990SM (32x45x1155), 990SR (32x45x1155), 990HPC (983x53x131 (2x)), 990B (952x1018 (2x)),
+990HL (999 (2x)), 990LIGHT (900 (2x)), 990HPB (1000), 990SHELF (1000), 997.1 (50 (2x)), 
+PB.990HPB (235x155x125 (2x))
+Art.
+625760
+2500 x 750 x 2025 mm
+Denumire
+990MA10
+23457.38
+990MA13
+900WD6 (663x650x870), 990WD8 (663x650x870), 990TW (2500x750x40), 990SL (32x45x1155),
+990SR (32x45x1155), 990SM (32x45x1155), 990HPC (1233x73x131 (2x)), 990B (1202x1018), 
+Banc de lucru modular- model A13
+990HL (1249 (2x)), 990LIGHT (1200 (2x))
+i
+La cerere bancurile de lucru pot fi dotate cu suprafata de lucru din otel inoxidabil. 
+Aceasta se monteaza pe blaturile de lemn 990TW
+Art.
+626731
+2000 x 750 x 870 mm
+Denumire
+990MA13
+900WD6 (663x650x870), 990WDD2 (663x650x870), 990TW (2000x750x40)
+13006.39

@@ -1,0 +1,115 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1095]
+997.1
+997.4
+Set 10 carlige pentru panouri
+•  pentru expunere pe dulap, panou de expozitor si bancuri de lucru
+•  este posibila fixarea carligelor intr-o pozitie ceruta
+•  cromate
+Set 10 carlige duble pentru panouri
+•  pentru expunere pe dulap, panou de expozitor si bancuri de lucru
+•  este posibila fixarea carligelor intr-o pozitie ceruta
+•  cromate
+L
+35
+50
+80
+100
+150
+200
+609478
+609479
+609480
+609447
+610559
+610560
+976A
+D
+4
+4
+4
+4
+5
+5
+Panou pe picioare proprii
+•  panoul este destinat in special pentru ateliere 
+si magazine de mici dimensiuni
+•  dimensiuni 700x700mm
+20
+21
+15
+16
+30
+37
+V
+V
+V
+V
+V
+V
+10
+10
+10
+10
+10
+10
+40.98
+42.46
+45.08
+46.39
+66.39
+75.90
+L
+150
+200
+250
+300
+623346
+623347
+623348
+623349
+A
+27
+27
+27
+27
+B
+30
+30
+30
+30
+1863
+41
+51
+61
+71
+ 1X 
+ 1X 
+ 1X 
+ 1X 
+1
+1
+1
+1
+66.39
+75.90
+80.66
+85.41
+Suport universal de protectie
+•  material: spuma de polietilena de densitate scazuta
+A
+B C H
+621912 612 290 170 707 5488
+ 1K 
+1
+509.60
+L
+B
+621982
+500
+219
+H
+30
+95
+ 1K 
+1
+53.61

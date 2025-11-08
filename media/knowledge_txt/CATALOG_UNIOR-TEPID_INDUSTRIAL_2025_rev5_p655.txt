@@ -1,0 +1,220 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:655]
+55843
+NOU
+Tambur 15 m furtun pneumatic 1/4" 
+diametru interior furtun ø 3/8"
+1502
+1500PG
+Filtru regulator si ungator
+pneumatic 1/2"
+•  racord de aer 1/2"
+•  presiune maxima de aer comprimat: 9,5 Bar
+•  presiunea de lucru 0,5 - 8,5 Bar
+•  temperatura de lucru 5 - 60 °C
+•  grad de filtrare 5 microni
+•  debit maxim 2300 l/min
+•  capacitate filtru 60ml
+•  capacitate ungator 90ml
+Manometru de presiune pentru 
+1500
+617741
+63
+ 1F 
+1
+68.03
+1505
+Furtun pneumatic elicoidal
+L
+A
+617737 150
+220
+1265
+ 1F 
+1
+1016.89
+L (m)
+D
+1503
+Filtru regulator si gresor
+pneumatic 3/4"
+•  racord aer 3/4"
+•  presiune maxima de aer comprimat: 9,5 Bar
+•  presiunea de lucru 0,5 - 8,5 Bar
+•  temperatura de lucru 5 - 60 °C
+•  grad de filtrare 5 microni
+•  debit maxim 2500 l/min
+•  capacitate filtru 60ml
+•  capacitate ungator 90ml
+617743
+617744
+617745
+9
+9
+9
+6.5 x 10
+8 x 12
+850
+894
+11 x 16
+1526
+617746 12
+6.5 x 10
+835
+617747 12
+8 x 12
+1076
+617748 12
+11 x 16
+1847
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+1
+1
+1
+1
+1
+1
+58682 
+194.43
+237.54
+388.69
+299.34
+378.69
+504.10
+NOU
+Tambur 15 m furtun pneumatic 1/4" 
+diametru interior furtun ø 3/8"
+55843
+5850
+ 1F 
+1
+2425.40
+1506KZ7
+Cuplaj cu filet exterior
+•  carcasa metalica
+•  filet exterior
+L
+58
+54
+98
+101
+ 1E 
+ 1E 
+1
+1
+63.93
+65.41
+617793 R1/4"
+617794 R3/8"
+20
+20
+1506KZ10
+Cuplaj cu filet exterior
+•  carcasa metalica
+•  filet exterior
+L
+A
+621473 190
+240
+1805
+ 1F 
+1
+1173.44
+58682
+5850
+ 1F 
+1
+2425.40
+L
+621452 3/8"
+621453 1/2"
+621454 3/4"
+24
+24
+27
+62.5 149
+65.0 156
+67.1 191
+ 1E 
+ 1E 
+ 1E 
+1
+1
+1
+192.95
+192.95
+216.23
+1507Z7
+Cuplaj cu filet exterior
+• 
+•  filet exterior
+1507Z10
+Cuplaj cu filet exterior
+•  filet exterior
+•  diametrul furtunului interior 10mm
+1506KN7
+Cuplaj cu filet interior
+•  carcasa metalica
+•  filet interior
+617797 R1/4"
+617798 R3/8"
+618483 R1/2"
+14
+19
+22
+L
+34
+36.5
+39
+24
+34
+40
+ 1E 
+ 1E 
+ 1E 
+1
+1
+1
+14.43
+16.07
+24.75
+621455 3/8"
+621456 1/2"
+621457 3/4"
+17
+24
+27
+L
+39.4
+39.4
+48.5
+38
+53
+86
+ 1E 
+ 1E 
+ 1E 
+1
+1
+1
+38.52
+45.74
+63.28
+L
+617795 R1/4"
+617796 R3/8"
+20
+20
+54.5 113
+55
+105
+ 1E 
+ 1E 
+1
+1
+66.56
+66.56

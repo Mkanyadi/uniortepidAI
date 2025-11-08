@@ -1,0 +1,466 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:389]
+6624
+Bit cu profil Ribe, prindere 
+hexagonala 10 mm
+Forma C10
+6617
+Bit cu profil hexagonal cu gaura 
+(pentru pin de siguranta) 
+prindere hexagonala 10 mm
+Forma C10
+188.10A
+Capete chei tubulare, 
+cu magnet si prindere 
+hexagonala 1/4" pentru masina
+• material: crom vanadiu
+• capul cheii este tratat in intregime
+• executie in concordanta cu standardul DIN 7424
+10 mm
+10 mm
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+22.13
+22.13
+22.13
+22.13
+22.13
+22.13
+25.90
+28.52
+28.52
+28.52
+28.52
+28.52
+28.52
+35.25
+HEX                  L 
+30
+SW 4,0
+30
+SW 5,0
+30
+SW 6,0
+30
+SW 7,0
+30
+SW 8,0
+30
+SW 10,0
+30
+SW 12,0
+75
+SW 4,0
+75
+SW 5,0
+75
+SW 6,0
+75
+SW 7,0
+75
+SW 8,0
+75
+SW 10,0
+75
+SW 12,0
+66171500430
+66171500530
+66171500630
+66171500730
+66171500830
+66171501030
+66171501230
+66171500475
+66171500575
+66171500675
+66171500775
+66171500875
+66171501075
+66171501275
+6620
+Bit cu profil XZN, prindere 
+hexagonala 10 mm
+Forma C10
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+12.62
+12.62
+12.62
+12.62
+12.62
+12.62
+12.62
+12.62
+14.92
+17.05
+22.13
+19.02
+19.02
+19.02
+19.02
+19.02
+19.02
+19.02
+19.02
+22.62
+30.00
+34.10
+Ribe                 L
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+75
+75
+75
+75
+75
+75
+75
+75
+75
+75
+75
+4
+5
+6
+7
+8
+9
+10
+12
+13
+14
+16
+4
+5
+6
+7
+8
+9
+10
+12
+13
+14
+16
+66241500430
+66241500530
+66241500630
+66241500730
+66241500830
+66241500930
+66241501030
+66241501230
+66241501330
+66241501430
+66241501630
+66241500475
+66241500575
+66241500675
+66241500775
+66241500875
+66241500975
+66241501075
+66241501275
+66241501375
+66241501475
+66241501675
+6616
+Dimensiune       D1            L               T
+3,9
+5
+6
+9,5
+12,5
+14,5
+18
+23,3
+8
+10
+13
+17
+65
+65
+65
+65
+22.79
+24.10
+25.57
+33.28
+619448
+618701
+618702
+618703
+7014L
+Cap tubular lung 1/4”, 
+magnetic
+• material: crom-vanadiu
+• capul cheii este tratat in intregime
+• executie in concordanta cu standardul DIN 7424
+Bit cu profil hexagonal, 
+prindere hexagonala 10 mm
+Forma C10
+66161500430
+66161500530
+66161500630
+66161500730
+66161500830
+66161501030
+66161501230
+66161501430
+66161500475
+66161500575
+66161500675
+66161500775
+66161500875
+66161501075
+66161501275
+66161501475
+HEX                  L
+30
+SW 4,0
+30
+SW 5,0
+30
+SW 6,0
+30
+SW 7,0
+30
+SW 8,0
+30
+SW 10,0
+30
+SW 12,0
+30
+SW 14,0
+75
+SW 4,0
+75
+SW 5,0
+75
+SW 6,0
+75
+SW 7,0
+75
+SW 8,0
+75
+SW 10,0
+75
+SW 12,0
+75
+SW 14,0
+10 mm
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+12.62
+12.62
+12.62
+12.62
+12.62
+12.62
+13.93
+20.82
+19.02
+19.02
+19.02
+19.02
+19.02
+19.02
+24.43
+33.44
+10 mm
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+12.62
+12.62
+12.62
+12.62
+13.93
+15.74
+19.02
+19.02
+19.02
+19.02
+21.15
+25.25
+66201500530
+66201500630
+66201500830
+66201501030
+66201501230
+66201501430
+66201500575
+66201500675
+66201500875
+66201501075
+66201501275
+66201501475
+XZN                 L
+30
+M 5
+30
+M 6
+30
+M 8
+30
+M 10
+30
+M 12
+30
+M 14
+75
+M 5
+75
+M 6
+75
+M 8
+75
+M 10
+75
+M 12
+75
+M 14
+Suruburi cu locas hexagonal
+Ø in mm
+®
+Professional Quality
+1
+‚‚
+4
+701428
+701430
+701432
+701439
+Dimensiune            L
+65
+65
+65
+65
+7
+8
+10
+13
+1 (E*)
+1 (E*)
+1 (E*)
+1 (E*)
+8.14
+8.14
+8.39
+10.17
+Dimensiune
+DIN 931
+DIN 933
+DIN 571
+DIN 7976
+SW
+M 1.6
+M 2
+M 2.5
+M 3
+M 3.5
+M 4
+M 5
+M 6
+M 7
+M 8
+M 1.6
+M 2
+ M 2.5
+M 3
+M 3.5
+M 4
+M 5
+M 6
+M 7
+M 8
+2.2
+2.9
+3.5
+3.9/4.2
+4.8/5.5
+6.3
+8
+2.5
+3
+3.2
+3.5
+4
+4.5
+5
+5.5
+6
+7
+8
+9
+10
+11
+12
+13
+4
+5
+6
+7
+8

@@ -1,0 +1,151 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:762]
+1600N1-US
+NOU
+vl1600SOS14
+NOU
+vl1600SOS19
+NOU
+Set de scule de bicicleta in carucior 
+de scule 940EV6
+Modul spuma SOS pentru set scule
+1600SOS14
+Modul spuma SOS pentru set scule
+1600SOS19
+• contine o selectie curata a celor mai utilizate instrumente pentru
+atelierul si evenimentele dvs.
+• dispune de 7 sertare cu unelte, toate tinute in tavi de spuma 
+taiate cu laser si un al 8-lea sertar adânc suplimentar pentru 
+depozitarea articolelor esentiale de atelier.
+Caracteristici carucior:
+• material: tabla Premium PLUS de 1,2 mm grosime
+• posibilitatea adaugarii de accesorii
+• pe cărucior sunt montate piulite oarbe pentru fixarea accesoriilor
+• capacitatea de incarcare statica a căruciorului fara roti: 1600 kg
+• capacitate dinamica de încărcare a sertarelor: 300 kg
+• capacitate maxima a fiecarui sertar: 45 kg
+• 8 sertare (7x L563 x L365 x H70 mm, 1x L563 x L383 x H150 mm)
+• dimensiuni de baza cu maner si roti L 800 x l 440 x H 923 mm
+• volumul total al sertarelor: 135 litri
+• sertarele sunt compatibile cu tavile de scule SOS 1/3, 2/3, 3/3
+• partea stanga si dreaptă sunt perforate
+• include 10 carlige dimensiune 50 mm
+• placa ABS pe partea superioară a caruciorului
+B
+L
+H
+629200
+564
+364
+30
+137
+ 1K 
+1
+107.87
+B
+L
+H
+vl1600SOS15
+NOU
+Modul spuma SOS pentru set scule
+1600SOS15
+629210
+564
+364
+30
+133
+ 1K 
+1
+107.87
+vl1600SOS20
+Modul spuma SOS pentru set scule
+1600SOS20
+B
+L
+H
+629202
+564
+364
+30
+139
+ 1K 
+1
+107.87
+vl1600SOS16
+NOU
+626105
+564
+364
+30
+133
+ 1K 
+1
+107.87
+B
+L
+H
+Modul spuma SOS pentru set scule
+1600SOS16
+B
+L
+H
+629204
+564
+364
+30
+139
+ 1K 
+1
+107.87
+vl1600SOS17
+NOU
+Modul spuma SOS pentru set scule
+1600SOS17
+629226 152
+79800
+ 1K 
+1
+21987.54
+1600SOS13-US; 1600SOS14-US; 1600SOS15-US
+1600SOS16-US; 1600SOS17-US ; 1600SOS18-US
+1600SOS19-US; 940E4/1L-BLACK (770x448x895)
+vl1600SOS13
+NOU
+Modul spuma SOS pentru set scule
+1600SOS13
+B
+L
+H
+629206
+564
+364
+30
+139
+ 1K 
+1
+107.87
+vl1600SOS18
+NOU
+Modul spuma SOS pentru set scule
+1600SOS18
+B
+L
+H
+B
+L
+H
+629198
+564
+364
+30
+141
+ 1K 
+1
+107.87
+629208
+564
+364
+30
+144
+ 1K 
+1
+107.87

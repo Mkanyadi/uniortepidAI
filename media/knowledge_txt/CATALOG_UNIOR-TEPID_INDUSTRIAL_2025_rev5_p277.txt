@@ -1,0 +1,152 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:277]
+3239
+3101
+Micrometru pentru foi tabla, potcoava 155 mm
+• cadru adanc potrivit pentru tabla, hartie si plastic
+• gradatii: 0.01 mm
+• opritor cu clichet
+• suprafata de masurare din carbura
+Micrometru digital de exterior 
+• rezolutie: 0.001mm/0.00005"
+( rezolutiea pentru 3101-275 si 3101-300A este : 0.001mm/0.0001"
+• clasa de protectie: IP65 praf / apa
+• butoane: on/off, set, mm/inch, ABS/INC, data output
+• export date 
+• baterie: SR44 sau LR44, oprire automata
+• suprafetele de masurare cu carbura
+• se livreaza cu palpatorul sferic
+• se livreaza cu setul standard de calibrare, exceptie 0-25mm
+12
+32
+17
+65
+8
+1
+Ø
+Tip A
+Ø6.5
+Tip B
+5
+R
+S
+Ø6.5
+Ø6.5
+Tip C
+SR5
+Scala 
+3239-253F 0-25
+Acuratete 
+7 µm
+      b            Tip
+B
+155
+1155.00
+3539
+Micrometru digital pentru foi tabla, potcoava 155 mm
+• cadru adanc potrivit pentru tabla, hartie si plastic
+• rezolutie: 0.001 mm / 0.00005”
+• opritor cu clichet
+• suprafata de masurare din carbura
+• iesire date
+• baterie LR44, oprire automata
+• butoane: on/off, set, mm/inch, ABS/INC
+3101-25A*
+3101-50A*
+3101-75A*
+Scala 
+0-25 mm
+25-50 mm
+50-75 mm
+3101-100A*
+75-100 mm
+3101-125A
+100-125 mm
+3101-150A
+125-150 mm
+3101-175A
+150-175 mm
+3101-200A
+175-200 mm
+nicovala sferica
+(inclusa)
+masurare grosime
+perete teava
+   Acuratete         L            a           b           c
+3
+2 µm
+32,5
+24
+6
+2 µm
+3 µm
+3 µm
+3 µm
+3 µm
+4 µm
+4 µm
+57,5
+82,5
+107,5
+133
+158,5
+184
+209,5
+8
+8
+8
+10
+10
+12
+12
+32
+44,5
+57
+70
+82
+94,5
+107
+3
+3
+3
+3
+3
+5,5
+5,5
+1323.00
+1690.50
+1848.00
+2058.00
+2425.50
+2520.00
+2635.50
+2856.00
+NOU
+* livrat cu certificat de inspectie producator trasabil la DKD Germany
+217-6858
+Tip A
+Ø6.5
+Stativ pentru micrometre 
+• cu unghi reglabil si clemă centrala
+• clemă cu tampoane de cauciuc pentru protecția instrumentelor
+• baza din fonta, pentru micrometre de exterior 0-100mm
+12 32
+17
+45
+66
+8
+1
+Ø
+Scala 
+3539-253A 0-25
+Acuratete 
+7 µm
+      b            Tip
+A
+155
+Pentru micromete max.         Deschidere max.         Lungime baza
+1974.00
+217-6858
+100 mm
+20 mm
+163 mm
+133.29

@@ -1,0 +1,161 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:281]
+3227
+Micrometru de interior in 3 puncte
+• in conformitate cu DIN 863-4
+• gradatii: 0.005 mm
+• opritor cu clichet
+• optional: inel reglare (6312)
+2308
+Ceas comparator
+• gradatie: 0.01 mm
+• lagare cu rubini
+• se livreaza cu palpator
+             Scala                      Gradatie     Acuratete           Citire
+2308-3A* 
+            3 mm 
+2308-5A* 
+            5 mm 
+2308-10A*            10 mm 
+0.01 mm 
+0.01 mm 
+14 µm 
+16 µm 
+0.01 mm 
+17 µm 
+0-100 
+0-100 
+0-100 
+   310.80
+   307.65
+   215.25
+* livrat cu certificat de inspectie producator trasabil la NIST USA
+2311
+Ceas comparator
+• conform DIN878
+• lagare cu rubini
+• se livreaza cu palpator
+14
+18
+0
+3
+2
+4
+Ø
+B
+0
+4
+Ø
+7
+Ø4
+Scala          Acuratete          Inel reglare             L         a       b       c  
+3227-8
+6-8 mm
+3227-10
+8-10 mm
+3227-12
+10-12 mm
+3227-16
+12-16 mm
+3227-20
+16-20 mm
+3227-63
+50-63 mm
+3227-75
+62-75 mm
+±4 µm
+±4 µm
+±4 µm
+±4 µm
+±4 µm
+±5 µm
+±5 µm
+Ø6 mm (inclus)
+Ø8 mm (inclus)
+Ø10 mm (inclus)
+Ø16 mm (inclus)
+Ø16 mm (inclus)
+Ø62 mm (inclus)
+Ø62 mm (inclus)
+54.5
+54.5
+54.5
+80
+80
+114
+114
+1.5
+1.5
+1.5
+0.5
+0.5
+0.5
+0.5
+2.5
+2.5
+2.5
+6
+6
+-
+-
+-
+4.5
+4.5
+2551.50
+2551.50
+2551.50
+2037.00
+2037.00
+17.5
+14.5
+3664.50
+17.5
+14.5
+3801.00
+• la comanda se pot aduce in gama de la 6 mm pana la 300 mm
+220
+NOU
+Ceas comparator
+• gradatie : 0.01mm
+• in conformitate cu DIN878
+• carcasă metalica
+• indicatoare de toleranta interioara
+• tija ø8mm h6
+• model normal sau model rezistent la socuri l
+• cu spate plat sau cu spate cu ureche pentru accesorii
+• se livrează cu certificat
+Scala
+Gradatie
+ Ø ceas
+Remarca
+220-9231
+0 - 5 mm
+220-6964
+0 - 10 mm
+0.01 mm
+0.01 mm
+42 mm
+58 mm
+normal / cu spate plat
+-
+normal
+257.84
+             Scala   Gradatie     Acuratete   Citire   Scala/rev        B          D
+2311-3
+2311-5
+3
+5
+0.01
+0.01
+12 µm
+14 µm
+0-50
+0-50
+0.5
+0.5
+46
+48
+10.5
+12.5
+370.65
+340.20
+* livrat cu certificat de inspectie producator trasabil la NIST USA

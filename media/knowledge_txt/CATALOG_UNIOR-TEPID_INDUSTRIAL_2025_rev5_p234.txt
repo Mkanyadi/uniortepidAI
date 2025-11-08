@@ -1,0 +1,594 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:234]
+731/40
+731/100
+Cap cheie fixa interschimbabil pentru cheie 
+dinamometrica 14x18 mm
+• pentru chei dinamometrice cu suport dreptunghiular
+• fixare prin blocare pin
+• placare cromata peste nichel, permanenta si fara descuamare
+• forjat, calire si revenire totala
+• extrem de rezistent, extrem de durabil
+14x18
+Cap cheie fixa interschimbabil pentru cheie 
+dinamometrica 22x28 mm
+• pentru chei dinamometrice cu suport dreptunghiular
+• fixare prin blocare pin
+• placare cromata peste nichel, permanenta si fara descuamare
+• forjat, calire si revenire totala
+• extrem de rezistent, extrem de durabil
+22x28
+b
+30
+35
+35
+38
+38
+42
+42
+50
+50
+53
+53
+60
+66
+66
+66
+74
+74
+82
+h
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+14
+14
+14
+15
+15
+15
+S
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+30
+30
+32.5
+32.5
+32.5
+32.5
+36.5
+Antrenare
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+128
+129
+132
+140
+130
+147
+140
+171
+165
+167
+170
+219
+275
+246
+239
+275
+265
+307
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+13
+14
+15
+16
+17
+18
+19
+21
+22
+24
+25
+27
+30
+32
+34
+36
+38
+41
+SW 58214013
+SW 58214014
+SW 58214015
+SW 58214016
+SW 58214017
+SW 58214018
+SW 58214019
+SW 58214021
+SW 58214022
+SW 58214024
+SW 58214025
+SW 58214027
+SW 58214030
+SW 58214032
+SW 58214034
+SW 58214036
+SW 58214038
+SW 58214041
+731a/40
+Cap cheie fixa interschimbabil pentru cheie 
+dinamometrica 14x18 mm
+• pentru chei dinamometrice cu suport dreptunghiular
+• fixare prin blocare pin
+• placare cromata peste nichel, permanenta si fara descuamare
+• forjat, calire si revenire totala
+• extrem de rezistent, extrem de durabil
+SW 58614028
+SW 58614032
+SW 58614034
+SW 58614036
+7/16"
+1/2"
+9/16"
+5/8"
+SW 58614038
+11/16"
+SW 58614040
+3/4"
+SW 58614042
+13/16"
+SW 58614044
+7/8"
+SW 58614046
+15/16"
+SW 58614048
+1"
+SW 58614052
+1.1/8"
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+b
+30
+30
+35
+38
+42
+42
+50
+50
+53
+60
+66
+h
+7
+7
+8
+9
+10
+10
+11
+11
+12
+13
+14
+S
+25
+25
+25
+25
+25
+25
+25
+25
+25
+30
+30
+Antrenare
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+14x18
+127
+125
+129
+136
+148
+144
+171
+165
+177
+224
+258
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+358.57
+367.17
+396.96
+363.70
+358.57
+365.44
+358.57
+435.42
+435.42
+425.16
+478.10
+425.16
+486.62
+486.62
+537.97
+533.68
+554.94
+537.97
+NOU
+14x18
+388.44
+388.44
+388.44
+388.44
+388.44
+388.44
+456.76
+456.76
+456.76
+456.76
+456.76
+b
+50
+56
+63
+67
+72
+74
+84
+94
+104
+114
+124
+h
+13
+14
+15
+15
+15
+15
+16
+17
+18
+19
+20
+S
+55
+55
+55
+55
+55
+55
+55
+55
+55
+55
+55
+Antrenare
+22x28
+22x28
+22x28
+22x28
+22x28
+22x28
+22x28
+22x28
+22x28
+22x28
+22x28
+618
+640
+690
+705
+731
+713
+894
+934
+1073
+1172
+1241
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+24
+27
+30
+32
+34
+36
+41
+46
+50
+55
+60
+SW 58211024
+SW 58211027
+SW 58211030
+SW 58211032
+SW 58211034
+SW 58211036
+SW 58211041
+SW 58211046
+SW 58211050
+SW 58211055
+SW 58211060
+732/10
+Cap cheie inelara interschimbabil pentru cheie 
+dinamometrice 9x12 mm
+• pentru chei dinamometrice cu suport dreptunghiular
+• fixare prin blocare pin
+• placare cromata peste nichel, permanenta si fara descuamare
+• forjat, calire si revenire totala
+• extrem de rezistent, extrem de durabil
+SW 58221007
+SW 58221008
+SW 58221010
+SW 58221011
+SW 58221012
+SW 58221013
+SW 58221014
+SW 58221015
+SW 58221016
+SW 58221017
+SW 58221018
+SW 58221019
+SW 58221021
+SW 58221022
+7
+8
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+21
+22
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+b
+13
+14.2
+17.2
+18.5
+20.5
+21.5
+22.5
+24.5
+26
+27
+28
+30.5
+33
+34.5
+h
+8
+8
+9
+9
+11
+11
+11
+12
+12
+13
+13
+13
+15
+15
+S
+17.5
+17.5
+17.5
+17.5
+17.5
+17.5
+17.5
+17.5
+17.5
+17.5
+17.5
+17.5
+17.5
+17.5
+Antrenare
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+9x12
+37
+40
+44
+41
+49
+55
+52
+52
+54
+59
+56
+65
+71
+74
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+532.47
+571.76
+593.63
+624.09
+654.63
+693.92
+1099.85
+1143.51
+1161.01
+1195.85
+1222.09
+9x12
+341.53
+333.01
+333.76
+341.53
+341.53
+333.76
+341.53
+333.01
+333.76
+333.76
+333.76
+333.76
+349.22
+333.76

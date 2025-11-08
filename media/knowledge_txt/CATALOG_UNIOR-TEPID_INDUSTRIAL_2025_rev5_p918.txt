@@ -1,0 +1,239 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:918]
+37190
+NOU
+371SL
+NOU
+371PZ
+NOU
+Surubelnita dinamometrica
+1-5 Nm izolata la 1000 V
+• surubelnita dinamometrica izolata la 1000 V
+EGA Master combina precizia, siguranta si ergonomia 
+pentru lucrari electrice de mare solicitare.
+• izolatia sa certificata de pana la 1000V protejeaza 
+operatorul de pericolele electrice, facandu-l un instru-
+ment esential pentru profesionistii din sectoarele 
+electrice si industriale.
+• interval: 1-5 Nm.
+• hexagon atrenare: 9 mm
+• precizie: ±6% in sensul acelor de ceasornic
+• maner bimaterial: aderenta sporita si rezistenta la 
+substante chimice, uleiuri si solventi
+• reglare usoara cu scala integrata
+• sistem de blocare pentru a preveni reglajele accidentale
+• compatibil cu mai multe biti de surubelnita
+• material biti: aliaj CR-Mo-V
+• material maner: Bi-material (PP + TPV)
+• duritate biti: 52-56 HRc
+Biti cu profil lat izolati la 
+1000 V
+• material biti: aliaj CR-Mo-V
+• duritate biti: 52-56 HRc
+• hexagon atrenare: 9 mm
+Biti cu profil Pozidrive izolati
+la 1000 V
+• material biti: aliaj CR-Mo-V
+• duritate biti: 52-56 HRc
+• hexagon atrenare: 9 mm
+Nm
+110
+130
+130
+150
+L
+60
+80
+80
+100
+30
+50
+50
+80
+1
+1
+1
+1
+37191
+37192
+37193
+37194
+3,0
+4,0
+5,5
+6,5
+371PH
+Biti cu profil Phillips izolati
+la 1000 V
+• material biti: aliaj CR-Mo-V
+• duritate biti: 52-56 HRc
+• hexagon atrenare: 9 mm
+IEC 60900
+IEC 60900
+58.85
+37197
+58.85
+37198
+PZ 1
+PZ 2
+Nm
+130
+150
+L
+80
+100
+50
+80
+1
+1
+58.85
+58.85
+58.85
+58.85
+NOU
+371TX
+NOU
+Biti cu profil TORX izolati la 
+1000 V
+• material biti: aliaj CR-Mo-V
+• duritate biti: 52-56 HRc
+• hexagon atrenare: 9 mm
+37199
+TX 10
+37200
+TX 15
+37201
+TX 20
+37202
+TX 25
+37203
+TX 27
+37204
+TX 30
+Nm
+150
+150
+150
+150
+150
+150
+L
+100
+100
+100
+100
+100
+100
+IEC 60900
+58.85
+58.85
+58.85
+58.85
+58.85
+58.85
+80
+80
+80
+80
+80
+80
+1
+1
+1
+1
+1
+1
+IEC 60900
+Nm
+L
+37190
+9 mm
+1
+1 - 5
+195
+300
+1671.64
+37195
+37196
+PH 1
+PH 2
+Nm
+130
+150
+L
+80
+100
+37206
+NOU
+37207
+IEC 60900
+50
+80
+1
+1
+58.85
+58.85
+NOU
+Surubelnita dinamometrica
+1-5 Nm izolata la 1000 V cu 
+set 8 biti
+• surubelnita dinamometrica izolata la 1000 V
+EGA Master combina precizia, siguranta si ergonomia 
+pentru lucrari electrice de mare solicitare.
+• izolatia sa certificata de pana la 1000V protejeaza 
+operatorul de pericolele electrice, facandu-l un instru-
+ment esential pentru profesionistii din sectoarele 
+electrice si industriale.
+• interval: 1-5 Nm.
+• hexagon atrenare: 9 mm
+• precizie: ±6% in sensul acelor de ceasornic
+• maner bimaterial: aderenta sporita si rezistenta la 
+substante chimice, uleiuri si solventi
+• reglare usoara cu scala integrata
+• sistem de blocare pentru a preveni reglajele accidentale
+• compatibil cu mai multe biti de surubelnita
+• material biti: aliaj CR-Mo-V
+• material maner: Bi-material (PP + TPV)
+• duritate biti: 52-56 HRc
+Surubelnita dinamometrica
+1-5 Nm izolata la 1000 V cu 
+set 14 biti
+• surubelnita dinamometrica izolata la 1000 V
+EGA Master combina precizia, siguranta si ergonomia 
+pentru lucrari electrice de mare solicitare.
+• izolatia sa certificata de pana la 1000V protejeaza 
+operatorul de pericolele electrice, facandu-l un instru-
+ment esential pentru profesionistii din sectoarele 
+electrice si industriale.
+• interval: 1-5 Nm.
+• hexagon atrenare: 9 mm
+• precizie: ±6% in sensul acelor de ceasornic
+• maner bimaterial: aderenta sporita si rezistenta la 
+substante chimice, uleiuri si solventi
+• reglare usoara cu scala integrata
+• sistem de blocare pentru a preveni reglajele accidentale
+• compatibil cu mai multe biti de surubelnita
+• material biti: aliaj CR-Mo-V
+• material maner: Bi-material (PP + TPV)
+• duritate biti: 52-56 HRc
+IEC 60900
+Nm
+L
+Nm
+L
+37207
+9 mm
+15
+1 - 5
+195
+1500 3180.16
+IEC 60900
+37206
+9 mm
+9
+1 - 5
+195
+500
+2142.79
+SL (3.0, 4.0, 5.5, 6,5); PH (PH 1, PH 2); PZ (PZ 1, PZ 2)
+SL (3.0, 4.0, 5.5, 6,5); PH (PH 1, PH 2); PZ (PZ 1, PZ 2)
+TX (TX 10, TX 15, TX 20, TX 25. TX 27, TX 30)

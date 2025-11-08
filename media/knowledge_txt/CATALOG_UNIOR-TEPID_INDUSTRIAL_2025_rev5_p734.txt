@@ -1,0 +1,165 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:734]
+1658/2P
+1659/2DP-US
+NOU
+1670.2/4
+Indicator de pozitionare lant pe pinion
+• material: otel de scule calit si revenit
+• acoperire cromare in conformitate cu EN12540
+• pentru HG si IG roti de lant
+Cum sa utilizati scula:
+• scula este utilizata pentru determinarea pozitionarii lantului 
+pe pinioane.Poate fi utilizata pentru pinioane de la 12 la 21 de
+dinti.
+• mod de utilizare: lantul este montat pe pinion si scula pozitionata
+cu partea din spate rotunda intre doi dinti pe partea de sus a 
+pinionului.Ultima za a lantului este miscata pe pinion si o forta 
+de 100 N sau 10 kg este aplicata pe scula in directia de rotire a
+lantului. In acest moment ultima za a lantului este miscata pe
+pinionul de lant. Daca zaua calca corect pe dintele rotii de lant 
+inseamna ca roata de lant este in buna stare si va functiona 
+bine si cu un lant nou. Totusi, daca lantul calca gresit pe dinte 
+roata de lant este defecta si trbuie schimbata. De asemenea,
+cand lantul sare de pe roata repetat este nevoie de a inlocui
+roata de lant. 
+Indicator de pozitionare lant pe pinion
+o singura viteza
+Cap pentru inlucuire pinioane Suntour
+•  Pentru: Suntour Z
+• datorita formei sale ergonomice și mânerului lung dublu 
+inclinat pentru efect de parghie, aceasta cheie cu lant va 
+dezasambla cu usurinta si fara alunecare pinioanele cu roti 
+fixe de 1/8˝ si pinioanele casetei cu o singura viteza. Magnetul
+de la capatul lantului ajută la fixarea lantului de pinion si 
+faciliteaza depozitarea. Corpul sculei dispune de o cheie cu 
+inel de blocare pentru inelele de blocare ale pinionului cu 
+angrenaje fixe. Fabricat din otel de scule taiat cu laser si tratat
+termic pentru rezistentași performanta de durata
+• material: premium flex plus otel carbon
+• finisaj suprafete: cromat conform ISO 1456:2009
+• magnetul tine lantul pe loc si usurează depozitarea
+L
+323
+H
+11
+B
+52.5
+628902
+376
+211.48
+A
+B
+C
+D1
+D2
+D3
+616063 19,9 6,5 3,9 23,9 19,6 25,5
+S
+23
+41.79
+1670.4/4
+Schimbarea cuplajului torpedou
+Compagnolo®
+•  Scula de scoatere a cuplajului liber torpedou este folosita
+pentru schimbarea ansamblului la modelul Campagnolo®
+freewheels. 
+Cum sa utilizati scula:
+•  Folositi scula de pinioane impreuna cu antrenorul de 1/2"
+art.190.1A BI.
+L
+250
+B
+12
+A
+42
+629230
+C
+1/2"
+86
+90.61
+1660/2DP-US
+NOU
+Indicator de pozitionare lant pe pinion
+viteze multiple
+• datorita formei sale ergonomice si manerului lung dublu 
+pentru efect de parghie, aceasta cheie cu lant va dezasambla 
+casetele cu usurinta si fara alunecare. Fabricat din otel de
+scule taiat cu laser si tratat termic pentru rezistenta si perfor-
+manta de durata. Instrumentul este proiectat sa functioneze 
+cu casete cu mai multe viteze de la 6 la 12 viteze, inclusiv 
+casete SRAM X-range.
+• material: premium flex plus oțel carbon
+• finisaj suprafețe: cromat conform ISO 1456:2009
+• manere duble infundate din plastic
+• magnetul tine lantul pe loc si usureaza depozitarea
+A
+616707 44,2
+B
+3,0
+D1
+D2
+22,63
+21,35
+S
+21
+73.85
+1670.5/4
+Cap pentru inlucuire pinioane
+Shimano
+•  ShimanoZ, SRAMZ, Sun TourZ, Chris KingZ si Sun RaceZ 
+si altele.
+Cum sa utilizati scula:
+•  Folositi scula de pinioane impreuna cu antrenorul de 1/2" 
+art.190.1A BI.
+1670.1/4
+Cap pentru inlucuire pinioane
+Shimano
+•  Pentru: Shimano Z, SRAM Z si Sachs Aris Z,
+266
+192.13
+Sun Race Z
+L
+323
+H
+9
+B
+62
+628904
+1670.3/4
+Cap pentru inlucuire pinioane Suntour
+•  Pentru: Suntour Z
+Cum sa utilizati scula:
+•  Folositi scula de pinioane impreuna cu antrenorul de 1/2" 
+art.190.1A BI.
+A
+B
+C
+D1
+D2
+D3
+616064 23
+6,8 5,4
+23,9 19,9 26,7
+S
+24
+A
+B
+D1
+D2
+S
+A
+B
+D1
+D2
+43.75
+616062 44,7
+3,0 22,72 21,24
+21
+57
+59.64
+616065 45,4
+2,1 23,40 21,20
+S
+21
+66
+51.94

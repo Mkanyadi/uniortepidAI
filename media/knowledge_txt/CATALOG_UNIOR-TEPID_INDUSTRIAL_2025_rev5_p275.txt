@@ -1,0 +1,126 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:275]
+1244-30
+3203
+Subler de adancime pentru anvelope 0-30 mm
+• material: otel inoxidabil
+• domeniu de utilizare: 0 - 30 mm
+• precizie: ±0.1 mm
+• gradatie minima: 0.1 mm
+• ideal pentru masurarea adancimii rizurilor anvelopelor ce echipeaza autovehiculele 
+Micrometru mecanic de exterior
+• gradatie: 0.01 mm
+• suprafetele de masurare cu carbura
+• in conformitate cu DIN 863
+• se livreaza cu tampon de calibrare la cota minima ( exceptie 0-25 mm )
+1244-30
+Scala 
+0-30
+Acuratete 
+± 0.1 mm
+      L            l
+55
+90
+1145-25A
+Subler digital de adancime pentru anvelope 
+0-25 mm
+• rezolutie: 0.01 mm/0.0005"
+• butoane: on/off, zero, mm/inch
+• oprire automata, pornire la miscarea unitatii digitale• 
+• posibilitate de masurare rapida
+• baterie: CR2032
+• compatibil USB
+• material: otel inoxidabil
+• optional cablu de date: SPC
+• acuratete: ±0.03 mm
+• lungime: 90 mm
+• latime falca: 65 mm 
+160.65
+3203-25A*
+3203-50A*
+3203-75A*
+Scala 
+0-25 mm
+25-50 mm
+50-75 mm
+3203-100A*
+75-100 mm
+3203-125A
+100-125 mm
+3203-150A
+125-150 mm
+3203-175A
+150-175 mm
+3203-200A
+175-200 mm
+   Acuratete         L                a             b
+28
+4 µm
+32
+9
+4 µm
+5 µm
+5 µm
+6 µm
+6 µm
+7 µm
+7 µm
+57
+82
+107
+133
+158
+183
+209
+14
+15
+15
+16.5
+16.5
+19.4
+19.4
+38
+49
+60
+73
+85
+104
+117
+210.21
+231.00
+301.35
+338.10
+459.90
+527.10
+667.80
+695.10
+* livrat cu certificat de inspectie producator trasabil la DKD Germany
+La comanda se pot aduce micrometre pana la 300 mm
+La comanda micrometrele se pot aduce si cu gradatie in inch,  0,0001"
+3203-1004A
+Set micrometru mecanic de exterior 0-100 mm / 4 piese
+16
+0
+9
+2
+3
+65
+5
+2
+1
+setare zero
+masurare
+suprafata setare zero
+(inclusa)
+3203-1004A
+0-100 mm / 4 piese
+3203-25A, 3203-50A, 3203-75A, 3203-100A
+1081.50
+1145-25A
+Scala 
+0-25
+Acuratete 
+± 0.03 mm
+      L            l
+65
+90
+648.90

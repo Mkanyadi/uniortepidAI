@@ -1,0 +1,138 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:857]
+99-
+99-
+Freza pentru tablii, profil sinusoidal, 
+placata CMS Z2, cu coada si rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+Freza pentru tablii, profil convex, placata CMS Z2, 
+cu coada si rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+A
+C
+D
+H
+h
+A
+C
+D
+H
+h
+9
+1
+R 2
+R 16
+R 16
+9
+1
+R 38,1
+D               h              H              A          C      R1        R2        Z       rpm max.
+D               h              H              A          C                   R          Z       rpm max.
+α
+99-22112P
+76,2
+16
+64,7
+12
+12,7
+2
+16
+2
+18000
+550.16
+99-22512P
+76,2
+16
+64,7
+12
+12,7
+15°
+4,8
+2
+18000
+536.89
+99-
+99-
+Freza pentru tablii, profil drept cu unghiuri rotunjite, 
+placata CMS Z2, cu coada si rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+Freza pentru tablii, profil drept, pentru frezare ambele parti, 
+placata CMS Z2, cu coada si rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+A
+C
+D
+α
+H
+h
+R 4,8
+9
+1
+A
+99-56612P
+F03FR02515
+H
+h
+°
+5
+1
+°
+5
+1
+R 6
+TRAVERSA
+T
+N
+A
+T
+N
+O
+M
+TABLIE
+T
+N
+A
+T
+N
+O
+M
+9
+1
+TRAVERSA
+D
+99-56612P
+F03FR02515
+,
+5
+6
+÷
+5
+5
+,
+D               h              H              A          C                   R          Z       rpm max.
+α
+D               h              H              A             R1          R2          Z       rpm max.
+99-22412P
+76,2
+16
+64,7
+12
+12,7
+18°
+4,8
+2
+18000
+562.95
+99-56612P
+89
+25
+75
+12
+-
+6
+2
+14000
+849.18

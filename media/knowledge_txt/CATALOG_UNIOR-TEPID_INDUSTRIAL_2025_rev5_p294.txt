@@ -1,0 +1,83 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:294]
+7512-1
+Lupa bifocala cu 10 LED
+• lantile din sticla
+• prevazuta cu 10 LED
+• baterii 2 x AA (incluse) sau adaptor alimentare 220 V
+447-9385 
+NOU
+Durimetru manual ROCKWELL, cu afisare 
+digitala
+• tester de duritate semi-automat, cu exceptia incarcarii fortei initiale si a butonului de schimbare
+a fortei.
+• functionarea este foarte convenabila si rapida
+• control motorizat de incarcare, oprire si descarcare, elimina eroarea prin operare manuala
+• microprocesorul incorporat calculeaza automat max, min, media si valoarea deviatiei, rezolutia 
+este de 0,1HR, imbunatateste in mare masura precizia.
+• conversia automata a duritatii la alte scale, nu este nevoie de a verifica tabelul si de a 
+imbunatati eficiența de lucru.
+• suporta mai multe limbi, engleza, turca, germana, etc. Convenabil pentru clientii locali 
+functionare.
+• salvati 2000 de rezultate de testare unica si 1000 rezultate de grup pentru revizuire si analiza
+• este disponibila o mini-imprimanta optionala blue tooth
+            Marire                      Diametru ØD             Diametru Ød
+7512-1
+2X/4X
+Ø120 mm
+Ø28 mm
+249.90
+447-9385
+28366.43
+Specificatii tehnice
+caracteristica
+valoare
+Scale de duritate
+cu penetrator standard
+Scale de duritate
+cu penetrator optional
+forta incercare preliminara
+forta incercare
+Timp de repaus
+Indicarea duritații
+Rezolutie
+Controlul incarcarii
+Conversia duritati
+Standarde de conversie
+Optiunea de limba
+Interval de corectie
+Memorie de date
+Iesire de date 
+Inaltimea maximă a specimenului
+Gatul instrumentului
+Sursa de alimentare
+Dimensiuni (LxLxA)
+Dimensiunea ambalajului
+Greutate bruta/neta
+Standard de executie
+HRA, HRB, HRC, HRD, HRE, 
+HRF, HRG, HRH
+HRK, HRL, HRM, HRP, 
+HRR, HRS, HRV
+10 kgf (98,07 N) 
+60kgf (588.4N), 100 kgf  (980.7N), 150 kgf (1471 N)
+reglabil 1~60s
+ecran tactil color de 5,2", rezolutie: 640x480
+0.1HR 
+incarcare automata/incarcare/incsrcare
+HRC, HV, HBS, HBW, HK, HRA, HRD, HR15N, 
+HR30N,HR45N,HS,HRF,HR15T,HR30T,
+HR45T,HRB
+ASTM, DIN
+chineza, engleza, germana, portugheza,
+turca, ceha, coreeana 
+de la -3,0HR la +3,0HR, pas de 0,1HR
+2000 de rezultate de masurare unica, analiza 
+curba, revizuirea si analiza rezultatelor
+mini-imprimanta optionala Blue Tooth
+175 mm
+165 mm
+AC220V/50Hz, AC110V/60Hz
+546x182x755mm
+620x460x870mm
+120 kg/90 kg
+GB/T230.2, EN-ISO6508, ASTM E-18

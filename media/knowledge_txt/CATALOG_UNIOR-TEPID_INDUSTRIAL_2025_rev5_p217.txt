@@ -1,0 +1,121 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:217]
+Mecanismul protejat extrem de 
+rezistent la socuri mecanice, protejat 
+impotriva prefului si intemperiilor
+Scala dubla usor de citit
+Culori diferite pentru citirea
+masuratorilor in Nm si ft.lb
+Maner ergonomic
+bimaterial, foarte
+rezistent
+Scala inelara cu
+reglaj fin pentru
+stabilirea cuplului
+Gama larga de accesorii datorita sistemului de prindere.
+Reglare rapida din exterior. Nu este necesara
+demontarea cheii.
+Reglare rapida QuickSelect: trage, regleaza, 
+blocheaza. Toate aplicatiile cu un singur buton
+Cum functioneaza sistemul de tije flexibile?
+730 QUICK
+Acolo unde sarcina de lucru este zero, tija flexibilă (1) nu este preîncărcată. 
+Utilizatorul mișcă glisiera de reglare (2) pentru a modifica poziția contra-lagărului – și, astfel, 
+modifică lungimea efectivă a brațului de pârghie și preîncărcarea sau rezistența acestuia. 
+Principiul fizic este, prin urmare, același ca și în cazul unui băț de lemn pe care doriți să-l îndoiți: 
+dacă vă poziționați mâinile aproape de mijlocul bastonului, pârghia este scurtă și cu cât pârghia 
+este mai scurtă, cu atât rezistența este mai mare și forța care trebuie aplicată. Dacă acum se 
+aplică forță cheii dinamometrice, elementul de comutare din stânga (3) se înclină în jos și aplică 
+forță elementului din dreapta (4), forțându-l în sus. Colțul elementului care se mișcă în sus vine în 
+contact cu colțul camei de declanșare (5).
+Cheie dinamometrica Service cu tija flexibila si capete 
+interschimbabile MANOSKOP®
+• setare rapida a cuplului
+• click-type: la atingerea momentului de torsiune dorit decuplarea se face automat si este 
+semnalizata printr-un click.
+• sistemul de masurare se afla in sarcina numai la aplicarea fortei (nu este necesara o resetare 
+manuala - la zero - pentru scoaterea de sub tensiune a sistemului de masura). Orice forta 
+aplicata suplimentar dupa “click” sau in directia opusa de rotatie nu va deteriora mecanismul de
+masurare
+• cand valoarea cuplului pre-setat este atinsa, cheia decupleaza si indica acest lucru.
+• prindere de siguranta QuickRelease (dimensiuni 5–65)
+• reglare rapida datorita manetei de blocare din maner (dimensiunile 5-65)
+• maner rezistent la impact, uleiuri, grasimi, benzina, lichide de frana, Skydrol.
+• lupa integrata in fereastra afisajului
+• semnal dual de oprire
+• scala de citire dubla (Nm / Ft/Lb) - eroare de indicatie ± 4%
+• certificat in conformitate cu DIN EN ISO 6789-2: 2017
+• afisare valoare deviere ± 4%
+Pentru a depăși rezistența creată de tija flexibilă (1), va fi necesară o forță specifică, care depinde 
+de cuplul care a fost setat. De îndată ce acest punct a fost atins, elementul de comutare (4) își va 
+putea continua deplasarea în sus și va produce atât un semnal sonor, cât și unul tactil. De îndată 
+ce utilizatorul încetează să aplice forță, toate componentele revin automat la pozițiile lor neîncărcate
+nu este necesară resetarea manuală la »0«.
+1. Tijă flexibilă
+2. Setarea deplasarii
+3. Element de comutare din stânga
+4. Element de comutare din dreapta
+5. Cam de declanșare
+6. Punct de reglare/şurub de fixare pentru valoarea nominală
+7. Punct de reglare/șurub de fixare pentru cea mai mică valoare
+SW 50184005
+SW 50184010
+SW 50184020
+SW 50184030
+SW 50184040
+6 - 50
+5 - 36
+20 -100
+15 - 72,5
+40 - 200
+30 - 145
+60 - 300
+50 - 220
+80 - 400
+60 - 300
+SW 50184065
+130 - 650
+100 - 480
+SW 50184565
+130 - 650
+100 - 480
+L
+370
+370
+455
+520
+590
+875
+897
+Antrenare
+9x12
+9x12
+14x18
+14x18
+14x18
+14x18
+22x28
+936
+936
+1310
+1400
+1540
+3192
+4104
+1
+1
+1
+1
+1
+1
+1
+NOU
+2493.05
+2646.81
+3013.90
+NOU
+3329.80
+4388.48
+NOU
+6505.83
+NOU
+6693.75

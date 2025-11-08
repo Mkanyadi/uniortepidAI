@@ -1,0 +1,569 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:839]
+3100 / 3101
+1086402
+SCH2UF
+Burghie elicoidale cilindrice scurte
+pentru lemn, forma B, cu doua taisuri
+si varf de centrare
+• burghie elicoidale cilindrice scurte pentru lemn, forma B, cu 
+doua taisuri si varf de centrare conf DIN 1412 E, executie din 
+otel crom-vanadiu, laminate si tratate termic, brunate, cu 
+suprafata cilindrica / fatete rectificate. 
+• taiere pe dreapta. Unghiul spirei 20-30° .  
+• la diametre mai mari de 10 mm au coada redusa, de 10 mm 
+si la diametre mai mari de 20 au coada redusa, de 13 mm .
+• destinate pentru gaurire in lemn de esenta moale si tare, 
+lemn stratificat si panouri din lemn fara strat de acoperire, PAL .
+• se pot folosi atat pe masini de gaurit / utilaje stationare / fixe, 
+cat si pe masini de gaurit portabile, electrice sau pneumatice 
+Burghie elicoidale cilindrice scurte
+pentru lemn, forma E, cu doua taisuri
+si varf de centrare, HSS, norma 
+TIVOLY, SLR®
+• burghie elicoidale cilindrice scurte pentru lemn, forma E, cu
+doua taisuri si varf de centrare norma TIVOLY, SLR®
+• executie din HSS, tratate termic, rectificate, cu tratament de
+suprafata gold
+• taiere pe dreapta, unghiul spirei 20 -:- 30°, profilul spirei 
+special cu un volum mare al canalului de evacuare.  
+• ascutirea cu doua taisuri si varf de centrare conf DIN 1412 E, 
+• tija gradata pentu controlul adancimii gauririi
+• destinate pentru gaurire in lemn de esenta moale si tare, lemn
+stratificat si panouri din lemn fara strat de acoperire, PAL .
+• se pot folosi atat pe masini de gaurit / utilaje stationare / fixe,
+cat si pe masini de gaurit portabile, electrice sau pneumatice
+Freza din carbura solida Z-2 
+cu eliminarea aschiei in sus
+• conceput pentru: masini de frezat CNC pentru aplicatii
+general si finisaj perfect
+• potrivit pentru: formatizat si gaurit
+• SCH2U: spirala elicoidala, eliminare aschiei in sus pentru o
+finisare optima a panoului 
+pe partea inferioara
+A
+D
+h
+H
+Ø           LT         LU     Coada
+2
+d
+L
+l1
+Ø
+3,00
+4,00
+5,00
+6,00
+7,00
+8,00
+9,00
+10,00
+11,00
+12,00
+13,00
+14,00
+15,00
+16,00
+18,00
+20,00
+lungime normala
+31000700300
+31000700400
+31000700500
+31000700600
+31000700700
+31000700800
+31000700900
+31000701000
+31000701100
+31000701200
+31000701300
+31000701400
+31000701500
+31000701600
+31000701800
+31000702000
+lungime totala 250 mm
+31010700600
+31010700800
+31010701000
+31010701200
+31010701400
+31010701600
+31010701800
+31010702000
+lungime totala 400 mm
+31010700840
+31010701040
+31010701240
+31010701440
+31010701640
+31010702040
+6,00
+8,00
+10,00
+12,00
+14,00
+16,00
+18,00
+20,00
+8,00
+10.00
+12,00
+14.00
+16,00
+20,00
+61
+74
+86
+93
+109
+117
+120
+133
+142
+151
+151
+151
+160
+160
+180
+200
+250
+250
+250
+250
+250
+250
+250
+250
+400
+400
+400
+400
+400
+400
+33
+43
+52
+57
+69
+75
+81
+87
+89
+96
+96
+96
+100
+100
+120
+130
+155
+155
+155
+155
+155
+155
+155
+155
+340
+340
+340
+340
+340
+340
+3
+4
+5
+6
+7
+8
+9
+10
+10
+10
+10
+10
+10
+10
+10
+10
+6
+8
+10
+10
+10
+10
+10
+10
+8
+10
+10
+10
+10
+10
+7.05
+7.05
+7.54
+8.20
+8.36
+10.82
+12.79
+13.61
+16.56
+20.16
+22.30
+24.43
+28.03
+34.75
+55.25
+75.57
+34.10
+35.74
+39.84
+49.84
+58.20
+73.11
+89.84
+104.43
+58.20
+61.31
+67.70
+82.46
+87.87
+121.64
+8236671
+Freze CMS integral Z 2
+• unghiul spirei: 30º
+• numar de dinti: Z2
+• toleranta: h9
+GRADUATION
+  D          h       H         A        Z 
+Ø          d2             L          l1
+23
+2,0
+23
+2,5
+33
+3,0
+43
+4,0
+52
+5,0
+57
+6,0
+69
+7,0
+75
+8,0
+81
+9,0
+87
+10,0
+101
+12,0
+2,0
+2,5
+3,0
+4,0
+5,0
+6,0
+7,0
+8,0
+9,0
+10,0
+12,0
+55
+55
+61
+75
+86
+93
+109
+117
+125
+133
+151
+10864020200
+10864020250
+10864020300
+10864020400
+10864020500
+10864020600
+10864020700
+10864020800
+10864020900
+10864021000
+10864021200
+8236651
+Freze CMS integral Z 1
+• unghiul spirei: 30º
+• numar de dinti: Z1
+• toleranta: h9
+40.82
+50.49
+66.07
+69.18
+82.62
+94.10
+115.90
+122.62
+144.75
+152.62
+224.92
+SCH2UFN135R
+SCH2UFN140R
+SCH2UFN145R
+SCH2UFN150R
+SCH2UFN155R
+SCH2UFN228R
+SCH2UFN232R
+SCH2UFN244R
+SCH2UFN248R
+SCH2UFN256R
+SCH2UFN260R
+SCH2UFN264R
+SCH2UFN276R
+SCH2UFN280R
+SCH2UFN284R
+SCH2UFN288R
+SCH2UFN292R
+3
+4
+5
+6
+7
+8
+8
+10
+10
+12
+12
+12
+14
+16
+18
+20
+20
+13
+16
+17
+25
+32
+32
+42
+42
+52
+32
+42
+52
+52
+52
+52
+52
+72
+50
+50
+50
+60
+80
+80
+90
+100
+100
+80
+90
+100
+100
+100
+110
+120
+130
+8
+8
+8
+8
+8
+8
+8
+10
+10
+12
+12
+12
+14
+16
+18
+20
+20
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+222.46
+229.18
+248.52
+248.52
+281.64
+287.87
+342.62
+392.46
+420.49
+473.44
+498.36
+510.82
+719.51
+819.18
+1034.10
+1258.36
+1414.10
+Viteza recomandata pentru: lemn moale - 18.000 RPM. 
+Adancimea de taiere egala cu diametrul de taiere
+]
+m
+m
+[
+u
+r
+t
+e
+m
+a
+D
+i
+20
+18
+16
+14
+12
+11
+10
+8
+6
+5
+4
+3
+2
+d
+L
+Ø
+l1
+l2
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Avans [m/min]
+]
+s
+e
+h
+c
+n
+i
+[
+u
+r
+t
+e
+m
+a
+D
+i
+1/2”
+3/8”
+1/4”
+3/16”
+1/8”
+200
+220
+240
+260
+280
+300
+320
+340
+360
+380
+400
+420
+440
+Avans [IPM]
+2
+d
+L
+Ø
+l1
+l2
+82366510600
+82366510800
+82366511000
+82366511200
+Ø        d2 
+6,0
+6,0
+8,0
+8,0
+10,0
+10,0
+12,0
+12,0
+   L            l2
+20
+22
+30
+32
+60
+60
+72
+76
+309.53
+416.68
+535.17
+595.10
+82366710600
+82366710800
+82366711000
+82366711200
+Ø         d2 
+6,0
+6,0
+8,0
+8,0
+10,0
+10,0
+12,0
+12,0
+    L            l2
+20
+22
+30
+32
+60
+60
+72
+76
+270.49
+374.23
+485.22
+607.63

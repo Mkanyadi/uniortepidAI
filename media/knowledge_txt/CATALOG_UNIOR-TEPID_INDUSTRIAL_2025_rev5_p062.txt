@@ -1,0 +1,215 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:62]
+69900
+Set de surubelnite cu profil
+TORX® Plus 9” in husa plastic
+6IP - 50IP /11 piese
+CHEI PENTRU LOCAS HEXAGONAL
+Suruburi metric
+Capac
+Cap
+frezat
+Suruburi fara cap
+69900
+6IP - 50IP /11
+4400
+513.77
+(6IP, 8IP, 10IP, 15IP, 20IP, 25IP, 27IP, 30IP, 40P,
+45IP, 50IP)
+Dimensiune
+ISO
+47 62
+DIN
+912
+Cuplu minim
+DIN
+911
+Nm
+69901
+Set de surubelnite cu profil
+TORX® Plus 9” in husa plastic
+6IP - 20IP / 7 piese
+7,0
+80,0
+9,0
+81,0
+ISO
+4026
+4029
+ISO
+4027
+ISO
+4028
+DIN
+DIN
+DIN
+   DIN
+DIN
+DIN
+6912
+7984
+7991
+913
+91 6
+4,1
+1,6
+1,8
+2
+914
+915
+4,1
+1,6
+1,8
+2
+4,1
+1,6
+1,8
+2
+1,3                 0,53             1,4                                      2,5          2,5         2,5         2,5
+3
+4
+5
+6
+8
+10
+12
+14
+3
+44
+55
+66
+88
+10
+12
+14
+3
+10
+12
+14
+16
+16
+16
+18
+18
+18
+20
+22
+24
+20
+22
+24
+20
+22
+24
+1,5 
+2   
+2,5
+3 
+4
+ 5
+6
+7
+8
+10
+12
+14
+17
+19
+22
+24
+27
+32
+3
+4
+5
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+0,82
+1, 6
+2-
+1,9
+3,8
+6,6
+1 6
+30
+52
+78
+120
+220
+2,5
+3
+4
+5
+6
+8
+4
+5
+6
+8
+10
+12
+10
+12
+3
+4
+5
+6
+8
+10
+12
+14
+370
+14
+14
+1 6
+18
+20
+22
+24
+590
+1 6
+16
+18
+20
+22
+24
+27
+30
+33
+36
+18
+20
+22
+24
+27
+30
+33
+3 6
+42
+1000
+69901
+6IP - 20IP / 7
+1000
+320.00
+(6IP, 7IP, 8IP, 9IP, 10IP, 15IP, 20IP)
+69902
+Set de surubelnite cu profil
+TORX® Plus 9” in husa plastic
+10IP - 40IP / 7 piese
+69902
+10IP - 40IP / 7
+2000
+320.00
+(10IP, 15IP, 20IP, 25IP, 27IP, 30IP, 40P)
+DIAMETRU DE FILETARE
+Suruburi metrice
+Suruburi metrice fara cap
+Suruburi auto-filetante
+Suruburi pentru lemn

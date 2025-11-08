@@ -1,0 +1,146 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:632]
+S 400 BT
+POTENZA TIG 170 HF  GE  K
+NOU
+TIG DC 200 HF B P
+NOU
+Invertor de sudura MMA 400 A
+AVANTAJELE PRODUSULUI
+• sudarea electrozilor de pana la ø 8 mm.
+• setari reglabile Arc Force si Hot Start pentru performante optime
+• usor de utilizat, are Hot Start (aprindere usoara a arcului),
+Arc Force (stabilizare a arcului) si Anti-Stick (previne lipirea
+electrodului) configurate automat de software-ul STAYER.
+• sudeaza cu toti electrozii, inclusiv: rutil, bazic, celulozic, de
+inalta performanta, fonta, INOX
+• calitate inalta: structura dubla 100% metal pentru lucrari grele,
+roti si componente din otel.
+• proiectat si produs in conformitate cu reglementarile europene
+2014/35/UE, 2014/30/UE si 2011/65/UE.
+• pregatit pentru utilizarea cu generatoare stabilizate, cu o 
+abatere a tensiunii de intrare de +/-17%
+Invertor de sudura TIG HF 170 A
+AVANTAJELE PRODUSULUI
+• echipament de sudare TIG, pentru sudare grele din otel carbon, 
+otel inoxidabil, titan si aliaje. Potrivit pentru electrozi acoperiti 
+pana la 170 de amperi
+• TIG foarte productiv, arc de înaltă frecvență HF.
+• Control Power & Argon post flux.
+• structura metalica robusta ranforsata.
+• electrozi acoperiti pana la 4 mm
+• usor de utilizat, cu Hot Start (aprindere usoara a arcului), Arc
+Force (pentru un arc stabil) si Anti-Stick (pentru a evita electrozii 
+blocati) reglate automat de software-ul STAYER.
+• pregatit pentru utilizare generatoare stabilizate, cu o abatere de 
+intrare a tensiunii de +/-17%.
+Invertor de sudura TIG DC 200 HF B P
+AVANTAJELE PRODUSULUI
+• echipament de sudare TIG, pentru sudare grele din otel carbon, 
+otel inoxidabil, titan si aliaje. Potrivit pentru electrozi acoperiti 
+pana la 170 de amperi
+• TIG foarte productiv, arc de înaltă frecvență HF.
+• Control Power & Argon post flux.
+• structura metalica robusta ranforsata.
+• electrozi acoperiti pana la 4 mm
+• usor de utilizat, cu Hot Start (aprindere usoara a arcului), Arc
+Force (pentru un arc stabil) si Anti-Stick (pentru a evita electrozii 
+blocati) reglate automat de software-ul STAYER.
+• pregatit pentru utilizare generatoare stabilizate, cu o abatere de 
+intrare a tensiunii de +/-17%.
+Bas Cel
+CARRY CASE
+INCLUDED
+HF
+HF
+ADJUSTABLE ADJUSTABLE
+S 400 BT
+1.1750
+7868.85
+Curent sudura
+400 A
+Tensiune de alimentare
+400 V
+Ciclu de functionare
+60% 
+Electrozi
+1.6 - 8.0 mm 
+Generator recomandat
+20 KVA / 230V ±17%
+Dimensiuni
+63 x 47 x 33 cm
+Greutate
+23.0 kg
+Conector DINSE
+1/2” (35 - 50)” ø
+Cablu de alimentare
+2.0 m x 4.0 mm²
+Cablu + cleste de impamantare
+3.0 m - 50 mm²
+Cablu + cleste electrod
+3.0 m - 50 mm²
+POTENZA TIG 170 HF GE K
+1.3384
+5000
+3032.79
+TIG DC 200 HF B P
+1.2886
+11000
+5245.90
+Putere de iesire
+170 A
+Tensiune de alimentare
+230 V
+Ciclu de funcționare
+60 %
+Electrozi acoperiți
+1.6 - 4 mm
+Electrozi de wolfram
+3.25 mm
+Putere de iesire
+200 A
+Tensiune de alimentare
+230 V
+Ciclu de funcționare
+60 %
+Electrozi acoperiți
+1.6 - 4 mm
+Electrozi de wolfram
+3.25 mm
+Utilizarea generatorului
+4 - 6 KVA / 230V ±17%
+Utilizarea generatorului
+9 KVA / 230V ±17%
+Dimensiuni
+46 x 27 x 14.5 cm
+Greutate
+5 kg
+Conector DINSE
+1/2” (35 - 50) ø
+Cablu de alimentare
+2m x 2.5 mm²
+Cablu + cleste de impamantare
+2m - 25 mm²
+Cablu + cleste electrod
+3m - 25 mm²
+Torta TIG HF
+4 m
+Accesorii lanterne
+Furtun de gaz
+Geanta de transport
+Dimensiuni
+- cm
+Greutate
+11 kg
+Conector DINSE
+1/2” (35 - 50) ø
+Cablu de alimentare
+2m x 2.5 mm²
+Cablu + cleste de impamantare
+2m x 25 mm²
+Cablu + cleste electrod
+2m x 25 mm²
+Torta TIG HF
+4 m x 16 mm²
+Accesorii lanterne
+Furtun de gaz
+Geanta de transport

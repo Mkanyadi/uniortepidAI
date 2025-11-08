@@ -1,0 +1,230 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:157]
+H24 1.1/2”
+Bit pentru cap cheie tubulara impact 1.1/2", 
+profil hexagon exterior
+• hexagon exterior DIN/ISO 2963
+234.4/4
+Prelungitor de impact 1.1/2
+•  material:crom molibden
+•  forjata, calire si revenire totala
+•  acoperire prin brunare dupa standardul DIN 12476
+Dimensiune         
+mm / inch        
+   Hexagon prindere
+             mm
+HM22
+HM24
+HM27
+HM30
+HM32
+HM36
+HM38
+HM41
+HM46
+HM50
+HM55
+H16
+H18
+H20
+H22
+H24
+H26
+H28
+H29
+H30
+H32
+H34
+22 mm 
+24 mm 
+27 mm 
+30 mm 
+32 mm 
+36 mm
+38 mm
+41 mm
+46 mm
+50 mm
+55 mm
+1" 
+1 1/8" 
+1 1/4" 
+1 3/8"
+1 1/2" 
+1 5/8"
+1 3/4"
+1 13/16"
+1 7/8"
+2"
+2 1/8"
+22
+32
+32
+32
+32
+41
+41
+41
+55
+55
+55
+22
+32
+32
+41
+41
+41
+41
+55
+55
+55
+55
+89.11
+145.77
+165.76
+194.09
+206.11
+495.52
+495.52
+495.52
+562.87
+562.87
+595.40
+91.18
+149.09
+149.09
+338.98
+338.98
+462.98
+462.98
+503.78
+528.79
+555.42
+555.42
+617709
+1.1/2"
+L
+250
+D1
+49
+D2
+86
+5652
+ 1C 
+1
+2862.79
+560
+Prelungitor de impact 1.1/2"
+• material: crom molibden
+• actionare: patrat 1.1/2”
+• conform DIN 3121 - H 40
+• deschidere: patrat DIN 3121
+E
+A
+D2
+L
+1000005601
+560-1
+1.1/2”
+1.1/2”
+1000005602
+560-2
+1.1/2”
+1.1/2”
+1000005604
+560-4
+1.1/2”
+1.1/2”
+86
+86
+86
+125
+250
+500
+3900
+5450
+11600
+ 1C 
+ 1C 
+ 1C 
+1
+1
+1
+2278.69
+2508.20
+4803.62
+E24 1.1/2”
+Prelungitor de impact 1.1/2"
+• patrat de antrenare 1.1/2” DIN 3121 - forma H 40
+24H 1.1/2”
+Cap cheie tubulara impact 1.1/2" suport pentru
+bit profil hexagon exterior
+• patrat de antrenare 1.1/2” DIN 3121 - forma H 40
+Patrat 
+interior          exterior 
+                 D 
+mm 
+E2406
+E2409
+E2412
+E2420
+1 1/2"
+1 1/2"
+1 1/2"
+1 1/2"
+1 1/2"
+1 1/2"
+1 1/2"
+1 1/2"
+86
+86
+86
+86
+                 L                      Greutate
+mm 
+150
+225
+300
+500
+    gr
+3980
+4540
+5000
+8200
+1722.39
+1980.07
+2202.71
+2497.35
+Dimensiune         
+mm / inch        
+             HEX
+             mm
+24H22
+24H32
+24H41
+24H55
+17-22 mm si 3/4"-7/8"
+23-32 mm si 1"-1.1/4"
+36-41 mm si 1.3/8"-1.3/4"
+46-55 mm si 1.13/16"-2.1/8"
+22 mm
+32 mm
+41 mm
+55 mm
+982.55
+982.55
+982.55
+982.55
+234.7/4
+Adaptor de IMPACT 1.1/2"
+•  material: crom molibden
+•  forjata, calire si revenire totala
+•  acoperire prin brunare dupa standardul DIN 12476
+616800 1.1/2" - 1"
+D
+86
+L
+100
+2203
+ 1C 
+1
+1083.28

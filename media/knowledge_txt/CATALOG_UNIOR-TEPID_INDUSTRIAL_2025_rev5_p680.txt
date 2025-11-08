@@ -1,0 +1,145 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:680]
+HYCP-60ST
+HYCP-100ST
+Cap hidraulic pentru sertizat maxim Ø 60 mm
+• gama de sertizare: pana la 60 mm diametru exterior manson
+• accepta toate bacurile utilizate pentru sertizoare Alcoa, de 60 tone, care necesita o pompa 
+hidraulica cu actiune simpla
+• bacurile sunt fabricate numai la cerere
+• actionat de orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari (10.000 psi)
+• cilindru cu actiune simpla cu arc de revenire
+• stand de podea detasabil ca accesoriu standard
+• maner mare pentru transport usor
+• capac bacuri detasabil pentru pozitionarea usoara a conectorului
+• bucla metalica solida la baza pentru lucrari de ridicare
+• capul de compresie este conceput ca un instrument portabil pentru instalarea mansoanelor 
+de compresie si a terminalelor pentru constructia transmisiei si / sau lucrari de intretinere
+• cutie metal
+Cap hidraulic pentru sertizat
+• cupru: mansoane pana la 64 mm diametru exterior
+• aluminiu: mansoane pana la 71 mm diametru exterior
+• otel: mansoane pana la 32 mm diametru exterior
+• bacurile sunt fabricate numai la cerere
+• actionat de orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari (10.000 psi)
+• cilindru cu actiune simpla cu arc de revenire
+• stand de podea detasabil ca accesoriu standard
+• maner mare pentru transport usor
+• capac bacuri detasabil pentru pozitionarea usoara a conectorului
+• bucla metalica solida la baza pentru lucrari de ridicare
+• capul de compresie este conceput ca un instrument portabil pentru instalarea mansoanelor 
+de compresie si a terminalelor pentru constructia transmisiei si / sau lucrari de intretinere
+• cutie metal
+cursa: 38,7 mm
+cursa: 22 mm
+HYCP-60ST
+Ø
+60 mm
+1
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+1
+21300
+24055.74
+60 mm
+60.81 tone (541.0 kN)
+308 cc
+700 bar
+446 mm
+21.3 kg
+Ø
+1
+HYCP-100ST
+100 mm
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+1
+31400
+27373.77
+100 mm
+100.82 tone (985.9 kN)
+318 cc
+700 bar
+364 mm
+31.4 kg
+HYCP-60D
+200W
+Cap hidraulic pentru sertizat maxim Ø 60 mm
+• gama de sertizare: pana la 60 mm diametru exterior manson
+• accepta toate bacurile utilizate pentru sertizoare Alcoa, de 60 tone, care necesita o pompa 
+hidraulica cu actiune simpla
+• pistonul se retrage hidraulic; timpul de retragere este 1/3 din revenirea arcului
+• actionat de orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari (10.000 psi)
+• cilindru cu actiune simpla cu arc de revenire
+• stand de podea detasabil ca accesoriu standard
+• maner mare pentru transport usor
+• capac bacuri detasabil pentru pozitionarea usoara a conectorului
+• bucla metalica solida la baza pentru lucrari de ridicare
+• capul de compresie este conceput ca un instrument portabil pentru instalarea mansoanelor 
+de compresie si a terminalelor pentru constructia transmisiei si / sau lucrari de intretinere
+• cutie metal
+Cap hidraulic pentru sertizat
+• cupru: mansoane pana la 86 mm diametru exterior
+• aluminiu: mansoane pana la 100 mm diametru exterior
+• otel: mansoane pana la 50 mm diametru exterior
+• bacurile sunt fabricate numai la cerere
+• actionat de orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari (10.000 psi)
+• cilindru cu actiune simpla cu arc de revenire
+• stand de podea detasabil ca accesoriu standard
+• maner mare pentru transport usor
+• capac bacuri detasabil pentru pozitionarea usoara a conectorului
+• bucla metalica solida la baza pentru lucrari de ridicare
+• capul de compresie este conceput ca un instrument portabil pentru instalarea mansoanelor 
+de compresie si a terminalelor pentru constructia transmisiei si / sau lucrari de intretinere
+• cutie metal
+cursa: 38,0 mm
+cursa: 37 mm
+HYCP-60D
+Ø
+60 mm
+1
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+1
+23300
+25733.61
+200W
+Ø
+200 mm
+60 mm
+60.81 tone (541.0 kN)
+298 cc
+700 bar
+446 mm
+23.3 kg
+1
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+1
+78000
+76013.11
+200 mm
+219.51 tone (1952.9 kN)
+1049 cc
+700 bar
+445 mm
+78.0 kg

@@ -1,0 +1,633 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:439]
+9511011
+9521011
+1100471
+Tarozi pentru filetare manuala, filet
+BSW, similar DIN 352, HSS-G,
+3 buc/set
+• tarozi pentru filetare manuala, filet BSW ( Britisch Standard 
+Whitworth ), similar DIN 352, HSS-G,  3 buc/set
+• material: HSS, profil filet rectificat detalonat 
+• parametri filet conform BS84
+• unghiul flancurilor filetului 55°
+• pentru filetare in oteluri ne aliate, aliate si pentru tratament
+termic cu σr ≤ 950 N / mm² 
+• pentru gauri strapunse
+Tarozi pentru filetare manuala, filet
+UNC, similar DIN 352, HSS-G,  
+3 buc/set
+• tarozi pentru filetare manuala, filet UNC, similar DIN 352, 
+HSS-G,  3 buc/set
+• material: HSS, profil filet rectificat detalonat 
+• parametri filet conform ANSI B1.1 
+• toleranta 6H
+• unghiul flancurilor filetului 60°
+• destinate pentru filetare in oteluri ne aliate, aliate si pentru 
+tratament termic cu σr ≤ 950 N / mm² 
+• pentru gauri strapunse 
+Filiera pentru filet UNC, similar 
+DIN 22568  HSS-G
+• filiera pentru filet UNC, similar DIN EN 22568,  HSS-G
+• material HSS; tratament termic integral
+• parametri filet conform ANSI B1.1
+• forma B,  taiere pe dreapta, toleranta 2A
+• unghiul flancurilor filetului 60°
+• destinate pentru filetare in oteluri ne aliate si aliate, cu+
+σr ≤ 700 N / mm², aliaje de aluminiu
+2
+d
+L
+Ø
+l1
+P
+2
+d
+H
+Ø         P      L       l         d2
+3,5
+40
+1/8"
+4,5
+45
+5/32"
+6
+50
+3/16"
+6
+50
+7/32"
+6
+56
+1/4"
+6
+63
+5/16"
+7
+70
+3/8"
+8
+75
+7/16"
+9
+80
+1/2"
+9
+80
+9/16"
+0
+0
+5/18"
+14
+105
+3/4"
+18
+110
+7/8"
+20
+110
+1"
+25
+125
+1.1/4"
+11
+13
+16
+18
+22
+25
+28
+30
+32
+32
+0
+40
+45
+50
+56
+40
+32
+24
+24
+20
+18
+16
+14
+12
+12
+0
+10
+9
+8
+7
+146.14
+146.14
+146.14
+217.00
+166.28
+197.78
+218.66
+286.60
+316.66
+419.14
+489.60
+699.94
+872.13
+1068.82
+1897.80
+951101100180400
+951101100532320
+951101100316240
+951101100732240
+951101100140200
+951101100516180
+951101100380160
+951101100716140
+951101100120120
+951101100916120
+951101100580110
+951101100340100
+951101100780090
+951101110000080
+951101110140070
+4104
+Tarozi pentru filetare manuala, filet
+UNC, similar DIN 352, HSS-G,
+3 buc/set
+• tarozi pentru filetare manuala, filet UNC, similar DIN 352, 
+HSS-G,  3 buc/set
+• material: HSS, profil filet rectificat detalonat 
+• parametri filet conform ANSI B1.1 
+• unghiul flancurilor filetului 60°
+• destinate pentru filetare in oteluri ne aliate si aliate, cu 
+σr ≤ 800 N / mm² 
+• conul de atac :
+- Nr1.,  6-8 spire
+- Nr2.,  4-5 spire
+- Nr3.,  2-3 spire
+• pentru gauri strapunse sau infundate
+HSS
+G
+Tol.
+2B
+60°
+UNC
+41041100632
+41041100832
+41041101024
+41041101224
+41041100014
+41041100516
+41041100038
+41041100716
+41041100012
+41041100916
+41041100058
+41041100034
+41041100078
+41041100100
+        UNC filet     Pas (mm)    Gaura (mm)
+32
+32
+24
+24
+20
+18
+16
+14
+13
+12
+11
+10
+9
+8
+Nr. 6
+Nr. 8
+Nr. 10
+Nr. 12
+1/4"
+5/16"
+3/8"
+7/16"
+1/2"
+9/16"
+5/8"
+3/4"
+7/8"
+1"
+2,85
+3,50
+3,90
+4,50
+5,20
+6,60
+8,00
+9,40
+10,80
+12,20
+13,50
+16,50
+19,50
+22,25
+800
+N/mm²
+~DIN
+352
+90.61
+90.61
+90.61
+93.08
+68.57
+74.58
+84.60
+105.71
+143.62
+165.19
+216.05
+262.43
+372.46
+474.01
+2
+d
+L
+Ø
+l1
+P
+Ø        P       L        l         d2
+952101100002560
+952101100003480
+952101100004400
+952101100005400
+952101100006320
+952101100008320
+952101100010240
+952101100012240
+952101100140200
+952101100516180
+952101100380160
+952101100716140
+952101100120130
+952101100916120
+952101100580110
+952101100340100
+952101100780090
+952101110000080
+4206
+N°2
+N°3
+N°4
+N°5
+N°6
+N°8
+N°10
+N°12
+1/4"
+5/16"
+3/8"
+7/16"
+1/2"
+9/16"
+5/8"
+3/4"
+7/8"
+1"
+56
+48
+40
+40
+32
+32
+24
+24
+20
+18
+16
+14
+13
+12
+11
+10
+9
+8
+36
+40
+40
+40
+45
+45
+350
+50
+56
+63
+70
+75
+80
+80
+90
+105
+110
+110
+10
+11
+11
+11
+13
+13
+16
+18
+22
+25
+28
+30
+32
+32
+36
+40
+45
+50
+2,8
+3,5
+3,5
+3,5
+4
+4
+2,6
+6
+6
+6
+7
+8
+9
+12
+12
+14
+18
+20
+308.92
+302.95
+264.16
+252.63
+252.63
+252.63
+247.64
+247.64
+210.23
+243.22
+274.26
+357.17
+411.16
+475.77
+662.76
+893.53
+1100.66
+1486.35
+Filiera filet UNC, similar DIN 22568 HSS-G
+• filiera pentru filet UNC, similar DIN EN 22568,  HSS-G
+• material HSS; tratament termic integral
+• parametri filet conform ANSI B1.1
+• forma B,  taiere pe dreapta, toleranta 2A
+• unghiul flancurilor filetului 60°
+• destinate pentru filetare in oteluri ne aliate si aliate, cu σr ≤ 800 N / mm²
+Ø          P           L             l
+20
+20
+20
+20
+20
+20
+25
+30
+30
+38
+45
+UNC5
+UNC6
+UNC8
+UNC10
+UNC12
+UNC1/4
+UNC5/16
+UNC3/8
+UNC7/16
+UNC1/2
+UNC3/4
+40
+32
+32
+24
+24
+20
+18
+16
+14
+13
+10
+5
+5
+5
+7
+7
+7
+9
+11
+11
+14
+18
+148.32
+142.41
+140.34
+146.25
+148.32
+146.25
+157.16
+197.38
+197.38
+225.78
+322.06
+11004710005
+11004710006
+11004710008
+11004710010
+11004710012
+11004710104
+11004710516
+11004710308
+11004710716
+11004710102
+11004710304
+4105
+Tarozi pentru filetare manuala, filet
+UNF, similar DIN 2181, HSS-G, 
+2 buc/set
+• tarozi pentru filetare manuala, filet UNF, similar DIN 2181, 
+HSS-G,  2 buc/set
+• material: HSS, profil filet rectificat detalonat 
+• parametri filet conform ANSI B1.1 
+• unghiul flancurilor filetului 60°
+• destinate pentru filetare in oteluri ne aliate si aliate, cu 
+σr ≤ 800 N / mm² 
+• conul de atac :
+- Nr1.,  5-6 spire
+- Nr2.,  2-3 spire
+• pentru gauri strapunse sau infundate
+UNC
+DIN  EN
+22568
+HSS
+G
+FORM
+B
+Tol.
+2A
+800
+N/mm²
+60°
+UNF
+~DIN
+2181
+HSS
+G
+Tol.
+2B
+60°
+42061100632
+42061100832
+42061101024
+42061101224
+42061100014
+42061100516
+42061100038
+42061100716
+42061100012
+42061100916
+42061100058
+42061100034
+42061100078
+42061100100
+        UNC filet    Pas (mm)    Diametru (mm)
+32
+32
+24
+24
+20
+18
+16
+14
+13
+12
+11
+10
+9
+8
+Nr. 6
+Nr. 8
+Nr. 10
+Nr. 12
+1/4"
+5/16"
+3/8"
+7/16"
+1/2"
+9/16"
+5/8"
+3/4"
+7/8"
+1"
+3,41
+4,07
+4,71
+5,37
+6,22
+7,80
+9,37
+10,95
+12,52
+14,10
+15,68
+18,84
+22,00
+25,16
+89.84
+89.84
+89.84
+89.84
+74.43
+89.84
+95.41
+103.28
+122.95
+143.61
+203.11
+203.11
+328.36
+328.36
+41051100640
+41051100836
+41051101032
+41051101228
+41051100014
+41051100516
+41051100038
+41051100716
+41051100012
+41051100916
+41051100058
+41051100034
+41051100078
+41051100100
+        UNF filet          Pas (mm)          Gaura (mm)
+40
+36
+32
+28
+28
+24
+24
+20
+20
+18
+18
+16
+14
+12
+Nr. 6
+Nr. 8
+Nr. 10
+Nr. 12
+1/4"
+5/16"
+3/8"
+7/16"
+1/2"
+9/16"
+5/8"
+3/4"
+7/8"
+1"
+3,00
+3,50
+4,10
+4,70
+5,50
+6,90
+8,50
+9,90
+11,50
+12,90
+14,50
+17,50
+20,25
+23,25
+82.62
+82.62
+82.62
+82.62
+72.95
+80.98
+87.21
+101.31
+121.80
+149.84
+185.57
+222.46
+315.90
+401.80

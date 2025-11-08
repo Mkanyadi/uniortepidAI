@@ -1,0 +1,176 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:180]
+512/1BI
+472/1BI
+Cleste cu varfuri semirotunde 
+indoite si tais
+•  material: compozitie speciala pentru calire 
+revenire
+•  tratat complet
+•  partile taietoare tratate prin inductie
+•  cap polizat
+•  finisare: cromat in conformitate cu standardul 
+EN12540
+•  manere bimaterial pentru conditii grele
+•  partea de prindere dintata
+•  varfuri-semirotunde indoite la 45 de grade
+•  varfurile lungi si indoite asigura prinderea 
+sigura si precisa a suruburilor si piulitelor.
+•  falcile puternice asigura o strangere buna
+Cleste cu varfuri late
+•  material: compozitie speciala pentru calire 
+revenire
+•  tratat complet
+•  cap polizat
+•  finisare: cromat in conformitate cu standardul 
+EN12540
+•  manere bimaterial pentru conditii grele
+•  partea de prindere dintata
+•  in conformitate cu standardul ISO 5745
+476/1BI
+Cleste cu varfuri rotunde
+•  material: compozitie speciala pentru calire 
+revenire
+•  tratat complet
+•  posibilitati mici de deteriorare a sarmei
+•  varfurile lungi asigura prinderea sarmei in 
+locurile cele mai dificile
+•  cap polizat
+•  finisare: cromat in conformitate cu standardul 
+EN12540
+•  manere bimaterial pentru conditii grele
+•  in conformitate cu standardul ISO 5745
+L
+607878 140
+607879 160
+B
+15
+16
+C
+39
+49
+A
+8
+9
+120
+146
+ 4B 
+ 4B 
+10
+10
+89.34
+96.72
+472/4G
+Cleste cu varfuri late
+•  material: compozitie speciala pentru calire 
+revenire
+•  tratat complet
+•  cap vopsit
+•  acoperire: fosfatare conform standardului 
+DIN 12476
+•  partea de prindere dintata
+•  maner de plastic pentru conditii grele
+•  in conformitate cu standardul ISO 5745
+L
+B
+607880 140 15
+A
+9
+607881 160 16
+10
+C D
+39
+49
+2
+116  4B 
+2.5 126  4B 
+10
+10
+91.15
+98.36
+L
+608704 140
+608705 160
+B
+15
+16
+C
+39
+49
+A
+8
+9
+120
+146
+ 4B 
+ 4B 
+10
+10
+62.46
+68.20
+L
+B D
+607966 170 17
+607967 200 17
+2.5
+2.5
+A
+9
+9
+capacitatea de taiere (10N=1kg)
+C
+61 152  4B 
+77 204  4B 
+10
+10
+131.15
+136.89
+L
+max 1600 N/mm²
+max 650 N/mm²
+607966 170
+607967 200
+512/4G
+1,6
+1,8
+2,0
+2,5
+Cleste cu varfuri semirotunde 
+indoite si tais
+•  material: compozitie speciala pentru calire 
+revenire
+•  tratat complet
+•  partile taietoare tratate prin inductie
+•  cap vopsit
+•  acoperire: fosfatare conform standardului 
+DIN 12476
+•  partea de prindere dintata
+•  varfuri-semirotunde indoite la 45 de grade
+•  maner de plastic pentru conditii grele
+•  varfurile lungi si indoite asigura prinderea 
+sigura si precisa a suruburilor si piulitelor.
+•  falcile puternice asigura o strangere buna
+L
+B D A
+C
+608720 170 17
+608721 200 17
+2.5
+2.5
+9
+9
+61 152  4B 
+77 204  4B 
+10
+10
+101.80
+107.21
+capacitatea de taiere (10N=1kg)
+L
+max 1600 N/mm²
+max 650 N/mm²
+608720 170
+608721 200
+1,6
+1,8
+2,0
+2,5

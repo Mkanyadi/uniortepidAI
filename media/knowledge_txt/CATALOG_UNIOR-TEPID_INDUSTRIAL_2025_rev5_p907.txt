@@ -1,0 +1,288 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:907]
+110/2VDEDP
+Cheie fixa simpla izolata la 
+1000 V
+•  material: crom vanadiu
+•  cap: cromat in concordanta cu EN12540
+•  in concordanta cu standardul EN 60900
+Avantaje:
+•  dublu strat - dubla protectie, doua straturi de 
+culori diferite
+•  controlul se face prin testare electrica
+Important
+•  daca al doilea strat devine vizibil inlocuiti 
+scula VDE cu una noua
+IREGA SWO 92 1000 V
+Cheie reglabila cu deschidere marita
+izolata la 1000 V
+• material: otel crom vanadiu
+• materialul izolator de pe maner indeplineste cerintele IEC 900 si EN-60900, in ce priveste rezistenta electrica 
+si proprietatile mecanice
+• fiecare cheie reglabila IREGA 92 1000V trece printr-un test de inalta tensiune, in conformitate cu Standardul 
+EN-60900 Standard, echivalent IEC-900, si constand in expunerea la 10.000 V timp de 10 secunde, dupa care 
+nu ar trebui sa existe nici o deteriorare a manerului
+• cele trei straturi de plastisol in culori diferite permit utilizatorului sa verifice cu usurinta starea izolatiei
+• SWO 92 1000V 6" deschidere marita 34 mm (1 3/8") cu 78% mai mare decat cheile reglabile standard (6"), 
+dimensiuni similare; greutate redusa - 250 grame cu 68% mai usoara decat chei reglabile standard (12") cu 
+deschidere similara
+• SWO 92 1000V 8" deschidere marita 39 mm (1 1/2") cu 62% mai mare decat cheile reglabile standard (8"), 
+dimensiuni similare; greutate redusa - 354 grame cu 54% mai usoara decat chei reglabile standard (12 "), care 
+are deschidere mai mica
+618370 6
+618331 7
+617801 8
+L
+72
+82
+95
+B
+16
+A
+6.9
+16.1 6.9
+21
+7
+621575 9
+100 24.5 7.5
+612175 10
+105 24.5 7.5
+612176 11
+612177 12
+112
+125
+26
+28
+7.5
+8
+612178 13
+132 30.5 8.5
+612179 14
+612180 15
+621576 16
+612181 17
+621577 18
+612182 19
+140
+150
+154
+157
+165
+170
+33
+35
+40
+40
+44
+44
+8.5
+9
+10
+10
+11
+11
+19
+26
+30
+35
+42
+51
+65
+76
+84
+96
+118
+137
+151
+170
+618333 20
+175 46.4 12.2 184
+619201 21
+180 48.8 12.5 213
+612183 22
+195
+49
+13
+234
+618335 23
+210 52.8 13.1 251
+612184 24
+621578 26
+617802 27
+621579 28
+220
+235
+240
+245
+56
+59
+59
+66
+14
+15
+15
+311
+361
+387
+15.8 440
+618336 30
+260 66.1 15.8 518
+618337 32
+275 71.4 17.6 620
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+5
+5
+5
+5
+5
+5
+5
+5
+110/2VDEDPCB
+Set de chei fixe simple izolate
+la1000 V in cutie de carton
+62.62
+63.44
+66.39
+68.85
+66.39
+70.82
+68.03
+71.15
+75.74
+77.87
+82.30
+84.75
+89.67
+93.44
+100.49
+100.49
+101.31
+109.84
+112.13
+129.18
+128.03
+140.49
+147.54
+166.39
+Rosu (IN SIGURANTA)
+Portocaliu (ATENTIONARE)
+Galben (NU MAI FOLOSITI!)
+570313006005105
+Dimensiune                                        Deschidere                         Ambalare        
+176 mm (6")
+34 mm (1 3/8")
+1
+570313008005105
+216 mm (8")
+39 mm (1 1/2")
+1
+250/1VDEDP
+Cheie reglabila izolata la 
+1000 V
+•  material: crom vanadium
+•  acoperire cromare conform EN12540
+•  in concordanta cu standardul 
+EN 60900
+Avantaje:
+•  dublu strat-dubla protectie, doua straturi de 
+culori diferite
+•  100% control - fiecare piesa este testata
+•  cu scala
+Important
+•  daca al doilea strat devine vizibil inlocuiti 
+scula VDE cu una noua
+356.46
+390.00
+NOU
+Cheie reglabila izolata la 
+1000 V
+•  material: crom vanadium
+•  acoperire cromare conform EN12540
+•  in concordanta cu standardul EN 60900
+Avantaje:
+•  dublu strat-dubla protectie, doua straturi de culori diferite 
+•  100% control - fiecare piesa este testata
+•  cu scala
+Important
+•  daca al doilea strat devine vizibil inlocuiti 
+scula VDE cu una noua
+L A
+621917 150 165 35 23 182
+616849 200 215 35 28 355
+612676
+10 - 24 / 10
+1200
+ 1F 
+1
+843.93
+616850 250 265 35 32 579
+ 110/2VDEDP  (10, 11, 12, 13, 14, 15, 17, 
+616851 300 310 36 38 871
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+19, 22, 24)
+622065 380 390 35 50 1505  1E 
+L A
+79470  8”
+200 25 29 370
+79471 10” 250 32 33 620
+ 1E 
+ 1E 
+79472 12” 300 40 38 1000  1E 
+1
+1
+1
+857.16
+1095.78
+1160.84
+1
+1
+1
+1
+1
+152.13
+188.20
+228.36
+287.54
+513.61

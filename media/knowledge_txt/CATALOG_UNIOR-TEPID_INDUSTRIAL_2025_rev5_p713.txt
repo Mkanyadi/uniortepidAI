@@ -1,0 +1,39 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:713]
+165-SHM03    
+Presa pentru suspensie multilink
+Audi A4, - A6, VW Passat din 97
+Piesa de presare plata                                                  
+Bolt de scoatere                                                        
+Piulita de reglare 
+(pentru tensionare si 
+reglare a parghiei de 
+presare la 90 de grade 
+fata de tija centrala)
+Instructiuni :
+1. Se desurubeaza piulita 
+2. Se monteaza piesa plata de presare in parghie
+3. Se monteaza presa si se strange surubul de actionare
+4. Se inlocuieste piesa plata cu boltul de scoatere si se 
+repeta operatiunea
+5. Se scoate surubul cu un dorn
+ATENTIE: eficienta optima se realizeaza cand parghia 
+de presare este la 90 de grade 
+Fata de tija centrala, surubul de actionare este paralel.
+Parghie de presare  
+( pentru functionare optima se regleaza
+la aprox 90 de grade fata de tija centrala)
+165-SHO3
+306 - S1
+Set pentru desfacut flanse de conducte
+• se foloseste la inlocuirea garniturilor sau la lucrari de intretinere la flanse de conducte tip 
+DIN
+2372.52
+200
+Extractor mandrina pentru inele interioare de rulmenti
+• pentru indepartarea inelelor interioare ale generatoarelor, motoarelor si altor componente 
+ale masinii
+• tensionare si eliberare usoara prin rotirea manuala a piulitei
+  Deschidere          Pentru suruburi                              Filet            SW
+  306-S1       80-250                 M16 - M24                               M24x1,5         24          2250.27
+  Deschidere           Adancime      Nm       Coada             Filet            SW 
+     200           5-32                      135           60          6x30           M14x1,5         17       1433.25

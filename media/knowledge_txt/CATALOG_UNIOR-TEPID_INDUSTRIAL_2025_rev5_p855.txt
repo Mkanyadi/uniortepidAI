@@ -1,0 +1,133 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:855]
+99-
+Freza cu coada, pentru ornamente, 
+placata CMS Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+99-
+Freza cu coada, pentru ornamente, 
+placata CMS Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+H
+h
+R 2,4
+R 9,5
+99-PK212P
+F03FR02408
+H
+h
+R 3,2
+R 9,5
+A
+99-01212P
+F03FR02418
+H
+h
+C
+D
+99-01212P
+F03FR02418
+A
+99-01312P
+F03FR02419
+H
+h
+R1
+R2
+R1
+R2
+R3
+R 4
+R 15
+R 3,5
+R 4,5
+R 8,5
+99-PK312P
+F03FR02409
+C
+D
+99-01312P
+F03FR02419
+D               h              H              A              C                           Z       rpm max.
+99-01212P
+99-01312P
+23,8
+23,8
+35
+35
+83,5
+83,5
+12
+12
+12,7
+12,7
+2
+2
+24000
+24000
+307.54
+307.54
+R1
+R2
+R1
+R2
+A
+99-PK212P
+F03FR02408
+D
+A
+99-PK312P
+F03FR02409
+C
+D
+A
+99-00812P
+F03FR02414
+R1
+R2
+R3
+H
+h
+R 3
+R 10,5
+R 7
+C
+D
+99-00812P
+F03FR02414
+D               h              H              A              C                           Z       rpm max.
+99-PK212P
+99-PK312P
+99-00812P
+31,8
+31,8
+44,4
+20
+23,8
+28,6
+58
+72
+77,1
+12
+12
+12
+-
+12,7
+12,7
+2
+2
+2
+24000
+24000
+24000
+297.21
+315.41
+382.79
+Freud: Lider in industria prelucrarii lemnului de peste 50 de ani.
+• Performantele de top ale frezelor cu coada marca Freud sunt rezultatul a doi factori:
+calitatea inalta si durata de viata.
+• Compania Freud utilizeaza in procesul de productie cele mai bune materii prime, utilizant 
+cele mai noi si sofisticate procese de productie.
+• Fara reparatii, fara rupere, fara marcaje, fara presiune pe masina:
+atunci cand sunteti in cautarea unei freze cu coada performante, cautati Freud

@@ -1,0 +1,273 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:296]
+9315-CF210
+Cleste ampermetric digital
+• deschidere cleste: 28 mm
+• functie REl (zero)
+• data hold
+• indicator polaritate
+• indicator nivel scazut baterie
+• oprire automate
+• clasa siguranta: CAT III 300V / CAT I 600V
+Include:
+• cleste ampermetric digital
+• 2 sonde
+• 3 baterii 1.5V
+sonde (incluse)
+9216-F520
+Multimetru digital
+• memorie date
+• afisaj nivel scazut baterie
+• oprire automata
+• rata siguranta: CT III 600 V
+9315-CF210
+V
+600
+mm
+215 x 75 x 37
+1
+235
+Functii
+Domeniu de masurare
+Curent DC
+40.00/400.0A
+Curent AC*
+40.00A/400.0A
+DC Voltage
+400.0mV
+Rezolutie
+0.01A/0.1A
+0.01A/0.1A
+0.1mV
+4.000V/40.00V/400.0V/600V
+0.001V/0.01V/0.1V/1V
+AC Voltage*
+4.000V
+0.001V
+40.00V/400.0V/600V
+0.01V/0.1V/1V
+AC freventa 
+10Hz~60kHz 
+0.01Hz~0.01kHz
+Rezistenta
+400.0Ω
+0.10
+909.30
+Acuratete
++(2.0%+5d)
+±(2.0%+5d)
++(0.7%+3d)
++(0.5%+2d)
+±(1.0%+5d)
+±(0.8%+5d)
++(0.5%+2d)
++(1.0%+2d)
+Include:
+• multimetru digital
+• 2 sonde
+• baterie 9V
+9216-F520
+Functii
+Voltaj DC
+Voltaj AC (50-60Hz)
+4.000kΩ/40.00kΩ/400.0kΩ
+0.001k0/0.01k0/0.1kO
+±(0.8%+2d)
+4MΩ/40MΩ
+0.001M0/0.01MO
+±(2.5%+5d)
+Curent DC
+sonde (incluse)
+V
+600
+mm
+150 x 70 x 48
+1
+255
+497.70
+Domeniu de masurare
+Rezolutie
+200mV
+2V/20V/200V
+600V
+200mV
+2V
+20V/200V
+600V
+200µA
+Acuratete
+±(0.5%+2d)
+0.1mV
+0.001V/0.01V/0.1V
++(1.0%+2d)
+1V
+0.1mV
+0.001V
+0.01V/0.1V
+1V
+0.1µA
++(1.2%+2d)
++(1.5%+30d)
+±(1.2%+3d)
++(1.5%+3d)
++(2.0%+4d)
++(1.0%+3d)
+Capacitate
+40.00nF/400.0nF/4.000µF/
+0.01nF/0.1nF/0.001µF/
++(4.0%+5d)
+2000µA/20mA/200mA
+1µA/0.01mA/0.1mA
+±(1.5%+3d)
+40.00µF/400.0µF
+4.000mF/40.00mF
+Frecventa 
+10Hz~10MHz
+0.01µF/0.1µF
+0.001mF/0.01mF
+0.01Hz~0.01MHz
+Ciclu de lucru 
+0.1%~99.0%
+0.1%
++10.0%
+±(0.1%+4d)
++(3.0%+5d)
+Test dioda
+Continuity 
+Alimentare
+Voltaj circuit deschis: 4V
+<30Ω
+2 baterii x 1.5 V AAA
+9241-ML200
+Multimetru digital tip stilou
+• reglare automata
+• mod maxim
+• memorie date
+• afisaj nivel scazut baterie
+• oprire automata
+• rata siguranta: CT III 600 V
+Include:
+• multimetru digital tip stilou
+• 1 sonda
+• 2 baterii 1.5V
+• 2 clipsuri crocodil
+clipsuri crocodil (icluse)
+sonda (inclusa)
+9241-ML200
+Functii
+Voltaj CC
+Voltaj CA
+Curent CC
+Curent CA
+V
+200
+mm
+265 x 90 x 50
+1
+299
+Domeniu de masurare
+Rezolutie
+469.35
+Acuratete
+200mV/2V/20V/200V/600V
+0.1mV/1mV/10mV/0.1V/1V
+±(0.7%+2)
+±(0.7%+2)
+200mV/2V/20V/200V
+0.1mV/1mV/10mV/0.1V
+600V
+20mA/200mA
+20mA/200mA
+200Ω
+1V
+10μA/0.1mA
+10μA/0.1mA
+0.1Ω
+Rezistenta
+2kΩ/20kΩ/200kΩ/2MΩ
+1Ω/10Ω/0.1kΩ/1kΩ
+20MΩ
+10kΩ
+<1.5V (LED verde aprins)
+Test nivel logic
+1.5~3.5V (LED verde si rosu oprit
+>3.5V (LED rosu aprins)
+Dioda
+voltaj circuit deschis 1.5 V
+Continuitate
+<50Ω
+Alimentare
+2 x 1.5V AAA
+Curent AC (50~60Hz)
+10A
+200µA
+0.01A
+0.1µA
+±(2.5%+5d)
++(1.5%+5d)
+2000µA/20mA/200mA
+1µA/0.01mA/0.1mA
++(1.8%+5d)
+Rezistenta
+10A
+200Ω
+2kΩ
+0.01A
+0.1Ω
+0.001kΩ
++(3.0%+7d)
+±(1.2%+4d)
+±(1.0%+2d)
+20kΩ/200kΩ/2MΩ
+0.01kΩ/0.1kΩ/0.001MΩ
++(1.2%+2d)
+20MΩ
+Temperatura (Tip K)
+-50°C to 1000°C
+-58°F to 1832°F
+Test dioda
+test curent: 0.3mA tipic
+Verificare continuitate
+mai mic decat 100Ω
+Alimentare
+9V battery
+9721-250
+Tester de tensiune digital
+0.01MΩ
+1°C
+1°F
+1mV
++(2.0%+3d)
++(3.0%+5°C)
+±(3.0%+8°F)
+±(10%+5d)
+NOU
+• test direct AC (contact): 12-250 V
+  doua moduri display: display voltaj pe ecran LCD si lampa neon (cand tensiunea este 
+  mai mare de 80V) 
+• test inductie AC (non-contact): 12-250 V
+  pentru detectarea sursei sau recunoasterea fazei
+• test direct DC (contact): 6-36 V
+±(0.8%+3)
+±(0.8%+3)
+±(1.0%+3)
+±(1.0%+3)
+±(1.5%+3)
+±(1.5%+3)
+±(2.0%+3)
+±(2.0%+3)
+±(1.0%+3)
+±(1.0%+3)
+±(1.0%+1)
+±(1.0%+1)
+±(1.0%+5)
+±(1.0%+5)
+9721-250
+Gama
+Timp viata lampa neon
+dimensiuni
+133 x 21 x 19 mm
+AC: 12-250V; DC6-36V
+30000 de utilizari
+.
+22
+70.04

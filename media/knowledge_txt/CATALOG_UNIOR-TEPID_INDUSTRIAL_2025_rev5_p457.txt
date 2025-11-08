@@ -1,0 +1,479 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:457]
+118
+NOU
+Burghie SDS-plus cu 3 si 6 muchii 
+pentru beton cu armatura RockFaster
+• cu insertia sa 100% din carbura si un numar de muchii de 
+taiere care se adapteaza la diametrele de gaurire, RockFaster
+asigura distrugerea maxima a betonului armat in timp minim
+• burghiu precis, producand gauri perfect cilindrice, calibrate, 
+fara fisuri in beton, astfel incat ancorele dumneavoastra se vor
+mentine pe loc cat mai mult posibil
+• ideal pentru a face gauri pentru toate tipurile de fixari, tevi, 
+cabluri si altele
+• canale largi pentru o mai buna evacuare a prafului si o 
+ventilatie optima pentru a preveni supraincalzirea
+• o mai mare rezistenta la uzura si vibratii
+• 3 muchii pentru ø5 pana la 7 si 6 muchii pentru ø8 pana la 20.
+118D05L0110
+118D06.5L0160
+118D06.5L0210
+118D06L0110
+118D08L0110
+118D10L0110
+118D05L0160
+118D06L0160
+118D07L0160
+118D08L0160
+118D10L0160
+118D12L0160
+118D14L0160
+118D16L0160
+118D06L0210
+118D07L0210
+118D08L0210
+118D10L0210
+118D12L0210
+118D14L0210
+118D15L0210
+118D16L0210
+118D18L0210
+118D20L0210
+Ø
+5
+6.5
+6.5
+6
+8
+10
+5
+6
+7
+8
+10
+12
+14
+16
+6
+7
+8
+10
+12
+14
+15
+16
+18
+20
+118D06.5L0260
+6.5
+118D06L0260
+118D08L0260
+118D10L0260
+118D12L0260
+118D14L0260
+118D16L0260
+118D18L0260
+118D20L0260
+6
+8
+10
+12
+14
+16
+18
+20
+LA
+50
+50
+50
+50
+50
+50
+100
+100
+100
+100
+100
+100
+100
+100
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+200
+200
+200
+200
+200
+200
+200
+200
+200
+LT
+110
+110
+110
+110
+110
+110
+160
+160
+160
+160
+160
+160
+160
+160
+210
+210
+210
+210
+210
+210
+210
+210
+210
+210
+260
+260
+260
+260
+260
+260
+260
+260
+260
+g
+41
+53
+61
+44
+51
+60
+48
+50
+60
+62
+77
+95
+111
+150
+58
+65
+75
+94
+119
+150
+195
+185
+245
+290
+69
+65
+87
+109
+142
+172
+208
+293
+360
+48.03
+50.82
+64.59
+43.61
+47.05
+56.72
+46.23
+45.57
+56.56
+47.21
+56.89
+70.00
+82.46
+104.10
+64.59
+66.72
+65.74
+74.59
+84.43
+109.34
+123.28
+130.16
+182.30
+243.44
+75.74
+70.16
+64.59
+71.80
+85.57
+105.08
+110.98
+141.31
+173.77
+1002A
+NOU
+Set 7 burghie pentru beton RockFaster
+1002A
+Ø
+7
+g
+746
+538.20
+L110mm Ø6-8-10 L160mm Ø6-8-10-12mm
+1003A
+NOU
+Set 10 burghie pentru beton RockFaster
+1003A
+Ø
+10
+g
+730
+756.23
+L160mm Ø6(x3)-8(x3)-10(x2)-12-14mm
+1004A
+NOU
+Set 5 burghie pentru beton RockFaster
+1004A
+Ø
+5
+g
+315
+292.95
+L110mm Ø5-6 / L160mm Ø6-8-10mm
+1005A
+NOU
+Set 5 burghie pentru beton RockFaster
+118D06.5L0310
+118D06L0310
+118D08L0310
+118D10L0310
+118D12L0310
+118D14L0310
+118D15L0310
+118D16L0310
+118D18L0310
+118D20L0310
+118D08L0460
+118D10L0460
+118D12L0460
+118D14L0460
+118D16L0460
+118D18L0460
+118D20L0460
+118D08L0610
+118D10L0610
+118D12L0610
+118D14L0610
+118D16L0610
+118D18L0610
+118D20L0610
+118D08L1000
+118D10L1000
+118D12L1000
+118D14L1000
+118D16L1000
+118D18L1000
+118D20L1000
+Ø
+6.5
+6
+8
+10
+12
+14
+15
+16
+18
+20
+8
+10
+12
+14
+16
+18
+20
+8
+10
+12
+14
+16
+18
+20
+8
+10
+12
+14
+16
+18
+20
+LA
+250
+250
+250
+250
+250
+250
+250
+250
+250
+250
+400
+400
+400
+400
+400
+400
+400
+550
+550
+550
+550
+550
+550
+550
+940
+940
+940
+940
+940
+940
+940
+LT
+310
+310
+310
+310
+310
+310
+310
+310
+310
+310
+460
+460
+460
+460
+460
+460
+460
+610
+610
+610
+610
+610
+610
+610
+1000
+1000
+1000
+1000
+1000
+1000
+1000
+g
+78
+65
+99
+132
+169
+207
+286
+255
+360
+428
+135
+179
+208
+299
+413
+530
+529
+170
+234
+310
+384
+550
+750
+833
+256
+492
+520
+630
+880
+1153
+1420
+67.54
+67.54
+86.23
+95.41
+113.61
+133.11
+129.84
+136.89
+208.03
+265.57
+222.13
+225.90
+248.20
+274.59
+290.82
+383.93
+410.16
+227.54
+229.67
+231.48
+293.11
+306.07
+410.98
+470.16
+515.90
+531.31
+546.72
+564.92
+591.80
+884.10
+934.10
+NUMAR DE TAIERI
+SC A LA BIL
+3 MUCHII
+De la Ø5 la Ø7
+canale pentru evacuarea
+o p t i m i z a t a   a   p r a f u l u i
+A c e s t e a   n e c e s i t a   m a i   p u t i n   e f o r t   î n   t e r m e n i   d e   p u t e r e   ș i
+n u m ă r   d e   t ă i ș u r i .   D e   a s e m e n e a ,   e s t e   i m p o r t a n t   s ă   n u   s e
+s u p r a s o l i c i t e   i n s e r t u l   l a   u n   u n g h i   p e   a c e s t e   d i a m e t r e   m i c i
+p e n t r u   a   n u   c o m p r i m a   p r a f u l   ș i   a   a s i g u r a   e v a c u a r e a  
+c o r e s p u n z ă t o a r e   a   a c e s t u i a .
+e
+ADAPTATE PENTRU FIECARE
+DIAMETRU
+C
+6 MUCHII
+De la Ø8 la Ø20
+canale pentru evacuarea
+optimizata a prafului
+intr-un timp minim
+i
+Pentru o distribuție mai bună a efortului, care permite o uzură uniformă
+a tăișurilor și o durată de viață mai mare. Structurate cu tăișuri la
+unghiuri de:
+> 3 MUCHII CENTRALE LA UN UNGHI DE 130°
+I n i ț i a z ă   g ă u r i r e a   ș i   g a r a n t e a z ă   c e n t r a r e   ș i
+p e n e t r a r e
+> 3 MUCHII PERIFERICE LA 145°
+P r e i a u   ș i   c o m p l e t e a z ă   l u c r a r e a ,   a v â n d   u n   e f e c t   d e
+r u p e r e   a   b e t o n u l u i
+1005A
+Ø
+5
+g
+285
+271.64
+L110mm Ø5(x2) L160mm Ø6(x2)-8mm

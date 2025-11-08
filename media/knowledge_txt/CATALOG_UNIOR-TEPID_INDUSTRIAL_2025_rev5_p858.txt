@@ -1,0 +1,199 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:858]
+99-
+99-
+Freza pentru tablii, profil convex, pentru frezare ambele
+parti, placata CMS Z2, cu coada si rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+Freza pentru tablii, profil sinusoidal vertical, 
+placata CMS Z2, cu coada si rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+A
+99-56912P
+F03FR02523
+H
+h
+D
+TRAVERSA
+R 38
+9
+1
+T
+N
+A
+T
+N
+O
+M
+TABLIE
+T
+N
+A
+T
+N
+O
+M
+TRAVERSA
+99-56912P
+F03FR02523
+R 6
+,
+5
+6
+÷
+5
+,
+5
+A
+99-32212P
+F03FR02500
+H
+h
+R 16
+R 16
+R 2
+D
+TRAVERSA
+T
+N
+A
+T
+N
+O
+M
+TABLIE
+T
+N
+A
+T
+N
+O
+M
+9
+1
+TRAVERSA
+99-32212P
+F03FR02500
+D               h              H              A             R1          R2          Z       rpm max.
+D               h              H              A                            R1          Z       rpm max.
+α
+99-56912P
+89
+25
+75
+12
+38
+6
+2
+14000
+849.18
+99-32212P
+31,8
+41,5
+79,5
+12
+-
+16
+2
+24000
+347.54
+99-
+99-
+Freza pentru tablii, profil sinusoidal, pentru frezare 
+ambele parti, placata CMS Z2, cu coada si rulment 
+copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+Freza pentru tablii, profil drept vertical, 
+placata CMS Z2, cu coada si rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+A
+99-57112P
+F03FR02529
+H
+h
+D
+R 30
+R 30
+TRAVERSA
+T
+N
+A
+T
+N
+O
+M
+TABLIE
+T
+N
+A
+T
+N
+O
+M
+9
+1
+TRAVERSA
+99-57112P
+F03FR02529
+R 6
+5
+,
+6
+÷
+5
+,
+5
+A
+99-32312P
+F03FR02501
+H
+h
+α
+D
+TRAVERSA
+T
+N
+A
+T
+N
+O
+M
+TABLIE
+T
+N
+A
+T
+N
+O
+M
+9
+1
+TRAVERSA
+99-32312P
+F03FR02501
+D               h              H              A             R1          R2          Z       rpm max.
+D               h              H              A                            R1          Z       rpm max.
+α
+99-57112P
+89
+25
+75
+12
+30
+6
+2
+14000
+940.16
+99-32312P
+31,8
+41,5
+79,5
+12
+18°
+-
+2
+24000
+347.54

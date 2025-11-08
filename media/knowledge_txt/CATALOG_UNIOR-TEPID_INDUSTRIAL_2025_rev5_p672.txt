@@ -1,0 +1,105 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:672]
+LEC-U27
+LEC-S45
+Cleste electrohidraulic de sertizat cu acumulator 
+18 V Li-ion
+• cutie plastic si curea umar
+• se livreaza cu acumulator 
+18 V si incarcator
+Cleste electrohidraulic de taiat cu acumulator 
+18 V Li-ion
+• cutie plastic si curea umar
+• se livreaza cu acumulator 
+18 V si incarcator
+pentru cabluri cu insertii de 
+cupru, cabluri aluminiu, ASCR
+LEC-U27
+mm²
+400 mm²
+1
+1G
+Capacitate maxima
+Forta exercitata
+Deschiderea falcilor
+Lungime
+Greutate
+1
+7000
+400 mm²
+12,7 tone (125 kN)
+27 mm
+323 mm
+7,0 kg
+20945.08
+LEC-S45
+Ø
+Φ 45 mm
+1
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Lungime
+Greutate
+24168.85
+1
+7100
+9,7 tone (96 kN)
+27 mm
+70 cc
+328 mm
+7,1 kg
+LEC-32T
+LEC-C85
+Cleste electrohidraulic de sertizat cu acumulator 
+18 V Li-ion
+• cutie plastic si curea umar
+• se livreaza cu acumulator 
+18 V si incarcator
+Cleste electrohidraulic de taiat cu acumulator 
+18 V Li-ion
+• cutie plastic si curea umar
+• se livreaza cu acumulator 
+18 V si incarcator
+accepta toate bacurile utilizate de 
+Alcoa, Burndy, T&B, Klauke, Cembre 
+si Blackburn bacuri tip U 12 ton
+potrivit pentru terminale cu grosimea 
+peretilor mai mica decat DIN 46235
+pentru cabluri de cupru, cabluri aluminiu
+LEC-32T
+mm²
+400 mm²
+1
+1G
+Capacitate maxima
+Forta exercitata
+Deschiderea falcilor
+Lungime
+Greutate
+1
+7000
+400 mm²
+12,7 tone (125 kN)
+32 mm
+328 mm
+7,0 kg
+20530.33 
+LEC-C85
+Ø
+Φ 85 mm
+1
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Lungime
+Greutate
+29768.03
+1
+8000
+Φ 85 mm
+5,6 tone (96 kN)
+73 cc
+345 mm
+8,0 kg

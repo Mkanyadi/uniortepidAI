@@ -1,0 +1,133 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1076]
+Produs
+Cod
+Art
+Denumire
+Dimensiuni Greutate
+S
+U
+L
+P
+0
+2
+9
+E
+0
+4
+9
+V
+E
+0
+4
+9
+O
+C
+E
+0
+4
+9
+M
+0
+4
+9
+H
+0
+4
+9
+4
+9
+9
+6
+4
+9
+P
+3
+4
+9
+9
+4
+9
+M
+8
+3
+9
+V
+E
+9
+3
+9
+Pret
+613100
+V4
+Glisiera pe rulmenti 946A
+600
+1.700
+x
+x
+x
+225.49
+616008
+V5
+Glisiera pe rulmenti 940M1, M2, M3
+700
+1.785
+619551
+V6
+Glisiera pe rulment pentru 940ECO
+300
+0.880
+610183
+W1
+Roata pivotanta cu frana 940E1-9, 
+940M1, M2, M3, 938/5M
+100
+0.845
+610184
+W2
+Roata pivotanta fara frana pentru 940E1 - 
+ E6, 940 M1, M2, M3, 938/5M
+100
+0.745
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+610189
+W7
+Roata fixa 940H1, H2, H3
+160
+1.042
+x
+610191
+W20
+Set de roti 940E1-6, 940M1, M2, M3, 
+938/5M
+100
+2.685
+x
+x
+x
+x
+610195
+W24
+Set de roti pentru 940H1, H2, H3
+125+160
+3.610
+x
+263.70
+x
+87.79
+182.11
+176.09
+142.35
+569.24
+612.10
+x
+x
+x

@@ -1,0 +1,169 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:363]
+8365
+NOU
+606CS5TBI
+607B5CR
+Surubelnita profil hexagon
+interior 6 laturi
+maner bimaterial, cromata 
+•  surubelnita pentru asamblare si reparatii în conditii dificile
+integral
+•  lama otel puternic aliat tratat, suprafata cromata, partea de 
+lucru finisaj negru
+•  maner ergonomic cu sectiune transversala rotunda
+•  miez dur PP, capac moale TPE
+•  gaura de agatare
+C
+D
+29
+29
+29
+34
+34
+34
+37
+37
+C
+125
+125
+125
+125
+125
+125
+125
+125
+L
+90
+90
+90
+100
+100
+100
+110
+110
+836505
+5.5
+836506
+836507
+836508
+836509
+836510
+836511
+836513
+6
+7
+8
+9
+10
+11
+13
+629CS5TBI
+D
+42.34
+42.34
+45.89
+48.47
+51.34
+51.34
+55.48
+59.68
+L
+92
+103
+123
+140
+150
+157
+166
+186
+Set surubelnite profil hexagon
+interior 6 laturi
+maner trimaterial TBI, cromate
+612318 6 - 13 / 5
+881
+ 1G 
+1
+364.43
+ 629TBI  (6, 8, 10, 12, 13)
+600CS5TBI
+Set surubelnite mecanice 
+cu hexagon
+maner trimaterial TBI, cromate
+614007
+5
+475
+ 1G 
+1
+193.11
+ 605TBI  (0.8 x 4.0 x 100), 
+ 600TBI  (1.0x5.5x100, 1.2x6.5x125),  
+ 616TBI  (PH 1 x 80, PH 2 x 100)
+Set surubelnite late,
+maner trimaterial TBI, cromate
+Set surubelnite combinate,
+maner polipropilena, cromate
+616320
+5
+500
+ 1G 
+1
+171.15
+ 605TBI  (0.5 x 3.0 x 80, 0.8 x 4.0 x 100, 
+1.0 x 5.5 x 125, 1.2 x 6.5 x 150, 1.2 x 8.0 x 175)
+617021
+5
+400
+ 1G 
+1
+99.02
+ 605CR (0.4 x 2.5 x 75, 0.8 x 4.0 x 100, 
+1.2 x 6.5 x 150), 
+ 615CR (PH1 x 80, PH 2 x 100)
+606B5NI
+607B5NI
+Set surubelnite late, 
+maner polipropilena, nichelate
+Set surubelnite combinate,
+maner polipropilena, nichelate
+617033
+5
+380
+ 1G 
+1
+72.95
+ 605NI  (0.4 x 2.0 x 60, 0.5 x 3.0 x 80, 
+0.8 x 4.0 x 100, 1.0 x 5.5 x 125, 1.2 x 6.5 x 150)
+617037
+5
+400
+ 1G 
+1
+81.64
+ 605NI  (0.5 x 3.0 x 80, 0.8 x 4.0 x 100, 
+1.2 x 6.5 x 150), 
+PH 2 x 100)
+ 615NI  (PH 1 x 80,               
+606CS5CR
+607CS5TBI
+Set surubelnite combinate,
+maner polipropilena, cromate
+Set surubelnite combinate,
+maner trimaterial TBI, cromate
+617017
+5
+475
+ 1G 
+1
+116.07
+611985
+5
+470
+ 1G 
+1
+168.69
+ 605TBI  (0.8 x 4.0 x 100, 1.0 x 5.5 x 125, 
+ 605CR (0.5 x 3.0 x 80, 0.8 x 4.0 x 100, 
+1.0 x 5.5 x 125, 1.2 x 6.5 x 150, 1.2 x 8.0 x 175)
+1.2 x 6.5 x 150), 
+PH 2 x 100)
+ 615TBI  (PH 1 x 80,    

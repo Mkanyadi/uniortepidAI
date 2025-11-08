@@ -1,0 +1,235 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:658]
+MASTEREX 79996
+NOU
+MASTEREX 79633
+NOU
+MASTEREX 79330
+NOU
+Masina de gaurit pneumatica cu 
+avans pe surub mandrina MT2
+• EGA Master ofera o gama larga de unelte si instrumente intrinsec 
+sigure pentru utilizare in zone periculoase. Printre acestea compania
+produce masini de gaurit pneumatice, ideal pentru foraj in zone explozive
+• masina de gaurit este perfecta pentru majoritatea lucrarilor de foraj in 
+zone periculoase
+Masina de gaurit pneumatica cu 
+talpa magnetica cursa 160 mm
+• pentru gaurirea materialului cu suprafata magnetizabila cu
+carote de pana la 52 mm diametru si burghie pana la 13 mm
+• capacitate magnet 800 kg
+• comutator cu 3 pozitii:  gauriti - magnet - opriti
+• cu capac de protectie pentru burghiu care ofera siguranta maxima 
+utilizatorului.
+Masina de carotat pneumatica
+capacitate maxima 160 mm, 2.8 kW
+• EGA Master ofera o gama larga de unelte si instrumente intrinsec 
+sigure pentru utilizare in zone periculoase. Printre acestea compania
+produce masini de gaurit pneumatice, ideal pentru foraj in zone explozive
+• masina de gaurit este perfecta pentru majoritatea lucrarilor de foraj in 
+zone periculoase
+ZONE 1, 2 GAZ
+ZONE 1, 2 GAZ
+RPM
+79996
+250
+Presiune de lucru
+Mandrina
+Capacitate maxima gaurire in otel
+Turatie mers in gol
+Putere motor
+Cuplu maxim
+Consum aer
+Racorduri
+Diamentru interior recomandat furtun
+Marcaje ATEX
+Greutate
+62999.49
+12000
+6 bar
+MT2
+23 mm
+250 rpm
+1.5 kW
+46 Nm
+1.2 m³/min 
+R 3/4”a 
+≥ 15 mm
+EX II 2G c T6
+12 kg
+MASTEREX 79632
+NOU
+Masina de gaurit pneumatica cu 
+talpa magnetica cursa 125 mm
+• pentru gaurirea materialului cu suprafata magnetizabila cu
+carote de pana la 52 mm diametru si burghie pana la 13 mm
+• capacitate magnet 800 kg
+• comutator cu 3 pozitii:  gauriti - magnet - opriti
+• cu capac de protectie pentru burghiu care ofera siguranta maxima 
+utilizatorului.
+ZONE 1, 2 GAZ
+RPM
+79633
+250
+Presiune de lucru
+Mandrina
+Diametru maxim de gaurire
+Forta magnetica
+Turatie mers in gol
+Putere motor
+Cursa
+Consum aer
+Racorduri
+Diamentru interior recomandat furtun
+Marcaje ATEX
+Greutate
+79789.92
+21500
+6 bar
+Weldon 19 mm
+53 mm
+800 kg
+400 rpm
+1.0 kW
+160 mm
+1.5 m³/min 
+R 3/8"f 
+≥ 13 mm
+EX II 2G c T6 
+19 kg
+MASTEREX 79303
+NOU
+Masina de carotat pneumatica
+capacitate maxima 160 mm, 1.6 kW
+• EGA Master ofera o gama larga de unelte si instrumente intrinsec 
+sigure pentru utilizare in zone periculoase. Printre acestea compania
+produce masini de gaurit pneumatice, ideal pentru foraj in zone explozive
+• masina de gaurit este perfecta pentru majoritatea lucrarilor de foraj in 
+zone periculoase
+ZONE 1, 2 GAZ
+RPM
+79632
+250
+Presiune de lucru
+Mandrina
+Diametru maxim de gaurire
+Forta magnetica
+Turatie mers in gol
+Putere motor
+Cursa
+Consum aer
+Racorduri
+Diamentru interior recomandat furtun
+Marcaje ATEX
+Greutate
+78455.28
+19000
+6 bar
+Weldon 19 mm
+53 mm
+800 kg
+400 rpm
+1.0 kW
+125 mm
+1.5 m³/min 
+R 3/8"f 
+≥ 13 mm
+EX II 2G c T6 
+19 kg
+RPM
+79303
+400-900-1600
+Presiune de lucru
+Conexiune carote
+Trepte cuplu
+Turatie mers in gol
+Putere motor
+Diametru maxim carote
+Consum aer
+Racorduri
+Diamentru interior recomandat furtun
+Lungime
+Marcaje ATEX
+Greutate
+8200
+49778.51
+6 bar
+1.1/4"UNC male / R1/2" female
+49/31/16 Nm 
+400-900-1600 rpm
+1.60 kW
+≤160 mm 
+2.2 m³/min 
+R 3/4" f
+- mm
+550 mm
+EX ll 2G Ex h IIB T6 Gb 
+8200 kg
+ZONE M2 MINIERE
+RPM
+79330
+300-700-1350
+Presiune de lucru
+Conexiune carote
+Trepte cuplu
+Turatie mers in gol
+Putere motor
+Diametru maxim carote
+Consum aer
+Racorduri
+Diamentru interior recomandat furtun
+Lungime
+Marcaje ATEX
+Greutate
+17700
+75316.97
+6 bar
+1.1/4"UNC male / R1/2" female
+90/56/29 Nm 
+300-700-1350 rpm
+2.8 kW
+≤160 mm 
+3.5 m³/min 
+R 3/4" f
+- mm
+660 mm
+EX l M2 Ex h I Mb T6
+17.7 kg
+MASTEREX 79422
+NOU
+Masina de carotat pneumatica
+capacitate maxima 300 mm, 2.8 kW
+• EGA Master ofera o gama larga de unelte si instrumente intrinsec 
+sigure pentru utilizare in zone periculoase. Printre acestea compania
+produce masini de gaurit pneumatice, ideal pentru foraj in zone explozive
+• masina de gaurit este perfecta pentru majoritatea lucrarilor de foraj in 
+zone periculoase
+ZONE 1, 2 GAZ
+RPM
+79422
+ 300-700-1350
+Presiune de lucru
+Conexiune carote
+Trepte cuplu
+Turatie mers in gol
+Putere motor
+Diametru maxim carote
+Consum aer
+Racorduri
+Diamentru interior recomandat furtun
+Lungime
+Marcaje ATEX
+Greutate
+12700
+54395.68
+6 bar
+1.1/4"UNC male / R1/2" female
+90/56/29 Nm 
+ 300-700-1350 rpm
+2.8 kW
+≤300 mm 
+3.5 m³/min 
+R 3/4" f
+- mm
+520 mm
+EX ll 2G Ex h IIB T6 Gb
+12.7 kg

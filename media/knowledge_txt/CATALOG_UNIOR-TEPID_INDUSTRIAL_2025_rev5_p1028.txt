@@ -1,0 +1,148 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1028]
+vl964/6SOS
+Modul SOS pentru set 964/6SOS
+964/9BSOS
+Set de capete chei tubulare cu 
+maner TBI in modul SOS
+B
+L
+620889 188
+364
+H
+30
+25
+ 1V 
+1
+58.01
+964/7SOS
+Set de clesti strangere in
+modul SOS
+621059
+2
+1200
+ 1F 
+1
+331.48
+ 430/3  (250), 
+vl964/7SOS  (188 x 364 x 30)
+ 445/1BI  (240), 
+vl964/7SOS
+Modul SOS pentru set 964/7SOS
+B
+L
+620890 188
+364
+H
+30
+42
+ 1V 
+1
+58.01
+964/8ASOS
+Set de clesti inel de siguranta
+in modul SOS
+621063
+6
+1075
+ 1F 
+1
+467.70
+ 629TBI  (5.5, 6, 8, 10, 12, 13), 
+vl964/9BSOS  (188 x 364 x 30)
+vl964/9BSOS
+Modul SOS pentru set 964/9BSOS
+B
+L
+621221 188
+364
+H
+30
+964/9CSOS
+49
+ 1V 
+1
+58.01
+Set de surubelnite TBI cu profil
+profil TX si gaura in modul SOS
+964/9SOS
+Set de surubelnite TBI in
+modul SOS
+621560
+8
+780
+ 1F 
+1
+341.97
+ 621TBI  (TX 10, TX 15, TX 20, TX 25,     
+TX 27, TX 30, TX 40, TX 45), 
+vl964/9CSOS  (188 x 364 x 30)
+vl964/9CSOS
+Modul SOS pentru set 964/9CSOS
+621061 19 - 60 - 180 / 4
+985
+ 1F 
+1
+467.70
+ 532PLUS/1DP  (180 x 19 - 60), 
+ 534PLUS/1DP  (180 x 19 - 60), 
+ 536PLUS/1DP  (180 x 19 - 60), 
+ 538PLUS/1DP  (180 x 19 - 60), 
+vl964/8ASOS  (188 x 364 x 30)
+621062
+8
+710
+ 1F 
+1
+291.31
+ 605TBI  (0.5 x 3.0 x 80, 0.8 x 4.0 x 100, 
+ 615TBI 
+1.0 x 5.5 x 125, 1.2 x 6.5 x 150), 
+(PH 0 x 60, PH 1 x 80, PH 2 x 100), 
+625TBI  (PZ 2 x 100), vl964/9SOS  (188 x 364 x 30)
+vl964/8ASOS
+Modul SOS pentru set 964/8ASOS
+vl964/9SOS
+Modul SOS pentru set 964/9SOS
+B
+L
+621504 188
+364
+H
+30
+964/9DSOS
+41
+ 1V 
+1
+58.01
+Set de surubelnite TBI in
+modul SOS
+B
+L
+621220 188
+364
+H
+30
+49
+ 1V 
+1
+58.01
+620892 188
+364
+B
+L
+H
+30
+621561
+8
+670
+ 1F 
+1
+272.13
+ 621TBI  (TX 6, TX 7, TX 8, TX 9), 
+ 615TBI  (PH 1 x 80, PH 2 x 100), 
+ 625TBI  (PZ 1 x 80, PZ 2 x 100), 
+49
+ 1V 
+1
+58.01
+vl964/9DSOS  (188 x 364 x 30)

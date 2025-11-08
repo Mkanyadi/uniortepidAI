@@ -1,0 +1,77 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:397]
+KL-34 701
+Trusa biti si tubulare 34 piese
+• 1/4” (C 6,3 mm)
+KL-32 Allround
+Trusa biti 32 piese
+• 1/4” (C 6,3 mm)
+KL-60 Allround
+Trusa biti 60 piese
+• 1/4” (C 6,3 mm)
+1067.21
+1000070801
+34 piese
+capete tubulare de impact cu perete subtire SW: 4,5; 5; 
+5,5; 6; 7; 8; 9; 10; 11; 12; 13
+PH: 1; 2; 3
+PZ : 1; 2, 3
+SL (lat): 0,6x4,5; 0,8x5,5; 1,2x6,5
+TX Tamper: 10; 15; 20; 25; 27; 30; 40
+prelungitor cu cap sferic
+antrenor cu clichet
+adaptor biti quick-release
+467.09
+1000019026
+60 piese
+adaptor biti quick-release cu magnet
+adaptor biti cu magnet
+PH: 3x PH 1; 3x PH 2; 3x PH 3
+PZ: 3x PZ 1; 3x PZ 3; 3x PZ 3
+SL (lat): 1x Sl. 0,6x3,5; 2x 0,6x4,5; 1x 0,8x5,5; 1x 1,2x6,5
+Hex: 2x Hex 4; 2x Hex 5; 2x Hex 6; 2x Hex 8
+TX: 3x TX 10; TX 15; TX 20; TX 25; TX 30; TX 40; 2x TX 
+27
+TX-Tamper: 1x 10; 15; 20; 25; 30; 40
+221.12
+1000019017
+32 piese
+adaptor: 1/4" C-6,3 - 1/4" x 25
+PH: 1x PH 1; 2x PH 2; 1x PH 3
+PZ: 1x PZ 1; 2x PZ 2; 1x PZ 3
+SL (lat): 1x Sl. 0,6x4,5; 1x Sl. 1,2x6,5
+Hex: 1x Hex 3; 1x Hex 4; 1x Hex 5; 1x Hex 6
+TX: 1x TX 10; 2x TX 15; 2x TX 20; 2x TX 25;
+1x TX 27; 1x TX 30; 1x TX 40
+TX-Tamper: 1x 10; 15; 20; 25; 30; 40
+K-Line
+cutii din plastic 
+stivuibile
+k !
+C l i c
+KL-31 Security
+Trusa biti si accesorii 31 piese
+• biti 1/4” (C 6,3 mm)
+WT-12 Wood
+Trusa pentru tamplarie si montaj acoperisuri
+• 1/4” (C 6,3 mm)
+600.32
+1000019029
+31 piese
+biti Spanner 4, 6, 8 si 50 mm
+biti TX BO 10, 15, 20, 25, 27, 30 si 50 mm
+biti Tri.Wing 1, 2, 3, si 50 mm
+biti Torq.Set 6, 8, 10 si 50 mm
+biti PH 1, 2, 3 si 25 mm
+biti RO 0, 1, 2 si 25 mm
+biti HX BO 2, 2,5, 3 si 25 mm
+biti HX 4, 5, 6 si 25 mm
+biti TX BO 7, 8, 9 si 25 mm
+antrenor pentru biti
+1020003057
+12 piese
+722.31
+biti tubulari cu inel de retinere: SW 7, SW 8, SW 3/8, SW 10
+PH 2 x 152,  PZ 2 x 152;  TX 20 x 152,  TX 25 x 152,  TX 30 x 152
+adaptor biti 1/2" - F 6,3 (1000 SWH 45)
+adaptor combinat 1/4" E 6,3 - D 6,3 si F 6,3 (840-2)
+adaptor 1/4" E 6,3 - 1/2" (330-9 mK)

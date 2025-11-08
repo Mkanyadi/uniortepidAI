@@ -1,0 +1,115 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:780]
+62245
+NOU
+64732
+64735
+Cleste cu varfuri semirotunde
+• acesti clesti sunt potriviti pentru aplicatii electrice datorita
+dimensiunilor reduse. Sunt conceputi pentru prindere, 
+indoire, taiere... pentru orice lucru care necesită precizie ridicata
+• manerele bicomponente asigura o prindere antiderapanta, 
+ergonomica si un confort maxim
+• TITACROM® - este un tratament special de suprafata, mai 
+rezistent la coroziune decat cromul standard, rezistent la 
+impact si frecare, nereflectant cu finisaj foarte atractiv
+• arc dublu pentru o deschidere usoara si uniforma
+DIN 9655
+Cleste cu varfuri rotunde ESD 
+cu maner bimaterial
+• material: compozitie speciala pentru calire revenire
+• tratat complet
+• partile taietoare tratate prin inductie
+• manere bimaterial cu protectie ESD
+Cleste cu varfuri semirotunde 
+ascutite ESD cu maner bimaterial
+• material: compozitie speciala pentru calire revenire
+• tratat complet
+• partile taietoare tratate prin inductie
+• manere bimaterial cu protectie ESD
+L             A           B          C     
+L             A           B          C     
+64732
+130        47        27        -           75
+268.74
+64735
+155        70        47        -           85
+265.54
+L
+B
+62245 125 26
+C
+9
+A
+44
+65
+ 4B 
+6
+97.04
+64733
+64730
+Cleste combinat ESD cu maner 
+bimaterial
+• material: compozitie speciala pentru calire revenire
+• tratat complet
+• partile taietoare tratate prin inductie
+• manere bimaterial cu protectie ESD
+Cleste cu varfuri semirotunde 
+drepte ESD cu maner bimaterial 
+(pentru telefonie)
+• material: compozitie speciala pentru calire revenire
+• tratat complet
+• partile taietoare tratate prin inductie
+• manere bimaterial cu protectie ESD
+64736
+Cleste cu tais lateral ESD cu
+maner bimaterial
+• material: compozitie speciala pentru calire revenire
+• tratat complet
+• partile taietoare tratate prin inductie
+• manere bimaterial cu protectie ESD
+L             A           B          C     
+L             A           B          C     
+L             A           B          C     
+64730
+120        25        22       8           75
+274.99
+64733
+135        33        40       9           90
+274.99
+64736
+120        18        14      13          75
+274.99
+64731
+64734
+64737
+Cleste cu varfuri drepte ESD 
+cu maner bimaterial
+• material: compozitie speciala pentru calire revenire
+• tratat complet
+• partile taietoare tratate prin inductie
+• manere bimaterial cu protectie ESD
+Cleste cu varfuri semirotunde 
+indoite ESD cu maner bimaterial
+(pentru telefonie)
+• material: compozitie speciala pentru calire revenire
+• tratat complet
+• partile taietoare tratate prin inductie
+• manere bimaterial cu protectie ESD
+Cleste cu tais fata ESD cu 
+maner bimaterial
+• material: compozitie speciala pentru calire revenire
+• tratat complet
+• partile taietoare tratate prin inductie
+• manere bimaterial cu protectie ESD
+L             A           B          C     
+L             A           B          C     
+L             A           B          C     
+64731
+130        38        36        -           90
+247.25
+64734
+135        31        36       9           90
+292.68
+64737
+110        10         9        18          90
+278.11

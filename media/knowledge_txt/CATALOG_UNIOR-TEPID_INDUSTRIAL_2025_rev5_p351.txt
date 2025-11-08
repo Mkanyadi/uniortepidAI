@@ -1,0 +1,217 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:351]
+22 5267
+22 5262.15
+22 5298
+Fierastrau pentru gradinarit
+• fierastrau care se monteaza pe prajina pentru taierea crengilor din 
+coroanele copacilor
+• intinderea panzei este de calitate, asigurata de parghia de intindere
+si a cadrului din otel plat
+• posibilitatea alegerii unghiului de taiere
+• orientarea si schimbarea panzei este simpla si rapida
+Panze pentru fierastrau pentru 
+gradinarit
+• pentru fierastraiele 22 5263, 22 5265 si 22 5267
+• panza cu dintare grupata, calita pentru taierea lemnului uscat 
+sau crud
+Fierastrau curbat pentru 
+gradinarit
+• fierastrau cu maner de lemn pentru taierea copacilor si a tufelor
+• dinti cu trei muchii de taiere pentru o taietura usoara si rapida
+L
+5262300000 300
+H
+15
+T
+5
+17
+1
+9.75
+22 5264
+Fierastrau mic pentru gradinarit
+• fierastrau cu dintare fina pentru taierea tufelor de coacaze si 
+a trandafirilor
+• cadru solid cu mâner de plastic
+• panza de rezerva 22 5264.1, latimea 7,5 mm
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+L
+5298000000 330
+S
+1,2
+T
+3,6
+22
+1
+59.02
+752
+Fierastrau coada de vulpe
+•  material:lama otel special de scule
+•  maner din polistiren
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+609424 330
+497
+270
+ 1Z 
+1
+100.66
+L1
+L
+L
+165
+V
+58
+96
+1
+23.44
+22 5297.1
+Fierastrau pentru gradinarit
+• fierastrau cu maner de plastic pentru taierea copacilor si a tufelor
+• dinti cu trei muchii de taiere pentru o taietura usoara si rapida
+5264000000
+225264.1
+Panza fierastrau pentru gradinarit
+• pentru taierea pomilor fructiferi si a tufelor
+• oportun pentru taierea crengilor de diametre mici si mijlocii
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+L
+5264100000 165
+H
+7.5
+T
+2
+16
+1
+5.90
+5297000000 300
+L
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+S
+1,2
+T
+3,6
+220
+1
+48.36
+22 5296
+Fierastrau rabatabil pentru 
+gradinarit
+• fierastrau cu maner de plastic pentru taierea copacilor si a tufelor
+• dinti cu trei muchii de taiere pentru o taietura usoara si rapida
+• rabatabil si stocare sigura
+22 5299
+Fierastrau cu carlig pentru 
+gradinarit
+• fierastrau pentru montarea pe prajina pentru taierea crengilor la 
+care se ajunge cu greu
+• carlig pentru agatarea crengilor taiate
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+L
+300
+V
+160
+570
+1
+57.05
+5267000000
+22 5265
+Fierastrau pentru gradinarit
+• fierastrau de gradinarie simplu pentru taierea pomilor fructiferi si 
+a tufelor
+• oportun pentru taierea crengilor de diametre mici si mijlocii
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+L
+300
+V
+143
+316
+1
+38.52
+5265000000
+22 5260
+Panze pentru fierastrau pentru
+gradinarit
+• pentru fierastraiele 22 5263, 22 5265 si 22 5267
+• panza cu dinti necaliti, drepti, pentru taierea lemnului crud
+L
+5260300000 300
+H
+15
+T
+5
+15
+1
+9.14
+22 5261
+Panze pentru fierastrau pentru 
+gradinarit
+• pentru fierastraiele 22 5263, 22 5265 si 22 5267
+• panza de dinti necaliti, oblici pentru taierea lemnului uscat
+L
+5261300000 300
+H
+15
+T
+4
+16
+1
+9.14
+5296000000 300
+L
+S
+1,3
+T
+L
+3,6
+24
+1
+51.31
+5299000000 300
+S
+1,2
+T
+5
+260
+1
+41.15
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+500mm
+400mm
+300mm
+200mm
+100mm
+0

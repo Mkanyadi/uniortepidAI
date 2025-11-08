@@ -1,0 +1,238 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:928]
+604VDETBI
+Surubelnita slim cu profil lat
+cu lama izolata la 1000 V
+•  lama: otel crom vanadium molibden tratata
+integral
+•  capat brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul EN 60900
+Avantaje:
+•  model cu lama subtire
+•  desi are lama subtire, surubelnita poseda aceleasi 
+functionalitati si confera aceeasi siguranta in lucru ca 
+o surubelnita izolata standard.
+•  lama subtire ii permite lucrul in locuri greu accesibile
+a
+b
+C
+L
+a x b
+C
+L
+624063 0,6 x 3,5 100
+624064 0,8 x 4,0 100
+624065 1,0 x 5,5 125
+185
+185
+225
+39
+43
+75
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+46.89
+49.02
+52.95
+611VDETBI
+Surubelnita slim cu profil
+combinat lat / Phillips cu 
+lama izolata la 1000 V
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  capat brunat
+•  maner:  forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul EN 60900:
+Avantaje:
+•  model cu lama subtire
+•  desi are lama subtire, surubelnita poseda aceleasi 
+functionalitati si confera aceeasi siguranta in lucru ca 
+o surubelnita izolata standard.
+•  lama subtire ii permite lucrul in locuri greu accesibile
+613VDETBI
+Surubelnita profil Phillips
+cu lama izolata la 1000 V
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  capat brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2 si 
+60900
+a
+b
+C
+L
+C
+L
+624071 SLPH 1 80 180
+624072 SLPH 2 100 210
+60
+94
+ 4B 
+ 4B 
+10
+10
+54.43
+56.23
+C
+L
+616443 PH0
+616444 PH1
+616445 PH2
+616446 PH3
+616447 PH4
+C
+60
+80
+100
+150
+200
+L
+145
+180
+210
+270
+320
+34
+60
+94
+104
+230
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+5
+5
+26.39
+34.10
+41.80
+54.75
+67.70
+623VDETBI
+Surubelnita profil Pozidrive
+cu lama izolata la 1000 V
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  capat brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2 si 
+60900:2004
+C
+L
+616460 PZ0
+616461 PZ1
+616462 PZ2
+616463 PZ3
+C
+60
+80
+100
+150
+L
+145
+180
+210
+270
+34
+60
+93
+156
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+5
+27.21
+35.08
+47.05
+55.25
+629VDETBI
+Surubelnite cap tubular
+izolat la 1000 V
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul EN 60900:2004
+•  Fabricat conform standard DIN 3125
+C
+L
+616464 5.5
+616465 6
+616466 7
+616467 8
+623341 9
+616468 10
+623342 11
+616469 13
+C
+125
+125
+125
+125
+125
+125
+125
+125
+L
+225
+225
+235
+235
+235
+235
+235
+245
+103
+103
+123
+140
+124
+157
+159
+186
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+5
+5
+5
+5
+5
+5
+103.28
+104.59
+111.15
+113.11
+118.85
+121.64
+137.54
+159.34

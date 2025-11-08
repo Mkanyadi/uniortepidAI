@@ -1,0 +1,210 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:650]
+1518
+Polizor pneumatic unghiular
+•  viteza de rotatie 11000 rotatii/minut
+•  presiunea maxima de aer comprimat: 6,2 Bar
+•  consum de aer comprimat 170 l/min
+•  racord de aer 1/4"
+Avantaje:
+•  maner interschimbabil
+•  levier de siguranta care previne pornirea 
+accidentala
+Utilizare
+•  protectia partilor in miscare
+•  folosit de asemenea in locuri inguste
+•  scula industriala
+•  curatarea sudurii
+•  curatarea betonului si a suprafetelor de pereti
+•  curatirea suprafetelor de lemn
+•  inlaturarea vopselelor si a lacurilor
+•  inlaturarea ruginii
+•  taiere profile si table
+•  alti utilizatori casnici
+57078
+NOU
+Biax pneumatic drept 22000 rpm
+• levier de siguranta care previne pornirea 
+57078
+rpm
+22000
+600
+1129.70
+Consum de aer
+Putere
+Turatie mers in gol
+Diametru penseta
+Presiune de lucru
+Nivel de zgomot
+Racord aer
+Diametru interior recomandat furtun
+80 LPM (2.8 CFM) 
+0.373 kW
+22000 rpm
+6 mm
+6.3 bar
+90.5 dBA
+1/4”
+3/8”
+57079
+NOU
+Biax pneumatic unghiular 18000 rpm
+• levier de siguranta care previne pornirea 
+57080
+NOU
+Polizor pneumatic unghiular 125 mm
+• control in siguranta a vitezei
+• nivel scazut de zgomot
+• consum redus de aer
+7092.93
+57080
+Disc
+125 mm
+Presiune de lucru
+Racord aer
+Nivel vibratii
+Nivel de zgomot
+Consum aer
+Filet
+Diametru disc
+Turatie mers in gol
+Putere
+Diametru furtun aer compreimat
+Lungime
+Greutate
+2105
+ 6,3 bar / 90 PSI 
+1/4”
+7,7 m/s²
+94,8 dBA
+98 LPM (3,5 CFM)
+M14
+125 mm 
+11000 rpm
+1,7 kW
+3/8”
+180 mm
+3,2 kg
+L
+617730 230
+A
+90
+D
+125 2175  1F 
+1
+1250.82
+57081
+NOU
+Slefuitor pneumatic vertical 178 mm
+• control in siguranta a vitezei
+• nivel scazut de zgomot
+• consum redus de aer
+57075
+NOU
+Slefuitor pneumatic orbital 6” - 2.5 mm
+• sac de praf inclus
+57079
+rpm
+18000
+700
+1602.97
+Consum de aer
+Putere
+Turatie mers in gol
+Diametru penseta
+Presiune de lucru
+Nivel de zgomot
+Racord aer
+Diametru interior recomandat furtun
+80 LPM (2.8 CFM) 
+0.373 kW
+18000 rpm
+6 mm
+6.3 bar
+77.3 dBA
+1/4”
+3/8”
+57099
+NOU
+Pistol pneumatic de gresat 400/450 g
+• se utilieaza cu vaselina la cartus sau vrac
+57099
+Capacitate
+400 g / 450 g
+Presiune de lucru
+Nivel vibratii
+Nivel de zgomot
+Consum aer
+Lungimea nasului
+Presiune maxima livrata
+Lungime
+Greutate
+1400
+1969.15
+4,1-10,3 bar / 60-150 PSI 
+<2,5m/s² 
+74 dBA
+28 LPM / 1 CFM
+150mm
+410 bar / 6000 PSI 
+370 mm
+0,9 kg
+57081
+Pad
+178 mm
+Presiune de lucru
+Racord aer
+Nivel vibratii
+Nivel de zgomot
+Consum aer
+Filet
+Pad
+Turatie mers in gol
+Putere
+Diametru furtun aer compreimat
+Lungime
+Greutate
+8405.73
+3200
+ 6,3 bar / 90 PSI 
+3/8”
+8,3 m/s²
+86,9 dBA
+127 LPM (4,5 CFM)
+5/8"-11
+178 mm 
+7000 rpm
+1,7 kW
+3/8”
+180 mm
+3,2 kg
+3933.76
+Capacitate
+57075
+6”  -  2..5 mm
+Presiune de lucru
+Racord aer
+Nivel vibratii
+Nivel de zgomot
+Consum aer
+Filet
+Pad
+Orbita
+Turatie mers in gol
+Putere
+Diametru furtun aer compreimat
+Lungime
+Greutate
+850
+ 6,3 bar / 90 PSI 
+1/4”
+3,7 m/s²
+77,2 dBA
+62 LPM (2,2 CFM) 
+5/16"-24
+150 mm (6”)
+2.5 mm
+12000 rpm
+0.22 kW
+3/8”
+150 mm
+0,85 kg

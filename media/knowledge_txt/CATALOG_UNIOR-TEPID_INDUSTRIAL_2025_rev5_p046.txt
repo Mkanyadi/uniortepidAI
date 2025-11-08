@@ -1,0 +1,84 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:46]
+220FH
+Set chei locas hexagonal cu
+maner tip briceag 
+2.5-10 mm / 7 piese
+25611
+Set chei locas hexagonal tip
+briceag 5/32"-3/8" / 6 piese
+25171
+Set chei locas hexagonal tip
+briceag 1.5-6.0 mm / 7 piese
+617146
+2.5 - 10 / 7
+300
+144.92
+ 220/3  (2.5, 3, 4, 5, 6, 8, 10)
+220/3MH
+Set de chei locas hexagonal tip
+briceag metalic
+25611
+5/32"-3/8" / 6
+833
+68.85
+(5/32", 3/16", 7/32", 1/4", 5/16", 3/8")
+25911
+Set chei locas hexagonal tip
+briceag 5/64” - 1/4“ / 9 piese
+25171
+1.5 - 6.0 / 7
+288
+39.84
+(1.5, 2.0, 2.5, 3.0, 4.0, 5.0, 6.0)
+25181
+Set chei locas hexagonal tip
+briceag
+610986
+2.5 - 10 / 7
+349
+94.10
+ 220/3 (2.5, 3, 4, 5, 6, 8, 10)
+25161
+Set chei locas hexagonal tip
+briceag 3.0 - 10 mm / 6 piese
+25911
+5/64” - 1/4“ / 9
+48.20
+(5/64”, 3/32”, 7/64”, 1/8” , 9/64”, 5/32”, 3/16”, 7/32”, 1/4”)
+438
+25912
+Set chei locas hexagonal tip
+briceag .050” - 3/16“ / 9 piese
+25181
+2.0 - 8.0 / 8
+688
+61.97
+(2,0; 2,5; 3,0; 4,0; 5,0; 6,0; 7,0; 8,0)
+220FH
+Set chei locas hexagonal cu
+maner tip briceag
+3/32" - 3/8" / 7 piese
+25161
+3.0 - 10 / 6
+830
+68.85
+(3,0; 4,0; 5,0; 6,0; 8,0; 10,0)
+25912
+.050” - 3/16“ / 9
+250
+41.31
+(.050”, 1/16”, 5/64”, 3/32”, 7/64”, 1/8” , 9/64”, 5/32”, 3/16”)
+25919
+Set chei locas hexagonal
+cu cap sferic tip briceag 
+5/64" - 1/4" / 9 piese
+617149
+3/32" - 3/8" / 7
+300
+144.92
+ 220/3 (3/32", 1/8", 5/32", 3/16", 1/4", 5/16", 3/8")
+25919
+5/64" - 1/4" / 9
+75.90
+(5/64", 3/32", 7/64", 1/8", 9/64", 5/32", 3/16", 7/32", 1/4")
+825

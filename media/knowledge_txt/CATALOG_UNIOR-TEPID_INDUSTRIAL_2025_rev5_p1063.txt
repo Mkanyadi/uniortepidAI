@@ -1,0 +1,102 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1063]
+990MA14
+ 990MA16
+Banc de lucru modular- model A14
+Banc de lucru modular- model A16
+Art.
+627544
+2000 x 750 x 870 mm
+Denumire
+990MA14
+900WD6 (663x650x870), 990WDD2 (663x650x870), 990TW (2000x750x40)
+9394.26
+990MA15
+Banc de lucru modular- model A15
+Art.
+627545
+2000 x 750 x 760-1150 mm
+Denumire
+990MA15
+4504.59
+Art.
+Denumire
+627607
+900LA (100x650x690x1110), 990ND6 (475x650x870), 990NDU (60), 990TW (1500x750x40),
+1500 x 750 x 2025 mm
+990MA16
+14308.20
+900LA (100x650x690x1100 (2x)), 990C (2000), 990TW (2000x750x40)
+990MC9
+vl990WD1
+vl990WD2
+vl990WD3
+Modul SOS compartimentat 
+pentru bancuri de lucru cu 
+dulapuri late
+• dimensiuni compartimente: 30 x dimensiune 95x70 mm
+Modul SOS compartimentat 
+pentru bancuri de lucru cu 
+dulapuri late
+• dimensiuni compartimente: 15 x dimensiune 95x150 mm
+Modul SOS compartimentat 
+pentru bancuri de lucru cu 
+dulapuri late
+• dimensiuni compartimente: 10 x dimensiune 95x240 mm
+B              L             H
+625585
+562
+570
+40
+177
+212.79
+vl990WD4
+Modul SOS compartimentat 
+pentru bancuri de lucru cu 
+dulapuri late
+• dimensiuni compartimente: 12 x dimensiune 95x70 mm, 6 x 
+dimensiune 95x150 mm, 2 x dimensiune 95x240 mm
+B              L             H
+B              L             H
+625586
+562
+570
+40
+161
+222.30
+625587
+562
+570
+40
+144
+222.30
+vl990ND1
+vl990ND2
+Modul SOS compartimentat 
+pentru bancuri de lucru cu 
+dulapuri inguste
+• dimensiuni compartimente: 20 x dimensiune 95x70 mm
+Modul SOS compartimentat 
+pentru bancuri de lucru cu 
+dulapuri inguste
+• dimensiuni compartimente: 10 x dimensiune 150x95 mm
+B              L             H
+B              L             H
+B              L             H
+625588
+562
+570
+40
+165
+212.79
+625589
+374
+570
+40
+126
+128.85
+625590
+374
+570
+40
+111
+136.07

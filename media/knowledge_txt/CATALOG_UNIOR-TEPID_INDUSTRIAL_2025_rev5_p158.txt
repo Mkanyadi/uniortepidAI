@@ -1,0 +1,220 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:158]
+460
+Adaptor de impact 1.1/2"
+• material: crom molibden
+• actionare: patrat 1.1/2”
+• conform DIN 3121 - H 40
+• deschidere: patrat DIN 3121
+234.6/4
+Intermediar cardanic de IMPACT 1.1/2
+•  material:crom molibden
+•  forjata, calire si revenire totala
+•  acoperire prin brunare dupa standardul DIN 12476
+1000004601
+460-1
+1.1/2”
+E
+A
+1”
+1000004602
+460-2
+1.1/2
+2.1/2”
+D2
+86
+86
+L
+95
+120
+2261
+4550
+ 1C 
+ 1C 
+1
+1
+1424.59
+2549.32
+A24 1.1/2”
+Adaptor de impact mama-tata 1.1/2"
+• patrat de antrenare 1.1/2” DIN 3121 - forma H 40
+L
+182
+D
+86
+4098
+ 1C 
+1
+2800.16
+617689
+1.1/2"
+460 KG
+Intermediar cardanic de impact 1.1/2"
+• material: crom molibden
+• actionare: patrat 1.1/2”
+• conform DIN 3121 - H 40
+• deschidere: patrat, DIN 3121
+Patrat 
+interior          exterior 
+                 D 
+mm 
+A2416
+A2440
+A2495
+1 1/2"
+1 1/2"
+1 1/2"
+1"
+2 1/2"
+Spline 5
+86
+86
+86
+                 L                      Greutate
+mm 
+95
+93
+138
+    gr
+2300
+2500
+2530
+1121.24
+5605.52
+2989.62
+Z24 1.1/2”
+Adaptor de impact tata-tata 1.1/2"
+1000004603 460 KG-3
+1.1/2” 1.1/2”
+86
+180
+5250
+ 1C 
+1
+5375.49
+E
+A
+D2
+L
+U24 1.1/2”
+Intermediar cardanic de impact 1.1/2"
+• patrat de antrenare 1.1/2” DIN 3121 - forma H 40
+Patrat 
+exterior          exterior 
+                 D 
+mm 
+Z2404
+Z2405
+Z2410
+Z2420
+1 1/2"
+1 1/2"
+1 1/2"
+1 1/2"
+1 1/2"
+1 1/2"
+1 1/2"
+1 1/2"
+49
+49
+49
+49
+                 L                      Greutate
+mm 
+101
+127
+254
+508
+    gr
+1200
+1540
+3420
+6550
+484.16
+484.16
+942.86
+1605.25
+AN24 1.1/2”
+Adaptor de impact mama-mama 1.1/2"
+• patrat de antrenare 1.1/2” DIN 3121 - forma H 40
+Patrat 
+interior          exterior 
+                 D 
+mm 
+U2424
+1.1/2"
+1.1/2"
+86
+                 L                      Greutate
+mm 
+125
+    gr
+4070
+2378.14
+234.8/4
+Accesorii de impact 1.1/2”
+D
+75
+85
+d
+5.7
+5.7
+L
+75
+84
+d1
+6
+6
+55
+40
+ 1E 
+ 1E 
+1
+1
+46.89
+46.89
+617126 80 - 90
+617127 95 - 120
+760 ST
+Pin blocare
+Patrat 
+interior          interior 
+                 D 
+mm 
+AN2416
+AN2424
+AN4024
+1 1/2"
+1 1/2"
+2 1/2"
+1"
+1 1/2"
+1 1/2"
+86
+86
+127
+                 L                      Greutate
+mm 
+83
+85
+115
+    gr
+2050
+2690
+6500
+1146.84
+1044.74
+4713.86
+1000076910
+1000076911
+D2
+86
+127
+mm
+≤ SW 90
+> SW 90
+ 1C 
+ 1C 
+ 1C 
+10.85
+27.09
+000.00

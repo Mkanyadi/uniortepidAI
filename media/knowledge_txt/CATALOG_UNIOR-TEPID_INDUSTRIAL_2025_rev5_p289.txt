@@ -1,0 +1,95 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:289]
+6832-1
+Subler sudura
+• fabricat din oțel inoxidabil
+• potrivit pentru inspectarea imbinărilor sudate plane și in colțuri
+• unit.  [ mm ]   si   [ 0 ] 
+NOU
+4830
+Subler sudura
+• material: otel inoxidabil
+• cromare satinata
+fata
+Masuratori 
+                   Domeniu           Scala 
+1 mm
+0-10 mm
+269-040 inaltime cordon sudura 
+1 mm
+inaltime picior 
+adancimea sub cota 
+dimensiune cordon 
+latime cordon sudura 
+unghi 
+deschidere 
+lungime 
+L x W 
+0-14 mm
+0-5 mm
+0-13 mm
+0-40 mm
+90º-150º
+0.5-5 mm
+0-40 mm
+inaltime cordon
+dimensiune sudura de colt
+unghi
+spate
+Acuratete
+± 0,5 mm
+± 0,5 mm
+222.20
+0.05 mm
+± 0,05 mm
+1 mm
+1 mm
+5º
+1 mm
+1 mm
+62 x 77 mm
+± 0,5 mm
+± 1 mm
+± 1º
+± 0,5 mm
+± 0,5 mm
+Masuratori 
+inaltime cordon 
+                      Domeniu               Scala 
+0,1 mm
+0-8 mm
+Acuratete
+± 0,1 mm
+4830
+dim. sudura de colt 
+0-20 mm
+1 mm
+± 0,3 mm
+273.00
+unghi
+60º, 70º, 80º, 90º
+-
+± 1º
+4830
+NOU
+Subler  mecanic sudura
+• fabricat din oțel inoxidabil
+• potrivit pentru inspectarea imbinărilor sudate plane si in colturi
+• pentru unghi 60°，70°，80°，90°
+• scala cromata satinata
+Masuratori 
+inaltime cordon 
+                      Domeniu               Scala 
+0-8 mm
+0,1 mm
+Acuratete
+± 0,1 mm
+269-020
+dim. sudura de colt 
+0-20 mm
+0.1 mm
+± 0,3 mm
+100.01
+unghi
+60º, 70º, 80º, 90º
+-
+± 1º

@@ -1,0 +1,227 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:352]
+22 5286.01A
+22 5286.1A
+22 5284
+Fierastrau "Coada de vulpe" 
+cu maner inchis  din plastic
+Fierastrau "Coada de vulpe" 
+cu maner inchis
+• fierastrau pentru taierea lemnului si a plasticului
+• maner închis din plastic,2 parti
+• dinti caliti cu trei muchii de taiere pentru o taiere simpla si rapida
+• posibilitatea masurarii unghiului de 45° si 90° cu ajutorul manerului
+• fierastrau pentru taierea lemnului si a plasticului
+• maner închis din plastic
+• dinti caliti cu trei muchii de taiere pentru o taiere simpla   si rapida
+• posibilitatea masurarii unghiului de 45° si 90° cu ajutorul manerului
+Pasuitor cu lama rotunjita 300 mm
+• fierastrau profesional pentru taierea materialelor cu grosimi mici 
+si medii: lemn, placaj, laminat, materiale plastice, PAL, lamele din 
+polistiren, plastic, HDF, lemn etc.
+• rotunjit, varf cu dinti pentru strapungere in mijlocul suprafetei piesei 
+de prelucrat
+• dantura universala fina (12 TPI) special adaptata pentru taierea 
+lemnului cu diametru mic si taierea cu ghidaj pentru taieri unghiulare
+• dinti intariti (64 HRc) pentru o utilizare indelungata
+• maner ergonomic inchis, cu doua componente
+600mm
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+L
+5284000000 300
+T
+12
+360
+1
+48.52
+600mm
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+L
+5286130000 300
+S
+0,9
+T
+3,6
+300
+1
+44.90
+22 5283 
+L
+400
+450
+500
+S
+0,8
+0,8
+1,0
+T
+3,60
+390
+3,60
+430
+3,60
+490
+1
+1
+1
+58.09
+62.98
+67.24
+5286140000
+5286145000
+5286150000
+757
+22 5291.1A
+Fierastrau pentru perforare
+• fierastrau pentru realizarea de gauri in lemn sau in plastic
+• maner deschis din plastic
+• dinti caliti cu trei muchii de taiere pentru o taiere simpla si rapida
+Pasuitor cu lama dreapta 300 mm
+• fierastrau profesional pentru taierea materialelor cu grosimi mici 
+si medii: lemn, placaj, laminat, materiale plastice, PAL, lamele din 
+polistiren, plastic, HDF, lemn etc.
+• dantura universala fina (12 TPI) special adaptata pentru taierea 
+lemnului cu diametru mic si taierea cu ghidaj pentru taieri unghiulare
+• dinti intariti (64 HRc) pentru o utilizare indelungata
+• maner ergonomic inchis, cu doua componente
+Fierastrau "Coada de vulpe" 
+cu maner inchis  din plastic
+•  material: lama otel special de scule
+•  maner din polistiren
+L1
+L
+609423 400
+493
+408
+ 1C 
+1
+83.11
+22 5285A
+Fierastrau "Coada de vulpe" cu
+maner deschis
+• fierastrau pentru taierea lemnului si a plasticului
+• maner deschis din plastic
+• dinti caliti cu trei muchii de taiere pentru o taiere rapida si simpla
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+L
+5291250000 250
+5291315000 315
+S
+1,1
+1,1
+T
+3,20
+190
+3,20
+200
+1
+1
+37.45
+44.47
+22 5292
+Fierastrau "Coada de vulpe" 
+cu trei panze interschimbabile
+• fierastrau universal cu trei panze interschimbabile (pasuitor, 
+fierastrau “Coada vulpe”, fierastrau pentru perforare)
+• dinti necaliti pentru o taiere fina si dreapta, posibilitatea reascutirii
+• maner traditional din lemn
+L
+5283000000 300
+T
+12
+350
+1
+46.89
+31 6053
+Cutie echer
+• pentru taierea exacta a partilor din lemn sub unghiul 
+de 45° si 90° cu pasuitor
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+L
+H
+3160530000 250
+97/65
+590
+1
+49.51
+27-300653819
+Cutie sablon din lemn cu
+1 surub reglaj pentru taiere 
+la 45°/90°
+• se utilizeaza la taierea semifabricatelor din lemn la 90° 
+sau la 45° sau oblic 
+la 45°, are un surub de prindere semifabricat
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+L
+5285250000 250
+5285315000 315
+S
+0,8
+0,8
+T
+3,15
+190
+3,15
+230
+1
+1
+35.11
+40.22
+5292000000
+L
+250
+315
+315
+S
+T
+0,60
+2,05
+1,20
+3,60
+500
+1
+81.15
+l
+L
+H
+I
+0,80
+3,60
+27-300653819
+19
+300
+65
+38
+900
+1
+118.69

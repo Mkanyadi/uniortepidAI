@@ -1,0 +1,131 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:714]
+310
+Dispozitiv hidraulic pentru spart piulite
+• Se foloseste pentru piulite pana la grupa 10
+Taisul este tratat prin inductie
+Pertii canalului sunt roluiti
+Instructiuni de utilizare :
+1. Se aseaza poansonul taietor perpendicular pe o fata a piulite si se strange menghina din 
+celalalt capat pana la fixarea dispozitivului pe piulita.
+2. Incet, cu intreruperi pentru a lasa partea hidraulica sa lucreze, se invarte surubul de 
+actionare. Cateva lovituri usoare de ciocan in menghina vor amplifica efectul de crapare. 
+Daca cursa poansonului nu este suficienta, se desface dispozitivul si se mai strange 
+menghina.
+3. Dupa finalizare se desfileteaza surubul de actionare in pozitia initiala (A). Poansonul nu se 
+retrage automat si trebuie impins inapoi (B).
+311
+Dispozitiv manual pentru spart piulite
+• pentru despicarea piulitelor stranse sau supra-rasucite pana la calitatea 6, fara a deteriora 
+filetul surubului
+• varful daltii tratat perin inductie
+• dalta interschimbabila
+nicovala
+surub presiune
+A
+311-0
+311-1
+311-2
+311-3
+B
+5 t 
+393
+  Deschidere          Pentru piulite           Cuplu               Filet            SW 
+14
+17
+17
+27
+pana la M6
+pana la M10
+pana la M16
+pana la M24
+M10x25
+M14x1.5x40
+M16x1.5x40
+M18x1.5x50
+4 - 10
+4 - 17
+8 - 24
+18 - 36
+10
+40
+60
+80
+370.81
+444.99
+463.28
+595.86
+  Deschidere          Pentru piulite           Cuplu               Filet            SW 
+310-1
+SW 7 - 22
+M4 - M14
+45
+M14x1.5
+8
+1153.11
+S310-S1
+Set dispozitive pentru spart piulite
+Dispozitiv mecanic pentru spart piulite:
+311-0 capacitate 4-10 mm
+311-1 capacitate 4-17 mm
+Dispozitiv hidraulic pentru spart piulite:
+310-1 capacitate 7-22 mm
+Dispozitiv manual pentru spart piulite
+• pentru despicarea piulitelor stranse sau supra-rasucite pana la calitatea 6, fara a deteriora 
+filetul surubului
+• varful daltii tratat perin inductie
+• dalta interschimbabila
+Deschidere
+6-12 mm
+17-27 mm
+24-32 mm
+81
+617
+636
+116.51
+227.29
+270.72
+39309123
+39322273
+39325323
+2208.1/4
+Surub pentru 2208
+•  material:otel special de scule
+•  acoperire:brunare
+Set
+S310-S1                                      4-22 mm / 3 piese                                        1358.78
+310-1   7 - 22 mm; 311-0   4 - 10 mm; 311-1   4 - 17 mm
+301
+Extractor bolturi cu o gama extra larga de utilizari 5-20 mm
+• pentru indepartarea bolturilor deteriorate sau al pieselor rupte
+• potrivit pentru filete pe dreapta sau pe stanga
+M
+623959 Tr 14 x 1,5
+L
+110
+S
+17
+2208.1A/2
+Surub de brat pentru 2208
+170
+ 1V 
+1
+79.70
+M
+623960 Tr 10 x 1,5
+L
+30
+S
+15
+35
+ 1V 
+1
+19.28
+400
+506.12
+Diametru       Inaltime           Nm         tone      SW 
+19
+5 - 20
+120
+-
+-
+301

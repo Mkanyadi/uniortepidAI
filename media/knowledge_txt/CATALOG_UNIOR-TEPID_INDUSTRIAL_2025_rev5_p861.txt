@@ -1,0 +1,184 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:861]
+XT60642067866
+XT60642067845
+Freza disc, placata CMS, Z 2 pentru uluc 5,0 mm
+• pentru lemn esenta tare si moale, precum si pentru plastic
+• placute CMS brazate
+Freza cu coada, profilata placata CMS
+• pentru lemn esenta tare si moale, precum si pentru plastic
+• placute CMS brazate
+1
+3
+,
+2
+m
+m
+20  mm
+5
+m
+m
+40  mm
+847
+20  mm
+1
+3
+,
+2
+m
+m
+10 mm
+XT60642067845          20,0                     13,2 
+ Ø 
+       H 
+                    d2
+                   8,0 
+          91.18
+H
+5,0 
+          80.85
+XT60642067846
+Freza cu coada, profilata in V, placata CMS
+• pentru lemn esenta tare si moale, precum si pentru plastic
+• placute CMS brazate
+• unghi de frezare 90º
+1
+2
+,
+7
+m
+m
+12 ,7  mm
+847
+12 ,7  mm
+1
+2
+,
+7
+m
+m
+90 °
+ Ø 
+XT60642067846         12,7 
+       H 
+     12,7 
+                    d2
+                  8,0 
+          91.18
+                            66.10
+XT60642067861
+Freza cu coada, profilata coada de randunica 
+placata CMS
+• pentru lemn esenta tare si moale, precum si pentru plastic
+• placute CMS brazate
+• unghi de frezare 15º
+1
+3
+m
+m
+14 ,3  mm
+847
+Q 
+ 40 
+XT60642067866 
+XT60642067863
+Ax pentru freza disc
+     Ø 
+6,0 
+            d 
+      22,0 
+                d2
+           8,0 
+XT60642067863 
+XT61012
+Freza cu coada, placata CMS cu tais drept Z 2
+• pentru lemn esenta tare si moale, precum si pentru plastic
+• placute CMS brazate
+847
+XT60642067832
+XT60642067834
+XT60642067835
+XT60642067836
+XT60642067837
+XT60642067838
+XT60642067840
+XT60642067841
+XT60642067842
+                             Ø 
+4,0
+6,0
+8,0
+10,0
+12,0
+14,0
+16,0
+18,0
+20,0
+               H 
+8,0
+16,0
+20,0
+20,0
+20,0
+20,0
+20,0
+20,0
+20,0
+d2
+8,0
+8,0
+8,0
+8,0
+8,0
+8,0
+8,0
+8,0
+8,0
+H
+Ø
+69.59
+69.59
+69.59
+80.85
+80.85
+80.85
+91.18
+91.18
+91.18
+847
+1
+3
+m
+m
+14 ,3  mm
+15 °
+ Ø 
+XT60642067861        14,3 
+       H 
+                    d2
+    13,0                              8,0 
+         80.85
+XT60642067801
+Freza cu coada, profilata 1/4 convex, placata CMS, 
+cu rulment copier
+• pentru lemn esenta tare si moale, precum si pentru plastic
+• placute CMS brazate
+• raza de frezare: 9,5 mm
+1
+4
+m
+m
+32  mm
+847
+ Ø 
+XT60642067801         32,0 
+1
+4
+m
+m
+32  mm
+       H 
+    14,0 
+9,5 mm
+                    d2
+                   8,0        
+         95.31

@@ -1,0 +1,155 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:629]
+CITYWORK 160 B GEK
+NOU
+SUPER PLUS 120 GE K
+SUPER PLUS 140 GEK
+Invertor sudura MMA 100A
+AVATAJELE PRODUSULUI
+• echipamente invertor cu 100% Duty Cycle la 30ºC, dimensiuni 
+reduse si performanta ridicata
+• microprocesor STM 32 F103 cu 32 de biti cu sistem de operare de 
+mare viteza, in timp real datorita software-ului exclusiv STAYER
+• potrivit pentru electrozi: bazic, rutilic, INOX,celulozic si fonta
+• ușor de utilizat, cu Hot Start (aprindere usoara a arcului), arc 
+force (pentru un arc stabil) si anti stick (pentru a evita blocarea 
+electrozilor)
+• pregatit pentru utilizare generatoare stabilizate, cu o abatere de 
+intrare a tensiunii de +/-17%.
+• proiectat si produs conform reglementarilor europene 2014/35/UE, 
+2014/30/EU și 2011/65/UE care garantează un design sigur si solid.
+Invertor de sudura MMA 120 A
+Invertor de sudura MMA 140 A
+AVANTAJELE PRODUSULUI
+• cele mai vandute echipamente de sudare cu invertor STAYER
+• ciclu de lucru profesional cu dimensiuni reduse
+• microprocesor de ultima generatie actualizat in 2021, oferind 
+stabilitate si precizie pentru sudarea cu electrozi acoperiti
+• componente de inalta calitate, ventilatie ranforsata  si software 
+exclusiv STAYER pentru cea mai buna performanta
+• IGBT de ultima generatie, condensatoare supradimensionate 
+si disipare imbunatatita a caldurii pentru a atinge performanta 
+maxima cu dimensiuni reduse
+• design compact si robust, structura ranforsata protejata 
+impotriva loviturilor
+• potrivit pentru urmatorii electrozi: rutilici, basici, inox si fonta
+• usor de utilizat, cu Hot Start (aprindere usoara a arcului), force 
+arc (pentru un arc stabil) si anti-stick (pentru a evita electrozii 
+blocati)
+• pregatit pentru utilizare generatoare stabilizate, cu o abatere 
+de intrare a tensiunii de +/-17%
+• proiectat si produs conform reglementarilor europene 
+2014/35/UE, 2014/30/EU si 2011/65/UE care garanteaza un 
+design sigur si solid
+AVANTAJELE PRODUSULUI
+• cele mai vandute echipamente de sudare cu invertor STAYER
+• ciclu de lucru profesional cu dimensiuni reduse
+• microprocesor de ultima generatie actualizat in 2021, oferind 
+stabilitate si precizie pentru sudarea cu electrozi acoperiti
+• componente de inalta calitate, ventilatie ranforsata  si software 
+exclusiv STAYER pentru cea mai buna performanta
+• IGBT de ultima generatie, condensatoare supradimensionate 
+si disipare imbunatatita a caldurii pentru a atinge performanta 
+maxima cu dimensiuni reduse
+• design compact si robust, structura ranforsata protejata 
+impotriva loviturilor
+• potrivit pentru urmatorii electrozi: rutilici, basici, inox si fonta
+• usor de utilizat, cu Hot Start (aprindere usoara a arcului), force 
+arc (pentru un arc stabil) si anti-stick (pentru a evita electrozii 
+blocati)
+• pregatit pentru utilizare generatoare stabilizate, cu o abatere 
+de intrare a tensiunii de +/-17%
+• proiectat si produs conform reglementarilor europene 
+2014/35/UE, 2014/30/EU si 2011/65/UE care garanteaza un 
+design sigur si solid
+CARRY CASE
+INCLUDED
+Bas
+CITYWORK 160 B GEK
+1.3234
+1311.48
+Curent
+Tensiune de alimentare
+Ciclu de functionare
+Electrozi
+Generator recomandat
+Dimensiuni
+Greutate
+Conector DINSE
+Cablu de alimentare
+Cablu + cleste de impamantare
+Cablu + cleste  electrod
+Ciocan / Perie
+Cutie transport
+160 A
+230 V
+100 %
+1.6 - 4.0 mm
+7 KVA / 230V ±17%
+25 x 15 x 10 cm
+2.7 kg
+3/8” (10 - 25) ø
+1.8 m x 1.5 mm²
+1.5 m - 16 mm²
+1.5 m - 16 mm²
+CARRY CASE
+INCLUDED
+Bas
+CARRY CASE
+INCLUDED
+Bas
+SUPER PLUS 120 GEK
+1.2376
+1900
+1229.51
+SUPER PLUS 140 GEK
+1.2470
+2200
+1508.20
+Curent sudura
+120 A 
+Tensiune de alimentare
+230 V
+Ciclu de funcționare (30ºC)
+100% 
+Curent sudura
+140 A 
+Tensiune de alimentare
+230 V
+Ciclu de funcționare (30ºC)
+100% 
+Electrozi
+1.6 - 3,2 mm 
+Electrozi
+1.6 - 4.0 mm 
+Generator recomandat
+2.5 - 5 KVA / 230V ±17%
+Generator recomandat
+5 - 7 KVA / 230V ±17%
+Dimensiuni
+23 x 15.5 x 9 cm
+Greutate
+1.9 kg
+Conector DINSE
+3/8” (10 - 25) ø
+Cablu de alimentare
+2.0 m x 1.5 mm²
+Dimensiuni
+24 x 15.5 x 9 cm
+Greutate
+2.2 kg
+Conector DINSE
+3/8” (10 - 25) ø
+Cablu de alimentare
+2.0 m x 1.5 mm²
+Cablu + cleste de impamantare
+1.5 m - 10 mm²
+Cablu + cleste de impamantare
+1.5 m - 10 mm²
+Cablu + cleste electrod
+2.5 m - 10 mm²
+Cablu + cleste electrod
+2.5 m - 10 mm²
+Ciocan / Perie
+Geantă de transport
+Ciocan / Perie
+Geantă de transport

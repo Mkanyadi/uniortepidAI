@@ -1,0 +1,411 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:387]
+1600
+NOU
+Bit hexagonal 1/4" DIN 3126 - 
+Forma C 6,3 - profil Robertson
+• design de torsiune
+• duritate in conformitate cu norma DIN
+• sablat
+• protectie optima impotriva coroziunii
+Bit hexagonal 1/4" 
+BLUE SHOCK
+Forma E 6,3 - profil patrat
+• bitul dispune o zona de torsiune studiata si alungita pentru a 
+rezista la cupluri ridicate si socuri violente in timpul utilizarii pe o 
+masina de
+insurubat cu impact
+• duritate proiectata special pentru utilizarea pe masini de 
+insurubat cu impact de mare putere
+• varf ranforsat cu inel de sprijin pentru o durata de utilizare 
+prelungita
+• zona de torsiune este ranforsata din partea superioara si cea 
+inferioara pentru o legatura mai puternica intre varf si corp si 
+pentru a preveni ruperea bitului.
+Dimensiune         L
+25
+25
+25
+25
+25
+R 0
+R 1
+R 2
+R 3
+R 4
+vrac
+vrac
+vrac
+vrac
+vrac
+1000006886
+1000006895
+1000006904
+1000006913
+1020002971
+ 1600 CR
+Bit hexagonal 1/4" DIN 3126 - 
+Forma C 6,3 - profil Robertson
+• design de torsiune
+• duritate in conformitate cu norma DIN
+• sablat
+• protectie optima impotriva coroziunii
+L
+L
+1020038773
+1020038774
+1020038775
+1020038776
+1610
+Dimensiune         L
+25
+25
+25
+25
+R 0
+R 1
+R 2
+R 3
+vrac
+vrac
+vrac
+vrac
+12.34
+12.34
+12.34
+12.34
+NOU
+Bit 1/4″ DIN/ISO 1173 - E6,3 
+cu profil patrat, varianta lunga
+• material: aliaj special S2 (1.2381 / 73 Mo V 5 2)
+• duritate material: 58 +/- 2 HRc
+• in conformitate cu standardele DIN 3126 ISO 1173
+• durabilitate ridicata
+• protectie anticoroziva
+• pentru lucrul manual si cu masina
+• pentru prindere magnetica sau non-magnetica
+11.49
+11.49
+11.49
+11.49
+11.48
+NOU
+GERMANY
+UUSE0063417
+UUSE0063418
+UUSE0063419
+Dimensiune       L 
+50
+50
+50
+R 1
+R 2
+R 3
+L
+5 (A*)
+5 (A*)
+5 (A*)
+83.58
+83.58
+83.58
+Bit STANDARD 1/4" 
+DIN/ISO 1173 Forma C 6,3
+profil Spanner
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+Dimensiune            L
+25
+25
+25
+25
+25
+25
+SN# 4
+SN# 6
+SN# 8
+SN# 10
+SN# 12
+SN# 14
+60314
+60315
+60316
+60317
+60318
+60319
+L
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+3.56
+3.56
+3.56
+3.56
+3.56
+3.56
+Bit STANDARD 1/4" DIN/ISO 1173 
+Forma C 6,3, profil Torq-Set®
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+1000006922
+1000006940
+1000006967
+1000006994
+1000006931
+1000006949
+1000006976
+1000007003
+1000006958
+1000006985
+1000036524
+1000036525
+Dimensiune      L              D
+6,0
+6,0
+6,0
+6,0
+6,0
+6,0
+6,0
+6,0
+6,0
+6,0
+6,0
+6,0
+50
+50
+50
+50
+75
+75
+75
+75
+90
+90
+152
+152
+R 0
+R 1
+R 2
+R 3
+R 0
+R 1
+R 2
+R 3
+R 1
+R 2
+R 1
+R 2
+L
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+23.43
+23.43
+23.43
+23.43
+29.34
+29.34
+29.34
+29.34
+34.86
+34.86
+74.03
+74.03
+Dimensiune         L 
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+TS # 0
+TS # 1
+TS # 2
+TS # 3
+TS # 4
+TS # 5
+TS # 6
+TS # 8
+TS # 10
+TS # 1/4"
+60298
+60299
+60300
+60301
+60302
+60303
+60304
+60305
+60306
+60307
+L
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+1.89
+1.89
+1.89
+1.89
+1.89
+1.89
+1.89
+1.89
+1.89
+1.89
+Bit STANDARD 1/4" DIN/ISO 1173 
+Forma C 6,3 profil Tri-Wing®
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+Dimensiune         L
+25
+25
+25
+25
+25
+25
+TW # 0
+TW # 1
+TW # 2
+TW # 3
+TW # 4
+TW # 5
+60298
+60299
+60300
+60301
+60302
+60303
+L
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+1.89
+1.89
+1.89
+1.89
+1.89
+1.89
+Bit STANDARD 1/4" DIN/ISO 1173 
+Forma C 6,3 profil Torx® TTAP®
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+Dimensiune         L
+25
+25
+25
+25
+25
+25
+TTAP 10
+TTAP 15
+TTAP 20
+TTAP 25
+TTAP 30
+TTAP 40
+60021
+60022
+60023
+60024
+60025
+60026
+L
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+3.16
+3.16
+3.16
+3.16
+3.16
+3.16
+Bit STANDARD 1/4" DIN/ISO 1173 
+Forma C 6,3 profil XZN spline
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+Dimensiune           L 
+25
+25
+25
+25
+XZN M 4
+XZN M 5
+XZN M 6
+XZN M 8
+60330
+60331
+60332
+60333
+L
+vrac
+vrac
+vrac
+vrac
+2.93
+2.93
+2.93
+2.93
+Bit STANDARD 1/4" DIN/ISO 1173 
+Forma C 6,3, profil Ribe®
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+Dimensiune         L
+25
+25
+25
+25
+25
+RI 4
+RI 5
+RI 6
+RI 7
+RI 8
+60320
+60321
+60322
+60323
+60324
+L
+vrac
+vrac
+vrac
+vrac
+vrac
+2.93
+2.93
+2.93
+2.93
+2.93

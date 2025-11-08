@@ -1,0 +1,138 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:731]
+1695/4BI-US
+Maner pentru scula de filetat pedala
+•  Manerul filierei este folosit cu o singura filiera, spre exemplu 
+filiera pentru bratul pedalei 1695.1AR.
+•  Manerele lungi asigura o utilizare precisa si usoara.
+1695.2
+1695.4
+Tarod pedala
+•  Material: otel aliat
+•  Design precis, tratat,precum si forma art 1695.2 il fac 
+util pentru taierea de filete noi inainte de introducerea 
+bucsilor filetate 1695.3 sau 1695.4 si este disponibil in 
+set (stanga si dreapta).Tarodul 1695.2 curata filetul 
+vechi inainte de realizarea unui nou filet, nu mai este 
+necesar un alt tarod si o alta trecere dupa.
+Set de10 piese pentru 
+corectarea filetului pedalei
+•  material: otel aliat
+•  diametrul interior:M14 x 1,25
+•  diametrul exterior: M16 x 1
+•  setul de reparare este utilizat pentru inlocuirea filetelor  
+deteriorate. Acesta este utilizat impreuna cu tarodul apropiat  
+(art. 1695.2) si este disponibil in set de 10 piese. 
+624963
+515
+ 4B 
+1
+184.75
+M1
+M2
+L
+M
+L
+616083 M16Lx1 M14Lx1,25 13,2 42  1E 
+1
+272.72
+1695.1
+Tarod pedala
+•  Material: otel aliat
+•  Design precis, tratat,precum si forma art 1695.1 il fac 
+util pentru taierea de filete noi inainte de introducerea 
+bucsilor filetate 1695.3 sau 1695.4 si este disponibil 
+in set (stanga si dreapta).Se foloseste in varianta de 
+tarod unic conform variantei franceze.
+616081 16 x 1
+90,5
+140
+ 1E 
+1
+1022.77
+1695.3
+Set de 10 piese pentru
+corectarea filetului pedalei
+•  material: otel aliat
+•  diametrul interior:M14 x 1,25
+•  diametrul exterior: M16 x 1
+•  setul de reparare este utilizat pentru inlocuirea filetelor  
+deteriorate. Acesta este utilizat impreuna cu tarodul apropiat   
+apropiat (art. 1695.2) si este disponibil in set de 10 piese. 
+1695.1AL
+Bucsa filetata pedala
+•  Material: otel aliat
+•  Forma precisa, tratat termic si forma art.1965.1AL se 
+foloseste pentru taierea filetelor pe stanga inainte de 
+introducerea bucsii filetate 1695.3L.Filiera 1695.1AL 
+inlatura vechiul filet inainte de taierea unuia nou, nu 
+mai este necesara o alta operatie de filetare.
+M
+L
+M1
+M2
+L
+M
+L
+616080 9/16 x 20 TPI
+60,5
+79
+ 1E 
+1
+315.35
+616082 M16x1 M14x1,25 13,2 45  1E 
+1
+272.72
+616554 5/8" x 24 TPI
+85,5
+81
+ 1E 
+1
+161.84
+1695.1AR
+1695.3A
+1695.4A
+Bucsa filetata pedala
+•  material: otel aliat
+•  design si forma precisa a art 1965.1AR care este 
+destinat taierii filetelor pe dreapta inainte de 
+introducerea bucsii filetate pe dreapta 1695.3A.Tarodul 
+1695.1AR inlocuieste vechiul filet si realizeaza filetarea 
+unuia nou, nefiind necesara o alta operatie.
+Set de 10 piese pentru 
+corectarea filetului pedalei
+•  material: otel aliat
+•  diametrul interior: 9/16 x 20 TPI
+•  diametrul exterior: 5/8 x 24 TPI
+•  setul de reparare a filetelor este utilizat pentru 
+Set de 10 piese pentru 
+corectarea filetului pedalei
+•  material: otel aliat
+•  diametrul interior:9/16 x 20 TPI
+•  diametrul interior:9/16 x 20 TPI
+•  setul de reparatie filete este folosit la inlocuirea 
+inlocuirea filetelor deteriorate.Acesta se utilizeaza 
+impreuna cu tarodul apropiat (art. 1695.1AR) si este 
+disponibil in set de 10 piese.
+filetelor deteriorate.Sunt folosite impreuna cu tarodul 
+apropiat (art. 1695.1AL) si este disponibil in set de 10 
+piese.
+M
+L
+M1
+M2
+L
+M1
+M2
+L
+616553 5/8" x 24 TPI
+85,5
+80
+ 1E 
+1
+161.84
+616551 5/8 x 24 9/16 x 20 16,3 49  1E 
+1
+262.43
+616552 5/8Lx24 9/16L x 20 16,3 50  1E 
+1
+262.43

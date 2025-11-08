@@ -1,0 +1,82 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:711]
+169-5H
+169-4H
+Extractor pivoti pentru camioane grele si autobuze 
+110-15/35-45mm
+• extractor pivoti pentru camioane grele si autobuze
+• ax cu actionare hidraulica pentru o putere sporita
+• capacitate de pana la 20 t
+Presa hidraulica pentru articulatii (pivoti si bielete)
+• cu actionare hidraulica
+• capacitate 27 - 36 mm
+• filet UN-1 1/2” x 16
+MB ACTROS, ATEGO, SK, O405, -N, -GN
+MAN F2000, TG,A23, autobuze cu podea joasa
+IVECO EURO-STAR, TECH, TURBO-STAR
+RENAULT
+SCANIA 3 si 4, ICARUS
+VOLVO
+DAF
+capacitate maxima
+10 t (100 KN)
+Diametru       Inaltime           Nm         tone      SW 
+169-5H
+45
+max. 115
+-
+20
+-
+3316.95
+169-5
+Extractor de pivoti reglabil pentru camioane si 
+autobuze
+• testat in ateliere de camioane in conditii grele, folosit la camioane grele, autobuze cu podea 
+joasa
+• surub de reglare (filet x lungime): M24 x 1,5 x 150 mm
+• surub de presiune (filet x lungime): G 3/4”x 14 x 125 mm
+MB ACTROS, ATEGO, SK, O405, -N, -GN
+MAN F2000, TG,A23, autobuze cu podea joasa
+IVECO EURO-STAR, TECH, TURBO-STAR
+RENAULT
+SCANIA 3 si 4, ICARUS
+VOLVO
+DAF
+  Deschidere           Adancime      Nm       Tone             Filet            SW
+  169-4H         36                        90                                                                2506.38
+165
+Extractor de pivoti pentru turisme si utilitare
+• 165-1  pentru AUDI, ALFA-ROMEO, BMW, CITROEN, FIAT, FORD, HONDA, MB, OPEL, 
+PEUGEOT, RENAULT, SAAB, SEAT, SKODA, VOLVO, VW
+• 165-2  pentru  DUCATO din 1994, MB Sprinter, VW LT din 1998
+Diametru furca        Adancime      Nm       Tone             Filet            SW
+165-1               28                      55             60           4        M16x1,5x60        17         430.71
+165-3               34                      63             80           4        M16x1,5x70        19         458.69
+165-SHM3
+Set extractor surub brate masini 12 t
+• pentru indepartarea usoara si sigura a suruburilor de prindere de la osii
+• pentru urmatoarele modele de masini:
+• Audi A4, A6 si Quattro
+• VW Passat construit din 1997
+• autoturisme cu osii cu patru cuple din aluminiu sau otel
+• include instructiuni detaliate de utilizare
+• setul este furnizat intr-o carcasa robusta de depozitare si transport din plastic
+m
+m
+5
+1
+1
+.
+x
+a
+m
+35 - 45 mm
+surubul de actionare este prevazut 
+cu o piulita care poate fi insurubata 
+in sens invers pentru strangerea 
+pivotului
+  Deschidere            Adancime       Nm       Tone              Filet           SW 
+    169-5          45                        115           200         20            M24x1,5        27       2317.14
+165-SHM3
+Contine
+set cu arbore hidraulic nr. 110
+3515.30

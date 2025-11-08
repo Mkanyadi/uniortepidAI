@@ -1,0 +1,40 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:939]
+Scule electroizolante
+Peste tot in lume, programul UNIOR este asociat cu atributele de siguranta, calitate si functionalitate a sculelor de mana. 
+Prin ce se remarca programul UNIOR de fabricatie a sculele de mana electroizolante, utilizate pentru lucrari sub tensiune pana la 
+1000V, in curent alternativ si 1500V, in curent continuu ?
+• 
+• 
+Domeniul este strict reglementat de standardul european EN 60900: 2012.
+toate sculele de mana electroizolante UNIOR  sunt certificate de catre prestigiosul Institut de Testare si Certifi-
+care VDE (Verband Deutscher Elektrotechniker), Offenbach, Germania, motiv pentru care in mod uzual aceste scule sunt denumite 
+si scule VDE.
+• 
+datorita izolatiilor care nu conduc electricitatea, sculele VDE UNIOR se numara printre cele mai sigure scule 
+pentru lucrul sub tensiune. Realizate in conformitate cu standardul EN 60900:2012, fiecare scula este testata individual, asigurand 
+o rata de protectie de 100%. Fiecare scula este izolata individual, numai partile cromate de actionare ramanand neizolate. Material-
+ul este otel de compozitie speciala ( crom vanadiu 31 CrV3), calit si revenit, tratat integral, partile taietoare fiind tratate suplimentar 
+prin inductie (minim 60 HRC); manerele sunt din plastic pentru conditii grele.
+• 
+- 
+Toate sculele VDE UNIOR sunt testate bucata cu bucata la urmatoarele incercari de tip:
+Incercarea de nepropagare a flacarii: Flacara este aplicata pe piesa timp de 10 secunde. Incercarea se conside-
+ra corespunzatoare daca inaltimea urmei flacarii pe scula nu a depasit 120 mm intr-o perioada de 20 secunde de la indepartarea 
+flacarii.
+- 
+Test de izolatie: Inainte de testarea piesei aceasta este incalzita la 70° ± 2° C pentru 168 de ore. Manerul se 
+incarca cu greutati (F=500 N), cheile si capetele chei tubulare se incarca cu greutati (F=100N). Durata testului este de 3 min dupa 
+care piesa este detasata din dispozitiv. Testul este considerat acceptat daca izolatia ramane ferm prinsa de maner.
+- 
+Incercari dielectrice: Inainte de testare scula este imersata intr-o baie de apa la temperatura camerei ( 23° C) 
+timp de 24 de ore ( ± 5 ore ). Piesa este considerata conforma daca dupa aplicarea unei tensiuni de 10 KV timp de 3 minute nu 
+prezinta nicio strapungere, amorsare sau conturnare.
+- 
+Incercarea de penetrare: Izolatia piesei este supusa unei forte de 20 N si o tensiune de 10 KV aplicate pe mijlocul 
+manerului. Piesa este considerata conforma daca nu prezinta nicio strapungere, amorsare sau conturnare.
+- 
+Incercarea la impact: Se efectueaza doua teste: Primul test se realizeaza la temperatura ambianta 25° ± 3° C ( 
+scula se aseaza intr-o camera rece timp de 2 ore) si se aseaza timp de 120 de secunde dupa ce a fost scoasa din camera. Ciocan-
+ul va cadea liber in trei locuri diferite ale izolatiei. Piesa este considerata conforma daca manerul nu prezinta fisuri, rupturi sau urme 
+de exfoliere. Testul poate fi comparat cu o cadere a sculei de la o inaltime de 0.6 m la o temperatura de 25° si o cadere de la o 
+inaltime de 2 m la temperatura camerei.

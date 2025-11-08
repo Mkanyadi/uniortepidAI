@@ -1,0 +1,201 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1017]
+masterEX 79650 
+masterEX 79590
+masterEX 79639
+Lanterna antiex 1W
+• 32 de ore de lucru continuu cu 3 baterii alcaline C, 
+proiectand o iluminare de 109 lumeni
+• designul sau usor si mic o fac lanterna ideala pentru cele 
+mai periculoase zone de gaz / praf, pana la Zona 0 
+• temperatura ambientala Ta: -20 ° C - +50 ° C
+• sursa de lumina: 1 W LED
+• luminozitate: 109 lumeni
+• alimentare: 3 baterii C
+• clasa de protectie: IP54
+• lungime: 205 mm
+• marcaj ATEX: Ex II 1 G Ex ia IIC T4 
+• greutate: 205 g
+• bateriile nu sunt incluse
+Lanterna antiex 1,1W
+• zone: 1, 2 gaz
+• 2 de ore de lucru continuu cu 2 baterii alcaline AAA, 
+proiectand o iluminare de 7 lumeni
+• designul sau usor si mic o fac lanterna ideala pentru cele 
+mai periculoase zone de pana la Zona 1
+• temperatura ambientala Ta: -20 ° C - +50 ° C
+• sursa de lumina: 1,1 W XENON
+• luminozitate: 7 lumeni
+• alimentare: 2 baterii alcaline AAA
+• clasa de protectie: IP67
+• lungime: 104 mm
+• ATEX: Ex II 2G Ex e ib IIB T4
+• greutate: 45 g
+• bateriile nu sunt incluse
+Lanterna antiex 3W
+• lanterna ideala pentru zonele periculoase pana la Zona 0 si 
+20, combinand performante grele si iluminare puternica
+• poate fi montata pe casti pentru pompieri
+• sursa de lumina: 3 W LED
+• luminozitate: 135 lumeni
+• alimentare: 4 x R03 AAA / 6V
+• autonomie: 4 h-30 h
+• indicator baterie: clipeste la inceput
+• clasa de protectie: IP67
+• clips pentru casca Gallet F1 nou model inclus
+• ATEX: Ex II 1 GD Ex ia IIC T4 Ga / Ex II 2 D Ex ia IIIC 
+T85ºC Da
+• dimensiuni: 150x38x44 mm
+• greutate: 125 g
+• bateriile sunt incluse
+ZONE 0, 1, 2 GAZ
+20, 21, 22 PRAF
+ZONE 0, 1, 2 GAZ
+ZONE 1, 2 GAZ
+W
+1
+79650
+D
+205
+380
+2921.77
+79590
+W
+1.1
+L
+104
+45
+937.93
+79639
+W
+3
+L
+150x38x44
+125
+2164.43
+masterEX 79731
+masterEX 79360 
+NOU
+masterEX 77780
+Lampa inspectie 2.5W
+• zone 1, 2 gaz; 21, 22 praf
+• lampa de inspectie MasterEx 79731 este solutia ideala 
+pentru iluminarea zonelor de lucru in zonele periculoase
+• bateria sa cu litiu asigura o utilizare de 6 ore si este special 
+conceputa pentru a suporta conditiile zilnice de lucru industriale
+• cele doua lumini LED ale acesteia permit o iluminare 
+adecvata pentru toate conditiile de lucru
+• LED-ul frontal are doua moduri de operare, oferind 150 pana 
+la 300 de lumeni
+• LED-ul superior ofera un fascicul de 100 lumeni
+• designul sau permite pozitionarea corecta pentru a ilumina 
+zonele de lucru fara a fi nevoie sa o tineti manual de suportul 
+magnetic sau de carligul suspendat de 360°
+• 2 lumini LED
+• LED frontal cu 2 moduri: 100% si 50%
+• LED superior 1 mod: 100%
+• luminozitate: LED frontal 300/150 lm - LED superior 100 lm
+• putere: 2,5 W
+• ciclul de viata:> = 50000 h
+• tensiune de alimentare: 100-240 V - 50/60 Hz
+• clasa protectie: IP 54
+• carcasa: plastic antistatic
+• carlig: rotativ 360°
+• suport magnetic
+• baza de incarcare si incarcatorul sunt incluse: 1 m
+• timp de incarcare: 3,5 h
+• autonomie: 3 h-6 h
+• ATEX: Ex II 2 G Ex ib op is llC T4 Gb / # [Β] # II 2D Ex ib 
+IIIC T120 ° Db
+• dimensiuni: 220x70x40 mm
+• greutate: 400 g
+Lampa de lucru 25W cu cablu
+• lampile de mană MasterEx 79732 si 79733 sunt special 
+concepute pentru iluminarea spatiilor mari in zonele 
+periculoase
+• cele doua moduri LED (50% si 100%) permit adaptarea 
+intensitatii luminii emise
+• lampile sunt potrivite pentru utilizarea in zonele 1 si 21
+• este posibila rotirea corpului la 180º pentru a ghida fasciculul 
+de lumina
+• cablul cu lungimea de 10 m faciliteaza deplasarea lampii de 
+mana de la sursa electrica la zona de lucru
+• carcasa sa din aluminiu turnat sub presiune ii confera o 
+rezistenta si protectie uriase, asigurand functionarea corecta 
+chiar si in cele mai dificile conditii
+• manerul de pe carcasa permite transportul lampii intr-un 
+mod usor si mai sigur
+• 2 moduri LED: 100% si 50%
+• dimensiuni: 230x230x110 mm
+• ATEX: Ex II 2G Ex db eb mb op este IIC T4 Gb / Ex II 2D 
+Ex tb IIIC T85ºC Db IP65
+• maner de transport pe carcasa
+• pozitionare: rotatie la 180°
+• carcasa: turnare din aluminiu
+• clasa de protectie: IP 65
+• lungime cablu: 10 m
+• tensiune de alimentare: 100-240 V - 50/60 Hz
+• ciclul de viata:> = 50000 h
+• putere: 25 W
+• luminozitate: 2500/1250 lm
+• greutate: 4,55 kg
+ZONE 1, 2 GAZ
+21, 22 PRAF
+ZONE 1, 2 GAZ
+21, 22 PRAF
+Lampa de lucru 31W cu acumulator
+• lampile de mană MasterEx 79732 si 79733 sunt special 
+concepute pentru iluminarea spatiilor mari in zonele 
+periculoase
+• cele doua moduri LED (50% si 100%) permit adaptarea 
+intensitatii luminii emise
+• lampile sunt potrivite pentru utilizarea in zonele 1 si 21
+• este posibila rotirea corpului la 180º pentru a ghida fasciculul 
+de lumina
+• cablul cu lungimea de 10 m faciliteaza deplasarea lampii de 
+mana de la sursa electrica la zona de lucru
+• carcasa sa din aluminiu turnat sub presiune ii confera o 
+rezistenta si protectie uriase, asigurand functionarea corecta 
+chiar si in cele mai dificile conditii
+• manerul de pe carcasa permite transportul lampii intr-un 
+mod usor si mai sigur
+• 2 moduri LED: 100% si 50%
+• dimensiuni: 270x260x130 mm
+• ATEX: Ex II 2G Ex db eb mb op is IIC T4 Gb / Ex II 2D Ex tb 
+IIIC T85ºC Db IP65
+• autonomie: 2 h - 4 h
+• cablu de incarcare inclus
+• indicator de incarcare
+• timp de incarcare: 4 h
+• maner de transport pe carcasa
+• pozitionare: rotatie la 180°
+• carcasa: turnare din aluminiu
+• clasa de protectie: IP 65
+• lungime cablu: 5 m
+• tensiune de alimentare: 100-240 V - 50/60 Hz
+• ciclul de viata:> = 50000 h
+• putere: 31 W
+• luminozitate: 4000/2000 lm
+• greutate: 4,3 kg
+ZONE 1, 2 GAZ
+21, 22 PRAF
+W
+2.5
+79731
+L
+220x70x40
+400
+4464.03
+79360 
+W
+25
+L
+230x230x110
+4550
+5699.18
+77780
+W
+31
+L
+270x260x130
+4300
+9234.20

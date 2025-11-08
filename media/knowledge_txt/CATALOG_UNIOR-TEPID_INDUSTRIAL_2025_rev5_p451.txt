@@ -1,0 +1,471 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:451]
+1031811
+1036671
+1031821
+Freza din carbura de tungsten forma E
+ovala, tais dublu (incrucisat) tip D
+• material: carbura HM
+• forma E - ovala
+• pentru oteluri cu duritate pana la 700 N/mm², fonta, aliaj cupru
+Freza din carbura de tungsten forma F
+arcuita cu cap rotunjit, tais simplu tip A
+• material: carbura HM
+• forma F - arcuita cu cap rotunjit
+• pentru aluminiu
+Freza din carbura de tungsten forma F
+arcuita cu cap rotunjit, tais simplu tip C
+• material: carbura HM
+• forma F - arcuita cu cap rotunjit
+• pentru oteluri cu rezistenta la rupere ≤ 1400 N/mm², otel inoxidabil
+2
+d
+L
+Ø
+l1
+l2
+2
+d
+L
+Ø
+l1
+l2
+2
+d
+L
+Ø
+l1
+l2
+Ø          d2         L            l2
+6
+4
+10
+6
+13
+8
+16
+10
+20
+12
+25
+16
+25
+16
+25
+20
+25
+20
+50
+50
+58
+61
+65
+70
+70
+70
+70
+6
+6
+6
+6
+6
+8
+6
+8
+6
+188.31
+188.31
+208.45
+250.39
+299.11
+435.38
+435.38
+687.49
+687.49
+10318110400
+10318110600
+10318110800
+10318111000
+10318111200
+10318111600
+103181116006
+10318112000
+103181120006
+5120
+Fraze biax din carbura metalica 
+sinterizata - CMS ovala, Forma E (TRE)
+• fraze biax din carbura metalica sinterizata - CMS - ovala, 
+forma E ( TRE )
+• in conformitate cu DIN 8033
+• pentru a debavura, rotunjire muchii, curatire / finisare 
+ornamente, curatire cordoane de sudura si operatii de prelucrare
+suprafete pentru piese din fonta, otel si otel inoxidabil.
+• se foloseste pe masini portabile pneumatice sau electrice
+PROFI
+by BOHRC RAFT
+PLUS
+DIN
+8033
+VHM
+E
+TRE
+Z-KR
+Ø          d2         L            l2
+3
+6
+8
+10
+12
+16
+38
+50
+60
+60
+65
+70
+6
+10
+13
+16
+20
+25
+3
+6
+6
+6
+6
+6
+46.07
+102.30
+103.77
+122.95
+175.57
+255.08
+51200300303
+51200300600
+51200300800
+51200301000
+51200301200
+51200301600
+1036661
+Freza din carbura de tungsten forma E
+ovala, tais simplu tip A
+• material: carbura HM
+• forma E - ovala
+• pentru aluminiu
+Ø          d2         L            l2
+10366711000
+10366711200
+10366711600
+10
+12
+16
+6
+6
+6
+65
+70
+75
+20
+25
+30
+268.35
+317.64
+453.91
+1031831
+Freza din carbura de tungsten forma F
+arcuita cu cap rotunjit, tais dublu 
+(incrucisat) tip D
+• material: carbura HM
+• forma F - arcuita cu cap rotunjit
+• pentru oteluri cu rezistenta la rupere ≤ 700 N/mm², fonta, 
+aliaj cupru
+Ø          d2         L            l2
+18
+6
+18
+8
+20
+10
+25
+12
+30
+16
+30
+16
+50
+63
+65
+70
+75
+75
+6
+6
+6
+6
+8
+6
+178.21
+186.59
+221.88
+265.66
+379.84
+379.84
+10318210600
+10318210800
+10318211000
+10318211200
+10318211600
+103182116006
+1031841
+Freza din carbura de tungsten forma D
+sferica, tais simplu tip C
+• material: carbura HM
+• forma D - sferica
+• pentru oteluri cu rezistenta la rupere ≤ 1400 N/mm², otel inoxidabil
+2
+d
+L
+Ø
+l1
+l2
+2
+d
+L
+Ø
+l1
+l2
+Ø          d2         L            l2
+6
+8
+10
+12
+16
+16
+20
+20
+6
+6
+6
+6
+8
+6
+8
+6
+50
+63
+65
+70
+75
+75
+75
+75
+18
+18
+20
+25
+30
+30
+30
+30
+215.05
+223.54
+265.66
+317.64
+453.91
+453.91
+843.67
+843.67
+10318310600
+10318310800
+10318311000
+10318311200
+10318311600
+103183116006
+10318312000
+103183120006
+5125
+Fraze biax din carbura metalica 
+sinterizata - CMS arc cu varf rotunjit, 
+Forma F ( RBF )
+• fraze biax din carbura metalica sinterizata - CMS - arc cu 
+varf rotunjit, forma F ( RBF )
+• in conformitate cu DIN 8033
+• pentru a debavura, rotunjire muchii, curatire / finisare 
+ornamente, curatire cordoane de sudura si operatii de prelucrare
+suprafete pentru piese din fonta, otel si otel inoxidabil.
+• se foloseste pe masini portabile pneumatice sau electrice
+Ø          d2         L            l2
+4
+6
+8
+10
+12
+16
+16
+20
+6
+6
+6
+6
+6
+8
+6
+6
+50
+50
+63
+65
+70
+75
+75
+75
+18
+18
+18
+20
+25
+30
+30
+30
+151.36
+151.36
+158.07
+183.15
+221.88
+315.92
+315.92
+504.11
+10318410400
+10318410600
+10318410800
+10318411000
+10318411200
+10318411600
+103184116006
+103184120006
+1031851
+Freza din carbura de tungsten forma D
+sferica, cu tais dublu (incrucisat) tip D
+• material: carbura HM
+• forma D - sferica
+• pentru oteluri cu rezistenta la rupere 700 N/mm², fonta, aliaj cupru
+2
+d
+L
+Ø
+l1
+l2
+2
+d
+L
+Ø
+l1
+l2
+Ø          d2         L            l2
+10366611200
+10366611600
+12
+16
+6
+6
+65
+70
+20
+25
+299.13
+435.41
+PROFI
+by BOHRC RAFT
+PLUS
+DIN
+8033
+VHM
+F
+RBF
+Z-KR
+Ø          d2         L            l2
+51250300303
+51250300600
+51250300800
+51250301000
+51250301200
+51250301600
+3
+6
+8
+10
+12
+16
+3
+6
+6
+6
+6
+6
+38
+50
+65
+64
+70
+70
+14
+18
+20
+19
+25
+25
+54.43
+87.54
+106.23
+112.62
+175.90
+285.08
+Ø          d2         L            l2
+10318510400
+10318510600
+10318510800
+10318511000
+10318511200
+103185116006
+10318512000
+103185120006
+4
+6
+8
+10
+12
+16
+20
+20
+6
+6
+6
+6
+6
+6
+8
+6
+50
+50
+63
+65
+70
+75
+75
+75
+18
+18
+18
+20
+25
+30
+30
+30
+181.48
+181.48
+189.98
+220.10
+265.66
+378.23
+604.87
+604.87

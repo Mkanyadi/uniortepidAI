@@ -1,0 +1,428 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:509]
+Dispozitive de 
+reconditionat filete
+4602
+Insertii metric pas normal 2,0xD
+• insertii din otel inoxidabil
+• insertii de ranforsare filete in materiale cu rezistenta redusa la forfecare, de ex. aliaje 
+de aluminiu si magneziu, precum si pentru repararea filetelor uzate si deteriorate
+46021500300
+46021500400
+46021500500
+46021500600
+46021500800
+46021501000
+46021501200
+46021501400
+46021501600
+46021501800
+46021502000
+46021502200
+46021502400
+          M filet           Pas (mm)       Diametru (mm)
+0,50
+0,70
+0,80
+1,00
+1,25
+1,50
+1,75
+2,00
+2,00
+2,50
+2,50
+2,50
+3,00
+3,20
+4,20
+5,20
+6,30
+8,30
+10,40
+12,40
+14,50
+16,50
+18,60
+20,60
+22,60
+24,75
+M 3
+M 4
+M 5
+M 6
+M 8
+M 10
+M 12
+M 14
+M 16
+M 18
+M 20
+M 22
+M 24
+100
+100
+100
+100
+100
+100
+50
+50
+50
+25
+25
+10
+10
+4603
+Insertii metric pas normal 2,5xD
+• insertii din otel inoxidabil
+• insertii de ranforsare filete in materiale cu rezistenta redusa la forfecare, de ex. aliaje 
+de aluminiu si magneziu, precum si pentru repararea filetelor uzate si deteriorate
+4600
+Insertii metric pas normal 1,0xD
+• insertii din otel inoxidabil
+• insertii de ranforsare filete in materiale cu rezistenta redusa la forfecare, de ex. aliaje 
+de aluminiu si magneziu, precum si pentru repararea filetelor uzate si deteriorate
+46001500300
+46001500400
+46001500500
+46001500600
+46001500800
+46001501000
+46001501200
+46001501400
+46001501600
+46001501800
+46001502000
+46001502200
+46001502400
+          M filet           Pas (mm)       Diametru (mm)
+0,50
+0,70
+0,80
+1,00
+1,25
+1,50
+1,75
+2,00
+2,00
+2,50
+2,50
+2,50
+3,00
+3,20
+4,20
+5,20
+6,30
+8,30
+10,40
+12,40
+14,50
+16,50
+18,60
+20,60
+22,60
+24,75
+M 3
+M 4
+M 5
+M 6
+M 8
+M 10
+M 12
+M 14
+M 16
+M 18
+M 20
+M 22
+M 24
+100
+100
+100
+100
+100
+100
+50
+50
+50
+25
+25
+10
+10
+4601
+Insertii metric pas normal 1,5xD
+• insertii din otel inoxidabil
+• insertii de ranforsare filete in materiale cu rezistenta redusa la forfecare, de ex. aliaje 
+de aluminiu si magneziu, precum si pentru repararea filetelor uzate si deteriorate
+46011500300
+46011500400
+46011500500
+46011500600
+46011500800
+46011501000
+46011501200
+46011501400
+46011501600
+46011501800
+46011502000
+46011502200
+46011502400
+          M filet           Pas (mm)       Diametru (mm)
+0,50
+0,70
+0,80
+1,00
+1,25
+1,50
+1,75
+2,00
+2,00
+2,50
+2,50
+2,50
+3,00
+3,20
+4,20
+5,20
+6,30
+8,30
+10,40
+12,40
+14,50
+16,50
+18,60
+20,60
+22,60
+24,75
+M 3
+M 4
+M 5
+M 6
+M 8
+M 10
+M 12
+M 14
+M 16
+M 18
+M 20
+M 22
+M 24
+100
+100
+100
+100
+100
+100
+50
+50
+50
+25
+25
+10
+10
+46031500300
+46031500400
+46031500500
+46031500600
+46031500800
+46031501000
+46031501200
+46031501400
+46031501600
+46031501800
+46031502000
+46031502200
+46031502400
+          M filet           Pas (mm)       Diametru (mm)
+0,50
+0,70
+0,80
+1,00
+1,25
+1,50
+1,75
+2,00
+2,00
+2,50
+2,50
+2,50
+3,00
+3,20
+4,20
+5,20
+6,30
+8,30
+10,40
+12,40
+14,50
+16,50
+18,60
+20,60
+22,60
+24,75
+M 3
+M 4
+M 5
+M 6
+M 8
+M 10
+M 12
+M 14
+M 16
+M 18
+M 20
+M 22
+M 24
+100
+100
+100
+100
+100
+100
+50
+50
+50
+25
+25
+10
+10
+4604
+Insertii metric pas normal 3,0xD
+• insertii din otel inoxidabil
+• insertii de ranforsare filete in materiale cu rezistenta redusa la forfecare, de ex. aliaje 
+de aluminiu si magneziu, precum si pentru repararea filetelor uzate si deteriorate
+46041500300
+46041500400
+46041500500
+46041500600
+46041500800
+46041501000
+46041501200
+46041501400
+46041501600
+46041501800
+46041502000
+46041502200
+46041502400
+          M filet           Pas (mm)       Diametru (mm)
+0,50
+0,70
+0,80
+1,00
+1,25
+1,50
+1,75
+2,00
+2,00
+2,50
+2,50
+2,50
+3,00
+3,20
+4,20
+5,20
+6,30
+8,30
+10,40
+12,40
+14,50
+16,50
+18,60
+20,60
+22,60
+24,75
+M 3
+M 4
+M 5
+M 6
+M 8
+M 10
+M 12
+M 14
+M 16
+M 18
+M 20
+M 22
+M 24
+100
+100
+100
+100
+100
+100
+50
+50
+50
+25
+25
+10
+10
+M
+1.31
+1.31
+1.64
+1.97
+1.97
+2.46
+2.95
+4.75
+6.39
+9.67
+10.66
+11.64
+14.59
+M
+1.64
+1.64
+1.31
+1.31
+1.97
+2.62
+3.93
+5.25
+6.56
+12.30
+13.28
+15.25
+18.20
+M
+1.64
+1.64
+1.97
+2.30
+2.46
+2.95
+4.10
+5.57
+8.03
+14.59
+17.38
+19.02
+22.13
+M
+2.13
+2.13
+2.30
+2.62
+2.95
+3.61
+5.08
+6.72
+8.69
+17.54
+19.18
+22.30
+26.39
+M
+2.46
+2.30
+2.62
+3.11
+3.61
+4.10
+6.23
+8.03
+9.51
+20.98
+22.13
+25.90
+31.64

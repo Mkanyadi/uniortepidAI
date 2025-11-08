@@ -1,0 +1,100 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:244]
+PTS-92-4000
+PTS-119-7000
+Multiplicator de cuplu pneumatic 800-4000 Nm
+• fara impact - nivel redus de vibratii pentru o utilizare confortabila si sigura
+• functionare foarte silentioasa - reducerea necesitatii de protectie cu nivel de presiune 
+acustica de la 77dB (A) la 79dB (A) 
+• livrat standard cu un certificat de calibrare numai in sensul orar
+• functionare rapida pentru desfacere rapida a suruburilor
+• greutate redusa
+• comutator usor accesibil pentru functionarea inainte si inapoi
+• cuplaj de aer conceput pentru siguranta si functionare rapida
+• ± 5% repetabilitate a citirii de la 20% la 100% din interval
+• patrat de antrenare inlocuibil
+1”
+1.1/2”
+Multiplicator de cuplu pneumatic 1400-7000 Nm
+• fara impact - nivel redus de vibratii pentru o utilizare confortabila si sigura
+• functionare foarte silentioasa - reducerea necesitatii de protectie cu nivel de presiune 
+acustica de la 77dB (A) la 79dB (A) 
+• livrat standard cu un certificat de calibrare numai in sensul orar
+• functionare rapida pentru desfacere rapida a suruburilor
+• greutate redusa
+• comutator usor accesibil pentru functionarea inainte si inapoi
+• cuplaj de aer conceput pentru siguranta si functionare rapida
+• ± 5% repetabilitate a citirii de la 20% la 100% din interval
+• patrat de antrenare inlocuibil
+70
+377
+347
+92
+90
+407
+369
+119
+175
+Ø92
+272
+256
+210
+Ø119
+285
+256
+N.m
+lbf.ft
+N.m
+lbf.ft
+180250.B08 800-4000
+590-2950
+1” ±3%
+±3%
+5.3 rpm
+8950 67842.68
+180249.B12 1400-7000
+1030-5200
+1.1/2” ±3%
+±3%
+2.6 rpm
+12520 77026.86
+PTS-92-4000
+Multiplicator de cuplu pneumatic 800-4000 Nm
+• fara impact - nivel redus de vibratii pentru o utilizare confortabila si sigura
+• functionare foarte silentioasa - reducerea necesitatii de protectie cu nivel de presiune 
+acustica de la 77dB (A) la 79dB (A) 
+• livrat standard cu un certificat de calibrare numai in sensul orar
+• functionare rapida pentru desfacere rapida a suruburilor
+• greutate redusa
+• comutator usor accesibil pentru functionarea inainte si inapoi
+• cuplaj de aer conceput pentru siguranta si functionare rapida
+• ± 5% repetabilitate a citirii de la 20% la 100% din interval
+• patrat de antrenare inlocuibil
+Accesorii optionale
+1.1/2”
+Manerul secundar este un accesoriu usor de adaptat si versatil, care ofera suport suplimentar si 
+usurinta in manevrare la aplicarea cuplului cu multiplicatoarele pneumatice Norbar. Manerul secundar 
+este conceput pentru a se potrivi direct tuturor multiplicatoarelor care au o canelura de localizare a 
+manerului in inel, acoperita de o banda de cauciuc rosie (asa cum se vede in imagine)
+70
+387
+347
+92
+Declansator secundar pentru utilizare cu toate instrumentele PTS ™ si PTM. Acest lucru necesita ca 
+operatorul sa foloseasca ambele maini pentru a actiona instrumentul, reducand astfel riscul ca mainile
+sa fie prinse intre bara de reacte si punctul de reactie
+175
+Ø92
+272
+256
+N.m
+lbf.ft
+180250.B12 800-4000
+590-2950
+1.1/2” ±3%
+±3%
+5.3 rpm
+8950 67842.68
+Cutia de viteze cu unghi drept permite utilizarea multiplicatoarelor de cuplu pneumatice si electrice 
+Norbar intr-o serie de aplicatii din care sunt excluse in prezent din cauza restrictiilor de spatiu.
+Cutia de viteze cu unghi drept permite ca majoritatea instrumentelor ET, PTS si PTM cu un unghi de 
+functionare de 90 °.

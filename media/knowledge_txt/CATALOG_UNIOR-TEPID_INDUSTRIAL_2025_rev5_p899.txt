@@ -1,0 +1,52 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:899]
+12506-2K
+1204/8
+Surubelnita flexibila cu cap tubular
+• dimensiune cap tubular: 6 mm; 
+• lungime tija: 150 mm; 
+• lungime totala: 265 mm; 
+• greutate: 167 g; 
+• cuplul maxim de torsiune: 8 Nm; 
+• pentru suruburile colierelor furtunului radiatorului 
+Set biti TORX plus
+• 1 adaptor biti
+• 7 biti cu 5 canturi, cu gaura pentru pin siguranta marimile 10, 15, 20, 25, 27, 30, 40
+• se utilizeaza la suruburi pentru generatoare, unitati de management al motorului, senzori de 
+debit, imobilizatoare si pompe de injectie (FORD,  MERCEDES BENZ, HGV, ROVER, VOLVO, 
+VW/AUDI)
+SW 43103206
+6
+L1
+175
+L2
+290
+167
+1
+173.29
+4008
+Surubelnita cu clichet cu cap tubular
+• schimbare usoara a sensului prin rotirea inelului
+• maner ergonomic si bimaterial pentru transmiterea optima a fortei
+• compartiment pentru 6 biti in miner
+• pentru biti cu coada hexagon 1/4” sau DIN 3126/ISO 1173 Tip C6,3
+• tubularele cu antrenare 1/4”se pot folosi cu adaptorul  Nr 3115/1
+• schimbare usoara a bitilor datorita magnetului
+• mecanism pentru conditii grele cu 48 de dinti
+SW 18120001
+6,3
+L1
+127
+L2
+250
+d
+10
+220
+1
+230.23
+SW 96081113
+8
+1030
+1
+414.08
+TPI 10, 15, 20, 25, 27, 30, 40
+adaptor 1/4" - C 6.3

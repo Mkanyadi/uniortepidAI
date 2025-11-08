@@ -1,0 +1,372 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:782]
+Hex MM PSD™
+92600
+Surubelnite cu profil hexagonal, 
+cap rotativ
+• instrumente profesionale de calitate industriala
+• fabricat din otel aliat Eklind®
+• tratat termic pentru rezistenta si ductilitate optime
+• finisat cu oxid negru Eklind® pentru a rezista la rugina
+• surubelnitele de precizie Eklind® PSD au manere mai mari si o 
+suprafata moale pentru un confort si ergonomie sporite
+• include capac rotativ mare pentru control precis
+• dimensiune marcata permanent pe capacul rotativ
+• varf prelucrat cu precizie.
+• cod albastru pentru METRIC
+D
+50
+50
+50
+50
+50
+63
+63
+63
+C
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+10
+10
+10
+10
+10
+10
+10
+10
+L
+14.59
+14.59
+17.54
+17.21
+15.57
+14.59
+14.59
+14.59
+92407
+92409
+92413
+92415
+92420
+92425
+92430
+92440
+0,7
+0,9
+1,3
+1,5
+2,0
+2,5
+3,0
+4,0
+C L
+64
+64
+64
+64
+64
+64
+64
+64
+168
+168
+168
+168
+168
+168
+168
+168
+Ball-Hex MM PSD™
+Surubelnite cu profil hexagonal 
+varf sferic, cap rotativ
+• instrumente profesionale de calitate industriala
+• fabricat din otel aliat Eklind®
+• tratat termic pentru rezistenta si ductilitate optime
+• finisat cu oxid negru Eklind® pentru a rezista la rugina
+• surubelnitele de precizie Eklind® PSD au manere mai mari si o 
+suprafata moale pentru un confort si ergonomie sporite
+• include capac rotativ mare pentru control precis
+• dimensiune marcata permanent pe capacul rotativ
+• varf prelucrat cu precizie.
+• cod albastru pentru METRIC
+Set surubelnite cu profil 
+hexagonal varf sferic, 
+cap rotativ
+92600
+6
+350  1G 
+1
+73.44
+BALL-HEX PSD™: 1,3; 1,5; 2,0; 2,5; 3,0; 4,0
+Hex inch PSD™
+Surubelnite cu profil 
+hexagonal, cap rotativ
+• instrumente profesionale de calitate industriala
+• fabricat din otel aliat Eklind®
+• tratat termic pentru rezistenta si ductilitate optime
+• finisat cu oxid negru Eklind® pentru a rezista la rugina
+• surubelnitele de precizie Eklind® PSD au manere mai mari si o 
+suprafata moale pentru un confort si ergonomie sporite
+• include capac rotativ mare pentru control precis
+• dimensiune marcata permanent pe capacul rotativ
+• varf prelucrat cu precizie.
+• cod rosu pentru INCH
+Ball-Hex inch PSD™
+Surubelnite cu profil hexagonal 
+varf sferic, cap rotativ
+• instrumente profesionale de calitate industriala
+• fabricat din otel aliat Eklind®
+• tratat termic pentru rezistenta si ductilitate optime
+• finisat cu oxid negru Eklind® pentru a rezista la rugina
+• surubelnitele de precizie Eklind® PSD au manere mai mari si o 
+suprafata moale pentru un confort si ergonomie sporite
+• include capac rotativ mare pentru control precis
+• dimensiune marcata permanent pe capacul rotativ
+• varf prelucrat cu precizie.
+• cod rosu pentru INCH
+D
+50
+50
+50
+50
+50
+63
+63
+63
+63
+C
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+10
+10
+10
+10
+10
+10
+10
+10
+ 4A  10
+L
+14.59
+14.59
+14.59
+14.59
+14.59
+14.59
+14.59
+14.59
+14.59
+C L
+64
+64
+64
+64
+64
+64
+64
+64
+64
+168
+168
+168
+168
+168
+168
+168
+168
+168
+92502
+.035"
+92503
+.050"
+92504
+1/16"
+92505
+5/64"
+92506
+3/32"
+92507
+7/34"
+92508
+1/8"
+92509
+9/64"
+92510
+5/32"
+92500
+Set surubelnite cu profil 
+hexagonal varf sferic, 
+cap rotativ
+D
+50
+50
+50
+63
+63
+63
+C
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+10
+10
+10
+10
+10
+10
+L
+14.59
+14.59
+14.59
+14.59
+14.59
+14.59
+C L
+64
+64
+64
+64
+64
+64
+64
+64
+64
+64
+168
+168
+168
+168
+168
+168
+168
+168
+168
+168
+92301
+.028"
+92302
+.035"
+92303
+.050"
+92304
+1/16"
+92305
+5/64"
+92306
+3/32"
+92307
+7/34"
+92308
+1/8"
+92309
+9/64"
+92310
+5/32"
+92300
+Set surubelnite cu profil 
+hexagonal cap rotativ
+C L
+64
+64
+64
+64
+64
+64
+168
+168
+168
+168
+168
+168
+92613
+1,27
+92615
+92620
+92625
+92630
+92640
+1,5
+2,0
+2,5
+3,0
+4,0
+92400
+Set surubelnite cu profil 
+hexagonal cap rotativ
+D
+50
+50
+50
+50
+50
+63
+63
+63
+63
+63
+C
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+ 4A 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+L
+14.59
+14.59
+14.59
+14.59
+14.59
+14.59
+14.59
+14.59
+14.59
+14.59
+92500
+8
+550  1G 
+1
+97.70
+BALL-HEX PSD™: .050; 1/16"; 5/65"; 3/32""; 
+7/64""; 1/8"; 9/64"; 5/32"
+92400
+8
+450  1G 
+1
+97.70
+HEX PSD™: 0,7; 0,9; 1,3; 1,5; 2,0; 2,5; 3,0; 4,0
+HEX PSD™: .028; .035; .050; 1/16"; 5/65"; 
+3/32"; 7/64"; 1/8"; 9/64"; 5/32
+92300
+10
+550  1G 
+1
+122.46

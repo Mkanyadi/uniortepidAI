@@ -1,0 +1,193 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:278]
+6300
+Stativ pentru micrometre 
+• corpul turnat din aliaj usor
+• protectie prin vopsire
+3108
+Micrometru digital de exterior 
+• rezolutie: 0.001mm
+• clasa de protectie: IP54 praf / apa
+• butoane: on/off, set, mm/inch, ABS/INC
+• fara export date 
+• baterie: SR44 sau LR44, oprire automata
+• suprafetele de masurare cu carbura
+• se livreaza cu palpatorul sferic
+• se livreaza cu setul standard de calibrare, exceptie 0-25mm
+Pentru micromete max.         Deschidere max.         Lungime baza
+6300                   100 mm                             20 mm                   116 mm                 299.25
+ATTENTION: NO
+DATA OUTPUT
+6301
+Stativ pentru micrometre 
+• corpul turnat din aliaj usor
+• protectie prin vopsire
+nicovala sferica
+(inclusa)
+masurare grosime
+perete teava
+Scala 
+   Acuratete         L            a           b           c 
+3108-25A*
+3108-50A*
+3108-75A*
+0-25 mm
+25-50 mm
+50-75 mm
+3108-100A*
+75-100 mm
+3108-125A
+100-125 mm
+3108-150A
+125-150 mm
+3108-175A
+150-175 mm
+3108-200A
+175-200 mm
+2 µm
+2 µm
+3 µm
+3 µm
+3 µm
+3 µm
+4 µm
+4 µm
+32,5
+57,5
+82,5
+107,5
+133
+158,5
+184
+209,5
+6
+8
+8
+8
+10
+10
+12
+12
+24
+32
+44,5
+57
+70
+82
+94,5
+107
+3
+3
+3
+3
+3
+3
+5,5
+5,5
+898.80
+1144.50
+1386.00
+1522.50
+1732.50
+1837.50
+2005.50
+2194.50
+* livrat cu certificat de inspectie producator trasabil la DKD Germany
+3109
+Micrometru digital de exterior 
+• rezolutie: 0.001mm/0.00005"
+• butoane: on/off, set, mm/inch, ABS/INC
+• export de date
+• baterie: CR2032, oprire automata
+• suprafetele de masurare cu carbura
+• se livreaza cu palpatorul sferic
+• se livreaza cu setul standard de calibrare, exceptie 0-25mm
+ATTENTION: NO
+DATA OUTPUT
+nicovala sferica
+(inclusa)
+masurare grosime
+perete teava
+Pentru micromete max.         Deschidere max.         Lungime baza
+6301               100 mm                             20 mm                        163 mm             190.05
+3506
+Micrometru digital de exterior cu palpatori 
+interschimbabili
+• rezolutie: 0.001mm/0.0001"
+• clasa de protectie: IP65
+• butoane: on/off, set, mm/inch
+• export date ABS/INC
+• export date RS232
+• baterie: SR44 sau LR44, oprire automata
+• suprafetele de masurare cu carbura
+• se livreaza cu setul standard de calibrare
+        Scala 
+       Acuratete        L           b       Tip      Set inclus
+3506-301A
+200-300 mm
+8 µm
+305
+165
+3506-400A
+300-400 mm
+3506-500A
+400-500 mm
+9 µm
+11 µm
+405
+505
+3506-600A
+La comanda se pot aduce micrometre pana la 1000 mm
+500-600 mm
+12 µm
+605
+224
+275
+321
+A
+B
+B
+B
+200; 225;
+3570.00
+Scala 
+   Acuratete         L            a           b           c
+250; 275
+325; 375
+425; 475
+525; 575
+4662.00
+5260.50
+5890.50
+3109-25A*
+3109-50A*
+3109-75A*
+0-25 mm
+25-50 mm
+50-75 mm
+2 µm
+2 µm
+3 µm
+32,5
+57,5
+82,5
+6
+8
+8
+3109-100A*
+* livrat cu certificat de inspectie producator trasabil la DKD Germany
+75-100 mm
+107,5
+3 µm
+8
+24
+32
+44,5
+57
+3
+3
+3
+3
+654.15
+862.05
+1041.60
+1176.00

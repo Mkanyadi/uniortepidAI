@@ -1,0 +1,54 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1070]
+991.12HDS
+Set de divizoare pentru sertar mic 991HD, 5 bucati
+628268
+L
+100.5
+B
+7
+H
+68
+991.13HDS
+ 1K 
+1
+114.10
+Set de divizoare pentru sertar mic 991HD, 5 bucati
+L
+152
+B
+7
+H
+68
+628269
+991.2HDS
+ 1K 
+1
+135.25
+Set de partitii pentru sertarul mare 991HD, 3 bucati
+628270
+L
+596
+B
+28
+H
+134
+ 1K 
+1
+450.66
+PUNCT CONTROL
+PROCES LUCRU
+991LMS.C1
+Cabinet organizator pentru documente
+991LMS.C2
+Cabinet organizator pentru module
+• module SOS 3/3 standard
+• sau in functie de necesitatile 
+utilizatorului
+• 9x 991LMS.S1
+991LMS.PS1
+Statie de incarcare scule cu acumulator
+991HD
+Dulap scule Heavy Duty
+INAPOI
+LOC DE
+MUNCA

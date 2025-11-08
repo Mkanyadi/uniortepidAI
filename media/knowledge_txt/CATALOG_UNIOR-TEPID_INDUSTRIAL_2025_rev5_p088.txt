@@ -1,0 +1,179 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:88]
+197/2ATX
+Capete chei tubulare 3/4" cu profil TX
+•  material capete chei tubulare: crom-vanadiu, acoperire cromare
+•  bit: otel special de scule
+•  capul cheii este tratat in intregime
+D
+33.85
+33.85
+33.85
+33.85
+33.85
+L
+80
+80
+80
+80
+80
+L1
+30
+30
+30
+30
+30
+257
+262
+267
+351
+363
+ 1B 
+ 1B 
+ 1B 
+ 1B 
+ 1B 
+5
+5
+5
+5
+5
+95.74
+95.74
+112.79
+136.07
+139.18
+619840
+619841
+619842
+619843
+60
+70
+80
+90
+619844
+100
+197/2AZX
+Capete chei tubulare 3/4" profil ZX
+•  material capete chei tubulare: crom-vanadiu, acoperire cromare
+•  bit: otel special de scule
+•  capul cheii este tratat in intregime
+D
+33.9
+L
+80
+L1
+30
+371
+ 1B 
+5
+115.57
+620818
+M18
+59X
+Capete chei tubulare 3/4" cu profil ZX
+•  material capete chei tubulare: crom-vanadiu, acoperire cromare
+•  bit: otel special de scule
+•  capul cheii este tratat in intregime
+197.11
+Piese de schimb pentru 197.1/1
+616806
+11
+495
+ 1B 
+1
+248.73
+197.3/1
+Antrenor cu parghie glisanta 3/4"
+•  material: crom vanadiu
+•  tratament termic total
+•  acoperire cromare conform EN12540
+•  capete polizate
+•  executie in concordanta cu standardul ISO 3315
+602738
+3/4"
+A
+60
+D1
+20
+D2
+37
+L
+455
+1400
+ 1C 
+1
+225.08
+D
+34,7
+34,7
+34,7
+L1
+90
+80
+100
+L2
+35
+25
+45
+281
+302
+375
+ 1B 
+ 1B 
+ 1B 
+5
+5
+5
+354.20
+371.22
+417.91
+SW 05060014 M14
+SW 05060016 M16
+SW 05060018 M18
+197.1/1
+197.4/1
+Prelungitor lung 3/4"
+•  material: crom vanadiu
+•  forjata, calire si revenire totala
+•  acoperire cromare conform EN12540
+•  capete polizate
+•  conform cu standardul ISO 3316
+Antrenor cu clichet reversibil 3/4"
+•  material: compozitie speciala pentru calire revenire
+•  corp forjat
+•  tratament termic total
+•  suprafata: cromata in concordanta cu standardul EN 12540
+•  executie in concordanta cu standardul ISO 3315
+602737
+3/4"
+A
+58
+B
+63.5
+L
+500
+2590
+ 1C 
+1
+797.38
+602740
+602739
+3/4"
+3/4"
+L
+200
+400
+D1
+25.3
+25.3
+D2
+36
+36
+635
+1160
+ 1B 
+ 1B 
+1
+1
+134.43
+228.85

@@ -1,0 +1,555 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:418]
+11453170006
+1201
+1130
+Trusa burghie DIN 338, HSS, Steam
+TiN, 2,0-10,0 mm, 18 piese
+Burghie cilindrice scurte pentru
+metal DIN 338,  HSS-G rectificate,
+cu varf centrare, Turbocraft®
+• burghie cilindrice scurte pentru metal, Turbocraft®, conform
+DIN 338, tip N, 130°,  material HSS, tratate termic, rectificate,
+finisaj Bi-Color
+• taiere pe dreapta, unghiul spirei 20-30°, toleranta diametrului h8
+• de la Ø 3,3 mm cu ascutire suplimentara pe fata de asezare 
+si micsorarea taisului transversal, conform DIN 1412 C si 
+fragmentatori de aschii, pentru o aschiere mai usoara, micsora-
+rea fortei de aschiere si o gaurire mai rapida
+• de la Ø 5,0 mm coada cu aplatizari anti alunecare
+• destinate pentru gaurire in oteluri ne aliate si slab aliate, cu 
+σr≤800 N/mm², si oteluri pentru tratament termic cu 
+σr≤1100 N/mm², oteluri inoxidabile, gaurire in fonte si materiale
+neferoase (aliaje de aluminiu, cupru si bronzuri), mase plastice,
+materiale sinterizate diverse (nu in piese sinterizate din pulberi
+de oteluri sau din carburi metalice), lemn, plastic
+• recomandabil a se pot folosi  pe masini de gaurit, utilaje.
+stationare si fixe, dar si pe masini de gaurit portabile, cu
+acumulator
+Burghie cilindrice scurte pentru metal
+DIN 338, tip N, 118°, HSS-TiN rectificate
+• burghie cilindrice scurte pentru metal, conform DIN 338, tip N,
+unghi de ascutire 118°
+• material HSS-G, tratate, rectificate, titanizate
+• taiere pe dreapta, unghiul spirei 20-30°, toleranta diametrului h8
+• de la Ø 2 mm cu ascutire suplimentara pe fata de asezare si
+micsorarea taisului transversal, conform DIN 1412 C, pentru o
+aschiere mai usoara / micsorarea fortei de aschiere si o gaurire 
+mai rapida
+• destinate pentru gaurire in oteluri ne aliate si slab aliate, cu 
+σr≤800 N/mm², oteluri pentru tratament termic cu σr≤1100 N/mm²,
+gaurire in fonte si materiale neferoase (aliaje de cupru 
+si bronzuri), mase plastice
+• recomandabil a se pot folosi  pe masini de gaurit, utilaje
+stationare si fixe si numai ocazional  pe masini de gaurit portabile,
+electrice sau pneumatice
+11453170006
+18 piese
+2, 2.5, 3, 3.3, 3.5, 4, 4.2, 4.5, 5,
+5.5, 6, 6.5, 6.8, 7, 8, 8.5, 9, 10
+337.21
+DIN
+338
+HSS
+G
+Typ
+N
+TURBO
+800
+N/mm²
+DIN
+338
+HSS
+G
+TiN
+Typ
+N
+PROFI
+by BOHRCRAF T
+11453170002
+Trusa burghie DIN 338, HSS, 
+Steam TiN, 2,0-8,0 mm, 6 piese
+11453170002
+6 piese
+2, 3, 4, 5, 6, 8
+95.82
+Ø
+1,00
+1,50
+2,00
+2,50
+3,00
+3,10*
+3,20*
+3,30
+3,50
+4,00
+4,10*
+4,20*
+4,50
+4,80*
+5,00
+5,10*
+5,20*
+5,50
+6,00
+6,50
+6,80*
+7,00
+7,50
+8,00
+8,50
+9,00
+9,50
+10,00
+10,50
+11,00
+11,50
+12,00
+12,50
+13,00
+LT
+34
+40
+49
+57
+61
+65
+65
+65
+70
+75
+75
+75
+80
+86
+86
+86
+86
+93
+93
+101
+109
+109
+109
+117
+117
+125
+125
+133
+133
+142
+142
+151
+151
+151
+12010300100
+12010300150
+12010300200
+12010300250
+12010300300
+12010300310
+12010300320
+12010300330
+12010300350
+12010300400
+12010300410
+12010300420
+12010300450
+12010300480
+12010300500
+12010300510
+12010300520
+12010300550
+12010300600
+12010300650
+12010300680
+12010300700
+12010300750
+12010300800
+12010300850
+12010300900
+12010300950
+12010301000
+12010301050
+12010301100
+12010301150
+12010301200
+12010301250
+12010301300
+* finisaj lucios
+LU
+12
+18
+24
+30
+33
+36
+36
+36
+39
+43
+43
+43
+47
+52
+52
+52
+52
+57
+57
+63
+69
+69
+69
+75
+75
+81
+81
+87
+87
+94
+94
+101
+101
+101
+AMB
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+5
+5
+5
+5
+5
+5
+4.43
+4.43
+5.08
+5.08
+6.23
+7.21
+7.21
+7.21
+7.21
+9.18
+10.66
+10.66
+10.66
+13.11
+13.11
+16.56
+16.56
+16.56
+18.69
+20.00
+24.75
+24.75
+27.87
+35.08
+37.87
+43.44
+47.54
+55.25
+55.57
+64.43
+69.67
+79.67
+86.56
+93.11
+11300100100
+11300100150
+11300100200
+11300100250
+11300100300
+11300100320
+11300100330
+11300100350
+11300100400
+11300100410
+11300100420
+11300100450
+11300100480
+11300100500
+11300100520
+11300100550
+11300100600
+11300100650
+11300100680
+11300100700
+11300100750
+11300100800
+11300100850
+11300100900
+11300100950
+11300101000
+11300101020
+11300101050
+11300101100
+11300101150
+11300101200
+11300101250
+11300101300
+Ø
+1,00
+1,50
+2,00
+2,50
+3,00
+3,20
+3,30
+3,50
+4,00
+4,10
+4,20
+4,50
+4,80
+5,00
+5,20
+5,50
+6,00
+6,50
+6,80
+7,00
+7,50
+8,00
+8,50
+9,00
+9,50
+10,00
+10,20
+10,50
+11,00
+11,50
+12,00
+12,50
+13,00
+LT
+34
+40
+49
+57
+61
+65
+65
+70
+75
+75
+75
+80
+86
+86
+86
+93
+93
+101
+109
+109
+109
+117
+117
+125
+125
+133
+133
+133
+142
+142
+151
+151
+151
+LU
+12
+18
+24
+30
+33
+36
+36
+39
+43
+43
+43
+47
+52
+52
+52
+57
+57
+63
+69
+69
+69
+75
+75
+81
+81
+87
+87
+87
+94
+94
+101
+101
+101
+800
+N/mm²
+C
+2
+1
+4
+1
+N
+I
+D
+SPLIT POINT
+118°
+AMB
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+5
+5
+5
+5
+5
+5
+5
+2.79
+2.79
+2.95
+3.11
+3.44
+3.61
+3.61
+3.61
+4.75
+6.56
+6.56
+6.56
+8.20
+7.05
+7.70
+7.70
+9.34
+10.33
+12.30
+12.30
+15.08
+17.54
+18.52
+20.66
+22.46
+25.25
+30.33
+26.72
+30.33
+32.62
+36.56
+38.69
+43.44
+e
+l
+i
+i
+b
+n
+o
+p
+s
+i
+d
+Culoare
+Duritate
+Grosime strat
+Temperatura
+ maxima
+suportata
+Racire
+Caracteristici
+i
+r
+i
+r
+e
+p
+o
+c
+A
+TiN
+galben-auriu
+ca. 2500 HV
+pana la  2 µm
+450° – 500° C
+recomandat
+pentru suprafete cu inalta
+duritate
+TiCN
+albastru-gri
+ca. 3000 HV
+pana la  4 µm
+350° – 400° C
+recomandat
+reduce frecarea
+TiALN
+negru-violet
+ca. 3300 HV
+pana la  4 µm
+750° – 800° C
+fara
+pentru gaurire uscata
+VAP
+negru
+–
+–
+–
+recomandat
+reduce posibilitatea de lipire
+a aschiei

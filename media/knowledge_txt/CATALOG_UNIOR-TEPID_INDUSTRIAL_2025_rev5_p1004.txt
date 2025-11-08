@@ -1,0 +1,242 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1004]
+72156
+NOU
+73763
+NOU
+73776
+NOU
+Rascheta cu lama lunga
+• material: Al-Bron
+Rascheta cu lama lunga
+• material: Al-Bron
+Rascheta trunghiulara
+• material: Al-Bron
+72156
+73745
+mm
+50
+L
+900
+650
+942.81
+NOU
+73763
+mm
+75
+L
+600
+650
+4647.38
+73776
+077
+mm
+150
+L
+470
+1000
+3544.94
+Rascheta cu lama lunga
+• material: Al-Bron
+Rascheta cu lama curbata
+• material: Al-Bron
+NOU
+Rascheta pentru zidarie
+• material: MZW
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+l
+50
+100
+150
+L
+190
+210
+220
+400
+650
+800
+2454.15
+3322.68
+4645.64
+077 4800
+73786
+mm
+80
+L
+480
+1250
+1022.95
+NOU
+Rascheta pentru zidarie
+• material: Al-Bron
+73766
+73768
+73770
+073
+Rascheta cu lama dreapta
+• material: MZW
+mm
+50
+L
+900
+650
+1085.75
+73745
+040
+Rascheta cotita
+• material: MZW
+mm
+255
+L
+255
+480
+498.36
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+040 0255
+72168
+Rascheta cu lama lunga
+• material: Al-Bron
+NOU
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+073 3150
+074
+mm
+315
+L
+315
+210
+1573.77
+Rascheta cu lama triunghiulara
+• material: MZW
+73786 
+mm
+75
+L
+450
+1250
+3797.35
+NOU
+Unealta de calafuit
+• material: Al-Bron
+72168
+73749
+mm
+40
+L
+270
+350
+1320.31
+NOU
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+Rascheta cu lama lunga
+• material: Al-Bron
+73749
+mm
+48
+L
+300
+400
+1320.31
+NOU
+Rascheta cu lama lunga
+• material: Al-Bron
+074 3100
+73399 
+mm
+310
+L
+310
+210
+550.82
+NOU
+72602
+72604
+Rascheta trunghiulara
+• material: Al-Bron
+L
+200
+250
+X
+20
+20
+X
+5
+8
+450
+600
+1565.95
+2067.23
+NOU
+Unealta de calafuit
+• material: Al-Bron 
+mm
+420
+L
+300
+250
+1007.26
+73399
+070
+Rascheta cu varf triunghiular
+• material: MZW
+l
+50
+75
+100
+150
+L
+695
+710
+710
+750
+73751
+73753
+73755
+73757
+900
+1100
+1200
+2000
+1969.48
+2423.83
+2878.42
+4584.91
+070 5000
+mm
+440
+L
+440
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+71557
+71558
+71559
+EGA-71560
+600
+983.61
+EGA-71561
+l
+1000
+1200
+1500
+1000
+1200
+L
+32
+36
+36
+50
+50
+6500
+9500
+13000
+16000
+18000
+7219.02
+11088.58
+12475.90
+11088.58
+12072.54

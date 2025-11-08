@@ -1,0 +1,149 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:864]
+1.2620
+Set de 10 freze cu coada profile diferite, coada 8 mm  
+in cutie de lemn
+• set de 6 freze cu coada de 8 mm
+• pentru lemn, realizate din otel carbon si carbura de inalta performanta
+• rezistenta ridicată la uzura pentru o durata lungă de viata
+• potrivit pentru toate tipurile de lemn
+8
+1.2620
+Diametru
+   “D”
+d
+8.0 mm
+L
+u
+n
+g
+m
+e
+i
+u
+t
+i
+l
+a
+“
+B
+”
+L
+u
+n
+g
+m
+e
+i
+t
+o
+t
+a
+a
+l
+“
+L
+”
+Coada
+“d”
+Nr.
+Coada
+“d”
+Diametru
+“D”
+Lungime
+“b”
+Lungime totala
+“L”
+131.15
+1
+2
+3
+4
+5
+6
+11 mm
+4 mm
+19 mm
+6 mm
+19 mm
+8 mm
+19 mm
+10 mm
+12 mm
+12 mm
+12 mm
+14 mm
+8
+8
+8
+8
+8
+8
+4
+6
+8
+10
+12 cu degajare
+14 cu degajare
+11
+19
+19
+19
+12
+12
+51
+51
+51
+51
+38
+38
+1.351
+Set de 12 freze cu coada profile diferite, coada 6 mm  
+in cutie de lemn
+• set de 12 freze cu coada de 6 mm
+• pentru lemn, realizate din otel carbon si carbura de inalta performanta
+• rezistenta ridicată la uzura pentru o durata lungă de viata
+• potrivit pentru toate tipurile de lemn
+Diámetro
+Diameter
+   “D”
+Radio
+Radius
+“R”
+Inserción
+Insertion
+ø 6 mm
+d
+6.0 mm
+6
+1.351
+196.72
+CONCAVA
+D ø 12.7 mm
+R 6.35 mm
+CONCAVA
+D ø 22 mm
+R 6.35 mm
+COADA RANDUNICA
+D ø 12.7 mm
+1/4 CONCAV
+D ø 22 mm
+R 6.35 mm
+TAIS DREPT
+D ø 16 mm
+1/4 CONCAV
+D ø 28.6 mm
+R 9.5 mm
+TAIS DREPT
+D ø 12 mm
+TAIS DREPT
+D ø 6 mm
+SANFREN 45º 
+D ø 32 mm
+PENRU CANT
+D ø 12.7 mm
+90º FORMA V
+D ø 12.7 mm
+SINUSOIDAL
+D ø 25.4 mm
+R 4 mm

@@ -1,0 +1,167 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:968]
+(ATmosfere EXplozibile - 94/9/EC)
+standardul european ce reglementeaza conditiile de utilizare a 
+echipamentelor in zone cu pericol de explozie
+Chei
+Capete chei tubulare
+971
+979
+Chei reglabile si pentru instalatii
+992
+Clasiﬁcare a zonelor de pericol  i aloc rii categoriilor de echipament pentru zonele relevante
+Pericol
+Pericol permanent
+(> de 1000 ore/an)
+Gaze
+Praf
+Categorie echipament
+ZONA 0
+ZONA 20
+1
+Pericol prezent la operarea
+normala
+(intre 10 si 1000 ore/an)
+ZONA 1
+ZONA 21
+2
+Pericol prezent rar
+(<10 ore/an)
+ZONA 2
+ZONA 22
+3
+In baza ATEX, eticheta de identificare a produsului (Device ID) trebuie sa contina informatii despre zonele, cu pericol potential de 
+explozie, unde se impune a fi utilizat (categoria de produs):
+Rezistent la mediu 
+cu pericol de explozii
+Grupul II de industrii (de suprafata)
+Categoria 2 (utilizabil in zona 1 cu pericol de explozie 
+prezent la operare normala)
+G = Potrivit pentru atmosfere care contin gaz exploziv 
+(D pentru pulberi)
+Certificat ATEX
+II2G    EExd    IIB    T4    CE
+E = Echipament european
+Ex = Rezistent la medii cu 
+pericol de explozie
+d = capsulare antideflagranta 
+(tip de protectie)
+Clasa de 
+temperatura
+B = Grup de gaze
+II = Grup II pentru 
+industrii de suprafata
+Gruparea gazelor
+Gaz tipic/material 
+Metan
+Acetilena
+Hidrogen
+Etilena
+Propan 
+Pulbere metalica
+Pulbere de carbune
+Pulbere de cereale
+Grup gaz
+I
+IIC
+IIC
+IIB
+IIA
+-
+-
+-
+Dispozitive taiat tevi
+Clesti
+Pensete
+Foarfeci
+Bomfaiere si fierastraie
+Burghie
+Cutite
+Surubelnite
+Pile
+Chei dinamometrice
+Ciocane
+Spacluri si raclete
+Leviere
+Zona 2
+Zona cu pericol de explozie
+Dalti, dornuri, punctatoare
+Zona 0
+Zona 1
+Zona 0
+Clasiﬁcarea zonelor ATEX
+Zona 0 - interiorul cisternei
+Zona 1 - zona de productie
+Zona 2 - zona de depozitare
+Substantele periculoase sunt acele substante utilizate sau prezente care, daca nu 
+sunt controlate corespunzator, pot sa conduca la ranirea oamenilor ca urmare a 
+unui incendiu sau a unei explozii. Atmosfera potenaial exploziva este creata atunci 
+cand apare posibilitatea unei explozii, ca urmare a realizarii unui amestec gaz/aer, 
+vapori/aer, praf/aer sau alte combinatii inflamabile. O explozie reprezinta o reactie 
+chimica brusca a unui material inflamabil cu oxigenul insotita de eliberarea unei 
+cantitati mari de energie. Pentru a se produce un incendiu sau o explozie trebuie 
+sa existe 3 conditii:
+1. Material inflamabil (în cantitati suficiente) 2. Oxigen (in aer) 3. Sursa de aprindere
+Materiale inflamabile pot fi prezente sub forma de gaze, vapori sau praf în medii de 
+extractie, manipulare si depozitare combustibili, de utilizare solventi inflamabili, 
+stocare de produse inflamabile precum vopsele, fabricare si distribuire de pulberi 
+(ex. faina) etc. 
+Protectia primara – se refera la toate precautiile necesare pentru prevenirea crearii 
+unei atmosfere explozive. Aceasta se poate obtine prin evitarea utilizarii 
+substantelor inflamabile, limitarea concentratiilor, ventilare naturala sau artificiala, 
+etc.
+Protectia secundara – sunt masurile de prevenire a aprinderii unei atmosfere 
+explozive (eliminarea surselor de aprindere), daca pericolul de explozie nu poate fi 
+complet sau macar partial înlaturat prin masurile de protectie primare.
+Cod T 
+T1
+T2
+T3
+T4
+T5
+T6
+Temperatura maxima 
+a suprafetei
+ 450°C
+300°C
+200°C
+135°C
+100°C
+85°C
+Clase de temperatura
+Temperatura de aprindere a unui gaz sau lichid inflamabil este cea mai joasa temperatura a 
+suprafetei in contact la care se produce aprinderea amestecului gaz/aer sau vapori/aer. Gazele si 
+vaporii inflamabili se pot clasifica in clase de temperatura prin utilizarea temperaturilor de 
+aprindere.Temperatura maxima a suprafetei aparatelor electrice trebuie sa fie intotdeauna mai mica 
+decat temperatura de aprindere specifica mediului unde se utilizeaza. Desigur ca echipamentele 
+dintr-o clasa superioara de temperatura (ex. T5) pot fi utilizate în aplicaaii unde sunt necesare 
+echipamente dintr-o clasa de temperatura mai joasa (ex. T3).
+Topoare
+Lopeti si greble
+Unelte constructii
+Menghine
+Perii
+Truse scule
+992
+993
+996
+996
+996
+997
+997
+997
+998
+999
+999
+1005
+1007
+1007
+1009
+1010
+1011
+1012
+1013
+1014
+Scule antiex izolate la 1000 V
+1016
+Lanterne
+1018

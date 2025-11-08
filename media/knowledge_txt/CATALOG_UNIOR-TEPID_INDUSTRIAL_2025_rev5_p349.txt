@@ -1,0 +1,328 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:349]
+50SP
+NOU
+Fierastrau cu parghie de intindere 50SP
+• fierastrau robust, foarte rezistent, cu stabilitate si rezistena 
+excelente
+• proiectat cu un maner turnat manual, care ofera confort 
+excelent la locul de munca
+• sistem de tensionare reglabil incorporat pentru reglarea panzei 
+de fierastrau, asigurand o mai mare precizie la taiere si 
+inlocuirea usoara a panzei de fierastrau
+• unealtă echipată cu o lamă de fierastrau standard cu varfuri 
+intarite prin sistem de inductie calibrat tehnic de inalta frecventa, 
+care asigura o taiere lină
+1000mm
+900mm
+800mm
+700mm
+600mm
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+50SP-610mm
+50SP-762mm
+50SP-813mm
+50SP-914mm
+Lmm
+610
+762
+813
+914
+Linch Ømm
+24”
+28x14
+30”
+28x14
+32”
+28x14
+36”
+28x14
+570
+670
+840
+960
+42.13
+49.18
+56.23
+60.49
+NOU
+Panza fierastrau cu parghie de intindere
+• lama de fierastrau standard cu varfuri intarite prin sistem de 
+inductie calibrat tehnic de inalta frecventa, care asigura o taiere 
+lină
+10
+755
+755.1
+Fierastrau cu coarda, joagar
+•  material:lama otel C75
+•  maner din otel
+Panza de schimb pentru 755
+L1
+612236 610
+609407 762
+L1
+24"
+30"
+L
+700
+580
+850
+750
+ 1Z 
+ 1Z 
+1
+1
+50.66
+56.56
+22 5254
+Fierastrau cu parghie de 
+intindere
+• fierastrau cu parghie de intindere universal pentru taierea lemnului 
+uscat sau crud
+• panza de rezerva cu dantura calita 22 5244.1
+• dinti caliti cu durabilitate prelungita
+1000mm
+900mm
+800mm
+700mm
+600mm
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+L
+530
+610
+760
+800
+914
+V
+190
+215
+230
+240
+250
+580
+750
+850
+900
+990
+1
+1
+1
+1
+1
+48.33
+52.36
+55.72
+60.42
+65.12
+5254533000
+5254610000
+5254760000
+5254800000
+5254914000
+22 5251
+Fierastrau mic cu parghie de 
+intindere
+• fierastrau cu parghie de intindere folosit pentru taierea crengilor de 
+marime mijlocie si pentru intinerirea copacilor
+• perfect pentru lucrul în spatiu restrans
+• panza de rezerva 22 5249.1
+• dinti caliti cu durabilitate prelungita
+L1
+612237 610
+609409 762
+L1
+24"
+30"
+22 5244.1
+50
+78
+ 1F 
+ 1F 
+10
+10
+15.08
+16.72
+Panza pentru fierastrau cu 
+parghie de intindere pentru
+taierea lemnului uscat sau crud
+• panza de rezerva pentru fierastraie cu parghie de intindere
+• ceaprazuire pentru taierea lemnului uscat sau crud
+• dinti caliti cu durabilitate prelungita
+V
+20
+20
+20
+20
+20
+20
+20
+0,7
+0,7
+0,7
+0,7
+0,7
+0,7
+0,7
+0,05
+0,07
+0,09
+0,09
+0,10
+0,10
+0,11
+1
+1
+1
+1
+1
+1
+1
+5244153300
+5244161000
+5244176000
+5244180000
+5244190000
+5244191400
+L
+533
+610
+760
+800
+900
+914
+5244110000
+1000
+22 5244.2
+12.39
+15.23
+17.67
+18.48
+19.91
+20.11
+21.53
+Panza pentru fierastrau cu 
+parghie de intindere pentru
+taierea lemnului uscat
+• panza de fierastrau cu dantura triunghiulara pentru taierea 
+lemnului uscat
+• dinti intariti (64 HRc) pentru o utilizare indelungata
+L
+533
+610
+760
+800
+900
+914
+V
+20
+20
+20
+20
+20
+20
+S
+0,7
+0,7
+0,7
+0,7
+0,7
+0,7
+60
+70
+90
+90
+100
+100
+1
+1
+1
+1
+1
+1
+12.39
+15.23
+17.67
+18.48
+19.91
+20.11
+5244253300
+5244261000
+5244276000
+5244280000
+5244290000
+5244291400
+22 5249.1
+Panza pentru fierastrau mic 
+cu parghie de intindere
+• panza de rezerva pentru fierastrau mic cu parghie de intindere 
+articol 225251
+• dinti caliti cu durabilitate prelungita
+600mm
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+5251000000
+L
+500
+V
+195
+470
+1
+45.41
+5249150000 500
+L
+H
+18
+V
+0.7
+50
+1
+11.80
+L - lungimea panzei de fierastrau, S - grosimea panzei de 
+fierastrau, H - latimea panzei de fierastrau, V - inaltimea 
+fierastraului, T - pasul dintilor, m - greutate
+10-300
+10-533
+10-610
+10-762
+10-914
+Lmm
+300
+533
+610
+762
+914
+Linch
+TPI
+12”
+10 / 18
+21”
+10 / 18
+24”
+10 / 18
+30”
+10 / 18
+36”
+10 / 18
+30
+41
+56
+78
+95
+8.36
+8.85
+11.64
+13.77
+17.05

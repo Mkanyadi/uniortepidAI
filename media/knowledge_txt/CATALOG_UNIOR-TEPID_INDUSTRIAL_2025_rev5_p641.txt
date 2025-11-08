@@ -1,0 +1,173 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:641]
+1541
+1551
+Pistol pneumatic 3/8"
+•  viteza de rotatie 10000 rot/min
+•  moment de torsiune max. 271 Nm
+•  presiunea maxima de aer comprimat:6, 2 Bar
+•  consum de aer comprimat 70 l/min
+•  racord de aer 1/4"
+•  capacitate maxima de strangere M10
+  Avantaje:
+•  moment de torsiune controlat
+•  insurubare rapida
+•  o diversitate de utilizari
+Utilizare
+•  industria auto
+•  industria aerospatiala
+•  echipament agricol
+•  industria grea
+•  constructia de masini
+•  industria de constructii navale
+•  montari individuale
+Antrenor reversibil pneumatic 
+1/2"
+•  viteza de rotatie 160 rot/min
+•  moment de torsiune max. 81 Nm
+•  presiunea maxima de aer comprimat:6, 2 Bar
+•  consum de aer comprimat 113 l/min
+•  racord de aer 1/4"
+•  capacitate maxima de strangere M10
+Avantaje:
+•  scula mica si compacta
+•  calitatea productiei
+•  maner rotitor
+•  reglare rapida si usoara a sensului de rotatie
+•  supapa de protectie previne intrarea 
+necontrolata a aerului in scula
+Utilizare
+•  industria auto
+•  industria aerospatiala
+•  echipament agricol
+•  industria grea
+•  constructia de masini
+•  industria de constructii navale
+•  montari individuale
+Important
+•  este recomandata folosirea capetelor de impact 
+UNIOR
+1552
+Antrenor reversibil pneumatic 
+1/2"
+• rulment cu ace
+• cap clichet robust
+• rulment cu bile
+• maner antialunecare
+• regulator de aer model nou
+• racord aer pivotant la 360°
+• evacuare din spate
+Caracteristici tehnice:
+• turatie mers in gol: 150 rpm
+• patrat de antrenare: 1/2" 
+• cuplu maxim: 90 Nm
+• racord aer: 1/4"  
+• diametru recomandat furtun aer: 3/8"
+• consum de aer: 113 l/min
+• lungime: 256 mm
+• greutate: 1,2 kg
+• nivel de vibratii: 2,6 m/s²
+• nivel de zgomot: 79 dB
+• presiune aer recomandata: 6,2 bar
+Utilizare
+• industria auto, industria aerospatiala, echipament agricol, 
+industria grea, constructia de masini, industria de constructii 
+navale, montari individuale
+Important
+•  este recomandata folosirea capetelor de impact UNIOR
+A
+L
+615320 3/8" 175 139 271 1350
+ 1F 
+1
+1467.54
+55835
+NOU
+615319 1/2"
+45
+254
+81
+1370
+ 1F 
+1
+1000.00
+627567
+1/2"
+256
+90
+1200
+ 1F 
+1
+920.00
+A
+L
+L
+Masina de insurubat pneumatica
+cu impact 3/8” 610 Nm 11000 rpm 
+• cheile pneumatice cu impact EGA Master sunt proiectate pentru a 
+furniza un cuplu ridicat cu efort minim din partea utilizatorului, in 
+domenii precum reparatiile auto, intretinerea echipamentelor grele, 
+constructia majora a ansamblului de produse si pentru orice loc in care 
+este nevoie de un cuplu ridicat
+• motor conceput pentru a preveni pierderile de putere
+• rotor cu arc care ofera putere mare de iesire
+• carcasa compozita si usoara
+• supapa speciala dintr-o singura bucată proiectata pentru intretinere usoara
+• orificiu de aer pivotant la 360° care permite operatorului să se miste liber
+• zgomot redus
+• declansator cu sensibilitate ridicata pentru o functionare lina
+• cuplu de strangere exact in fiecare pozitie
+Cuplul de strangere
+55835
+610 Nm / 450 ft-lb 
+Cuplu maxim de strangere
+Cuplu maxim de slabire
+Consumul de aer
+Admisie
+Nivelul de presiune a zgomotului
+Nivel de putere de zgomot
+Vibratii
+Presiune de lucru
+3191.31
+2200
+610 Nm / 450 ft-lb 
+610 Nm / 450 ft-lb 
+120 l/min 
+1/4"
+89,5 dBA
+100,5 dBA 
+5,4 m/s² 
+6,3 bari / 90 PSI
+1563
+Pistol pneumatic reversibil varianta Stubby 1/2"
+• carcasa motorului din material compozit
+• evacuarea prin maner (amortizorul de zgomot)
+• schimbarea directiei de mers cu o singura mana
+• compact si puternic
+Caracteristici tehnice:
+• turatie mers in gol: 8000 rpm
+• patrat de antrenare: 1/2" 
+• cuplu maxim: 745 Nm
+• cuplu maxim desfacere: 1275 Nm
+• racord aer: 1/4"  
+• diametru recomandat furtun aer: 3/8"
+• consum de aer: 164 l/min
+• lungime: 98 mm
+• greutate: 1,11 kg
+• nivel de vibratii: 7,3 m/s²
+• nivel de zgomot: 104 dB
+• presiune aer recomandata: 6,2 bar
+Utilizare
+• industria auto, industria aerospatiala, echipament agricol, 
+industria grea, constructia de masini, industria de constructii 
+navale, montari individuale
+Important
+•  este recomandata folosirea capetelor de impact UNIOR
+627568
+1/2"
+L
+98
+745
+1110
+ 1F 
+1
+1245.08

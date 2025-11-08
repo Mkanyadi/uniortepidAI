@@ -1,0 +1,133 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:788]
+1342
+Penseta plata
+•  material otel inoxidabil
+1346
+Penseta ascutita cu varfuri 
+indoite
+•  material otel inoxidabil
+639C
+Scula de gaurit cu lama
+rotunda dublu indoita
+L
+619280 160
+A
+2
+1343
+25
+ 4A 
+10
+31.31
+Penseta plata cu varfuri indoite
+•  material otel inoxidabil
+L
+619284 165
+A
+2
+1347
+28
+ 4A 
+10
+31.31
+L
+617775
+165
+31
+ 4B 
+10
+24.26
+Penseta cu varfuri ascutite 
+incrucisate
+•  material otel inoxidabil
+639B
+Scula de gaurit rotunda, lama 
+indoita la 90°
+L
+619281 155
+A
+2
+1344
+Penseta plata
+•  material otel inoxidabil
+26
+ 4A 
+10
+31.31
+L
+619285 115
+A
+1.2
+1348
+15
+ 4A 
+10
+19.84
+L
+617774
+165
+31
+ 4B 
+10
+24.26
+Penseta cu varfuri tip lopata
+•  material otel inoxidabil
+639D
+Scula de gaurit rotunda,dublu 
+indoita si lama mica
+L
+619286
+120
+A
+1
+639A
+12
+ 4A 
+10
+21.31
+L
+619282 140
+A
+1.5
+18
+ 4A 
+10
+24.26
+Scula de gaurit rotunda cu
+lama dreapta
+1345
+Penseta ascutita
+•  material otel inoxidabil
+L
+617776
+165
+31
+ 4B 
+10
+25.74
+639PB
+Set scule de gaurit
+L
+619283 115
+A
+1.5
+11
+ 4A 
+10
+21.48
+617773
+165
+31
+ 4B 
+10
+21.31
+L
+617777
+4
+140
+1F 
+1
+95.74
+ 639A  (165), 
+ 639C (165), 
+ 639B (165), 
+  639D  (165)

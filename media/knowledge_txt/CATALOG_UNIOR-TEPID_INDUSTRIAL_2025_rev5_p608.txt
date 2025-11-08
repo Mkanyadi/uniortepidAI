@@ -1,0 +1,314 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:608]
+384 B
+TM 750 AK
+TM 950 AK
+NOU
+Masina de insurubat gips carton 600 W
+AVANTAJELE PRODUSULUI
+• reversibila
+• sistem de reglare electronic
+• surubelnita electronica 384 B cu reglare de adancime
+• posibilitatea de reglare a adancimii din exterior mentinerea momentului 
+stabil si fac ca aceasta masina electrica sa fie usor de folosit
+• aceasta surubelnita este special proiectata pentru lucrul cu suruburi 
+autofiletante si este ideala pentru rigips si placaje 
+• aplicatiile la care se foloseste surubelnita electrica sunt in special 
+cele care presupun insurubarea in suprafete fragile
+Masina de gaurit cu percutie 750 W 
+AVANTAJELE PRODUSULUI
+• reversibila
+• control electronic al turatiei
+• percutie
+DOTAREA STANDARD
+• mandrina rapida 13 mm
+• maner lateral cu limitator adancime
+• cutie plastic pentru transport
+Masina de gaurit cu percutie 950 W 
+2 trepte mecanice
+AVANTAJELE PRODUSULUI
+• reversibila
+• control electronic al turatiei
+• percutie
+• maner ergonomic
+• cutie de viteze din aluminiu
+DOTAREA STANDARD
+• mandrina rapida 13 mm
+• maner lateral cu limitator adancime
+• cutie plastic pentru transport
+ROTATION
+SCREWDRIVER
+ELECTRONIC
+REVERSIBLE
+NO
+IMPACTS
+WITH
+IMPACTS
+SPEED
+CONTROLLER
+INCLUDED
+MECHANICAL
+ROTATION
+DRILL
+DRILL
+ELECTRONIC
+CARRY CASE
+SPEEDS
+2
+COMPONENTS
+ROTATION
+DRILL
+MADE OF
+ALUMINUM
+REVERSIBLE
+NO
+IMPACTS
+DRILL
+ELECTRONIC
+CARRY CASE
+SPEEDS
+WITH
+IMPACTS
+SPEED
+CONTROLLER
+INCLUDED
+MECHANICAL
+HD -P E
+2
+       Putere motor
+       Putere motor
+REVERSIBLE
+SPEED
+CONTROLLER
+1.5449                     750 W                                        540.98
+       Putere motor
+1.6008 
+            600 W                                     639.34
+Putere
+Turatii in gol: treapta1 / treapta 2
+Capacitate insurubare autofiletante
+Capacitate insurubare metrice
+Prindere hexagonala
+Greutate
+600 W
+0-4.500 rpm
+Φ 6,3 mm
+M Φ8
+1/4" UNF
+1,8 kg
+Putere motor
+Turatii in gol
+Percutii
+Capacitate mandrina
+Prindere mandrina
+Capacitate gaurire lemn
+Capacitate gaurire otel
+Capacitate gaurire zidarie
+Greutate
+750 W
+0-3000 rpm
+0-45000 bpm
+1,5-13 mm
+1/2”x20 UNF
+Φ 28 mm
+Φ 13 mm
+Φ 13 mm
+2,3 kg
+1.1516 
+            950 W 
+Putere motor
+Turatii in gol
+Percutii
+Capacitate mandrina
+Prindere mandrina
+Capacitate gaurire lemn
+Capacitate gaurire otel
+Capacitate gaurire zidarie
+Greutate
+901.64
+950 W
+0 - 10000/ 0 - 3000 rpm
+0 - 16000/0 - 44800 bpm
+1,5-13 mm
+1/2”x20 UNF
+Φ 30 mm
+Φ 13 mm
+Φ 16 mm
+3,0 kg
+TM 1100
+HD 26 BK
+HD 27 CK
+Masina de gaurit cu percutie 1100 W 
+AVANTAJELE PRODUSULUI
+• 2 viteze mecanice, cutie de 
+viteze din aluminiu.
+• reversibila
+• percutie.
+• controlul electronic al vitezei.
+• maner ergonomic
+DOTAREA STANDARD
+• mandrina cu cheie 16 mm
+• maner lateral cu limitator
+adancime
+Ciocan rotopercutor SDS PLUS
+800 W 2,8 J
+AVANTAJELE PRODUSULUI
+• 3 functii:
+   - rotatie
+   - rotatie / percutie
+   - daltuire
+• cuplaj SDS-Plus
+• potrivit pentru gaurire in beton si piatra
+4-26 mm (optim 4-12 mm)
+•  reversibil
+• control electronic al turatiei
+•  ambreiaj de siguranta
+DOTAREA STANDARD
+• colector praf
+• maner lateral cu limitator de 
+adancime
+• cutie din plastic pentru transport
+Ciocan rotopercutor SDS PLUS 800 W 2,8 J
+AVANTAJELE PRODUSULUI
+• 3 functii:
+   - rotatie
+   - rotatie / percutie
+   - daltuire
+• potrivit pentru gaurire in beton si piatra
+4-28 mm (optim 4-12 mm)
+•  reversibil si electronic
+• Vario-Lock - adaptare pozitie dalta
+•  ambreiaj de siguranta
+DOTAREA STANDARD
+• maner lateral cu limitator de 
+adancime
+• cutie din plastic pentru transport
+SOFT
+ROTATION
+DRILL
+DRILL
+CHISELLER
+ELECTRONIC
+ROTATION
+DRILL
+DRILL
+CHISELLER
+ELECTRONIC
+INSERTION
+CARRY CASE
+SDS - PLUS
+INCLUDED
+INSERTION
+CARRY CASE
+SDS - PLUS
+INCLUDED
+COMPONENTS
+ROTATION
+DRILL
+DRILL
+ELECTRONIC
+CARRY CASE
+SPEEDS
+MADE OF
+ALUMINUM
+REVERSIBLE
+NO
+IMPACTS
+WITH
+IMPACTS
+SPEED
+CONTROLLER
+INCLUDED
+MECHANICAL
+2
+START
+REVERSIBLE
+NO
+IMPACTS
+WITH
+IMPACTS
+ONLY
+IMPACTS
+CHISEL
+POSITION
+SPEED
+CONTROLLER
+REVERSIBLE
+NO
+IMPACTS
+WITH
+IMPACTS
+ONLY
+IMPACTS
+CHISEL
+POSITION
+SPEED
+CONTROLLER
+       Putere motor
+       Putere motor 
+       Putere motor 
+1.1418 
+            800 W                                        672.13
+1.1967 
+            800 W 
+704.92
+1.1735 
+            1100 W 
+Putere motor
+Turatii in gol
+Percutii
+Capacitate mandrina
+Prindere mandrina
+Capacitate gaurire lemn
+Capacitate gaurire otel
+Capacitate gaurire zidarie
+Greutate
+                     934.43
+1100 W
+0-900 / 0-2500 rpm
+0-14400 / 0-40000 bpm
+2,5-16 mm
+5/8”x16 UNF
+Φ 32 mm
+Φ 16 mm
+Φ 16 mm
+3,5 kg
+Putere motor
+Turatii in gol
+Percutii
+Energie de impact
+Port-scula
+Capacitate gaurire lemn
+Capacitate gaurire otel
+Capacitate gaurire ciment si zidarie
+Capacitate gaurire cu carota
+Greutate
+800 W
+0-1200 rpm
+0-5300 bpm
+2,8 J
+SDS-Plus
+Φ 30 mm
+Φ 13 mm
+Φ 26 mm
+Φ 60 mm
+2,8 kg
+Putere motor
+Turatii in gol
+Percutii
+Energie de impact
+Port-scula
+Capacitate gaurire lemn
+Capacitate gaurire otel
+Capacitate gaurire ciment si zidarie
+Capacitate gaurire cu carota
+Greutate
+800 W
+0-1300 rpm
+0-5500 bpm
+2,8 J
+SDS-Plus
+Φ 30 mm
+Φ 13 mm
+Φ 26 mm
+pana la Φ 68 mm
+2,8 kg

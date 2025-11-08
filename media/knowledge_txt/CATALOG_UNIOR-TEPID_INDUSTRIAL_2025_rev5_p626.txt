@@ -1,0 +1,150 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:626]
+HL 135
+NOU
+HL 2200
+NOU
+HL 2700 B IND
+NOU
+Aparat de spalat cu inalta presiune 
+1600 W 
+AVANTAJELE PRODUSULUI
+• curatator de inalta presiune cu motor de serviciu constant S1.
+• Total Sop System (TSS). Opreste automat pompa la eliberarea 
+declansatorului pentru a evita deteriorarea sculei
+DOTAREA STANDARD
+• pistol cu blocare intrerupator de siguranta
+• lance turbo
+• lance electrică Vario
+• conector
+• filtru de apa
+Aparat de spalat cu inalta presiune 
+2200 W 
+AVANTAJELE PRODUSULUI
+• curatator de inalta presiune cu motor de serviciu constant S1.
+• Total Sop System (TSS). Opreste automat pompa la eliberarea 
+declansatorului pentru a evita deteriorarea sculei.
+• rezervor de sapun încorporat.
+• furtun de inalta presiune 5m.
+• rolă de furtun incorporata
+• cablu 5 m.
+Aparat de spalat cu inalta presiune 
+2500 W 
+AVANTAJELE PRODUSULUI
+• curatator de inalta presiune cu motor de inductie.
+• Total Sop System (TSS). Opreste automat pompa la eliberarea 
+declansatorului pentru a evita deteriorarea sculei.
+• regulator debit de sapun.
+• rezervor de sapun încorporat.
+• furtun de inalta presiune 5m.
+• tambur de furtun incorporat
+• cablu 5 m.
+DOTAREA STANDARD
+• pistol cu blocare intrerupator de siguranta
+• lance turbo
+• lance electrică Vario
+• filtru de apa
+DOTAREA STANDARD
+• pistol cu blocare intrerupator de siguranta
+• lance turbo metalica
+• lance Vario metalica 
+• filtru de apa
+PRESSURE
+COMPONENTS
+TSS
+REGULATOR
+MADE OF
+ALUMINUM
+PRESSURE
+COMPONENTS
+MOTOR
+PRESSURE
+COMPONENTS
+TSS
+REGULATOR
+MADE OF
+ALUMINUM
+TSS
+INDUCCIÓN
+REGULATOR
+MADE OF
+ALUMINUM
+HL 135
+1.3321
+1600 W
+220V / 50 Hz
+1229.51
+HL 2200
+1.3322
+2200 W
+220V / 50 Hz
+1803.28
+Putere motor
+Turatii in gol
+Debit
+Debit maxim
+Presiune maxima
+Presiune de lucru
+Presiune maxima intrare apa
+Protectie
+Lungime cablu
+Furtun
+Greutate
+1600 W
+16300 rpm
+5.5 l/min
+7 l/min
+135 Bar
+105 Bar
+5 Bar
+IPX5
+5 m
+5 m
+5,8 kg
+Putere motor
+Turatii in gol
+Debit
+Debit maxim
+Presiune maxima
+Presiune de lucru
+Presiune maxima intrare apa
+Protectie
+Lungime cablu
+Furtun
+Greutate
+2200 W
+15000 rpm
+6.5 l/min
+8 l/min
+160 Bar
+110 Bar
+5 Bar
+IPX5
+5 m
+5 m
+8,7 kg
+HL 2700 B IND
+1.3323 2500 W
+Putere motor
+Turatii in gol
+Debit
+Debit maxim
+Presiune maxima
+Presiune de lucru
+Presiune maxima intrare apa
+Protectie
+Lungime cablu
+Furtun
+Greutate
+220V / 50 Hz
+3688.52
+2500 W
+2800 rpm
+7.5 l/min
+9 l/min
+160 Bar
+140 Bar
+4 Bar
+IPX5
+5 m
+5 m
+21,3 kg

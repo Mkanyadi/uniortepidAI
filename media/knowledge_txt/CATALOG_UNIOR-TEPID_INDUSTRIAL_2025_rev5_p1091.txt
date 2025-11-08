@@ -1,0 +1,105 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1091]
+CMU 10
+A.D. 02
+A.D. 03
+Organizator rotativ 72 module
+Organizator 84 module
+Organizator 40 module
+48 x P.C. 010
+24 x P.C. 011
+84 x P.A.02
+40 x P.A.03
+A
+B
+H
+A
+  B   H
+A
+  B   H
+Cu precomanda
+Cu precomanda
+Cu precomanda
+CMU 10
+510 110 435
+20560
+1
+3280.33
+A.D. 02
+700
+1600 260
+31550
+1
+5165.20
+A.D. 03
+700
+1600 260
+34720
+1
+5069.21
+A.D. 04
+K.A.D. 01
+Organizator 32 module
+Organizator cu usi 119 module
+32 x P.A.04
+42 x P.C. 010
+24 x P.C. 011
+9 x P.C. 012
+18 x P.C. 013
+14 x P.C. 014
+12 x P.A. 04
+A
+  B   H
+A
+                           B
+                                               H
+A.D. 04
+900
+1600 400
+60520
+1
+5836.42
+K.A.D. 01
+900
+1600
+400
+81900
+1
+7535.30
+Cu precomanda
+Cu precomanda
+K.A.D. 02
+K.A.D. 03
+K.A.D. 04
+Organizator cu usi 84 module
+Organizator cu usi 40 module
+Organizator cu usi 32 module
+84 x P.A.02
+40 x P.A.03
+32 x P.A.04
+A
+  B   H
+A
+  B   H
+A
+  B   H
+K.A.D. 02
+700
+1600 260
+81900
+1
+5542.62
+K.A.D. 03
+700
+1600 260
+59720
+1
+5617.23
+K.A.D. 04
+900
+1600 400
+75520
+1
+7261.29
+Cu precomanda
+Cu precomanda
+Cu precomanda

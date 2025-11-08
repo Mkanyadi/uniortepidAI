@@ -1,0 +1,80 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:775]
+SET1-3800ROAD
+NOU
+3800ROAD
+NOU
+Set de scule în tava 1 pentru 3800ROAD
+Set de scule Road Pro Tool Set
+629549
+31
+2870
+ 1G
+1375.25
+187/2HX (3, 4, 5, 6);  236/2HX (8, 10); 192/2HX (12); 238.7/1 (3/8" - 1/2", 3/8" - 1/4"); 238/1 6p (8, 
+10, 12, 13, 14, 15, 17, 19); 238.1/1ALBI (3/8"); 238.4/1 (3/8"x250); 196Q  (1/4"); 196N (8, 10); 
+196HX (4, 5); h.3002.T.WRE; 605TBI (0.8 x 4.0x100, 1.0 x 5.5x125, 1.2 x 8.0x175); 615TBI
+(PH 1x80, PH 2x100)
+SET2-3800ROAD
+NOU
+Set de scule în tava 2 pentru 3800ROAD
+629550
+19
+3580
+ 1G
+1049.67
+120/1  (6, 8, 10 (2x), 11, 12 (2x), 13, 14, 15, 16, 17, 19, 22, 24); 125/1 (27, 30, 32)
+SET3-3800ROAD
+NOU
+Set de scule în tava 3 pentru 3800ROAD
+629551
+17
+3860
+ 1G
+1643.44
+406/1BI (180); 514/1BI (160); 447/1HPP (240); 516/4 (213); 3058/2 (16, 18, 21); 186.4/2 (19)
+192/2HX (22, 24); 190/1 6p (30, 32); 190/1 12p (36); 190.1/1ABI (1/2"); 3600/2BI (4,2)
+2086 (150)
+SET4-3800ROAD
+NOU
+Set de scule în tava 4 pentru 3800ROAD
+629557
+79
+35110
+ 1G
+8170.82
+3800 (694x336x400), SET1-3800ROAD, SET2-3800ROAD, SET3-3800ROAD, SET4-3800ROAD
+3800
+NOU
+Cutie scule
+• pentru toti pasionatii de motociclete care depun eforturi pentru un mediu de lucru ordonat 
+si le place sa-si repare motocicletele în confortul casei sale, cutia de scule portabila este 
+alegerea potrivita. Indiferent daca sunteti pe teren, la pista de curse sau acasa, trusele de 
+instrumente vor fi intotdeauna bine depozitate si organizate
+• material: tabla premium PLUS
+• sistem de inchidere centralizata pentru sertar si capac cu incuietoare
+• acoperit cu culoare eco din standardul de calitate Qualicoat
+• sertarele au glisiere cu rulment cu bile cu inchidere usoara
+• deschidere asistată de stifturi de gaz
+• sertarele 100% extensibile permit o imagine de ansamblu buna si acces usor la instrumente.
+• 3 sertare (L 563 x l 270 x H 75 mm)
+• spatiu de depozitare sub capac de 560 x 267 mm
+• maner ergonomic pentru transportul cutiei de scule si deschiderea sertarului
+• posibilitatea de a extinde functionalitatea cutiei de scule cu suporturi pentru chei in T si 
+surubelnite
+629552
+11
+2250
+ 1G
+757.54
+820B (40); 205/2 (60 - 140); 2087 (1); 556A (160x18); 710R (2 m); 300/2 (300 (2x)); 2042/5 (115)
+3401/2P; 641/6 (3)
+629487
+L
+694
+B
+336
+H
+400
+21400
+ 1G
+3345.00

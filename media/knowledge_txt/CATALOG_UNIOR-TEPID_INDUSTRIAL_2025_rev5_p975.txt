@@ -1,0 +1,426 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:975]
+005
+Cheie tubulara pipa
+• material: MZW
+060
+Cheie locas hexagonal
+• material: MZW
+NOU
+Cheie locas hexagonal scurta
+cu cap sferic antiex Al-Bron
+• material: Al-Bron
+• sculele antiex EGA Master sunt cea mai buna alternativa 
+pentru aplicatii in medii potential explozive
+• toate sculele sunt forjate dupa turnare pentru a obtine cea
+mai înalta calitate de pe piata de scule cu un finisaj atractiv. 
+L
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+005 0008
+005 0009
+005 0010
+005 0011
+005 0012
+005 0013
+005 0014
+005 0017
+005 0019
+005 0022
+005 0024
+005 0027
+005 0030
+005 0032
+005 0036
+005 0041
+L
+115
+120
+125
+130
+140
+150
+160
+200
+210
+245
+270
+270
+300
+310
+320
+320
+l
+55
+55
+55
+55
+55
+55
+55
+60
+60
+60
+65
+65
+65
+65
+80
+80
+150
+150
+200
+200
+300
+300
+400
+600
+600
+600
+650
+650
+800
+800
+1300
+1300
+8
+9
+10
+11
+12
+13
+14
+17
+19
+22
+24
+27
+30
+32
+36
+41
+655.74
+655.74
+721.31
+721.31
+786.89
+786.89
+852.46
+852.46
+918.03
+1180.33
+1311.48
+1442.62
+1508.20
+1573.77
+1704.92
+1901.64
+NOU
+Cheie hexagonala cu maner in
+T antiex Al-Bron
+• material: Al-Bron
+• sculele antiex EGA Master sunt cea mai buna alternativa 
+pentru aplicatii in medii potential explozive
+• toate sculele sunt forjate dupa turnare pentru a obtine cea
+mai înalta calitate de pe piata de scule cu un finisaj atractiv. 
+2
+2.5
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+17
+19
+22
+24
+27
+30
+32
+36
+060 0020
+060 0025
+060 0030
+060 0040
+060 0050
+060 0060
+060 0070
+060 0080
+060 0090
+060 0100
+060 0110
+060 0120
+060 0130
+060 0140
+060 0170
+060 0190
+060 0220
+060 0240
+060 0270
+060 0300
+060 0320
+060 0360
+100
+5
+5
+5
+10
+15
+25
+50
+60
+70
+100
+130
+165
+200
+250
+420
+600
+950
+1250
+1800
+2500
+3100
+4500
+183.61
+209.84
+222.95
+236.07
+249.18
+262.30
+288.52
+314.75
+340.98
+393.44
+459.02
+524.59
+655.74
+721.31
+852.46
+983.61
+1442.62
+1704.92
+2032.79
+2491.80
+3081.97
+4327.87
+Set chei locas hexagonal 
+2-12 mm / 10 piese
+• material: MZW
+L
+150
+170
+170
+190
+220
+240
+260
+260
+280
+280
+300
+300
+10
+12
+14
+17
+19
+22
+24
+27
+30
+32
+36
+41
+74193
+74195
+74197
+74199
+74201
+74203
+74205
+74207
+74209
+74211
+74213
+74215
+250
+280
+380
+450
+600
+650
+900
+950
+1182.17
+1221.83
+1270.99
+1369.39
+1576.36
+1803.33
+2394.33
+2591.47
+1200
+3281.04
+1400
+4108.67
+1700
+4887.06
+1900
+5626.13
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+100 1000
+2 - 12 / 10
+L
+290
+600
+3344.26
+060 ( 2, 3, 4, 5, 6, 7, 8, 9, 10, 12)
+L
+50
+63
+70
+80
+90
+95
+100
+106
+112
+118
+125
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+75554
+72184
+72185
+72186
+72187
+75556
+72188
+75558
+72189
+75560
+72190
+A
+16
+20
+25
+28
+32
+34
+36
+38
+40
+42
+45
+7
+11
+14
+43
+45
+45
+45
+60
+80
+100
+127
+363.38
+363.38
+391.14
+447.16
+615.05
+754.51
+894.31
+1062.12
+1229.68
+1248.52
+1267.02
+NOU
+Cheie locas hexagonal lunga
+cu cap sferic antiex Al-Bron
+• material: Al-Bron
+• sculele antiex EGA Master sunt cea mai buna alternativa 
+pentru aplicatii in medii potential explozive
+• toate sculele sunt forjate dupa turnare pentru a obtine cea
+mai înalta calitate de pe piata de scule cu un finisaj atractiv. 
+L
+101
+128
+143
+160
+182
+195
+209
+224
+238
+270
+2
+3
+4
+5
+6
+7
+8
+9
+10
+12
+77563
+71354
+71355
+71356
+71357
+77567
+71358
+77569
+71359
+71360
+A
+16
+20
+25
+28
+32
+34
+36
+38
+40
+45
+15
+21
+25
+43
+61
+92
+150
+200
+250
+440
+631.57
+631.57
+631.57
+682.05
+884.23
+941.32
+997.84
+1251.66
+1263.14
+1515.97

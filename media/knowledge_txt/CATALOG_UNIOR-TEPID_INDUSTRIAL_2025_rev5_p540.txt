@@ -1,0 +1,127 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:540]
+STL 007 BI
+HWL 74
+Panza Bi-Metal pentru fierastrau vertical, 
+prindere T, multimaterial
+• dantura patentata "M" pentru inalta performanta
+• taiere in ambele directii
+• taiere rapida si precisa
+• recomandata pentru otel de pana la 1/16" si alte materiale
+• fierastraie: AEG, Atlas Copco, Bosch, DeWalt, Elu, Festool, Flex, Hitachi, Holz-Her, Kress, 
+Mafell, Makita, Metabo, Protool, Stayer
+STL 007 bi
+Cu, Ni, 
+Ms, Zn
+Plast ics
+PVC
+              TPI 
+                 Lungime taiere               Dimensiuni 
+              Ambalare
+02805 00005     dantura-M                  105 mm          133 x 9,6 x 1,27 mm            5          97.96
+HM 33
+Panza T.C.T. pentru fierastrau vertical, 
+prindere T, multimaterial
+• dantura cu carbura
+• recomandata pentru fibra de sticla, epoxy, Varicor, Corian < 65 mm
+• fierastraie: AEG, Atlas Copco, Bosch, DeWalt, Elu, Festool, Flex, Hitachi, Holz-Her, Kress, 
+Mafell, Makita, Metabo, Protool, Stayer
+HM 33
+CFK/ GFK
+CRP/ GRP
+Ref. BOSCH: T301CHM
+              TPI 
+             Lungime taiere               Dimensiuni 
+              Ambalare
+02595 00002    3,3 mm / 13 tpi           91 mm          116 x 10 x 1,25 mm                2         154.54
+HWL 100
+Panza HCS/CV pentru fierastrau vertical, 
+prindere T, cauciuc si piele
+• lama cu dantura ondulata
+• ideala pentru cauciuc moale, piele, plastic, materiale izolante 1,0-50 mm
+• fierastraie: AEG, Atlas Copco, Bosch, DeWalt, Elu, Festool, Flex, Hitachi, Holz-Her, Kress, 
+Mafell, Makita, Metabo, Protool, Stayer
+HWL 100
+Plast ics
+PVC
+Ref. BOSCH: T113A
+              TPI 
+             Lungime taiere               Dimensiuni 
+              Ambalare
+02850 00002        ondulata                 75 mm          100 x 9,7 x 1,27 mm               2           28.04
+02850 00005        ondulata                 75 mm          100 x 9,7 x 1,27 mm               5           65.92
+HWL 54
+Panza HCS/CV pentru fierastrau vertical, 
+prindere T, cauciuc si piele
+• lama cu dantura ondulata
+• ideala pentru cauciuc, piele, plastic, materiale izolante, carton, covoare, spuma artificiala 
+1,0-120 mm
+• fierastraie: AEG, Atlas Copco, Bosch, DeWalt, Elu, Festool, Flex, Hitachi, Holz-Her, Kress, 
+Mafell, Makita, Metabo, Protool, Stayer
+HWL 54
+Panza HCS/CV pentru fierastrau vertical, 
+prindere T, cauciuc si piele
+• lama cu dantura ondulata
+• ideala pentru cauciuc moale, piele, plastic, materiale izolante 1,0-160 mm
+• fierastraie: AEG, Atlas Copco, Bosch, DeWalt, Elu, Festool, Flex, Hitachi, Holz-Her, Kress, 
+Mafell, Makita, Metabo, Protool, Stayer
+HWL 74 
+Plast ics
+PVC
+Ref. BOSCH: T1013AWP
+              TPI 
+             Lungime taiere               Dimensiuni 
+           Ambalare
+02853 00003        ondulata                205 mm          250 x 19 x 1,27 mm             3           213.95
+D 1
+Panza HM pentru fierastrau vertical, 
+prindere T, pentru sticla si ceramica
+• panza cu carbura grosiera
+• ideala pentru sticla, placi ceramice, produse ranforsate cu fibra de sticla 5,0-15 mm
+• fierastraie: AEG, Atlas Copco, Bosch, DeWalt, Elu, Festool, Flex, Hitachi, Holz-Her, Kress, 
+Mafell, Makita, Metabo, Protool 
+D 1
+CFK/ GFK
+CRP/ GRP
+Ref. BOSCH: T130Riff
+              TPI 
+             Lungime taiere               Dimensiuni 
+              Ambalare
+02880 00003            - 
+                  54 mm            79 x 8,8 x 2,3 mm                 3           63.25
+D 2
+Panza HM pentru fierastrau vertical, 
+prindere T, sticla si ceramica
+• panza cu carbura fina
+• ideala pentru sticla, placi ceramice, produse ranforsate cu fibra de sticla 5,0-15 mm
+• fierastraie: AEG, Atlas Copco, Bosch, DeWalt, Elu, Festool, Flex, Hitachi, Holz-Her, Kress, 
+Mafell, Makita, Metabo, Protool, Stayer
+D 2
+CFK/ GFK
+CRP/ GRP
+Ref. BOSCH: T150Riff
+              TPI 
+                 Lungime taiere               Dimensiuni 
+              Ambalare
+02885 00003             - 
+                  54 mm 
+79 x 8,8 x 2,3 mm           3          107.14
+HM 11
+Panza HM pentru fierastrau vertical, 
+prindere T, pentru metal
+• dinti cu carbura
+• ideala pentru otel, tabla, otel inoxidabil 1,5-3,0 mm
+• fierastraie: AEG, Atlas Copco, Bosch, DeWalt, Elu, Festool, Flex, Hitachi, Holz-Her, Kress, 
+Mafell, Makita, Metabo, Protool, Stayer
+HM 11
+Ref. BOSCH: T313AW
+              TPI 
+             Lungime taiere               Dimensiuni 
+              Ambalare
+02851 00005       ondulata                155 mm         180 x 9,7 x 1,27 mm              5         150.70
+              TPI 
+                 Lungime taiere               Dimensiuni 
+              Ambalare
+02555 00002         1,1 mm 
+50 mm 
+79 x 8,8 x 2,3 mm              2          84.52
+Ref. BOSCH: T118AHM

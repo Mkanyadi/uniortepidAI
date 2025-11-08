@@ -1,0 +1,370 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:118]
+231/4TX
+Capete chei tubulare de impact 1/2” 
+cu profil TORX interior
+•  material:crom molibden
+•  forjata, calire si revenire totala
+•  acoperire prin brunare dupa standardul DIN 12476
+231/4ATX
+Capete chei tubulare de impact 1/2” 
+cu profil TORX exterior
+•  material:crom molibden
+•  forjata, calire si revenire totala
+•  acoperire prin brunare dupa standardul DIN 12476
+612880 E 10
+612881 E 12
+D1
+15
+16
+612882 E 14
+18.5
+612883 E 16
+612884 E 18
+612885 E 20
+20
+22
+25
+612886 E 24
+28.5
+08E 1/2”
+D2
+25
+25
+25
+25
+25
+30
+30
+L
+38
+38
+38
+38
+38
+38
+45
+T
+7.5
+8.5
+10
+11
+12
+13.5
+21
+90
+90
+95
+95
+95
+145
+170
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+5
+5
+5
+5
+5
+5
+5
+53.28
+54.26
+54.26
+54.26
+57.05
+57.05
+58.52
+Cap cheie tubulara impact 1/2", profil TORX 
+interior
+• patrat de antrenare 1/2” DIN 3121 - G 12,5
+• profil E pentru suruburi cu cap TORX®
+D
+25
+25
+25
+25
+25
+25
+25
+L
+55
+55
+55
+55
+55
+55
+55
+L1
+3.3
+3.3
+3.6
+4.5
+5
+7.2
+8.6
+86
+86
+86
+92
+95
+105
+111
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+612874 TX 30
+612875 TX 40
+612876 TX 45
+612877 TX 50
+612878 TX 55
+612879 TX 60
+618761 TX 70
+724
+Capete chei tubulare de impact cu profil TORX®
+exterior 1/2"
+• material: crom molibden
+• actionare: patrat 1/2”
+• conform DIN 3121 - G 12,5
+• deschidere: TX pentru suruburi cu cap TORX® interior
+Dimensiune         D1            D2 
+ TORX®           mm           mm 
+           L              t min          Greutate
+       mm            mm                gr
+E10
+E11
+E12
+E14
+E16
+E18
+E20
+E22
+E24
+15
+15.5
+16
+18.5
+20
+22
+25
+26.5
+28.5
+25
+25
+25
+25
+25
+25
+30
+30
+30
+38
+38
+38
+38
+38
+38
+38
+45
+45
+9
+9
+10
+12
+12
+12
+13
+15
+17
+85
+85
+91
+91
+95
+95
+140
+158
+161
+45.59
+45.59
+45.59
+45.59
+45.59
+45.59
+58.94
+58.94
+58.94
+08E10
+08E11
+08E12
+08E14
+08E16
+08E18
+08E20
+08E22
+08E24
+08T 1/2”
+Cap cheie tubulara impact 1/2", profil TORX 
+exterior
+• patrat de antrenare 1/2” DIN 3121 - G 12,5
+• profil TX pentru suruburi cu cap TORX®
+• realizat din 2 piese
+D2
+25
+25
+25
+25
+25
+L
+55
+55
+55
+55
+55
+TX 30
+TX 40
+TX 50
+TX 55
+TX 60
+T
+3,8
+3,8
+5,0
+5,5
+8,0
+130
+82
+86
+94
+140
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+1000072404
+1000072405
+1000072406
+1000072407
+1000072408
+HT 1/2”
+Bit pentru cap cheie tubulara impact 1/2", 
+profil TORX exterior
+• profil TX pentru suruburi cu cap TORX®
+Dimensiune         D1            D2 
+ TORX®           mm           mm 
+           L             H min          Greutate
+       mm            mm                gr
+08T30
+08T40
+08T45
+08T50
+08T55
+08T60
+08T70
+T30
+T40
+T45
+T50
+T55
+T60
+T70
+25
+25
+25
+25
+25
+30
+30
+57
+57
+57
+57
+57
+60
+60
+3.19
+3.3
+4.57
+4.57
+5.08
+7.62
+8.89
+110
+110
+110
+110
+110
+160
+170
+112.87
+112.87
+112.87
+112.87
+112.87
+120.54
+120.54
+HT30
+HT40
+HT45
+HT50
+HT55
+HT60
+HT70
+Dimensiune            
+HEX
+                        mm
+TORX® 
+T30 
+T40 
+T45
+T50 
+T55 
+T60 
+T70
+11
+11
+11
+11
+16
+16
+16
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+66.56
+71.31
+72.13
+72.13
+88.03
+96.72
+100.98
+75.41
+75.41
+75.41
+78.69
+85.25
+58.28
+58.28
+58.28
+59.98
+94.13
+94.13
+94.13

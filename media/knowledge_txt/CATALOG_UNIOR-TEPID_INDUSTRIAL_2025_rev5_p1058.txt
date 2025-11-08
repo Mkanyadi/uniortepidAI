@@ -1,0 +1,226 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1058]
+990SHELF
+Raft cu suporturi
+• vopsite cu vopsele ecologice fara cadmiu si plumb
+• material: tabla
+990LIGHT
+Dispozitiv iluminat cu neon
+• dimensiuni: 600/800/1200 mm
+• lumina: alb rece 4000 K
+• durata de viata: 25000 h
+• fara emisii UV
+• putere: 10 W / 15 W / 20 W
+• tensiunea de alimentare: 220-240 V 
+• numar de LED-uri: LED SMD 52/76/100
+• flux luminos: 1000/1400/1900 lm
+• temperatura de cromatografie: 4000 K
+• cu doi conectori si cablu de alimentare
+H.990.PIN 
+Carlig cu surub montare
+• montaj cu surub M6x10mm
+A           B          H
+A           B        H      lm
+625666
+625667
+625671
+600
+900
+1200
+600
+860
+1150
+23
+23
+23
+37
+37
+37
+1000
+1400
+1900
+340
+297
+315
+352.79
+404.10
+492.95
+625672
+625673
+625674
+1000
+1250
+1500
+984
+1234
+1468
+250
+250
+250
+40
+40
+40
+3200
+5400
+6400
+289.18
+404.92
+505.08
+990HPC
+990HPB
+Suport pentru module 
+de plastic
+• vopsite cu vopsele ecologice fara cadmiu si plumb
+• material: tabla
+Suport din plastic cu prize
+• material: plastic
+L
+B
+627804
+51,5
+15
+H
+30
+H.990.SCR 
+155
+ 1V 
+1
+76.23
+Suport pentru surubelnite
+• material: Tabla premium 0,8mm
+• montaj pe peretele perforat Unior cu suruburi M6x10
+• suport pentru surubelnite cu 5 orificii Ø 15 mm pentru fixarea 
+diferitelor surubelnite
+A              B             H
+625660
+625661
+625662
+1000
+1250
+1500
+40,5
+40,5
+40,5
+98
+98
+98
+2400
+3000
+3600
+228.20
+244.59
+310.66
+990HL
+Suport cu consola pentru 
+iluminator
+• vopsite cu vopsele ecologice fara cadmiu si plumb
+• material: tabla
+A              B             H
+625656
+625657
+625658
+2
+2
+4
+998
+1248
+1498
+130
+130
+130
+55
+55
+55
+4326
+5465
+6620
+1260.98
+1463.61
+1834.43
+H.990.HAM 
+Suport pentru ciocane
+• material: tabla premium 2mm
+• un suport retine 1 ciocan sau 1 instrument cu maner T.
+• montaj cu doua suruburi M6x10mm
+L
+H
+B
+125
+ 1V 
+1
+72.46
+L
+B
+627072 188 28,5
+H
+45
+H.990.TAB 
+Suport pentru tableta
+• material: tabla premium 2mm
+• montaj pe peretele perforat Unior sub 67 °
+• montare cu patru suruburi M6x10mm
+• latimea reglabila de la min. 210 mm pana la max. 340mm cu 
+utilizarea glisoarelor laterale
+• tampoanele de cauciuc de pe partea inferioara a suportului 
+impiedica deteriorarea laptopului
+H
+L
+B
+L
+627071 60
+B
+50
+H
+22
+56
+ 1V 
+1
+66.07
+H.990.PLI 
+Suport pentru clesti
+• material: tabla premium 2mm
+• un suport retine un cleste
+• montaj cu surub M6x10mm
+A        B       H       A1     B1     H1
+625663
+625664
+625665
+999
+1249
+1499
+121
+121
+121
+36,5
+36,5
+36,5
+1010 132
+1250 132
+1485 132
+17
+17
+17
+2151
+2469
+2760
+414.26
+443.11
+472.79
+627070
+B
+50
+H
+22
+22
+ 1V 
+1
+83.11
+L
+627073
+120
+B
+85
+H
+213 1090
+ 1V 
+1
+194.59

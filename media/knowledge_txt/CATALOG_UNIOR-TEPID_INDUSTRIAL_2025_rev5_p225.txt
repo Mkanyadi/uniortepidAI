@@ -1,0 +1,187 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:225]
+DESCRIEREA FUNCTIILOR CHEII DINAMOMETRICE BMS
+IST-12W
+MODUL TRACK   
+In momentul aplicarii  cuplului,  cheia dinamometrica va afisa in mod activ aceasta valuare.  
+Afisajul va reveni la zero, atunci cand inceteaza aplicarea cuplului.
+MODUL ( MOMENT MAXIM ) PEAK
+Afisajul cuplului maxim ramane in continuare activat in cazul in care inceteaza aplicarea cuplului  
+Utilizatorul are optiunea de a stoca citirile in memorie sau a continua cu urmatoarea citire. 
+NUMAI DEPLASARE
+Afisarea momentului de torsiune la un unghi specificat de catre utilizator (implicit de 3 grade) 
+precum si unghiul si cuplul final. Utilizatorul poate memora rezultatele. 
+NUMAI UNGHIUL 
+Afiseaza cuplul si unghiul in timpul aplicarii momentului de torsiune. Utilizatorul poate stoca 
+rezultatele finale 
+REGLAJ 
+Permite utilizatorului sa regleze limitele pentru functia de moment de torsiune si moment & unghi. 
+PRESETARE
+In cazul functiei de presetare, utilizatorul poate alege pana la 99 de presetari programate cu 
+limitari pentru cuplu sau unghiul cuplului. Rezultatele pot fi stocate. 
+RECHEMARE
+Cu ajutorul functiei de rechemare, utilizatorul poate derula peste 2000 de rezultate stocate. 
+INCARCARE 
+Cu ajutorul functiei de incarcare,  utilizatorul poate incarca toate sau o selectie de informatii 
+stocate de cheia dinamometrica
+COMMS (comunicatii)
+Cu ajutorul functiei Comms utilizatorul poate alege metoda incarcarii informatiilor pe un calculator.  
+Exista posibilitatea alegerii intre ASCII, Binary si PCFE. 
+OPTIUNI MENIU
+Ez
+Pro
+Super
+Limba, comunicatii, varf, setare, incarcare, stergere
+Data, parcurs, presetare, unitati
+Afisaj cu LED
+Unitati de masura: cNm, Nm, kgfm, kgfcm, ozins, lbins, lbft
+Alarme: semnale audio si vizuale
+Setare automata a punctului zero
+Inchidere automata
+Depasirea cuplului: sistem de avertizare pe ecran
+Capete interschimbabile
+Baterii: durata de viata mai mare de 180 de ore
+Capacitate de stocare: mai mare de 2000 de inregistrari
+Limbi: engleza, 
+chineza, franceza, germana, italiana, japoneza, poloneza, 
+portugheza, rusa, spaniola, romana si altele, la cerere 
+Presetari programabile: 99, prin PC sau direct pe cheie
+Calibrare electronica: dupa data sau numar de masuratori
+Precizie mai buna de 1% din citirile reale LHS & RHS de la 
+10% la 100% din intervalul specificat
+Afisare masuratori: de la 2% pana la maxim
+Compatibil Windows Excel si SPC
+Comunicare USB bidirectionala
+Comunicari PLC: folosind transferul ASCII sau binar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cheie dinamometrica digitala cu Bluetooth
+• unitati de masura: N.m, in.lb, ft.lb, kg.cm
+• functionare in sensul acelor de ceasornic si invers acelor de ceasornic
+• modul de lucru: Peak and Mode
+• se pot seta 9 valori ale cuplului tinta, cu alarma sonora si vizuala:
+- lumina LED verde aprinsa si semnal sonor atunci cand valoarea cuplului este de 80% - 99,5% 
+din cuplul tinta
+- atat lumina LED verde, cat si cea rosie aprinsa si semnal sonor atunci cand valoarea cuplului 
+este peste 99,5% din cuplul tinta
+• capacitate de memorare a 2000 de rezultate
+• oprire automata in 2 minute
+• maner antiderapant
+Transmiterea datelor:
+• transmisie date prin Bluetooth (Bluetooth 4.0)
+• transmisie si control bidirectional
+• distanta de transmisie: 10 m (fara obstacole, fara interferente electromagnetice)
+• conexiunea si deconectarea Bluetooth sunt afisate de indicatorul luminos
+Software:
+• in sistemul Windows10 versiunea 1709 sau mai sus
+• doua moduri de functionare:
+-  mod de transmitere a datelor: cheia transmite valoarea reala a cuplului catre software dupa 
+utilizare
+-  modul de ghidare al programului: mai intai setati procesul pe software (setati secventa de 
+ajustare, selectati surubul si setati valorile cuplului si tolerantele). Apoi, software-ul arata ce 
+cheie ar trebui sa utilizeze operatorul (indicatorul cheii selectate este aprins) si arata valoarea 
+cuplului tinta si numarul de serie al surubului care trebuie strans (se afiseaza pe cheie); 
+Dupa ce operatiunea este terminata, valoarea cuplului real este trimisa software-ului.
+• cheiea poate trimite numai date calificate dupa operare (in conformitate cu toleranta)
+• doua moduri de transmitere a datelor: automat sau apasati butonul pentru a trimite
+• cand cheia este deconectata, datele sunt stocate in cheie si trimise automat la computer 
+dupa conectare prin Bluetooth
+• datele din software pot fi tiparite sau exportate in Excel
+• alimentare: 2 x AA
+buton 
+schimbare sens
+patrat
+antrenare
+display LCD
+alarma sonora
+port calibrare
+butoane
+LED-uri rosii
+LED-uri verzi
+modul de transmisie date
+un computer poate fi conectat cu mai multe chei, distante 
+de transmisie este de 10 metri (fara obstacole, fara 
+interferente electromagnetica)
+modul de ghidare a programului
+IST-12W30A
+IST-12W135A
+IST-12W200A
+IST-12W340A
+N.m
+6 - 30
+27 - 135
+40 - 200
+68 - 340
+1/4”
+3/8”
+1/2”
+1/2”
+±2%
+±2%
+±2%
+±2%
+±3%
+±3%
+±3%
+±3%
+0.01
+0.1
+0.1
+0.1
+L
+390
+415
+530
+650
+760
+940
+1340
+1540
+12988.50
+12988.50
+12988.50
+13240.50

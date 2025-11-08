@@ -1,0 +1,174 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1036]
+964ECO2
+vl964ECO3
+Set de chei combinate varianta 
+scurta in modul SOS
+Modul SOS pentru set 964ECO3
+964ECO9
+Set de surubelnite TBI in 
+modul SOS
+621287 8 - 24 / 12
+1620
+ 1F 
+1
+564.43
+ 125/1  (8, 9, 10, 12, 13, 14, 17, 19, 20, 21, 
+22, 24), vl964ECO2  (498 x 135 x 30)
+vl964ECO2
+Modul SOS pentru set 964ECO2
+B
+L
+620871 498
+135
+H
+30
+964ECO2A
+49
+ 1V 
+1
+59.90
+Set de chei combinate varianta 
+lunga in modul SOS
+B
+L
+620873 498
+135
+H
+30
+49
+ 1V 
+1
+59.90
+964ECO5
+Set de capete chei tubulare si 
+accesorii 1/4" in modul SOS
+621290
+45
+1115
+ 1F 
+1
+1045.08
+ 188/2 6p  (4, 4.5, 5, 5.5, 6, 7, 8, 9, 10, 11, 13), 
+ 189/2  (E4, E5, E6, E7, E8, E10, E11),
+187/2HX  (3, 4, 5, 6, 7), 
+PH 3), 
+ 187/2SL  (0.8 x 4, 1 x 5.5, 1.2 x 7), 
+ 187/2TX  (TX 8, TX 10, TX 15, TX 20, TX 25, 
+ 187/2PH  (PH 1, PH2, 
+TX27, TX 30, TX 40), 
+ 188.1/1ABI  (1/4"),  
+ 188.2/2BI  (1/4"),  
+ 188.3/2  (1/4"),  
+ 188.4/2  (1/4" x 150, 
+1/4" x 55),  
+ 188.6/2  (1/4"),  
+ 188.7/2  (1/4" - 3/8"),  
+vl964ECO5  (498 x 135 x 30)
+ 188.8  (1/4"),
+vl964ECO5
+Modul SOS pentru set 964ECO5
+621292
+8
+690
+ 1F 
+1
+297.38
+ 605TBI  (0.5 x 3.0 x 80, 0.8 x 4.0 x 100, 
+ 615TBI 
+1.0 x 5.5 x 125, 1.2 x 6.5 x 150), 
+(PH 0 x 60, PH 1 x 80, PH 2 x 100), 
+625TBI  (PZ 2 x 100), vl964ECO9  (498 x 135 x 30)
+vl964ECO9
+Modul SOS pentru set 964ECO9
+B
+L
+620876 498
+135
+H
+30
+53
+ 1V 
+1
+59.90
+621288
+8 - 24 / 12
+1900
+ 1F 
+1
+610.33
+ 120/1  (8, 9, 10, 12, 13, 14, 17, 19, 20, 21, 
+22, 24), vl964ECO2A  (498 x 135 x 30)
+vl964ECO2A
+Modul SOS pentru set 964ECO2A
+B
+L
+620874 498
+135
+H
+30
+964ECO6
+55
+ 1V 
+1
+59.90
+vl964ECO10
+Modul SOS pentru set 964ECO10
+Set de clesti BI in modul SOS
+B
+L
+620872 498
+135
+H
+30
+64
+ 1V 
+1
+59.90
+621291
+4
+1220
+ 1F 
+1
+517.87
+ 406/1BI  (180), 
+ 514/1BI  (160), 
+vl964ECO6  (498 x 135 x 30)
+ 461/1BI  (160), 
+ 445/1BI  (240), 
+vl964ECO6
+Modul SOS pentru set 964ECO6
+B
+L
+620875 498
+135
+H
+30
+53
+ 1V 
+1
+59.90
+B
+L
+620877 498
+135
+H
+30
+964ECO19
+49
+ 1V 
+1
+59.90
+Set de capete chei tubulare
+1/2" in modul SOS
+621294 10 - 32 / 23
+3420
+ 1F 
+1
+1114.26
+ 190/1 6p  (10, 11, 12, 13, 14, 15, 16, 17, 18, 
+19, 20, 21, 22, 23, 24, 27, 30, 32), 
+190.1/1ABI  (1/2"), 
+190.4/1  (1/2" x 250, 1/2" x 125),  
+(1/2"), vl964ECO19  (498 x 135 x 30)
+ 190.3/1  (1/2"), 
+ 190.6/2 

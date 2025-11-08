@@ -1,0 +1,614 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:515]
+M / MF
+M 2 x 0,40
+M 2,5 x 0,45
+M 3 x 0,50
+M 3,5 x 0,60
+M 4 x 0,70
+M 5 x 0,80
+M 6 x 1,00
+M 7 x 1,00
+M 8 x 1,00
+M 8 x 1,25
+M 9 x 1,25
+M 10 x 1,00
+M 10 x 1,25
+M 10 x 1,50
+M 11 x 1,50
+M 12 x 1,25
+M 12 x 1,50
+M 12 x 1,75
+M 14 x 1,25
+M 14 x 1,50
+M 14 x 2,00
+M 16 x 1,50
+M 16 x 2,00
+M 18 x 2,00
+M 18 x 2,50
+M 20 x 1,50
+M 20 x 2,00
+M 20 x 2,50
+M 22 x 1,50
+M 22 x 2,00
+M 22 x 2,50
+M 24 x 2,00
+M 24 x 3,00
+RTR1
+Adancimea minima a gaurii (mm)
+Adancimea de filetare (inclusiv sanfren) (mm)
+Lungimea insertiei filetate (montata) (mm)
+1,0 x D          1,5 x D     2,0 x D         2,5 x D        3,0 x D       1,0 x D        1,5 x D        2,0 x D        2,5 x D       3,0 x D           1,0 x D       1,5 x D       2,0 x D      2,5 x D        3,0 x D
+3,80
+6,00
+4,52
+7,50
+5,25
+9,00
+6,20
+10,50
+7,15
+12,00
+8,60
+15,00
+10,50
+18,00
+11,50
+21,00
+12,50
+24,00
+13,62
+24,00
+14,62
+27,00
+14,50
+30,00
+15,62
+30,00
+16,75
+30,00
+17,75
+33,00
+17,62
+36,00
+18,75
+36,00
+19,87
+36,00
+19,62
+42,00
+20,75
+42,00
+23,00
+42,00
+22,75
+48,00
+25,00
+48,00
+27,00
+54,00
+29,25
+54,00
+26,75
+60,00
+29,00
+60,00
+31,25
+60,00
+28,75
+66,00
+31,00
+66,00
+33,25
+66,00
+33,00
+72,00
+37,50
+72,00
+4,00
+5,00
+6,00
+7,00
+8,00
+10,00
+12,00
+14,00
+16,00
+16,00
+18,00
+20,00
+20,00
+20,00
+22,00
+24,00
+24,00
+24,00
+28,00
+28,00
+28,00
+32,00
+32,00
+36,00
+36,00
+40,00
+40,00
+40,00
+44,00
+44,00
+44,00
+48,00
+48,00
+5,00
+6,25
+7,50
+8,75
+10,00
+12,50
+15,00
+17,50
+20,00
+20,00
+22,50
+25,00
+25,00
+25,00
+27,50
+30,00
+30,00
+30,00
+35,00
+35,00
+35,00
+40,00
+40,00
+45,00
+45,00
+50,00
+50,00
+50,00
+55,00
+55,00
+55,00
+60,00
+60,00
+7,40
+9,07
+10,75
+12,60
+14,45
+17,80
+21,50
+24,50
+27,50
+28,37
+31,37
+33,50
+34,37
+35,25
+38,25
+40,37
+41,25
+42,12
+46,37
+47,25
+49,00
+53,25
+55,00
+61,00
+62,75
+65,25
+67,00
+68,75
+71,25
+73,00
+74,75
+79,00
+82,50
+6,40
+7,82
+9,25
+10,85
+12,45
+15,30
+18,50
+21,00
+23,50
+24,37
+26,87
+28,50
+29,37
+30,25
+32,75
+34,37
+35,25
+36,12
+39,37
+40,25
+42,00
+45,25
+47,00
+52,00
+53,75
+55,25
+57,00
+58,75
+60,25
+62,00
+63,75
+67,00
+70,50
+4,80
+5,77
+6,75
+7,95
+9,15
+11,10
+13,50
+15,00
+16,50
+17,62
+19,12
+19,50
+20,62
+21,75
+23,25
+23,62
+24,75
+25,87
+26,62
+27,75
+30,00
+30,75
+33,00
+36,00
+38,25
+36,75
+39,00
+41,25
+39,75
+42,00
+44,25
+45,00
+49,50
+3,00
+3,75
+4,50
+5,25
+6,00
+7,50
+9,00
+10,50
+12,00
+12,00
+13,50
+15,00
+15,00
+15,00
+16,50
+18,00
+18,00
+18,00
+21,00
+21,00
+21,00
+24,00
+24,00
+27,00
+27,00
+30,00
+30,00
+30,00
+33,00
+33,00
+33,00
+36,00
+36,00
+2,00
+2,50
+3,00
+3,50
+4,00
+5,00
+6,00
+7,00
+8,00
+8,00
+9,00
+10,00
+10,00
+10,00
+11,00
+12,00
+12,00
+12,00
+14,00
+14,00
+14,00
+16,00
+16,00
+18,00
+18,00
+20,00
+20,00
+20,00
+22,00
+22,00
+22,00
+24,00
+24,00
+5,80
+7,02
+8,25
+9,70
+11,15
+13,60
+16,50
+18,50
+20,50
+21,62
+23,62
+24,50
+25,62
+26,75
+28,75
+29,62
+30,75
+31,87
+33,62
+34,75
+37,00
+38,75
+41,00
+45,00
+47,25
+46,75
+49,00
+51,25
+50,75
+53,00
+55,25
+57,00
+61,50
+7,80
+9,52
+11,25
+13,20
+15,15
+18,60
+22,50
+25,50
+28,50
+29,62
+32,62
+34,50
+35,62
+36,75
+39,75
+41,62
+42,75
+43,87
+47,62
+48,75
+51,00
+54,75
+57,00
+63,00
+65,25
+66,75
+69,00
+71,25
+72,75
+75,00
+77,25
+81,00
+85,50
+6,80
+8,27
+9,75
+11,45
+13,15
+16,10
+19,50
+22,00
+24,50
+25,62
+28,13
+29,50
+30,62
+31,75
+34,25
+35,62
+36,75
+37,87
+40,62
+41,75
+44,00
+46,75
+49,00
+54,00
+56,25
+56,75
+59,00
+61,25
+61,75
+64,00
+66,25
+69,00
+73,50
+3,40
+4,07
+4,75
+5,60
+6,45
+7,80
+9,50
+10,50
+11,50
+12,37
+13,37
+13,50
+14,37
+15,25
+16,25
+16,37
+17,25
+18,12
+18,37
+19,25
+21,00
+21,25
+23,00
+25,00
+26,75
+25,25
+27,00
+28,75
+27,25
+29,00
+30,75
+31,00
+34,50
+4,40
+5,32
+6,25
+7,35
+8,45
+10,30
+12,50
+14,00
+15,50
+16,37
+17,87
+18,50
+19,37
+20,25
+21,75
+22,37
+23,25
+24,12
+25,37
+26,25
+28,00
+29,25
+31,00
+34,00
+35,75
+35,25
+37,00
+38,75
+38,25
+40,00
+41,75
+43,00
+46,50
+5,40
+6,57
+7,75
+9,10
+10,45
+12,80
+15,50
+17,50
+19,50
+20,37
+22,37
+23,50
+24,37
+25,25
+27,25
+27,37
+29,25
+30,12
+32,37
+33,25
+35,00
+37,25
+39,00
+43,00
+44,75
+45,25
+47,00
+48,75
+49,25
+51,00
+52,75
+55,00
+58,50
+RTR2
+Freza pentru reparat filete 9.5 mm
+• Boa Rotary Thread Rescue este primul instrument de reparare filete rotativ din lume
+• acest instrument inlocuieste nevoia de truse de filiere si tarozi
+• RTR este universal, se potriveste filetelor interne si externe atat metrice, cat si in inch
+• potrivit pentru utilizare pe toate materialele, inclusiv materialele plastice
+• profilul de auto-aliniere brevetat permite cu usurinta revopsirea filetelor deteriorate
+• utilizare cu masini de gaurit standard, polizoare drepte sau alte sculele rotative
+• capul cu carbura, echilibrat, de precizie este de lunga durata
+• ideal pentru a fi folosit pe orice filet, RTR1 este excelent pentru utilizari DIY, inclusiv biciclete, 
+auto, motociclete etc., orice lucru cu filet din jurul casei sau garaj
+• diametrul capului: 9,5 mm (3/8”)
+• diametru arbore: 3,2 mm (1/8”)
+• lungime: 50 mm (2”)
+Freza pentru reparat filete 19.5 mm
+• Boa Rotary Thread Rescue este primul instrument de reparare filete rotativ din lume
+• acest instrument inlocuieste nevoia de truse de filiere si tarozi
+• RTR este universal, se potriveste filetelor interne si externe atat metrice, cat si in inch
+• potrivit pentru utilizare pe toate materialele, inclusiv materialele plastice
+• profilul de auto-aliniere brevetat permite cu usurinta revopsirea filetelor deteriorate
+• utilizare cu masini de gaurit standard, polizoare drepte sau alte sculele rotative
+• capul cu carbura, echilibrat, de precizie este de lunga durata
+• ideal pentru a fi folosit pe orice filet, RTR1 este excelent pentru utilizari DIY, inclusiv biciclete, 
+auto, motociclete etc., orice lucru cu filet din jurul casei sau garaj
+• diametrul capului: 19,5 mm (3/4”)
+• diametru arbore: 6,35 mm (1/4”)
+• lungime: 50 mm (2”)
+A Lungime totala 50 mm
+B Dimensiunea arborelui 3x15 mm
+C Dimensiune min. gaura 10 mm
+D Dimensiune max. gaura: fara limita (recomandat pana la 35 mm)
+E Diametru exterior min 6 mm
+F Diametru maxim exterior: fara limita (recomandat pana la 40 mm)
+G Pasul filetului: standard, metric, gaz (orice profil de 60 grade)
+H Acoperire: proprietati super abrazive
+A Lungime totala 50 mm
+B Dimensiunea arborelui 6 x 20 mm
+C Dimensiune min. gaura 22 mm
+D Dimensiune max. gaura: fara limita (recomandat pana la 65 mm)
+E Diametru exterior min 15 mm
+F Diametru maxim exterior: fara limita (recomandat pana la 65 mm)
+G Pasul filetului: standard, metric, gaz (orice profil de 60 grade)
+H Acoperire: proprietati super abrazive
+Exemplu filet inerior
+Diametru
+maxim gaura
+Diametru
+minim gaura
+Exemplu filet inerior
+Diametru
+maxim gaura
+Diametru
+minim gaura
+Diametru
+Exterior
+Diametru
+Exterior
+Diametru
+Exterior
+Diametru
+Exterior
+17901
+D
+9,5
+d
+3,2
+L
+50
+72.52
+17902
+D
+19,5
+d
+6,35
+L
+50
+81.70
+Exemplu filet exerior
+Exemplu filet exerior

@@ -1,0 +1,161 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:692]
+300/2A
+Levier
+•  material: crom vanadiu
+•  forjata, calire si revenire totala
+•  acoperire cromare conform EN12540
+1376.1
+Teava de gresare
+185/2
+Cheie de bujii
+•  material:otel carbon de scule
+•  acoperire cromare conform EN12540
+L
+621857 130
+R1/8"
+48
+ 1V 
+1
+25.82
+1376.3
+Niplu
+621859 R1/8"
+9/16"
+32
+ 1V 
+1
+20.14
+431/2
+Clesti pentru arcuri frana
+•  material: compozitie speciala pentru calire revenire
+•  tratat complet
+•  cap tratat, suprafata fosfatata, finisare:cromare
+D
+L
+B
+600771 16
+19 145 120 182  1E 
+607956 19
+22 115 120 199  1E 
+600772 21
+24 115 120 177  1E 
+600773 21
+24 180 120 248  1E 
+10
+10
+10
+10
+34.26
+35.74
+35.74
+38.52
+186.4/2
+Cheie de bujii cu patrat de 3/8"
+•  material:crom vanadiu
+•  forjata, calire si revenire totala
+•  acoperire cromare conform EN12540
+L
+601758
+537
+992
+ 1C 
+10
+161.97
+1375/6
+Cana de ulei cu furtun flexibil
+V
+619935
+0.5 l
+1000
+ 1C 
+1
+63.93
+1376/6
+Cana de ungere
+•  material: crom vanadiu
+•  forjata, calire si revenire totala
+•  acoperire cromare conform EN12540
+603193 16
+D
+22
+L
+63 19
+620820 18 24.7 63 22
+603192 19
+600776 21
+26
+27
+63 22
+66 19
+68
+68
+68
+68
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+10
+26.39
+28.36
+30.82
+49.02
+2035
+Perie pentru curatarea
+discurilor de frana
+•  pentru curatarea discurilor de frana inaintea 
+instalarii precum si a altor parti metalice
+•  forma ingusta pentru acces in spatii inguste
+•  Franarea cauzeaza uzura discurilor si 
+acumularea de material pe acestea.Acesta 
+trebuie curatat. Forma ingusta a periei 
+permite curatirea rapida precum si curatirea 
+altor suprafete metalice ce necesita acest 
+lucru.
+L
+325
+A
+53
+ D
+25
+601554
+423
+145.57
+V
+619936
+0.5 l
+2500
+ 1C 
+1
+221.80
+186.4/2A
+1376.2
+Tub flexibil pentru gresare
+Cheie de bujii 3/8"
+•  material: crom molibden
+•  forjata, calire si revenire totala
+•  acoperire cromare conform EN12540
+L
+D L
+621858 290 R1/8"
+13
+40
+ 1V 
+1
+28.75
+622513 14
+18
+63
+17
+58
+ 4B 
+10
+53.28
+619739
+73
+ 1E 
+1
+47.05

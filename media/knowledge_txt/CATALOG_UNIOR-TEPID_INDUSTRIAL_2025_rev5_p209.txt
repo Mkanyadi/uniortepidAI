@@ -1,0 +1,117 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:209]
+INTRODUCERE IN DINAMOMETRIE
+Ce este momentul de torsiune?
+Momentul de torsiune este orice forta sau sistem de forte care tinde sa provoace rotatia in jurul unei axe.
+Surubelnite si chei dinamometrice
+111
+Rulete, metre, rigle, ace de trasat
+112
+Masurarea MOMENTULUI DE TORSIUNE
+Imaginati-va ca cineva strange un surub folosind UN CAP DE CHEIE TUBULARA  atasata la o bara lunga (m). 
+Daca aplica 10 kg de forta (kgf) perpendicular pe bara, acestea vor produce un cuplu de 10 kgf · m la axa (centrul surubului).
+Cu toate acestea, in sistemul de masurare S.I., forta este exprimata in Newtoni (N) mai degraba decat kgf. 
+Conversia intre kgf si N este x 9.807, astfel incat persoana aplica un cuplu de 98.07 N · m.
+Nivele
+Echere, raportoare, compase, 
+dispozitive de trasare
+114
+116
+Sublere, micrometre, comparatoare 121
+Lere si sabloane
+Lupe
+Aparate duritate
+1 m
+Cuplu = Forta x Distanta
+100 N
+Refractometre
+128
+131
+132
+133
+Importanta controlului cuplului
+Desi exista multe metode de imbinare a doua sau mai multe parti impreuna, usurinta de asamblare si dezasamblare furnizate 
+prin elemente de fixare filetate le fac alegerea ideala pentru multe aplicatii.
+Obiectul unui dispozitiv de fixare filetat este de a prinde piesele impreuna cu o tensiune mai mare decat fortele exterioare care 
+tinde sa le desparta. Surubul ramane apoi sub stres constant si este imun la oboseala. Cu toate acestea, daca tensiunea 
+initiala este prea scazuta, sarcinile diferite actioneaza asupra surubului si acesta va esua rapid. Daca tensiunea initiala este 
+prea mare, procesul de strangere poate provoca ruperea suruburilor. 
+Astfel, fiabilitatea depinde de tensiunea initiala corecta. Cea mai practica modalitate de a asigura acest lucru este specificarea 
+si controlul cuplului de strangere. 
+Cuplu
+Forta
+Tensiunea boltului
+Atunci cand un ansamblu este fixat prin strangerea unei 
+piulite si a unei suruburi, tensiunea indusa determina 
+intinderea surubului. O forta egala actioneaza pentru a 
+comprima piesele care sunt astfel stranse.
+Incarcarea probei unui surub, stabilita in mod normal 
+prin test, este sarcina care incepe sa induca permanent
+set - cunoscut si ca punct de randament. De obicei, 
+suruburile sunt stranse intre 75% si 90% din randament.
+Forta de strangere
+Forta de strangere
+Tensiune in surub
+Frecarea in imbinarea cu suruburi
+Atunci cand un dispozitiv de fixare filetat este strans, tensiunea indusa duce la 
+frecare sub capul surubului si in spire. Este general acceptat faptul ca pana la 
+50% din cuplul aplicat este utilizat pentru a depasi frecarea dintre capul surubului 
+si suprafata de incovoiere si alte 30% pana la 40% se pierd de frecare in spire. 
+Doar 10% din cuplul aplicat are ca rezultat o forta utila pentru tensionarea surubului.
+Avand in vedere ca pana la 90% din cuplul aplicat se va pierde la frecare, rezulta 
+ca orice modificare a coeficientului de frecare rezultat din diferentele de rogozitate 
+a suprafetei, de suprafata si de lubrifiere poate avea un efect dramatic asupra 
+relatiei cuplu-tensiune. Se pot face cateva puncte generale:
+t
+f
+.
+f
+b
+l
+0
+4
+t
+f
+.
+f
+b
+l
+0
+5
+t
+f
+.
+f
+b
+l
+m
+N
+.
+0
+6
+0
+6
+m
+N
+.
+0
+7
+0
+8
+0
+9
+• Cele mai multe imbinari stranse de cuplu nu utilizeaza saibe deoarece utilizarea lor poate duce la miscarea relativa intre piulita si saiba sau saiba 
+si suprafata articulatiei in timpul strangerii. Acest lucru are efectul de a schimba raza de frecare si, prin urmare, afecteaza relatia cuplu-tensiune. 
+In cazul in care este necesara o fata mai mare a lagarului, pot fi utilizate piulite sau suruburi cu flansa. Daca se folosesc saibe, saibele tari care 
+se potrivesc bine cu varful surubului confera frecarea mai mica si mai consistenta si trebuie, in general, sa fie preferate.
+• Degresarea elementelor de fixare ale peliculei de ulei de obicei prezenta pe ele, asa cum este furnizata, va reduce tensiunea pentru un cuplu dat 
+si poate duce la forfecarea dispozitivului de fixare inainte de atingerea tensiunii dorite.
+• Lubrifiantii simpli, formulati din grafit, disulfura de molibden si ceruri, conduc la o frecare minima. Cu exceptia cazului in care se face o alocare a 
+cuplului de strangere specificat, tensiunea indusa poate fi excesiva, determinand randamentul si ruperea surubului. Cu toate acestea, utilizate intr-un 
+mod controlat, aceste lubrifianti servesc unui scop util in reducerea cuplului pentru a produce tensiunea dorita, ceea ce inseamna ca poate fi utiliza-
+ta o unealta de strangere cu capacitate mai mica.
+• Din motive de aspect sau rezistenta la coroziune, dispozitivele de fixare pot fi placate. Aceste tratamente afecteaza coeficientul de frecare si, prin 
+urmare, raportul cuplu vs. tensiune.
+• Frecarea este adesea introdusa deliberat in dispozitivul de fixare pentru a reduce posibilitatea de slabire din cauza vibratiilor. La stabilirea cuplului 
+de strangere corect trebuie luate in considerare dispozitive precum piulitele de blocare.
+Ca ghidaj brut, cuplul de strangere calculat trebuie sa fie inmultit cu factorul din tabelul “Ghid de strangere controlata”, in functie de tratamentul de 
+suprafata si de lubrifiere.

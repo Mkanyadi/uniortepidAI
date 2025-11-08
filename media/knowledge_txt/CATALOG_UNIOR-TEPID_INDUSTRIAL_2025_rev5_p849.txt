@@ -1,0 +1,128 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:849]
+99-
+Freza profilata pentru imbinari la 45°,
+cu un dinte, placata CMS, Z-2 cu coada
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+99-
+Freza profilata pentru imbinari in dinti cu umar, 
+placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+A
+A
+D
+°
+5
+4
+8
+,
+1
+2
+6
+,
+6
+8
+Profilare contra fibrei
+H
+h
+C
+D
+H
+h
+99-03412P
+F03FR02424
+99-03512P
+F03FR02425
+D               h              H              A              C                Z                   rpm max.
+99-03912P
+50,8
+45,2
+108
+12
+35
+2
+24000
+852.30
+Imbinare simpla
+Imbinare la 45°
+99-
+Freza profilata pentru sertare, 
+placata CMS, Z2, cu coada
+• freza profilata pentru imbinarea frontului de sertar cu lateralele acestuia, cu ajutorul unui ghidaj
+• material prelucrat: materiale pe baza de lemn, lemn masiv
+• se pot utiliza doar pe masini portabile de frezat cu masa
+D               h              H              A                                             Z      rpm max.
+α
+99-03512P
+99-03412P
+55
+70
+23
+29,5
+61
+67,5
+12
+12
+45°
+45°
+2
+2
+24.000
+16.000
+411.31
+576.23
+99-
+Freza profilata pentru imbinari in dinti, 
+placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+A
+α
+1
+9
+0
+4
+,
+°
+4
+1
+Profilare contra fibrei
+Ghidaj
+A
+D
+H
+h
+Lateral
+Fata
+H
+h
+8
+D
+Fata
+Freza
+Ghidaj
+Banc
+Lateral
+Banc
+Freza
+D               h              H              A              Z                                      rpm max.
+D               h              H              A                                             Z      rpm max.
+α
+99-03712P
+35
+41,5
+78
+12
+2
+24000
+520.98
+99-24012P
+50,5
+13
+51
+12
+30°
+2
+24.000
+287.54

@@ -1,0 +1,338 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:335]
+763H1/2S
+Pila rotunda semifina cu 
+maner bimaterial
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+764HB
+TQS/040
+Pila triunghiulara bastard
+ cu maner bimaterial
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+Pila triunghiulara fara maner
+• pila triunghiulara cu dantura incrucisata
+•  1 - bastard; 2 - semifina; 3 - fina
+•  duritate: 60-66 HRc
+DIN
+7261
+Forma
+F
+DIN
+7261
+Forma
+C
+LU
+100
+150
+200
+250
+300
+LT
+220
+270
+325
+375
+425
+D
+Ø4
+Ø6
+Ø7.5
+Ø8.5
+Ø12
+80
+105
+157
+209
+317
+34.59
+35.57
+44.59
+55.57
+75.25
+619319
+619320
+613014
+613015
+613016
+763HS
+Pila rotunda fina cu 
+maner bimaterial
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+LU
+150
+200
+250
+300
+LT
+270
+325
+375
+425
+B
+10.5
+14.5
+17
+19.5
+619328
+613020
+613021
+613022
+764H1/2S
+Pila triunghiulara semifina
+ cu maner bimaterial
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+DIN
+7261
+Forma
+C
+133
+200
+332
+480
+38.03
+37.38
+48.52
+70.00
+L
+Taiere
+TQS040350BA
+TQS040350SF
+TQS040350FI
+350
+350
+350
+1
+2
+3
+b
+23
+23
+23
+1200
+1200
+1200
+107.43
+121.80
+130.92
+765HB
+Pila patrata bastard
+ cu maner bimaterial
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+DIN
+7261
+Forma
+F
+DIN
+7261
+Forma
+C
+DIN
+7261
+Forma
+D
+LU
+100
+150
+200
+250
+300
+LT
+220
+270
+325
+375
+425
+B
+7.5
+10.5
+14.5
+17
+19.5
+94
+133
+200
+332
+480
+38.03
+39.51
+41.15
+53.28
+77.05
+619340
+613029
+613030
+613031
+LU
+150
+200
+250
+300
+LT
+270
+325
+375
+425
+A
+5.5
+8
+10
+12
+133
+200
+332
+480
+36.56
+38.03
+51.31
+66.56
+765H1/2S
+Pila patrata semifina
+ cu maner bimaterial
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+619331
+619332
+613023
+613024
+613025
+764HS
+Pila triunghiulara fina
+ cu maner bimaterial
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+LU
+100
+150
+200
+250
+LT
+220
+270
+325
+375
+D
+Ø4
+Ø6
+Ø7.5
+Ø8.5
+80
+105
+157
+209
+35.57
+36.23
+44.59
+55.57
+619323
+619324
+613017
+613018
+R/060
+Pila rotunda fara maner
+• pila rotunda cu dantura incrucisata in spirala
+•  1 - bastard; 2 - semifina; 3 - fina
+•  duritate: 60-66 HRc
+D
+DIN
+7261
+Forma
+F
+L
+Taiere
+D
+DIN
+7261
+Forma
+C
+DIN
+7261
+Forma
+D
+R060350BA
+R060350SF
+R060350FI
+R060400BA
+R060400SF
+350
+350
+350
+400
+400
+1
+2
+3
+1
+2
+Ø14.5
+Ø14.5
+Ø14.5
+Ø17.5
+Ø17.5
+800
+800
+800
+1430
+1430
+86.69
+93.63
+101.38
+174.03
+174.03
+LU
+100
+150
+200
+250
+LT
+220
+270
+325
+375
+B
+7.5
+10.5
+14.5
+17
+619335
+619336
+613026
+613027
+94
+133
+200
+332
+38.85
+39.67
+41.15
+53.28
+619343
+619344
+613032
+613033
+LU
+100
+150
+200
+250
+LT
+220
+270
+325
+375
+A
+4
+5.5
+8
+10
+100
+106
+158
+252
+33.77
+35.57
+41.31
+51.64

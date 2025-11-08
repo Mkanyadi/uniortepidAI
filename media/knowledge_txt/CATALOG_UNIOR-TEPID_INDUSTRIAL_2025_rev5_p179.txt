@@ -1,0 +1,222 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:179]
+63952
+NOU
+506/1BI
+Cleste cu tais lateral pentru
+plastic
+• material:compozitie speciala pentru calire revenire
+• tratat complet
+• partile taietoare tratate prin inductie
+• maner PVC  
+Cleste cu varfuri semirotunde
+si tais lateral
+•  material: compozitie speciala pentru calire 
+revenire
+•  tratat complet
+•  partile taietoare tratate prin inductie
+•  cap polizat
+•  finisare: cromat in conformitate cu standardul 
+EN12540
+•  manere bimaterial pentru conditii grele
+•  partea de prindere dintata
+•  in conformitate cu standardul ISO 5745
+•  de asemenea pentru agatarea si separarea 
+cablurilor sau a altor obiecte de precizie
+508/1BI
+Cleste cu varfuri semirotunde
+si tais lateral
+•  material: compozitie speciala pentru calire 
+revenire
+•  tratat complet
+•  partile taietoare tratate prin inductie
+•  cap polizat
+•  finisare: cromat in conformitate cu standardul 
+EN12540
+•  manere bimaterial pentru conditii grele
+•  partea de prindere dintata
+•  in conformitate cu standardul ISO 5745
+•  de asemenea pentru agatarea si separarea 
+cablurilor sau a altor obiecte de precizie
+L
+Ø mm
+A
+63952 130
+7
+15°
+100
+ 4B 
+12
+ 283.02
+63954
+NOU
+Cleste extra-lung cu varf
+semirotund
+• material:compozitie speciala pentru calire revenire
+• tratat complet
+• partile taietoare tratate prin inductie
+• maner PVC  
+L
+B D A
+C
+L
+B D
+607874 140 15
+2
+607875 160 16
+2.5
+8
+9
+39 115  4B 
+49 137  4B 
+10
+10
+97.05
+607876 170 17
+104.26
+607877 200 17
+2.5
+2.5
+A
+9
+9
+C
+61 156  4B 
+77 191  4B 
+10
+10
+118.20
+122.46
+capacitatea de taiere (10N=1kg)
+capacitatea de taiere (10N=1kg)
+L
+max 1600 N/mm²
+max 650 N/mm²
+L
+max 1600 N/mm²
+max 650 N/mm²
+L
+63954 280
+63955
+Cleste extra-lung cu varf
+semirotund la 45°
+• material:compozitie speciala pentru calire revenire
+• tratat complet
+• partile taietoare tratate prin inductie
+• maner PVC  
+607874 140
+607875 160
+1,6
+1,6
+2,0
+2,0
+300
+ 4B 
+6
+ 172.29
+506/4G
+NOU
+Cleste cu varfuri semirotunde
+si tais lateral
+•  material: compozitie speciala pentru calire 
+revenire
+•  tratat complet
+•  partile taietoare tratate prin inductie
+•  cap vopsit
+•  acoperire: fosfatare conform standardului 
+DIN 12476
+•  maner de plastic pentru conditii grele
+•  partea de prindere dintata
+•  in conformitate cu standardul ISO 5745
+•  de asemenea pentru agatarea si separarea 
+cablurilor sau a altor obiecte de precizie
+1,6
+1,8
+2,0
+2,5
+607876 170
+607877 200
+508/4G
+Cleste cu varfuri semirotunde
+si tais lateral
+•  material: compozitie speciala pentru calire 
+revenire
+•  tratat complet
+•  partile taietoare tratate prin inductie
+•  cap vopsit
+•  acoperire: fosfatare conform standardului 
+DIN 12476
+•  maner de plastic pentru conditii grele
+•  partea de prindere dintata
+•  in conformitate cu standardul ISO 5745
+•  de asemenea pentru agatarea si separarea 
+cablurilor sau a altor obiecte de precizie
+L
+63955 280
+63956
+300
+ 4B 
+6
+  172.29
+NOU
+Cleste extra-lung cu varf
+semirotund la 90°
+• material:compozitie speciala pentru calire revenire
+• tratat complet
+• partile taietoare tratate prin inductie
+• maner PVC  
+L
+B D A
+C
+L
+B D A
+C
+608712 140 15
+2
+608713 160 16
+2.5
+8
+9
+39 115  4B 
+49 137  4B 
+10
+10
+65.90
+75.08
+608710 170 17
+608711 200 17
+2.5
+2.5
+9
+9
+61 156  4B 
+77 191  4B 
+10
+10
+86.89
+91.97
+capacitatea de taiere (10N=1kg)
+capacitatea de taiere (10N=1kg)
+L
+max 1600 N/mm²
+max 650 N/mm²
+L
+max 1600 N/mm²
+max 650 N/mm²
+L
+63956 280
+270
+ 4B 
+6
+  172.29
+608713 160
+608712 140
+1,6
+1,6
+2,0
+2,0
+608710 170
+608711 200
+1,6
+1,8
+2,0
+2,5

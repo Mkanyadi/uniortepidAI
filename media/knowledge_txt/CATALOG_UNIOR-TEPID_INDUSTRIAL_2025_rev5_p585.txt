@@ -1,0 +1,402 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:585]
+Disc abraziv pentru debitare otel si otel inoxidabil plat
+• discurile de taiere sunt confectionate conform specificatiilor pentru otel universal si 
+materiale neferoase
+• disc de taiere OSA in conformitate cu standardul European EN 12413 (nu este permisa 
+polizarea pe partea laterala)
+Disc abraziv pentru debitare otel plat
+• discurile de taiere sunt confectionate conform specificatiilor pentru otel universal si 
+materiale neferoase
+• disc de taiere OSA in conformitate cu standardul European EN 12413 (nu este permisa 
+polizarea pe partea laterala)
+NOU
+NOU
+25 buc
+25 buc
+C
+S
+I
+D
+G
+N
+I
+T
+X
+O
+N
+T
+U
+I
+C
+-Z A 2 4 N B F-
+1
+1
+5
+MAX 80 M/S
+MAX RPM 6600
+EN 12413
+x
+1
+.
+0
+115 X 1,0 X 
+x
+22,2 mm.
+ 2
+2.2
+41/2 X 0,04 X 7/8 ”
+Y
+Y
+E
+E
+K
+K
+R
+R
+U
+U
+E IN T
+E IN T
+D
+D
+M A
+MA
+L
+E
+E
+T
+O
+R
+E
+C
+A
+-
+R
+E
+I
+C
+C
+S
+I
+D
+G
+N
+I
+T
+T
+U
+S
+A
+C
+-A O 6 0 T B F-
+1
+1
+5
+x
+MAX 80 M/S
+MAX RPM 6600
+EN 12413
+1
+.
+180 X 6,0 X 
+0
+x
+22,2 mm.
+ 2
+7 X 1/4  X 7/8 ”
+2.2
+Y
+E
+K
+R
+U
+E IN T
+D
+M A
+4079111010
+4079111610
+4079121010
+4079121610
+4079151610
+4079181610
+4079231610
+D
+115
+115
+125
+125
+150
+180
+230
+T
+1.0
+1.6
+1.0
+1.6
+1.6
+1.6
+1.6
+H
+22.23
+22.23
+22.23
+22.23
+22.23
+22.23
+22.23
+Forma
+41
+41
+41
+41
+41
+41
+41
+RPM
+13300
+13300
+12250
+12250
+10200
+8600
+6650
+Rigiditate
+T
+T
+T
+R
+T
+T
+T
+5.47
+5.84
+6.03
+6.79
+8.48
+9.43
+13.20
+NOU
+Disc abraziv pentru polizare otel cu degajare
+• discurile de taiere sunt confectionate conform specificatiilor pentru otel universal si 
+materiale neferoase
+• disc de taiere OSA in conformitate cu standardul European EN 12413 (nu este permisa 
+polizarea pe partea laterala)
+4078111010
+4078111610
+4078113010
+4078121010
+4078121610
+4078123010
+4078151610
+4078153010
+4078181610
+4078183010
+4078231610
+4078233010
+4078353010
+D
+115
+115
+115
+125
+125
+125
+150
+150
+180
+180
+230
+230
+350
+T
+1.0
+1.6
+3.0
+1.0
+1.6
+3.0
+1.6
+3.0
+1.6
+3.0
+1.6
+3.0
+3.0
+H
+22.23
+22.23
+22.23
+22.23
+22.23
+22.23
+22.23
+22.23
+22.23
+22.23
+22.23
+22.23
+25.40
+Forma
+41
+41
+41
+41
+41
+41
+41
+41
+41
+41
+41
+41
+41
+RPM
+13300
+13300
+13300
+12250
+12250
+12250
+10200
+10200
+8600
+8600
+6650
+6650
+4400
+Rigiditate
+T
+T
+S
+T
+R
+S
+T
+S
+T
+S
+T
+S
+T
+4.90
+5.28
+6.22
+5.47
+5.84
+6.98
+7.54
+8.86
+8.48
+10.56
+12.25
+15.08
+41.48
+25 buc
+TV 509 C - Accesorii
+Disc abraziv pentru metal 355 mm
+• dimensiuni: 355x3,0x25,4 mm
+• material A 30 RBF
+L
+E
+E
+T
+O
+R
+E
+C
+A
+-
+R
+E
+I
+C
+C
+S
+I
+D
+G
+N
+I
+T
+T
+U
+S
+A
+C
+-A O 6 0 T B F-
+1
+1
+5
+x
+MAX 80 M/S
+MAX RPM 6600
+EN 12413
+1
+.
+180 X 6,0 X 
+0
+x
+22,2 mm.
+ 2
+7 X 1/4  X 7/8 ”
+2.2
+Y
+E
+K
+R
+U
+E IN T
+D
+M A
+4178116070
+4178126070
+4178156070
+4178186070
+4178236070
+D
+115
+125
+150
+180
+230
+T
+6.0
+6.0
+6.0
+6.0
+6.0
+H
+22.23
+22.23
+22.23
+22.23
+22.23
+Forma
+27
+27
+27
+27
+27
+RPM
+13300
+12250
+10200
+8600
+6650
+Rigiditate
+N
+N
+N
+N
+N
+8.67
+9.99
+13.57
+16.78
+26.96
+5.511
+D
+T
+H
+355               3,0             25,4
+37.70

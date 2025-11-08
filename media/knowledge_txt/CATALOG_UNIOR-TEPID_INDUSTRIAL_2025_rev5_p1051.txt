@@ -1,0 +1,129 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1051]
+946T
+946AC
+990CA
+Banc de lucru mobil 2000 mm
+• material: tablă premium PLUS
+• acoperit cu vopsea ecologică de calitate Qualicoat
+• placaj de fag
+• protejat cu un strat ecologic
+• capacitate de încărcare dinamică: 1000 kg
+• roți diametrul de 200 mm 
+Banc de lucru cu 5 sertare si panou
+pentru scule
+• combinație banc de lucru (art. 946A) și dulap pentru banc 
+de lucru (art. 946C) (art. 946 ACR dulap cu rulou)
+• material: tablă premium PLUS
+• sistem de închidere centralizată cu încuietoare și cheie pliabilă
+• încuietoare cu cheie inclusă și breloc din spumă
+• sertare cu extensie completă cu glisiere cu rulmenți de calitate
+superioară
+• învelișul sintetic protejează sertarele și uneltele de deteriorare
+• acoperit cu vopsea ecologică de calitate Qualicoat
+• blat din lemn
+• 5 sertare (3x L 560 x L 570 x H 70mm, 2x L 560 x L 605 x 
+H150mm)
+• capacitate de încărcare statică: 2300 kg
+• capacitatea sertarului: 45 kg
+• cu 30 de cârlige 
+Panou si jaluzea entru 946A
+• material: tablă premium PLUS
+• acoperit cu vopsea ecologică de calitate Qualicoat
+• lungime 1000 mm cu 20 carlige, lungime 1500 mm cu 30 carlige
+• încuietoare cu cheie inclusă și breloc din spumă 
+L
+B
+H
+621448 2000
+750 795 90000
+ 1K 
+1
+5578.69
+946A
+Banc de lucru cu 5 sertare
+• material: tablă premium PLUS
+• sistem de închidere centralizată cu încuietoare și cheie pliabilă
+• incuietoare cu cheie inclusă și breloc din spumă
+• sertare cu extensie completă cu glisiere cu rulmenți de calitate
+superioară
+• invelișul sintetic protejează sertarele și uneltele de deteriorare
+• acoperit cu vopsea ecologică de calitate Qualicoat
+• blat din lemn
+• 5 sertare (3x L 560 x L 570 x H 70mm, 2x L 560 x L 605 x 
+H150mm)
+• capacitate de încărcare statică: 2300 kg
+• capacitatea sertarului: 45 kg 
+1,25mm
+A
+B
+H
+625668 1000 125
+612330 1500 125
+740
+740
+27000
+30000
+ 1K 
+ 1K 
+1
+1
+5016.72
+5719.67
+946ACR
+Banc de lucru cu panou si jaluzea 
+• combinație de banc de lucru (art. 946A) și dulap cu rulou 
+pentru banc de lucru (art. 946CR)
+• material: tablă premium PLUS
+• sistem de închidere centralizată cu încuietoare și cheie pliabilă
+• încuietoare cu cheie inclusă și breloc din spumă
+• sertare cu extensie completă cu glisiere cu rulmenți de calitate
+superioară
+• învelișul sintetic protejează sertarele și uneltele de deteriorare
+• acoperit cu vopsea ecologică de calitate Qualicoat
+• blat din lemn
+• 5 sertare (3x L 560 x L 570 x H 70mm, 2x L 560 x L 605 
+x H150mm)
+• capacitate de încărcare statică: 2300 kg
+• capacitatea sertarului: 45kg
+• cu 30 de cârlige
+• model CR cu rulou și cu sistem de blocare 
+A
+B
+H
+612220 1500 750 1665 136000
+ 1K 
+1
+11865.90
+990CWR
+Panou pentru banc de lucru
+pentru 946A
+•  material: tablă premium PLUS
+•  vopsite cu vopsele ecologice fara cadmiu si plumb
+•  cu 30 de carlige
+1,25mm
+1,25mm
+A
+B H
+612328 1500 750 925 116000  1K 
+1
+9718.20
+L
+B
+H
+625669 1000 125 740
+18600
+612329 1500 125 740
+20000
+ 1K 
+ 1K 
+1
+1
+1697.38
+2147.70
+A
+B
+H
+612331 1500 750 1665 146000
+ 1K 
+1
+14734.92

@@ -1,0 +1,376 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:976]
+NOU
+062
+Cheie locas  TORX® scurta
+cu cap sferic antiex Al-Bron
+• material: Al-Bron
+• sculele antiex EGA Master sunt cea mai buna alternativa 
+pentru aplicatii in medii potential explozive
+• toate sculele sunt forjate dupa turnare pentru a obtine cea
+mai înalta calitate de pe piata de scule cu un finisaj atractiv. 
+Cheie cu profil triunghiular
+• material: MZW
+Cheie valve anti-ex Cu-Be
+• material: Cu-Be
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+M 4
+M 5
+M 6
+M 12
+M 16
+M 20
+M 24
+062 0004
+062 0005
+062 0006
+062 0012
+062 0016
+062 0020
+062 0024
+065
+L
+95
+110
+115
+125
+180
+200
+220
+80
+100
+170
+280
+980
+2100
+3100
+262.30
+327.87
+393.44
+655.74
+786.89
+1049.18
+1311.48
+Cheie universala pentru valve
+• material: MZW
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+L
+380
+1280
+1442.62
+065 0380
+380
+043
+Cheie cu deschideri multiple
+• material: MZW
+72422
+72424
+72426
+72428
+72430
+72432
+72434
+72436
+72438
+72440
+72442
+72444
+72446
+72448
+72450
+L
+200
+300
+300
+300
+350
+375
+400
+450
+500
+550
+600
+650
+700
+750
+800
+30
+32
+35
+40
+45
+48
+50
+55
+60
+65
+70
+75
+80
+85
+90
+250
+500
+350
+450
+550
+600
+650
+900
+1150
+1300
+1400
+1600
+1700
+2100
+2200
+2475.96
+3404.48
+2755.31
+3404.48
+4153.37
+4502.95
+4782.38
+5710.73
+6150.54
+7008.74
+7697.90
+8566.51
+9744.63
+10842.61
+11960.00
+Cheie valve anti-ex Cu-Be
+• material: Cu-Be
+L
+Ø x (inch)
+Ø y (mm)
+71432
+71433
+71434
+71441
+210
+400
+490
+800
+3 - 7
+8 - 15
+16 - 20
+16 - 20
+< 36
+< 48
+< 60
+< 60
+400
+900
+1400
+4600
+2005.84
+2906.01
+4282.76
+7481.67
+NOU
+L
+380
+043 0380
+069
+Cheie valve anti-ex
+• material: MZW
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+Cheie tip C antiex Al-Bron
+• material: Al-bron
+1280
+1573.77
+Ø
+40
+mm
+450
+72419
+078
+Cheie valve anti-ex 
+• material: MZW®
+1100
+7657.83
+NOU
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+A
+069 0300
+069 0350
+069 0400
+069 0450
+069 0500
+L
+300
+350
+400
+450
+500
+A
+30
+35
+40
+45
+50
+L
+400
+450
+750
+795
+918.03
+983.61
+1901.64
+2032.79
+078 0215
+1380
+2163.93
+078 0400
+56
+80
+078 0490
+100
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+910
+760
+1720
+996.72
+1416.39
+1573.77
+L
+215
+400
+490
+35831
+35833
+35835
+35837
+76135
+76137
+76139
+76141
+76144
+76143
+36429
+T6
+T7
+T8
+T9
+T10
+T15
+T20
+T25
+T27
+T30
+T40
+L
+42
+48
+48
+48
+51
+54
+57
+60
+64
+70
+76
+A
+16
+16
+16
+16
+17
+18
+20
+20
+21
+24
+26
+5
+5
+5
+5
+5
+10
+13
+15
+25
+35
+45
+535.48
+535.48
+535.48
+585.05
+585.05
+619.59
+668.75
+724.11
+769.96
+807.97
+912.24
+NOU
+Cheie locas TAMPER TORX®
+cu cap sferic antiex Al-Bron
+• material: Al-Bron
+• sculele antiex EGA Master sunt cea mai buna alternativa 
+pentru aplicatii in medii potential explozive
+• toate sculele sunt forjate dupa turnare pentru a obtine cea
+mai înalta calitate de pe piata de scule cu un finisaj atractiv. 
+36431
+36433
+35775
+35777
+35779
+35781
+35783
+35785
+35787
+TT8
+TT9
+TT10
+TT15
+TT20
+TT25
+TT27
+TT30
+TT40
+L
+42
+42
+51
+54
+57
+60
+64
+70
+76
+A
+16
+16
+17
+18
+20
+20
+21
+24
+26
+6,5
+6,5
+6,5
+9
+12
+15
+18
+28
+38
+841.43
+841.43
+841.43
+891.34
+961.48
+1041.63
+1081.78
+1232.16
+1417.23

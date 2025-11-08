@@ -1,0 +1,308 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:518]
+Forma dintilor
+Doar acea forma a dintilor bine aleasa poate taia efectiv cu vibratii minime. Sunt disponibile 4 tipuri de baza.
+Dinti standard
+unghi de degajare 0° 
+Dinti ai angrenajului 
+cu clichet
+unghi de degajare 
+pozitiv
+Dinti variabili
+unghi de degajare 0° 
+Dinti variabili cu unghiul
+angrenajului poziti
+unghi de degajare 
+pozitiv
+NN
+Specializare:
+materiale de aschiat scurte
+materiale cu pereti subtiri
+Specificatii:
+unghi de degajare 0°
+4+18 dinti/tol
+Aria productie:
+100, 420
+HH
+Specializare:
+materiale de debitat lungi
+materiale dure
+diametre mari
+Specificatii:
+unghi de degajare pozitiv
+1,25 + 6 dinti/tol
+Aria productie:
+100, 421, 426, 427
+V - 0V - 0
+Specializare:
+structura de taiere cu
+vibratii usoare
+Specificatii:
+unghi de degajare 0°
+pasul dintilor variabil de 3/4
+pana la 10/14
+Aria productie:
+430
+V - POS
+V - POS
+Specializare:
+Taierea materialelor dure,
+vibratii usoare
+Specificatii:
+Unghi de degajare pozitiv
+Pasul dintilor variabil de
+0.75/1.25 pana la 4/6
+Aria productie:
+431, 434, 435, 436, 437,
+438, 531, 537, 544
+Pasul dintilor
+tol
+Dispunerea dintilor
+Pe langa forma si pasul dintilor este esential sa alegeti o dispunere corecta a acestora pentru a obtine 
+o inalta performanta a panzei. Jocul corect al panzei de ferastrau este obtinut printr-o dispunere 
+specifica pentru fiecare aplicatie de taiere.
+Acest lucru previne strangularea panzei, ceea ce este foarte important in acele aplicatii de taiere 
+problematice
+Tipul si latimea setarii sunt factori decisivi in procesul de taiere.
+Setare Standard - Raker (S, SW) 
+maxim 10 dinti/tol 
+forma dintilor N, H
+Setare variabila in grup (G, GW) 
+0.75/1.25 aproximativ 10/14 dinti/tol 
+Forma dintilor K
+Setare Wavy (W) 
+maxim 14 dinti/tol 
+forma dintilor N
+Distanta intre dinti este egala.
+Distanta intre dinti este egala.
+Numarul de dinti pe tol (25,4 mm) indica numarul de dinti al panzei.
+Pasul dintilor constant
+Distantele intre dinti variaza in cadrul unui grup de dinti.
+Cel mai mic si cel mai mai mare pas indica dintele variabil al panzei.
+Pasul dintilor corect - Performanta optima
+Pentru o performanta optima a panzei panglica bimetal alegerea 
+dintarii corecte este esentiala in aplicatiile individuale.
+Alegeti fie forma dintilor Standard cu pasul constant sau dinti variabili 
+cu dinti dispusi inegal. Dintarea combinata este recomandata pentru 
+taierea materialului problematic pentru reducerea vibratiilor
+Dintarea recomandata pentru taierea materialului solid
+Pasul dintilor constant
+Sectiune
+mm
+380 - 800
+200 - 400
+120 - 200
+80 - 120
+50 - 80
+30 - 50
+20 - 30
+10 - 20
+0
+TPI
+1,25
+2
+3
+4
+6
+8
+10
+14
+18
+N=forma dintilor standard
+H=forma dintilor hook
+Pasul dintilor variabil
+Sectiune
+mm
+ab  550
+300 - 600
+120 - 350
+80 - 150
+60 - 110
+40 - 70
+30 - 60
+20 - 40
+bis  25
+TPI
+0,75/1,25
+1/2
+2/3
+3/4
+4/6
+5/8
+6/10
+8/12
+10/14
+Forma
+dintilor
+H
+H
+H
+H/N
+N
+N
+N
+N
+N
+Forma
+dintilor
+V - POS
+V - POS
+V - POS
+V - POS
+V - POS
+V -0
+V -0
+V -0
+V -0
+V-POS=forma dintilor variabila cu unghi hook pozitiv
+V-0=forma dintilor variabila cu unghi al angrenajului de 0°
+Recomandari pentru debitarea tevilor din otel si a altor structuri
+In debitarea tevilor si profilelor din otel 
+alegerea dintarii corecte joaca un rol 
+decisiv.
+Dintarea variabila s-a dovedit a fi cea 
+mai potrivita.
+Factori importanti sunt grosimea 
+peretilor sau parametrii externi ai 
+tevilor sau structurilor 
+Structuri cu pereti subtiri (unghi de degajare 0°)
+Grosimea peretelui
+Diametrul exterior in mm
+(S) in  mm
+2
+3
+4
+5
+6
+8
+10
+20
+14
+14
+14
+14
+14
+14
+-
+40
+14
+14
+14
+60
+14
+14
+80
+14
+14
+100
+120
+150
+14
+14
+10/14
+10/14
+10/14
+8/12
+10/14
+10/14
+8/12
+8/12
+6/10
+10/14
+10/14
+8/12
+8/12
+6/10
+6/10
+10/14
+8/12
+8/12
+6/10
+6/10
+8/12
+6/10
+6/10
+6/10
+6/10
+5/8
+5/8
+5/8
+5/8
+5/8
+5/8
+5/8
+-
+Diametrul exterior al structurilor (in mm)
+Grosimea peretilor
+(S) in mm
+10
+15
+20
+30
+50
+80
+100
+80
+-
+4/6
+4/6
+3/4
+-
+-
+-
+100
+-
+4/6
+3/4
+3/4
+3/4
+-
+-
+120
+-
+4/6
+3/4
+3/4
+3/4
+-
+-
+150
+4/6
+4/6
+3/4
+3/4
+2/3
+-
+-
+Structuri cu pereti duri (unghi de degajare pozitiv)
+200
+4/6
+3/4
+3/4
+2/3
+2/3
+2/3
+-
+300
+4/6
+3/4
+2/3
+2/3
+2/3
+1/2
+1/2
+500
+3/4
+2/3
+2/3
+2/3
+1/2
+1/2
+750
+3/4
+2/3
+2/3
+1/2
+1/2
+1/2
+0,75/1,25
+0,75/1,25

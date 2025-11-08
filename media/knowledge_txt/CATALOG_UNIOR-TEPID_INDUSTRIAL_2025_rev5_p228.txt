@@ -1,0 +1,275 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:228]
+HT4
+NOU
+Multiplicator de cuplu 300-3000 Nm 
+Multiplicatoare de cuplu 1700 - 9500 Nm 
+• constructia robusta inseamna intretinere minima si viata lunga
+• raporturile mari permit utilizarea unei chei dinamometrice mici.
+• livrat in husa de transport cu unitate patrată de schimb.
+• clichet anti-inchidere (Anti Backlash) montat pentru a permite o operare mai sigura si mai practica
+• raportor unghiular pentru cuplu usoara si strangere unghiularaa
+• multiplicare adevărată a cuplului 15,5:1, precizie garantată mai bună de +/-4%.
+• EGA Master produce o gama larga de dispozitive de strangere controlata, multiplicatoarele 
+de cuplu fiind parte a acestora.
+• multiplicatoarele EGA Master Torque sunt complementul ideal pentru cheile dinamometrice 
+digitale, care maresc cuplul de intrare in proportie de 4 sau 20, permitand cupluri mari de iesire 
+pentru cereri speciale 
+• precizie ±4%.
+   17022
+3000
+2200 15.5:1
+1/2”
+1”
+-
+HT4
+L
+-
+6100
+34876.35
+NOU
+Multiplicator de cuplu 450-4500 Nm 
+• constructia robusta inseamna intretinere minima si viata lunga
+• raporturile mari permit utilizarea unei chei dinamometrice mici.
+• livrat in husa de transport cu unitate patrată de schimb.
+• clichet anti-inchidere (Anti Backlash) montat pentru a permite o operare mai sigura si mai practica
+• raportor unghiular pentru cuplu usoara si strangere unghiularaa
+• multiplicare adevărată a cuplului 26:1, precizie garantată mai bună de +/-4%.
+   17021
+4500
+3300
+26:1
+1/2”
+1”
+-
+L
+-
+7000
+38405.59
+Cuplu intrare
+Cuplu iesire
+63850
+63851
+63852
+63853
+63854
+63855
+63856
+63857
+63858
+63859
+A
+B C L
+1700
+1250
+1700
+1250
+5:1
+5:1
+1/2”
+3/4”
+1700
+1250
+25:1
+1/2”
+2700
+2000
+5:1
+3/4”
+2700
+2000
+25:1
+1/2”
+3/4”
+120
+120
+250
+310
+4500
+10472.51 
+1”
+1”
+1”
+1”
+120
+120
+250
+310
+5000
+10908.86 
+200
+120
+250
+310
+7000
+15709.13 
+145
+140
+260
+365
+8000
+15709.13 
+200
+140
+260
+365
+12000
+17454.97 
+3400
+2500
+5:1
+3/4”
+1.1/2”
+150
+140
+260
+365
+10000
+17454.97 
+3400
+2500
+25:1
+1/2”
+1.1/2”
+205
+140
+260
+365
+14000
+26182.39 
+6000
+4500
+5:1
+3/4”
+1.1/2”
+170
+185
+360
+445
+16000
+27928.23 
+6000
+4500
+25:1
+1/2”
+1.1/2”
+250
+185
+360
+445
+23000
+29673.25 
+9500
+7000
+25:1
+3/4”
+2.1/2”
+290
+200
+480
+505
+32000
+34909.87 
+Unitate convertita
+1 mN∙m
+1 cN∙m
+1 N∙m
+1 ozf∙in
+1 lbf∙in
+1 lbf∙ft
+1 gf∙cm
+1 kgf∙cm
+1 kgf∙m
+mN∙m
+1
+10
+1000
+7.062
+113
+1356
+0.098
+98.07
+9807
+Convertor dinamometrie
+Sistem international S.I.
+IMPERIAL
+cN∙m
+0.1
+1
+100
+0.706
+11.3
+135.6
+0.01
+9.807
+980.7
+N∙m
+0.001
+0.01
+1
+0.007
+0.113
+1.365
+0.0001
+0.098
+9.807
+ozf∙in
+0.142
+1.416
+141.6
+1
+16
+192
+0.014
+13.89
+1389
+lbf∙in
+0.009
+0.088
+8.851
+0.0625
+1
+12
+0.0009
+0.868
+86.8
+lbf∙ft
+0.0007
+0.007
+0.738
+0.005
+0.083
+1
+0.00007
+0.072
+7.233
+gf∙cm
+10.2
+102
+10197
+72
+1152.1
+13826
+1
+1000
+100000
+METRIC
+kgf∙cm
+0.01
+0.102
+10.2
+0.072
+1152
+13.83
+0.001
+1
+100
+kgf∙m
+0.0001
+0.001
+0.102
+0.0007
+0.0115
+0.138
+0.00001
+0.01
+1

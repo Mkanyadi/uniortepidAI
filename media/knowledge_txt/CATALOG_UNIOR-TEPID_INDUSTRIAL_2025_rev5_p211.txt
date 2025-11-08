@@ -1,0 +1,147 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:211]
+760
+NOU
+NOU
+Surubelnita dinamometrica cu citire directa
+Surubelnita dinamometrica
+• elementul de masurare este un arc lamelar de torsiune
+• strangere in sensul acelor de ceasornic (cu indicator de urmsrire) si strangere in sens invers 
+acelor de ceasornic
+• cu antrenare hexagonala interna de 1/4" (F 6.3 DIN 3126)
+• scara comparativă în in·lb și cursor
+• pentru biti si adaptoare cu hexagonal extern E 6.3 (1/4") DIN 3126/ISO 1173 sunt prinse in 
+siguranta si controlate ferm in arborele de montare
+• pentru a prinde capete chei tubulare de 1/4", va rugam să comandati adaptorul nr. 3115
+• certificat conform DIN EN ISO 6789-2:2017
+• acuratete ± 4%
+• EGA Master produce o gama larga de surubelnite, surubelnite cu suport pentru biti si 
+accesorii, printre care puteti gasi surubelnite dinamometrice special concepute pentru 
+strangerea de precizie.
+• perfecta pentru insurubare controlata in intervalul 0,4-5 Nm si 4-50 Lb.in
+• acuratete +/- 6%.
+• scala larga si vizibila pentru o ajustare mai precisa si mai precisa a cuplului.
+• blocati si reglati din maner.
+• cu cutie dedepozitare si transport individuala
+• cu certificat de calibrare.
+cN.m
+51040007
+15-75
+1/4”
+±4%
+±4%
+51040015
+30-150
+1/4”
+±4%
+±4%
+51040030
+60-300
+1/4”
+±4%
+±4%
+51040060
+120-600
+1/4”
+±4%
+±4%
+L
+185
+185
+185
+185
+225
+225
+230
+230
+2573.44
+2704.35
+2599.64
+2704.35
+NOU
+Surubelnita dinamometrica
+• EGA Master produce o gama larga de surubelnite, surubelnite cu suport pentru biti si 
+accesorii, printre care puteti gasi surubelnite dinamometrice special concepute pentru 
+strangerea de precizie.
+• perfecta pentru insurubare controlata in intervalul 0,4-5 Nm si 4-50 Lb.in
+• acuratete +/- 6%.
+• scala larga si vizibila pentru o ajustare mai precisa si mai precisa a cuplului.
+• blocati si reglati din maner.
+• cu cutie dedepozitare si transport individuala
+• cu certificat de calibrare.
+Blocare
+Reglare
+Deblocare
+66580
+1-5  Nm
+1/4”
+±6%
+±6%
+66595
+10-50 Lb.in
+1/4”
+±6%
+±6%
+L
+160
+160
+130
+130
+2768.67
+2768.67
+TTi20
+Cheie dinamometrica 3/8" 4-20 Nm 
+• durabilitate ridicata pentru utilizare in orice mediu.
+• scala micrometrica, reglaj rapid, precizie ridicata de reglaj.
+• reglaj simplu prin rotirea inelului din capatul cheii.
+• sistem de blocare, care evita dereglarea accidentala.
+• maner confortabil, bi-component, din materiale rezistente la uzura si alunecare.
+• scala rezistenta la uzura si agenti chimici.
+• functionare doar in sens orar.
+• precizie ±4% cf. ISO6789.
+• furnizat cu un certificat de calibrare, care indeplineste cerintele ISO 6789-2: 2017
+• lungime: 230 mm
+• patrat de antrenare: 3/8 "
+• diametrul clichetului: 30 mm
+• numar de dinti clichet: 72
+• gradatii scala (N · m): 0,1
+• gradatii scala (lbf · in): 10
+Blocare
+Reglare
+Deblocare
+66579
+66594
+0.4-2  Nm
+1/4”
+±6%
+±6%
+4-20 Lb.in
+1/4”
+±6%
+±6%
+L
+135
+135
+130
+130
+2346.15
+2346.15
+232
+217
+166
+0
+3
+1
+3
+0
+2
+ 13831
+3/8"
+4 - 20
+35 - 180
+230
+0.1 Nm
+ 1S 
+1
+1443.61
+L
+Rezolutie

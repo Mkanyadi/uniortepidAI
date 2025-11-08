@@ -1,0 +1,499 @@
+[SOURCE:KRONUS_-_CATALOG_Editia_II_-_2025_-_06.06.2025_web] [PAGE:47]
+76466C6,3
+76500E6,3
+76460C6,3
+Bit cu profil Pozidrive
+• material: aliaj special S2 (1.2381 / 73 Mo V 5 2)
+• duritate material: 58 +/- 2 HRc
+• in conformitate cu standardele DIN 3126 ISO 1173
+• durabilitate ridicata
+• protectie anticoroziva
+• pentru lucrul manual si cu masina
+• pentru prindere magnetica sau non-magnetica
+Bit cu profil Pozidrive, varianta lunga
+• material: aliaj special S2 (1.2381 / 73 Mo V 5 2)
+• duritate material: 58 +/- 2 HRc
+• in conformitate cu standardele DIN 3126 ISO 1173
+• durabilitate ridicata
+• protectie anticoroziva
+• pentru lucrul manual si cu masina
+• pentru prindere magnetica sau non-magnetica
+Bit cu profil lat
+• material: aliaj special S2 (1.2381 / 73 Mo V 5 2)
+• duritate material: 58 +/- 2 HRc
+• in conformitate cu standardele DIN 3126 ISO 1173
+• durabilitate ridicata
+• protectie anticoroziva
+• pentru lucrul manual si cu masina
+• pentru prindere magnetica sau non-magnetica
+C 6,3mm
+ ¼”
+Material
+S2
+70118101
+70118301
+70118501
+900519
+900520
+900521
+70118105
+70118305
+70118505
+70118110
+70118310
+70118510
+70118125
+70118325
+70118525
+Pozidrive    L    Ø    Amb.
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+PZ 1
+PZ 2
+PZ 3
+PZ 1
+PZ 2
+PZ 3
+PZ 1
+PZ 2
+PZ 3
+PZ 1
+PZ 2
+PZ 3
+PZ 1
+PZ 2
+PZ 3
+vrac
+vrac
+vrac
+3
+3
+3
+5
+5
+5
+10
+10
+10
+25
+25
+25
+4.5
+6.0
+6.0
+4.5
+6.0
+6.0
+4.5
+6.0
+6.0
+4.5
+6.0
+6.0
+4.5
+6.0
+6.0
+L
+3
+3
+3
+9
+9
+9
+20
+20
+20
+40
+40
+40
+100
+100
+100
+L
+5
+5
+5
+15
+15
+15
+25
+25
+25
+50
+50
+50
+E 6,3mm
+ ¼”
+Material
+S2
+Pozidrive    L    Ø   Amb.
+vrac
+50
+vrac
+50
+vrac
+50
+3
+50
+3
+50
+3
+50
+5
+50
+5
+50
+5
+50
+10
+50
+10
+50
+10
+50
+PZ 1
+PZ 2
+PZ 3
+PZ 1
+PZ 2
+PZ 3
+PZ 1
+PZ 2
+PZ 3
+PZ 1
+PZ 2
+PZ 3
+4.5
+6.0
+6.0
+4.5
+6.0
+6.0
+4.5
+6.0
+6.0
+4.5
+6.0
+6.0
+70119601
+70119701
+70119801
+900539
+900540
+900541
+70119605
+70119705
+70119805
+70119610
+70119710
+70119810
+1.83
+1.83
+1.83
+6.88
+6.88
+6.88
+12.58
+12.58
+12.58
+25.19
+25.19
+25.19
+62.99
+62.99
+62.99
+C 6,3mm
+ ¼”
+Material
+S2
+2.74
+2.74
+2.74
+9.62
+9.62
+9.62
+17.17
+17.17
+17.17
+34.35
+34.35
+34.35
+70100901
+70101001
+70101101
+900533
+900534
+900535
+70100905
+70101005
+70101105
+70100910
+70101010
+70101110
+70100925
+70101025
+70101125
+ SL      L     Ø      Amb.
+SL 4.5
+SL 5.5
+SL 6.5
+SL 4.5
+SL 5.5
+SL 6.5
+SL 4.5
+SL 5.5
+SL 6.5
+SL 4.5
+SL 5.5
+SL 6.5
+SL 4.5
+SL 5.5
+SL 6.5
+vrac
+vrac
+vrac
+3
+3
+3
+5
+5
+5
+10
+10
+10
+25
+25
+25
+4.5
+5.5
+6.5
+4.5
+5.5
+6.5
+4.5
+5.5
+6.5
+4.5
+5.5
+6.5
+4.5
+5.5
+6.5
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+L
+3
+3
+3
+9
+9
+9
+20
+20
+20
+40
+40
+40
+100
+100
+100
+1.83
+1.83
+1.83
+6.88
+6.88
+6.88
+12.60
+12.60
+12.60
+25.19
+25.19
+25.19
+62.99
+62.99
+62.99
+Suruburi cu cap profil slit
+Suruburi cu filet metric
+Ø in mm 
+Suruburi sutofiletante
+Ø in mm 
+Suruburi pentru lemn
+Ø in mm 
+Suruburi fara cap
+Ø in mm 
+Dimensiune
+in mm
+DIN 84 
+DIN 85 
+DIN 963 
+DIN 964 
+DIN 7971
+DIN 7972
+DIN 7973
+DIN 95 
+DIN 96 
+DIN 97 
+DIN 417  DIN 427 
+ a  x  b
+ISO 1207 
+ISO 1580 
+ISO 2009 
+ISO 2010 
+ISO 1418 
+ISO 1482
+ISO 1483
+1,2 / 1,4
+1,6 / 1,8 
+2,0 
+2,5 
+2,5 
+3 
+3 
+1,6
+2 
+1,6
+2 
+2,5 
+2,5 
+3 
+3 
+3 / 3,5 
+3,5 
+2,9 
+3,5 
+2,2 
+2,2 
+2,9 
+2,9 
+4 
+5 
+6 
+8 
+10 
+4 
+5 
+6 
+8 
+10 
+3,5 
+3,5 
+4 
+5 
+6
+8 
+10 
+4 
+5 
+8 
+10 
+10 
+2,2 
+2,2 
+1,6 
+2 
+2
+2,5 
+1,6 
+2 
+2,5 
+2,5 
+1,6 
+2,5 / 3 
+2,5 / 3 
+0,4 x 2,0
+0,3 x 1,8
+3,5 
+4 
+3,5 
+4 
+2 
+2,5 
+0,4 x 2,5
+0,5 x 3,0
+0,5 x 4,0
+0,6 x 3,5
+0,6 x 4,5
+2,9 
+2,9 
+3 / 3,5 
+3 / 3,5 
+3 / 3,5 
+5 / 6 
+5 / 6 
+0,8 x 4,0
+3,5 / 4 
+3,5 / 4 
+3,5 / 4 
+4 / 4,5 
+4 / 4,5 
+4 / 4,5
+3,5 
+3,5 
+0,8 x 5,5
+1,0 x 5,5
+4,2 / 4,8 
+5,5 / 6,3 
+4,2 
+4,8 
+5,5/ 6 
+4,2 
+4,8 
+5,5 
+6,3 
+47
+5 
+5,5 
+6 
+7 
+8 
+5 / 5,5 
+6 
+7 / 8 
+5 
+5,5 
+6 
+7 / 8 
+10 
+8 
+8 
+1,2 x 6,5
+1,2 x 8,0
+10 / 12 
+10 / 12 
+1,6 x 8,0
+14 
+16 
+18 
+14 
+16 
+18 
+1,6 x 10,0
+2,0 x 12,0
+2,5 x 14,0
+2,5 x 16,0

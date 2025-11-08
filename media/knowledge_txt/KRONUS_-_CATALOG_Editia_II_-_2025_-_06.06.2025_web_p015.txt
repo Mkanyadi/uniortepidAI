@@ -1,0 +1,233 @@
+[SOURCE:KRONUS_-_CATALOG_Editia_II_-_2025_-_06.06.2025_web] [PAGE:15]
+7408 BI
+7462 BI
+7530
+Cleste combinat cu maner
+bimaterial
+• material: compozitie speciala pentru calire revenire 60Crv
+• tratat complet
+• partile taietoare tratate prin inductie
+• cap vopsit
+• duritate corp: 44-48 HRc
+• duritate parte taietoare: 60-64 HRc
+• finisare: capete polizate
+• maner bimaterial pentru conditii grele
+• in conformitate cu standardul ISO 5746
+Cleste cu tais lateral cu maner
+bimaterial
+• material: compozitie speciala pentru calire revenire 60CrV
+• tratat complet
+• partile taietoare tratate prin inductie
+• duritate corp: 44-48 HRc
+• duritate parte taietoare: 60-64 HRc
+• finisare: capete polizate
+• maner bimaterial pentru conditii grele
+• in conformitate cu standardul ISO 5749
+Cleste de cuie
+• material: compozitie speciala pentru calire revenire
+• tratat complet
+• partile taietoare tratate prin inductie
+• cap vopsit
+• acoperire: fosfatare conform standardului DIN 12476
+• conform cu standardul ISO 9243
+• standard: DIN ISO 9243 tip A
+®
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:26)(cid:25)(cid:29)(cid:24)(cid:23)(cid:22)(cid:21)(cid:20)(cid:19)(cid:23)(cid:22)(cid:25)(cid:18)(cid:17)
+Material
+OLC
+DIN ISO
+9243
+Tip
+A
+ L           B          C           A
+160
+16,0
+180
+21,0
+200
+24,0
+22,0
+23,0
+25,0
+46
+50
+54
+242
+309
+427
+20.74
+23.18
+26.87
+75300160
+75300180
+75300200
+7531
+Cleste pentru plasa de sarma
+• material: compozitie speciala pentru calire revenire
+• tratat complet
+• util pentru indoirea si sertizarea sarmelor
+• cap vopsit
+• acoperire: fosfatare conform standardului DIN 12476
+• in concordanta cu standardul ISO 9242
+• standard: DIN ISO 9243
+Material
+OLC
+DIN ISO
+9243
+75310224
+ L           B          C           A
+23
+224
+17
+30
+333
+29.30
+Material
+CrV
+DIN ISO
+5746
+74060160
+74060180
+74060200
+L           B       C       A
+9,5
+160
+10
+180
+10,5
+200
+24
+27
+29
+35
+38
+41
+220
+274
+341
+33.70
+39.25
+42.91
+Capacitate de taiere:
+74060160
+74060180
+74060200
+1,6
+2,0
+2,0
+2,5
+2,8
+2,8
+4,0
+4,0
+4,0
+Material
+CrV
+DIN ISO
+5749
+materiale moi - rezistenta la rupere 220 N/mm²
+74620160
+materiale medii/dure - rezistenta la rupere 780 N/mm²
+materiale dure - rezistenta la rupere 1800 N/mm²
+L           B       C       A
+22
+160
+22,5
+10
+220
+32.77
+Capacitate de taiere:
+74620160
+1,6
+2,6
+3,6
+materiale moi - rezistenta la rupere 220 N/mm²
+materiale medii/dure - rezistenta la rupere 780 N/mm²
+materiale dure - rezistenta la rupere 1800 N/mm²
+7596
+Cleste de buloane
+• proiectat si construit conform celor mai inalte norme tehnice
+• falci de inalta performanta cu inclinare la 60° pe marginea 
+de taiere
+• corp de otel forjat
+• manere tubulare cu greutate redusa si mansoane din cauciuc
+• efort minim la taiere
+• falci compacte, ansamblu cu accesibilitate optima
+• falci din otel tratate prin inductie 55-60 HRC
+• suruburi calite pentru o durata de viata prelungita
+7441
+Cleste reglabil 7 pozitii cu falci 
+intrepatrunse si maner plastizolat
+• material: crom vanadiu
+• tratat complet
+• suprafata de lucru tratata prin inductie
+• duritate corp: 40-46 HRc
+• maner de plastic
+• deschiderea falcii reglabila in 7 pozitii
+• in conformitate cu standardul ISO 8976
+Material
+CrV
+ISO
+8976
+621774
+7441A
+L           A
+7,5
+240
+mm
+35
+312
+62.73
+Cleste reglabil 9 pozitii cu falci 
+intrepatrunse si maner plastizolat
+• material: crom vanadiu 38CrV3
+• forjat complet
+• calitate industriala pentru cea mai dificila utilizare continua
+• falci tratate prin inductie 55 HRC
+• distribuirea sarcinii pa falcile intrepatrunse groase asigura o 
+siguranta si o performanta maxima
+• noua pozitii pentru o deschidere mare de pana la 43 mm
+• acoperire: fosfatare
+• manere din PVC
+Material
+CrV
+900659
+L           A
+7,5
+250
+mm
+43
+312
+74.75
+L (mm)   L (inch)   Ømax/800 N/mm²   
+900619
+900620
+900621
+900622
+900623
+355
+460
+610
+760
+915
+14"
+18"
+24"
+30"
+36"
+15
+5
+6
+8
+9
+10
+1290
+1650
+2670
+3850
+5650
+144.53
+184.72
+258.28
+359.07
+447.21

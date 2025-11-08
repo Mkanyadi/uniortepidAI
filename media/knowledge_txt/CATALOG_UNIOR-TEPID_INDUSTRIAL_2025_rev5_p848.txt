@@ -1,0 +1,171 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:848]
+30-
+82-
+Freza cu coada, profilata convex 1/2C, 
+placata CMS, cu rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se pot utiliza atat pe CNC, cat si pe masini portabile de frezat
+Freza profilata 1/2 concav, 
+placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se pot utiliza atat pe CNC, cat si pe masini portabile de frezat cu sau fara masa
+• pentru adancimi de frezare mari, se recomanda trecerile multiple prin material
+A
+A
+C
+D
+R
+H
+h
+H
+R
+R
+h
+D
+R
+R
+D               h              H              A              C              R            Z      rpm max.
+D               h              H              A                              R            Z      rpm max.
+30-10008P
+30-10208P
+30-10308P
+30-10408P
+30-10608P
+19
+22,2
+25,4
+31,8
+38,1
+12,7
+12,7
+12,7
+12,7
+16,4
+54,2
+54,2
+54,2
+55,2
+58,3
+8
+8
+8
+8
+8
+9,5
+9,5
+9,5
+12,7
+12,7
+4,8
+6,35
+8
+9,5
+12,7
+2
+2
+2
+2
+2
+24000
+24000
+24000
+24000
+24000
+168.69
+152.79
+186.23
+186.23
+191.97
+30-
+Freza cu coada, profilata convex 1/2C cu tesire, 
+placata CMS, cu rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se pot utiliza atat pe CNC, cat si pe masini portabile de frezat
+A
+C
+D
+R
+H
+h
+82-10208P
+82-10408P
+82-10608P
+19
+22,2
+25,4
+12,4
+19,5
+22,9
+44,7
+51
+55
+8
+8
+8
+3,2
+4,8
+6,35
+2
+2
+2
+24000
+24000
+24000
+154.75
+183.44
+189.84
+99-
+Freza profilata pentru imbinari cu un dinte, 
+placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+A
+D
+H
+h
+R
+R
+5
+5
+9
+1
+Profilare contra
+fibrei
+°
+0
+3
+9
+,
+2
+Cu rulment de ø 9,5 mm
+Cu rulment de ø 12,7 mm
+D               h              H              A              C              R            Z      rpm max.
+30-30408P
+30-20208P
+28,6
+31,8
+12,7
+15,1
+54,2
+56,6
+8
+8
+9,5
+9,5
+4,8
+8
+2
+2
+24000
+22000
+180.49
+205.90
+D               h              H              A                                             Z      rpm max.
+99-03112P
+38
+32
+70
+12
+2
+24000
+294.26

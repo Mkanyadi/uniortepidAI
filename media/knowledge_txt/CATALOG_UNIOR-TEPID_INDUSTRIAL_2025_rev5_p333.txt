@@ -1,0 +1,208 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:333]
+Pile de atelier DIN 7261
+Valorile b si s pentru sectiunile transversale din aceasta norma se aplica pentru pilele finite pe partea nesubtiata si sunt masurate peste danturi.
+Valorile l sunt lungimile pilei, fara coada pilei.
+Lungime l
+100
+± 4
+150
+± 4
+200
+± 6
+250
+± 6
+300
+± 6
+350
+± 8
+b x s
+12 x 2,5
+16 x 4
+20 x 5
+25 x 6
+30 x 6,5
+35 x 7,5
+Dantura
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+b x s
+12 x 2,5
+16 x 4
+20 x 5
+25 x 6
+30 x 6,5
+35 x 7,5
+Dantura
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+b
+8
+11
+15
+17,5
+20
+24
+Dantura
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+b
+4
+6
+8
+10
+12
+15
+Pile pentru prelucrarea metalelor
+Pile pentru ascutit panze circulare
+Panze pentru ascutit lant drujba
+Pile diamantate
+Pile pentru mecanica fina
+Masaturi
+Manere pila
+Dantura
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+Raspile si pile SILEX
+b x s
+10,5 x 3
+16 x 4,5
+20 x 6
+25 x 7
+30 x 8,5
+35 x 10
+Dantura
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+s
+4
+6
+7,5
+9,5
+12
+15
+Dantura
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+1, 2, 3
+Pile pentru copite
+Razuitoare
+b x s
+10 x 3,4
+16 x 5,2
+20 x 6,4
+25 x 7,9
+1, 2, 3
+1, 2, 3
+1, 2, 3
+-
+-
+-
+-
+Dantura
+b x s
+Dantura
+2
+-
+-
+-
+-
+-
+-
+25 x 6
+30 x 6,5
+35 x 7,5
+3
+3
+3
+Denumire
+Forma A
+s
+b
+Pila lata de atelier
+Forma B
+s
+b
+Pila lata de atelier, varf ascutit
+Forma C
+b
+Pila triunghiulara de atelier
+Forma D
+b
+Pila patrata de atelier
+Forma E
+s
+b
+Pila semirotunda de atelier
+Forma F
+b
+Pila rotunda de atelier
+Forma G
+b
+s
+Pila cutit de atelier
+Forma H
+s
+b
+Pila lata, varf tesit de atelier
+334
+337
+337
+338
+339
+340
+340
+340
+341
+340
+Abaterea limita de la valoarea nominala pentru b: ± 1 mm
+Abaterea limita de la valoarea nominala pentru s: 
+± 0,5 mm pentru pilele cu lungimi ≤ 250 mm
+± 1,0 mm pentru pilele cu lungimi > 250 mm
+Unghiul danturii 65º ± 5º (pe latura ingusta 90º ±  10º)
+DIN
+7261
+Forma
+G
+DIN
+7276
+Forma
+E
+DIN
+7261
+Forma
+E
+DIN
+7261
+Forma
+F
+DIN
+7261
+Forma
+C
+DIN
+7261
+Forma
+D

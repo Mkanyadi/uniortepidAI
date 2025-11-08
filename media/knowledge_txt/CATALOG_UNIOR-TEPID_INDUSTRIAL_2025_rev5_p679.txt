@@ -1,0 +1,121 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:679]
+UB-412HE
+HYCP-630HE
+Cap hidraulic pentru sertizat maxim 400 mm²
+• bacuri compatibile CU 16/25/35/50/70/95/120/150/185/240/300/400 (nu sunt incluse)
+• compresie maxima conectori Cu 400 mm²
+• pentru bacuri Alcoa, Burndy, T&B, Klauke, Cembreand si Blackburn pana la 12 tone
+• forma C pentru acces facil
+• actionare cu pompa hidraulica cu presiunea uleiului de 700 bar (10.000 PSI)
+• bacurile sunt usor de schimbat
+• cilindru cu simpia actionare si arc de revenire
+• cutie plastic
+Cap hidraulic pentru sertizat maxim 630 mm²
+• bacuri compatibile Alcoa, Burndy, T&B, Klauke, Cembreand si Blackburn (nu sunt incluse)
+• forma U rezistenta si solida, fixare sigura cu pin
+• actionare cu pompa hidraulica cu presiunea uleiului de 700 bar (10.000 PSI)
+• bacurile sunt usor de schimbat
+• cilindru cu simpia actionare si arc de revenire
+• cutie plastic
+Deschidere falci: 32 mm
+Ø
+1
+1
+Ø
+1
+1
+UB-412HE
+400 mm²
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+4200
+400 mm²
+11.6 tone (114 kN)
+53 cc
+700 bar
+258 mm
+4.2 kg
+4468.03
+HYCP-630HE
+630 mm²
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+7974.59
+5700
+630 mm²
+24.91 tone (221.6 kN)
+89 cc
+700 bar
+320 mm
+5.7 kg
+HYCP-4413HE
+HYCP-15THE
+Cap hidraulic pentru sertizat maxim 400 mm²
+• bacuri compatibile CU 16/25/35/50/70/95/120/150/185/240/300/400 (nu sunt incluse)
+• pentru toate bacurile utilizate cu scule de pana la 12 tone
+• forma C pentru acces facil
+• actionare cu pompa hidraulica cu presiunea uleiului de 700 bar (10.000 PSI)
+• bacurile sunt usor de schimbat
+• cilindru cu simpia actionare si arc de revenire
+• cutie plastic
+Cap hidraulic pentru sertizat maxim 400 mm²
+• bacuri compatibile Alcoa, Burndy, T&B, Klauke, Cembreand si Blackburn (nu sunt incluse)
+• compatibil cu bacuri BURNDY P
+• pentru toate bacurile utilizate cu scule de pana la 12 tone
+• forma C pentru acces facil
+• actionare cu pompa hidraulica cu presiunea uleiului de 700 bar (10.000 PSI)
+• bacurile sunt usor de schimbat
+• cilindru cu simpia actionare si arc de revenire
+• cutie plastic
+Deschidere falci: 44 mm
+Deschidere falci: 50.6 mm
+Ø
+1
+1
+Ø
+1
+1
+HYCP-4413HE
+400 mm²
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+4977.05
+5100
+400 mm²
+14.01 tone (124.6 kN)
+80 cc
+700 bar
+276 mm
+5.1 kg
+HYCP-15THE
+400 mm²
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+6221.31
+6800
+400 mm²
+15.57 tone (138.5 kN)
+104 cc
+700 bar
+375 mm
+6.8 kg

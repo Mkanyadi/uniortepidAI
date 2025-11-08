@@ -1,0 +1,128 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:700]
+680.1/4
+Surub
+•  material:otel special de scule
+•  forjata, tratament termic total
+•  acoperire:brunare
+M
+623062 Tr 10 x 1,5
+623063
+Tr 14 x 2
+623064
+Tr 18 x 2
+623065
+Tr 26 x 3
+680.2/2
+L
+114
+173
+239
+311
+S
+14
+17
+22
+32
+75
+195
+510
+1270
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+Brat
+•  material: compozitie speciala pentru calire revenire
+•  forjat, tratat complet
+•  suprafata: cromata in concordanta cu standardul EN 12540
+L
+70
+105
+170
+220
+A
+2,6
+3,5
+6,5
+7
+B
+10
+15,5
+19
+22
+C
+7,5
+10
+20
+22,5
+56
+155
+352
+700
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+623069
+623070
+623071
+623072
+135
+Extractoare cu doua brate reglabile
+• cu surub de fixare a bratelor
+• pentru spatii extrem de inguste
+• surub (filet x lungime): G 1/2”x 14 x 270 mm
+1
+1
+1
+1
+1
+1
+1
+1
+52.67
+66.79
+90.54
+225.15
+29.43
+37.52
+60.25
+117.05
+a
+b
+c
+d
+Diametru       Lungime           Nm         tone      SW     a      b     c      d          
+50 - 300
+50 - 400
+50 - 500
+250
+400
+500
+120
+120
+120
+48
+48
+48
+30
+30
+30
+25
+25
+25
+22
+22
+22
+6
+6
+6
+5
+5
+5
+1046.66
+1293.30
+1487.99
+135-3
+135-5
+135-7

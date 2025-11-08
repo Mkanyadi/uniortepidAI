@@ -1,0 +1,159 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:727]
+1723.SDL
+NOU
+1625.2/2BB90
+NOU
+1726.BL2
+NOU
+Inel din plastic pentru 1625/2BB90
+Cheie pentru inel de blocare Shimano
+Direct Mount
+•  compatibila cu toate bratele pedalier Shimano cu prindere
+Direct Mount din seriile M9100, M8100, M7100 si M6100
+•  inlocuieste unealta Shimano TL-FC41
+•  fabricata din aluminiu, prelucrata CNC, anodizata rosu
+•  compatibila cu cheile noastre tip crowfoot 1725/CF si cheile
+dinamometrice cu patrat de 1/2"
+•  proiectata pentru a functiona conform specificatiilor Shimano,
+asigurand o instalare si demontare corecta
+Cheie pentru inel de blocare
+Bosch Gen 2
+• proiectata pentru montarea si demontarea inelelor de blocare
+ale angrenajului pe motoarele Bosch® Gen 2 pentru biciclete
+electrice
+• prelucrata cu precizie CNC din otel carbon premium flex plus,
+pentru durabilitate si performanta superioara
+• prindere integrata de 1/2" – compatibila cu clichetul, manerul
+fix si cheile dinamometrice din gama noastra
+• compatibila cu sistemele Bosch Active Line, Performance Line
+si Performance Line CX (incepand cu anul de fabricatie 2014), 
+cu diametru exterior de 50 mm al inelului de blocare
+• poate fi folosita ca inlocuitor fiabil pentru unealta Bosch® 
+cod 0275009003
+B
+30
+D
+46
+SW
+32
+D1
+45
+D2
+25
+626643
+58
+205.25
+1625/2BB90
+Scula pentru inlocuirea axului 
+pedalier BB90
+• scula este destinata inlocuirii axului pedalier nefiletat cu 
+rulment si bucsa de la sistemul BB90.Suporta si alte sisteme 
+de presare standard cu arbore de 24 mm cum ar fi BB86, 
+BB92, SRAM Press Fit GXP
+• scula va impinge afara rulmentul si bucsa din cadru
+• se introduce cu atentie capul de ghidare al sculei prin bucsa
+axului pedalier ( marcata cu verde)
+627229
+2
+ 4B 
+1
+16.72
+1625.1/2BB90
+NOU
+Cap de ghidare pentru 1625/2BB90
+mm
+22
+24
+627231
+627230
+ 1625.2/2
+33
+34
+ 4B 
+ 4B 
+1
+1
+46.56
+46.56
+NOU
+Inel din plastic pentru 1625/2 - BB30
+A B D D1
+623085 55 54 26.6 24.5 13 318
+ 1G
+1
+263.55
+627228
+1625/2
+2
+ 4B 
+1
+16.72
+1625.4/2
+NOU
+Extractor BB30 pentru 1625/2
+Scula brat inferior pentru BB30
+• aceasta scula este construita pentru a monta/demonta 
+rulmentii bratelor inferioare nefiletati ai sistemelor de brate 
+inferioare BB30. 
+• scula va muta rulmentii din carcasa bratelor inferioare BB30
+629236
+24
+ 4B 
+1
+38.36
+ 1625.3/2
+NOU
+Extractor DUB pentru 1625/2
+SW
+D
+D1
+629466
+24
+1/2”
+50.8
+46.4
+B
+32
+B1
+4.7
+151
+148.69
+1613/2CF
+Cheie de pedala Crowfoot 
+•  Crowfoot este compatibil cu cheile dinamometrice de 1/2" si 
+este folosit pentru a verifica daca pedalele sunt stranse pentru 
+a corecta specificatiile
+•  cand este utilizat cu clichet de 1/2" sau maner fix, poate fi 
+folosit si ca cheie de pedala obisnuita
+•  decupat cu laser din otel pentru scule si tratat termic pentru 
+rezistenta si durabilitate
+629071
+15
+57
+50.47
+1671.1/4
+Scula pentru ax pedalier
+• material: otel de scule calit si revenit
+• pentru: ShimanoZ, ISIS
+Utilizare:
+• Folositi scula de pinioane impreuna cu antrenorul de 1/2"
+art.190.1A BI.
+629235
+22
+ 4B 
+1
+37.21
+626282 80
+55
+46
+13 345
+ 1G
+1
+270.49
+616068
+ 4B 
+10
+10
+98.49
+H
+D D1

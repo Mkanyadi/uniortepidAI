@@ -1,0 +1,131 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:496]
+ZE 4B
+ZE 8
+ZEV 11
+Arbore carote cu tija hexagonala 11 mm
+(32-250 mm) cu burghiu de centrare
+de 102 mm
+• coada hexagonala 11 mm
+• tija hexagonala 11 mm (pentru carote 32-250 mm) cu burghiu 
+pilot 6,3 mm / 102 mm
+• potrivit pentru carote Art. 30, Art. 31, Art. 31XL, Art. 32, Art. 33/S
+Arbore carote cu tija hexagonala 9,5 mm
+(32-250 mm), cu arc ejector
+• coada hexagonala 9,5 mm
+• tija hexagonala cu ejectare dop, 9,5 mm (32-250 mm) cu 
+burghiu pilot lungime, 102 mm
+• potrivit pentru carote Art. 30, Art. 31, Art. 31XL, Art. 32, Art. 33/S
+Prelungitor hexagonal 11 mm pentru
+carote
+• prelungitor pentru arbori: ZE 3 / ZE 4 / ZE 5
+• potrivit pentru carote Art. 30, Art. 31, Art. 31XL, Art. 32, Art. 33/S
+Art. 
+    mm           Carote
+Art. 
+    mm           Carote
+ZE 4B     30312 00001        11     32-250 mm          81.61
+ZE 8     30310 00001        9,5      32-250 mm     204.43
+ZE 5
+ZE 9
+Arbore carote cu tija hexagonal 11 mm
+(32-250 mm), cu eliberare rapida
+• coada hexagonala 11 mm
+• burghiu de centrare lung 102 mm
+• pentru carote cu diametre: 32-250 mm
+• potrivit pentru carote Art. 30, Art. 31, Art. 31XL, Art. 32, Art. 33/S
+Arbore carote cu tija hexagonala 11 mm
+(14-30 mm), cu burghiu de centrare
+de 180 mm
+• coada hexagonala 11 mm
+• burghiu de centrare lung 180 mm
+• pentru carote cu diametre: 14-30 mm
+• potrivit pentru carote Art. 31XL
+Art. 
+          mm
+ZEV 11 
+30401 00001         11 mm                78.94
+ZEB1
+Burghiu de centrare 83 mm
+• lungime: 83 mm
+• potrivit pentru carote Art. 30, Art. 31, Art. 31XL, Art. 32, Art. 33/S
+Art. 
+          mm
+ZEB1    30410 00001             83                           34.04
+ZEB2
+Burghiu de centrare 102 mm
+• lungime: 102 mm
+• potrivit pentru carote Art. 30, Art. 31, Art. 31XL, Art. 32, Art. 33/S
+Art. 
+    mm           Carote
+ZE 5     30305 00001        11      32-250 mm        92.62
+ZE 6
+Arbore carote cu tija SDS-plus 
+(14-30 mm)
+• coada: SDS-plus
+• tija SDS-plus (carote14-30 mm) cu burghiu pilot 6,3 mm / 83 mm
+• potrivit pentru carote Art. 30, Art. 31, Art. 31XL, Art. 32, Art. 33/S
+Art. 
+    tip              Carote
+ZE 6     30306 00001   SDS-plus   14-30 mm         94.12
+ZE 7
+Arbore carote cu tija SDS-plus 
+(32-250 mm)
+• coada: SDS-plus
+• tija SDS-plus (carote 32-250 mm) cu burghiu pilot 6,3 mm / 
+83 mm
+• potrivit pentru carote Art. 30, Art. 31, Art. 31XL, Art. 32, Art. 33/S
+Art. 
+    tip              Carote
+ZE 7     30307 00001    SDS-plus   32-250 mm    103.30
+Art. 
+    mm           Carote
+Art. 
+          mm
+ZE 9     30309 00001        11       14-30 mm      169.39
+ZEB2    30411 00001            102                          36.55
+1910
+Arbori pentru carote
+• executie din otel aliat, tratament termic 
+• prinderea pe filet M14
+• burghiul de centrare, executie din HSS
+AS 1 / AS 11
+AS 3 / AS 33
+AS 4
+AS 6
+      Tip                                Prindere                            Carote                               Filet
+19100900001
+19100900011
+19100900003
+19100900033
+19100900004
+19100900006
+AS 1
+AS 11
+AS 3
+AS 33
+AS 4
+AS 6
+SW 11
+SW 9,5
+SW 11
+SW 9,5
+SDS-plus
+SDS-plus
+14-30 mm
+14-30 mm
+32-210 mm
+32-210 mm
+14-30 mm
+32-210 mm
+1/2”x20
+1/2”x20
+5/8”x18
+5/8”x18
+1/2”x20
+5/8”x18
+49.18
+42.79
+77.54
+75.57
+54.43
+77.54

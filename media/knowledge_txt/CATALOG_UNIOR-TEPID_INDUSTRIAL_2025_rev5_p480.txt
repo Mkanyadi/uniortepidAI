@@ -1,0 +1,87 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:480]
+398H
+Masina de carotat portabila 2000 W Combi 
+conectare interior 1/2" si exterior 1-1/4"
+• putere motor: 2000 W.
+• SmarT-Tronic (pornire usoara)
+• sistem de protectie electrica
+• diametru maxim de gaurire beton: 150 mm 
+• diametru maxim de gaurire caramida: 200 mm
+• conectare carota 1/2 " interior si 1-1 / 4" exterior.
+• furtun de apa cu indicator de debit
+• conectare pentru apa sau praf
+• LED indicator de suprasarcina.
+• nivela dubla
+• greutate 6,5 kg.
+• 3 viteze: 450 - 1050 - 2000 RPM.
+• maner ergonomic pentru vibratii reduse si antialunecare
+• montare rapida: guler Ø60
+• lungime totala: 468 mm
+356E
+NOU
+Kit masina de carotat 2000 W Combi conectare interior 
+1/2" si exterior 1-1/4" (350H) cu stand de gaurire
+• putere motor: 2000 W.
+• avertizare electronica la suprasarcina
+• diametru maxim de gaurire beton: 150 mm 
+• diametru maxim de gaurire caramida: 200 mm
+• conectare carota 1/2 " interior si 1-1 / 4" exterior.
+• greutate 6,5 kg.
+• 3 viteze: 450 - 1050 - 2000 RPM.
+• maner ergonomic pentru vibratii reduse si
+antialunecare
+• montare rapida: guler Ø60.
+398H
+W
+2000
+1/2"
+1.1/4"
+6300
+13307.65
+356E
+W
+2000
+1/2"
+1.1/4"
+44800
+20394,92
+CORE CX 20-S3P
+353H
+Stand de gaurire cu carote
+diametru maxim 150 mm
+• pentru masini de gaurit 2000 W
+• diametru maxim de gaurire: 150 mm
+• lungime maxima de lucru: 560 mm
+• dimensiuni 45 x 23 x 90 cm
+• greutate 8 kg
+354H
+Stand de gaurire cu carote
+diametru maxim 250 mm
+• pentru masini de gaurit 2500 W si 3400 W
+• diametru maxim de gaurire: 250 mm
+• lungime maxima de lucru: 700 mm
+• dimensiuni 46 x 27 x 120 cm
+• greutate 15 kg
+355H
+Stand de gaurire cu carote
+diametru maxim 350 mm
+• pentru masini de gaurit 2500 W, 3300 W, 3400 W
+• diametru maxim de gaurire: 350 mm
+• lungime maxima de lucru: 600 mm
+• dimensiuni 46 x 27 x 120 cm
+• greutate 22 kg
+Ø maxim
+Ø maxim
+Ø maxim
+353HD150
+150 mm
+8000
+6539,02
+354HD250
+250 mm
+15000
+8916,56
+355HD350
+350 mm
+22000
+11814,43

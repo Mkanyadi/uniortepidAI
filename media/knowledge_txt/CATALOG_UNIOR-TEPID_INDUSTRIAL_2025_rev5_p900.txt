@@ -1,0 +1,146 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:900]
+98-850Z
+C-370-B
+913-VAT1Z
+Compresmetru pentru motoare 
+diesel VL
+• compresmetru cu citire directa a presiunii 0-70 bari
+• include instructiuni de utilizare pentru fiecare 
+tip de vehicol
+Tester universal
+• tester de tensiune pana la 690VAC (16 2 / 3-800Hz) / 750VDC.
+• livrat cu cabluri
+• indicator luminos rosu de tensiune periculoasa
+• autonomie de 7000 de masurători de 10 secunde.
+• dimensiuni: 163 x 64 x 40 mm.
+• condiții de utilizare: de la -15 ° C la + 45 ° C.
+• CAT IV - 600V 
+Kit pentru calarea distributiei 
+la motoare pe benzina ale grupului 
+Volkswagen 1.0, 1.2, 1.4 L
+• Volkswagen : Beetle/Coccinelle/Maggiolino 2015 à 2017, 
+Caddy/Caddy Max 2015 pana in  2017, CC 2015 pana in 2017, 
+Jetta 2012 pana in 2017, Passat 2014 pana in 2017, Polo 2012 
+pana in 2017, Scirocco 2014 pana in 2017, Sharan 2015 pana
+in 2017, Tiguan 2015 pana in 2017, Auran 2015 pana in 2017, 
+Golf 2012 pana in 2017, Up ! 2011 pana in 2016, 
+• Seat : Alhambra 2015 pana in 2017, Ibiza 2015 pana in 2016, 
+Leon 2012 pana in 2017, Aledo 2015 pana in 2017, Mii 2012 
+pana in 2017, 
+• Skoda : Octavia III 2013 pana in 2015, Citigo 2011 pana in 
+2017, Fabia III 2014 pana in 2017, Yeti 2014 pana in 2015, 
+• Audi : A1 2012 pana in 2017, A3 2012 pana in 2017, Q2 2016 
+pana in 2017, Q3 2014 pana in 2017
+• 1,0 : CHYA, CHYB, CPGA, 
+• 1,2 : CJZA, CYVB, CJZC, CJZD, CJZB, CYVA, CYVD, 
+• 1,4 : CPTA, CZCA, CZEA, CXSB, CMBA, CXSA, CUKB, 
+CPWA, CZDA, CHPB, CUKC, CHPA, CPVB, CPVA, CRJA, 
+• 1,6 : CWVA, CWVB
+C370B
+Dimensiune
+0 - 75 bar
+1
+2500
+10826.23
+Dimensiune
+1
+400
+3724.59
+FL-11
+98-850Z
+99-REN
+Kit pentru calarea 
+distributiei la motoare diesel 
+si benzina Renault
+• motoare Diesel: 1.5dCi K9K, 1.9dCi F9Q, 2.2dCi G9T,
+ 2.5dCi G9U. 1.6D F8M, 1.9D F8Q, 1.9D Turbo F8Q, 
+1.9dTi F9Q, 2.1D Turbo J8S, 2.2D/Turbo G8T
+• motoare cu benzina: 1.4 16v. K4J, 1.6 16v. K4M, 
+1.8 16v. F4P, 2.0 16v. F4R, 1.2 D7F / E7F, 1.2 16v D4F,
+1.4 E7J, 1.8 F3P, 1.8, 16v F7P, 2.0 F3R / J7R,
+2.0 16v F7R, 2.2 J7T
+• Renault : Clio, ClioII/Campus, Clio II, Clio III, Modus,
+Logan, Megane, Megane II, Scenic/RX4,
+Scenic/Grand Scenic II, Laguna, Laguna II,
+Espace/Grand Espace, Kangoo, Trai c, II,
+Megane Scenic, R19, Safrane, R5/Van,
+Extra/Rapid/Express, Trai c, Twingo, Master II
+Multimetru
+• special concepute pentru aplicatii in domeniul auto
+• tensiune curent continuu 3.2V - 1000V si tensiune 
+curent alternativ 3.2V - 750V
+• curent continuu 32mA - 10A si curent alternativ 32-300 mA
+• rezistor 320 - 32 Ohms
+• banda de frecventa 0.01 Hz - 32kHz
+• test dioda
+• tachometru 0 - 12,000 revs
+• temperatura optima de masurare 20°C to +1370°C 
+sau 0°F to 2000°F
+• display numeric, bara grafica, anti-soc
+• indicator de baterie descarcata
+• oprire automata (dupa 10 minute)
+• setul de livrare include: cablu, sonda de temperatura, 
+traductor de curent tip cleste
+Dimensiune
+6 - 690 V
+1
+150
+1593.44
+913-VAT1Z
+SDP-16
+Cheie profil XZN pentru buson 
+schimbare ulei la cutia de viteze
+• pentru VAG, Porsche
+• pentru patrat de antrenare de 1/2"
+1/2”
+Dimensiune
+SDP-16
+M16 x 60 mm
+L
+60
+l
+21
+1
+90
+211.80
+STR-10
+Cheie profil triunghiular pentru 
+buson schimbare ulei la cutia de 
+viteze
+• pentru Peugeot, Renault
+• pentru patrat de antrenare de 3/8"
+3/8”
+Dimensiune
+M16 x 60 mm
+L
+-
+l
+-
+1
+40
+243.93
+STR-10
+EX-370B
+Ciocan inertial
+• filet: M22 x 200
+• lungime: 760 mm
+• greutate: 5.670 Kg 
+Filet
+EX370B
+M22 x 200
+L
+760
+1
+5670
+1855.74
+Dimensiune
+99REN
+1
+4940
+10987.45
+FL11
+CAT II 1000V
+Dimensiune
+1
+650
+3194.26

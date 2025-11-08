@@ -1,0 +1,182 @@
+[SOURCE:CATALOG_INDUSTRIAL_UNIOR-TEPID_2025-2026_-_SCULE_PENTRU_MONTAT_PODELE_SCULE_PENTRU_MONTAT_PLACI_CERAMICE_web] [PAGE:53]
+TV L20
+NOU
+ 269455
+C-364-C
+NOU
+269555
+C-364-C
+NOU
+Vantuza pentru placi ceramice 
+cu acumulator Li-ion 18 V
+AVATAJELE PRODUSULUI
+•  forta de aspirare puternica: 50 kg capacitate de prindere pentru
+gresie si placi, ceramica, gresie, portelan, granit si marmura.
+•  potrivit pentru gresie, placi mici: pentru mutarea si relocarea 
+placilor de gresie si faianta, ceea ce imbunatateste semnificativ
+eficienta muncii
+• suctiune cu un singur buton, forta uniforma: pentru a ajusta 
+frecventa de suctiunee la dimensiunea placilor, pentru a corecta
+pozitia caramizii si a imbunatiti eficienta
+• maner antiderapant: functionare stabila si sigura
+• cap din aluminiu.
+• buton de blocare
+WEIGHT
+PLATE
+ELECTRONIC
+1.9
+ø130 mm
+6
+CONTROLLER 
+SPEED
+X
+1.3257
+1 x 2.0Ah
+1.3258
+2 x 2.0Ah
+1.3259
+1 x 4.0Ah
+1.3260
+2 x 4.0Ah
+1.3261
+2 x 5.0Ah
+1.3472
+2 x 6.0Ah
+1.3480
+Diametrul ventuzei
+Capacitate maxima
+Frecventa vibratiilor
+Greutate
+TV L20
+TV L2012 K
+TV L2022 K
+TV L2014 K
+TV L2024 K
+TV L2025 K
+TV L2026 K
+250155
+C-364-C
+X
+X
+491.80
+819.67
+1098.36
+1065.57
+1491.80
+2131.15
+2409.84
+130 mm
+50 kg
+6 viteze
+1,9 kg
+Ventuza simpla pentru ridicare 
+diametru 120mm
+• 1 cap Ø 120 mm
+• aliaj de aluminiu
+• capacitate maxima pentru asezarea podelei: 40-50 kg
+• capacitate maxima de montare pe perete: 30-40 kg
+• pentru placi si suprafete netede
+Ventuza electrica cu dubla
+garnitura 198 mm
+• dubla garnitura.
+• functionare automata ON/OFF: pompa se opreste automat
+cand presiunea necesara este atinsa (-450 mmHg).
+• reglare automata a presiunii: daca presiunea scade sub 
+-350 mmHg, pompa reporneste si creeaza din nou vid pana la 
+-450 mmHg.
+• dotata cu manometru pentru verificarea presiunii = siguranta
+si fiabilitate.
+• buton ON/OFF cu dubla apasare pentru eliberarea presiuni
+si limba de desprindere rapida.
+• maner anti-alunecare.
+• potrivita pentru suprafete netede si rugoase.
+• include cutie de transport si husa de protectie.
+• certificare CE.
+Ventuza electrica cu display
+digital
+• ventuza electrica profesionala cu display digital, 
+ideala pentru manipularea in siguranta a placilor mari, 
+sticlei sau suprafetelor netede si rugoase. Sistemul 
+inteligent cu functie automata de pornire/oprire si reglare 
+a presiunii asigura eficienta, siguranta si confort in utilizare.
+• display digital pentru monitorizarea presiunii in timp real - 
+siguranta si fiabilitate sporita
+• presiune reglata automat:
+• pompa se opreste la 200 kg afisat
+• daca presiunea scade sub 160 kg, pompa se reactiveaza automat
+• buton ON/OFF cu dubla apasare pentru eliberare rapida
+• baza cu dublu buza – asigura aderenta puternica si etansa
+• potrivita pentru suprafete netede si rugoase
+• include husa de protectie si cutie de transport
+• certificare CE
+Specificatii tehnice:
+• diametru: 198 mm
+• lungime maner: 110 mm
+• greutate neta: 0,922 kg
+• capacitate maxima: 130 kg
+• baterie integrata: 3.7 V - 900 mAh Li-ion
+• putere nominala: 3 W
+• autonomie: aprox. 8 ore
+• cablu de incarcare: USB-C
+• timp de incarcare: 2 ore
+Specificatii tehnice:
+• diametru ventuza: 198 mm
+• lungime maner: 110 mm
+• capacitate maxima reala: 130 kg
+• greutate neta: 1,06 kg
+• baterie incorporata: 3,7 V – 1800 mAh Li-ion
+• putere nominala: 6,6 Wh
+• autonomie: 8–10 ore
+• timp de incarcare: aprox. 3 ore
+• cablu de incarcare: USB-C inclus
+mm
+198
+max.kg
+130
+L
+110
+922
+305.59
+ 269555
+mm
+198
+max.kg
+130
+L
+110
+1060
+305.59
+ 269455
+250255
+C-364-C
+Ventuza dubla pentru ridicare 
+diametru 120 mm
+• 2 capete Ø 120 mm
+• aliaj de aluminiu
+• capacitate maxima pentru asezarea podelei: 90-100 kg
+• capacitate maxima de montare pe perete: 80-90 kg
+• pentru placi si suprafete netede
+250355
+C-364-C
+Ventuza triple pentru ridicare 
+diametru 120mm
+• 3 capete Ø 120 mm
+• aliaj de aluminiu
+• capacitate maxima pentru asezarea podelei: 130-140 kg
+• capacitate maxima de montare pe perete: 120-130 kg
+• pentru placi si suprafete netede
+250155
+mm
+120
+480
+144.92
+250255
+mm
+2 x 120
+480
+197.54
+250355
+mm
+3 x 120
+1230
+270.00

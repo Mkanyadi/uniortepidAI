@@ -1,0 +1,6 @@
+﻿Django==5.1.1
+python-dotenv==1.0.1
+openai==1.51.2
+pdfminer.six==20231228
+pdf2image==1.17.0
+Pillow==10.4.0

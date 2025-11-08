@@ -1,0 +1,38 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:696]
+CORP
+1. Taiere: Bara de otel este decupata de o masina la forma ceruta; precizia decuparii asigura un surplus minim de materie prima
+2. Forjeaza: Piesele forjate sunt facute folosind turnarea la cald. Aceasta permite forme variate si ergonomice ale produselor. 
+Orientarea potrivita a fibrelor (aceeasi ca in barele de otel) este mentinuta folosind procesele corespunzatoare de forjare.
+3. Debavurare: eliminarea bavurilor dupa forjare.
+4. Operare CNC: O masina CNC este folosita pentru uzinarea precisa a capului
+extractorului, care asigura miscarea lina pe manerele mici.
+5. Filetare: Filetul de pe axul central este de mare precizie datorita formei trapezoidale care asigura o miscare usoara filetului central si 
+permite o ajustare rapida si precisa.
+6. Tratament termic (calire si revenire): Tratamentul termic de durizare si calire este folosit pentru imbunatatirea structurii 
+otelului, ca sa furnizeze o mai buna rezistenta si duritate produsului si alte caracteristici necesare pentru a depasi tensiunile pe care le 
+cere lucrul cu acest produs.
+7. Sablare: curatarea suprafetei inainte de cromare este importanta pentru marirea calitatii si durabilitatii protectiei suprafetei.
+8. Cromare: Manerul extractorului este placat cu un strat subtire si dur de oxid de crom care protejeaza contra coroziunii, uzurii si a 
+altor defecte mecanice. In acelasi timp, da intregului extractor un aspect lucios.
+AXUL CENTRAL
+9. Piesa forjata: Forjarea piesei este facuta la cald, ceea ce da forma capului.
+10. Operare CNC: Pentru a crea filetul de pe axul central foarte precis a fost folosita o masina CNC.
+11. Filetare: Filetul este de forma trapezoidala pentru a oferi o rezistenta mai buna la sarcini mari.
+12. Tratament termic (calire si revenire): Tratamentul termic de durizare si calire este folosit pentru imbunatatirea structurii 
+otelului, ca sa furnizeze o mai buna rezistenta si duritate produsului si alte caracteristici necesare pentru a depasi tensiunile pe care le 
+cere lucrul cu acest produs.
+13. Sablare: curatarea suprafetei inainte de cromare este importanta pentru marirea calitatii si durabilitatii protectiei suprafetei.
+14. Brunare: Brunarea da finisarea definitiva filetului de antrenare, apoi acesta este uns cu ulei pentru a asigura o protectie eficace.
+MANER MIC
+15. Brosarea gaurii: Brosarea interna e realizata in doua etape.Intai se da o gaura la dimensiunea dorita, apoi se realizeaza 
+brosajul la interior. Aceasta permite o miscare optima pe maner deasupra capului extractorului.
+16. Operare CNC: Manerul uzinat de o masina CNC aduce o precizei mai mare si aceasta amelioreaza functiile sculei.
+17. Tratament termic (calire si revenire): Tratamentul termic de durizare si calire este folosit pentru imbunatatirea structurii 
+otelului, ca sa furnizeze o mai buna rezistenta si duritate produsului si alte caracteristici necesare pentru a depasi tensiunile pe care le 
+cere lucrul cu acest produs.
+18. Sablare: curatarea suprafetei inainte de cromare este importanta pentru marirea calitatii si durabilitatii protectiei suprafetei. 
+19. Cromare: Manerul extractorului este placat cu un strat subtire si dur de oxid de crom care protejeaza contra coroziunii, uzurii si a 
+altor defecte mecanice. In acelasi timp, da intregului extractor un aspect lucios.
+ASAMBLARE
+20. Asamblare finala: Lucratori antrenati, indemanatici si meticulosi care executa asamblarea finala vor asambla produsul intr-un 
+intreg care asigura functionalitatea si calitatea inalta a produsului.

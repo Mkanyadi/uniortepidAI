@@ -1,0 +1,256 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:136]
+745
+Capete profil hexagon exterior de impact 3/4"
+• material: crom molibden
+• actionare: patrat 3/4”
+• conform DIN 3121 - H 20
+• deschidere: hexagon DIN / ISO 2936
+12H 3/4”
+Cap cheie tubulara impact 3/4" suport pentru bit 
+profil hexagon exterior
+• patrat de antrenare 3/4” DIN 3121 - forma H20
+Dimensiune
+HEX
+3/4" suport pentru 16 mm bit 6 laturi, 9-16 mm si 3/8"-5/8"
+3/4" suport pentru 22 mm bit 6 laturi, 17 -22 mm si 3/4"-7/8"
+3/4" suport pentru 32 mm bit 6 laturi 23-32 mm si 1"-1.1/4"
+145.77
+182.43
+199.48
+12H16
+12H22
+12H32
+745 E
+Bit de impact cu profil hexagon 16 mm
+• material: crom molibden
+• deschidere: 16 mm hexagon DIN/ISO 2936
+HX 10
+HX 12
+HX 14
+HX 17
+HX 19
+HX 22
+HX 24
+T
+L
+40
+40
+40
+40
+40
+40
+40
+45
+51
+60
+71
+79
+98
+110
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+1
+1
+1
+1
+1
+1
+1
+97.40
+97.40
+97.40
+97.40
+97.40
+99.45
+107.22
+1000074554
+1000074555
+1000074556
+1000074557
+1000074558
+1000074559
+1000074560
+745 H
+Adaptor pentru biti interschimbabili 3/4"
+• material: crom molibden
+• actionare: patrat 3/4”
+• conform DIN 3121 - H 20
+• deschidere: hexagon 16 mm
+1000074550
+16
+D2
+44
+D1
+32
+L
+52
+370
+ 1C 
+1
+274.54
+1000074505
+1000074506
+1000074507
+1000074508
+1000074509
+1000074510
+1000074511
+1000074512
+1000074513
+D2
+44
+44
+44
+44
+44
+44
+44
+44
+44
+HX 12
+HX 14
+HX 17
+HX 19
+HX 22
+HX 24
+HX 27
+HX 30
+HX 32
+L
+62
+62
+62
+62
+62
+62
+62
+62
+62
+T
+11,0
+11,0
+13,0
+18,0
+18,0
+20,0
+20,0
+20,0
+20,0
+359
+366
+378
+387
+411
+423
+462
+464
+509
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+1
+1
+1
+1
+1
+1
+1
+1
+1
+211.48
+211.48
+211.48
+211.48
+211.48
+211.48
+211.48
+211.48
+211.48
+Bit pentru cap cheie tubulara impact 3/4", profil 
+hexagon exterior
+• profil hexagon exterior DIN/ISO 2963
+HM10
+HM11
+HM12
+HM13
+HM14
+HM15
+HM16
+HM17
+HM18
+HM19
+HM20
+HM21
+HM22
+HM23
+HM24
+H06
+H07
+H08
+H09
+H10
+H12
+H13
+H14
+H16
+Dimensiune
+mm/inch
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+3/8"
+7/16"
+1/2"
+9/16"
+5/8"
+3/4"
+13/16"
+7/8"
+1"
+54.15
+54.15
+56.21
+56.21
+56.21
+64.55
+89.11
+89.11
+89.11
+89.11
+89.11
+89.11
+89.11
+145.77
+145.77
+56.21
+56.21
+60.86
+60.86
+70.82
+80.78
+80.78
+80.78
+91.18

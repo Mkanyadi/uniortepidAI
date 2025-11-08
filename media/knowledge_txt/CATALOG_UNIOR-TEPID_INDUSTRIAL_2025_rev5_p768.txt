@@ -1,0 +1,88 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:768]
+ 3200/2BI 
+ 3057/2 
+Scula de montare lant, presare si nituire pentru 
+motocicleta
+• material: otel carbon
+• suprafata: cromata in concordanta cu standardul EN 12540
+• maner ergonomic rezistent bimaterial
+• dimensiunea cutiei: 321x198x54 mm
+Utilizare:
+• pentru lanturile DID cu clasificarea 520, 525, 530 si 532
+• pentru lanturile Regina cu clasificarea 520, 525, 530
+• pentu RK a lanturilor din clasa 520, 525, 530 si 532
+• compatibil cu majoritatea angrenajelor cu lant pentru motociclete
+Demontarea lantului
+• un set robust pentru demontarea unui lant fara sa fie nevoie de polizarea axului in prealabil
+• alegeti pin-ul potrivit ( diametru Ø3, Ø4 ou Ø5mm) si piulita (Ø4 Ø5 ou Ø6 mm) care corespund 
+diametrului pinului lantului
+• introduceti pinul in scula, apoi pozitionati-o pe veriga lantului si rotiti scula pana cand pinul 
+lantului iese complet
+Montarea lantului:
+• montati lantuul dupa instuctiunile fabricantului
+• alegeti un set potrivit de adaptaore de compresie in functie de marimea placutelor (largime de 
+13.5 mm sau 16 mm)
+• instalati ansamblul in scula. Puneti scula pe veriga de legatura si comprimati veriga rotind scula 
+de nituit folosind manerul pana cand plachetele si lantul sunt strans conectate
+• dupa ce veriga de racord si plachetele sunt bine aliniate, instalati pin-ul lantului.
+• puteti alege intre trei tipuri de pini de nituire (tip A,B, sau C)
+• plasati ansamblul de poansoane in scula si rotiti manerul pentru a deforma capul axei si a-I da 
+un diametru de5.5 - 5.8mm, dupa recomandarile fabricantului respectiv
+Scula de blocare pentru variator si antrenorul de ambreiaj
+• material: compozitie speciala pentru calire revenire
+• suprafata: cromata in concordanta cu standardul EN 12540
+Avantaje:
+• este prevazut cu 3 lungimi diferite a accesoriilor care acopera mai multe tipuri de actionari
+Utilizare:
+• pentru scutere PIAGGIO, GLIERA 50-125cc ( racite cu apa sau aer)
+• are functie tripla
+• destinat imobiliazarii pinionului starterului la desfacerea partii din fata a angrenajului
+• accesorii pentru oprirea cuzinet in partea din spate a antrenarii pentru desurubarea piulitei
+• cheie pentru desurubarea piulitei interioare a partii din spate a actionarii
+623187
+A1
+8
+A2
+22
+B
+65
+C
+32.5
+S1
+34
+S2
+38
+L
+262
+319
+ 1E
+136.89
+3057.1/2
+Scula de blocare pentru variator si antrenorul de ambreiaj
+• material:compozitie speciala pentru calire revenire
+• suprafata:cromata in concordanta cu standardul EN 12540
+Utilizare:
+• destinat imobiliazarii pinionului starterului la desfacerea partii din fata a angrenajului
+• pentru scutere PIAGGIO, GLIERA 50-125cc ( racite cu apa sau aer)
+623188
+A
+5
+B
+30
+C
+32.5
+L
+120
+150
+ 1E
+65.41
+623220
+B
+40
+H
+115
+L
+270
+2490
+ 1G 
+662.62

@@ -1,0 +1,99 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:865]
+0138999S
+0055999
+Freze cu alezaj, reglabile, pentru uluc, cu
+placute brazate CMS
+• corpul realizat din otel cu cutite brazate din CMS
+• material prelucrat: lemn esente tari, esente moi, panouri aglomerate, produse sintetice
+• masini: masina normala de frezat
+• avans manual, avans mecanic
+D - diametrul exterior
+B/B1 - inaltime minima / inaltime maxima
+d - alezaj
+Z - numar de dinti + numar pretaietori
+Set freze profilate pentru mobilier antic
+• set 6 freze placate CMS pentru realizarea profilelor de mobilier
+• frezele pot fi utilizate individual sau in set
+• materiel prelucrat: lemn masiv de esente tari, sau moi, fara noduri
+• masini: masina normala de frezat
+• avans manual, avans manual
+D - diametrul exterior
+B - inaltime
+d - alezaj
+Z - numar de dinti
+D                B / B1               Z                 d
+NET PROMO
+0138999S4-8
+0138999S6-12
+0138999S8-16
+0138999S10-20
+150
+150
+150
+150
+4 / 8
+6 / 12
+8 / 16
+10 / 20
+4 + 4
+4 + 4
+4 + 4
+4 + 4
+30
+30
+30
+30
+2323,22
+2439,72
+2574,04
+2892,58
+1161.61
+1219.86
+1287.02
+1446.29
+0095999
+Freze cu alezaj, pentru imbinari, cu placute
+brazate CMS
+• corp metalic cu cutite brazate din CMS
+• material prelucrat: lemn esente tari, esente moi
+• masini: masina normala de frezat
+• avans manual, avans mecanic
+D - diametrul exterior
+B - inaltime
+d - alezaj
+Z - numar de dinti
+Ø 140
+Ø 132
+Ø 124
+Ø 50
+Ø 30H7
+D
+C
+C
+E
+A
+A
+B
+A
+F
+E
+D
+C
+B
+D
+C
+D                               B                        Z                         d
+Z                                         d
+NET PROMO
+0095999
+140
+46
+4
+30
+3699,21
+0055999
+3
+30
+9520,61
+4760.31
+NET PROMO Pret NET PROMO reprezinta pretul promotional net de facturare valabil pana la lichidarea stocului actual. Dupa reaprovizionare produsul revine la pretul de lista alaturat.

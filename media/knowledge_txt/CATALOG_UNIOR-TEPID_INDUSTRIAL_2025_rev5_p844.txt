@@ -1,0 +1,160 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:844]
+50-
+R006M-
+Freza de cant placata CMS Z-2, cu coada si 
+rulment copier superior
+• material prelucrat: materiale pe baza de lemn, laminate, placaj, lemn masiv.
+• se pot utiliza pe masini portabile de frezat
+• pentru adancimi de frezare mari, se recomanda trecerile multiple prin material
+Freza din carbura solida, cu doua muchii drepte, 
+coada 6 mm
+• material prelucrat: materiale pe baza de lemn, laminate, placaj, lemn masiv.
+• se pot utiliza pe masini portabile de frezat
+• pentru adancimi de frezare mari, se recomanda trecerile multiple prin material
+A
+D
+H
+h
+D
+A
+H
+h
+D            h              H                A                C                Z         rpm max.
+50-10308P
+50-10808P
+16
+22
+20
+20
+60
+60
+8
+8
+16
+22
+2
+2
+24000
+24000
+195.08
+205.08
+D
+32-
+Freza pentru falt, placata CMS Z-2, cu coada si 
+rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv.
+• se pot utiliza pe masini portabile de frezat cu sau fara masa
+• pentru adancimi de frezare mari, se recomanda trecerile multiple prin material
+D               h              H                  A                         Z           rpm max.
+R006M03006
+R006M05006
+R006M07406
+R006M10206
+3
+4
+5
+6
+12
+12
+16
+25
+50
+49
+51
+63
+6
+6
+6
+6
+2
+2
+2
+2
+24000
+24000
+24000
+24000
+154.75
+154.75
+169.84
+181.97
+A
+• se utilizeaza pe masini de frezat portabile sau stationare
+60-
+Arbori pentru freze
+A
+A
+A
+A
+H
+h
+H
+H
+)
+2
+(
+h
+D
+)
+2
+(
+h
+D
+H
+H
+D
+P
+C
+D
+P
+)
+1
+(
+h
+)
+1
+(
+h
+22
+22
+D            h              H                A           C           P          Z         rpm max.
+32-10008P
+32-50008P
+31,8
+34,9
+12,7
+12,7
+55,2
+55,2
+8
+8
+12,7
+12,7
+9,5
+11,1
+2
+2
+24000
+24000
+163.44
+169.18
+60-12006P
+60-10008P
+60-12008P
+D               h1             h2             C             A
+8
+8
+8
+25,4
+25,4
+25,4
+9.9
+9.9
+9.9
+22
+6
+8
+8
+70.33
+57.05
+70.33

@@ -1,0 +1,147 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:767]
+ 3056/2 
+Cap cheie tubulara
+• material: crom molibden
+• finisarea suprafetei: acoperire cromare conform ISO 1456:2009
+• conceput pentru lucrul in spatii unde nu exista suficient loc pentru antrenor standard de 
+cap tubular
+Important
+• nu va putea suporta un cuplu de strangere corespunzator normei DIN pentru capetele 
+tubulare standard
+3054/4
+Extractor volant cu filet interior
+• material: otel carbon de scule calit si revenit
+• acoperire prin brunare conform DIN 50938
+Avantaje:
+• permite inlocuirea volantei pe motociclete
+• pe fulie este un atasament pentru o cheie fixa, care ar trebui sa sustina magnetul
+Utilizare:
+• pentru demontarea fuliilor cu filet extern
+620280
+620281
+620282
+3/4"
+5/8"
+19
+L
+38,5
+38,5
+38,5
+D1
+23,9
+21,5
+23,9
+D2
+23,9
+22,5
+23,9
+61
+59
+60
+ 4B 
+ 4B 
+ 4B 
+33.11
+31.15
+33.11
+620270
+620271
+620272
+620273
+620274
+620275
+620276
+620277
+M24 x 1.5 
+M26 x 1
+M28 x 1
+M30 x 1
+M30 x 1.5
+M35 x 1.5
+M38 x 1.5
+M50 x 1.5
+D
+32
+34
+36
+38
+38
+45
+48
+60
+H
+80 
+80 
+80 
+80 
+80 
+90
+105
+105
+332
+353
+385
+417
+432
+666
+880
+1254
+ 1E
+ 1E
+ 1E
+ 1E
+ 1E
+ 1E
+ 1E
+ 1E
+81.31
+83.77
+89.51
+94.75
+96.72
+118.69
+152.13
+205.08
+ 3054.1/4 
+Protector pentru arborele cotit
+• material: otel carbon de scule calit si revenit
+• acoperire prin brunare conform DIN 50938
+• M12x1.25 (part al fuliei M24x1.5)
+• D12mm (parte a fuliei 26x1)
+• M14x1.25 (parte a fuliei M28x1)
+• M16x1,5 (face parte din extractorul M38x1,5)
+Avantaje:
+• permite protectia arborelui de transmisie tragand volanta
+ 2202.1/2 
+Piesa de presare pentru comprimare arcuri pistoane
+• material: otel carbon de scule
+• capul cheii este tratat in intregime
+• dimensiunile 17, 21, 25 pentru motociclete, 21, 25, 30, 35, 43 pentru masini
+Utilizare:
+• capacele de protectie sunt insurubate pe arborele cotit al motorului si protejeaza arborele cotit 
+atunci când magnetul este inlaturat. Capacele de protectie sunt utilizate atunci când sunt utilizate 
+piulite relativ mici pentru a fixa magnetul pe arborele cotit. Este deosebit de important sa folositi 
+capacele de protectie ale motoarelor, in cazul in care sistemul de lubrifiere pentru lubrifierea 
+rulmentilor de capat trece prin centrul arborelui cotit
+620211
+D
+43
+A
+44
+B
+75
+D1
+30
+D2
+16
+D3
+M12
+106
+156.39
+624228
+M16x1.5
+M38x1.5, M50x1.5
+60
+ 1E
+24.43
+3054/4

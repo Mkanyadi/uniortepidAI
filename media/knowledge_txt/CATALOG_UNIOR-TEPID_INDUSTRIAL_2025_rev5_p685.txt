@@ -1,0 +1,105 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:685]
+K-SW15TE
+K-SW9TM
+K-DFS8
+Despartitor hidraulic pentru flanse
+Actionare cu pompa hidraulica
+Despartitor pentru flanse
+Actionare cu cheie
+Despartitor hidraulic pentru flanse
+Actionare cu levier
+Inaltime: 288 mm
+Greutate: 7,5 kg
+■ Specificatii:
+presiune maxima: 700 bar
+necesar ulei: 79 cc
+forta exercitata: 15,6 tone / 138,9 kN
+■ Capacitate de departare:
+toleranta radiala: 33 mm
+departare maxima: 81 mm
+Concept de pana integrata: pana cu miscare paralela, fara 
+frecare, lina, elimina deteriorarea flansei si defectarea bratului 
+de actionare.
+Design unic de pana cu blocare automata: fara riscul indoire 
+si de alunecare din imbinare.
+Necesita un spatiu de acces foarte mic de numai 6 mm (.24 in).
+Numarul redus de piese mobile inseamna durabilitate sporita 
+si intretinere redusa.
+Functioneaza cu orice pompa hidraulica cu presiunea nominala 
+a uleiului de 700 bar (10.000 psi).
+■ Accesorii:
+bloc de siguranta
+cutie pentru depozitare si transport
+Inaltime: 283 mm
+Greutate: 6,0 kg
+■ Specificatii:
+forta exercitata: 9,0 tone / 80,1 kN
+■ Capacitate de departare:
+toleranta radiala: 32 mm
+departare maxima: 81 mm
+Concept de pana integrata: pana cu miscare paralela, fara 
+frecare, lina, elimina deteriorarea flansei si defectarea bratului 
+de actionare.
+Design unic de pana cu blocare automata: fara riscul indoire 
+si de alunecare din imbinare.
+Necesita un spatiu de acces foarte mic de numai 6 mm (.24 in).
+Numarul redus de piese mobile inseamna durabilitate sporita 
+si intretinere redusa.
+■ Accesorii:
+bloc de siguranta
+cutie pentru depozitare si transport
+cheie combinata cu clichet 22 mm
+Inaltime: 445 mm
+Greutate: 9,0 kg
+■ Specificatii:
+presiune maxima: 700 bar
+necesar ulei: 79 cc
+forta exercitata: 15,6 tone / 138,9 kN
+■ Capacitate de departare:
+toleranta radiala: 32 mm
+departare maxima: 81 mm
+Concept de pana integrata: pana cu miscare paralela, fara 
+frecare, lina, elimina deteriorarea flansei si defectarea bratului 
+de actionare.
+Design unic de pana cu blocare automata: fara riscul indoire 
+si de alunecare din imbinare.
+Necesita un spatiu de acces foarte mic de numai 6 mm (.24 in).
+Numarul redus de piese mobile inseamna durabilitate sporita 
+si intretinere redusa.
+■ Accesorii:
+bloc de siguranta
+cutie pentru depozitare si transport
+INCHIS
+DESCHIS
+INCHIS
+DESCHIS
+INCHIS
+DESCHIS
+BLOC DE SIGURANTA
+BLOC DE SIGURANTA
+BLOC DE SIGURANTA
+K-SW15TE
+max   t
+81
+  L
+15,6 288
+7500
+-
+8031.15
+K-SW9TM
+max   t
+81
+9,0
+  L
+283
+6000
+-
+6447.54
+K-DFS8
+max   t
+81
+  L
+15,6 445
+9000
+-
+10783.61

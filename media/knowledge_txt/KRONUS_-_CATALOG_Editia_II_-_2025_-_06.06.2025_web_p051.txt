@@ -1,0 +1,91 @@
+[SOURCE:KRONUS_-_CATALOG_Editia_II_-_2025_-_06.06.2025_web] [PAGE:51]
+®
+(cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:26)(cid:26)(cid:25)(cid:29)(cid:24)(cid:23)(cid:22)(cid:21)(cid:20)(cid:19)(cid:23)(cid:22)(cid:25)(cid:18)(cid:17)
+701663
+Set biti 31 piese
+•  PH1, 3xPH2, PH3
+•  PZ1, 3xPZ2, PZ3
+•  T10, T15, 3xT20, 3xT25, T27, 2xT30, 2xT40
+•  HX3, HX4, HX5, HX6
+•  SL4.5, SL5.5, SL6.5
+•  adaptor magnetic 60 mm
+•  material: S2
+701507
+Set biti 100 piese
+• PH 0x25, PH 1x25, 5 x PH 2x25, PH 3x25
+• PZ 0x25, PZ 1x25, 5 x PZ 2x25, PZ 3x25
+• SQ 0x25, SQ 1x25, SQ 2x25, SQ 3x25
+• TX 8, 10, 15, 20, 25, 27, 30, 40, 45
+• Clutch 1, 2, 3
+• (2x) HX 1.5, 2, 2.5, 3, 4, 5, 5.5, 6, 8
+• SL 3, 4, 4.5, 5, 5.5, 6, 6.5, 7, 8
+• TRI-WING® 1, 2, 3, 4
+• XZN M5, M6, M8
+• TORQ-SET® 6, 8, 10
+• Spanner #0, 1, 2, 3
+• TORX® cu gaura TX 8, 10, 15, 20, 25, 27, 30, 40, 45
+• HEX cu gaura (2x) HX 2, 2.5, 3, 4, 5, 6
+• TRI-WING® 1, 2, 3, 4
+• Adaptoare 1/4 - 1/4"
+• Adaptor 1/4"-C6.3
+• Adaptor tip "Y"
+• Adaptor magnetic 1/4"
+• Prelungitor 1/4” 50 mm
+71923228
+Prelungitor biti IMPACT
+• prelungitor de biti cu inel C
+• lungime totala: 75 mm
+• diametrul capului din otel inoxidabil: Ø11 mm
+• lungimea capului din otel inoxidabil: 35 mm
+• coada hexagonala 1/4" Ø5.5 mm
+• material coada: 6150
+• finisaj coada hexagonal: oxid negru
+E 6,3mm
+ ¼”
+IMPACT
+                  mm
+71923228
+75
+90
+39.20
+IMPACT
+NOU
+Prelungitor biti
+IMPACT
+duritate 50 HRc
+inel colorat
+diametru coada
+5.5 mm
+capac transparent
+lungime cap INOX
+30 mm
+clema agatare la centura
+diametru cap INOX
+11 mm
+C 6,3mm
+ ¼”
+Material
+S2
+31
+#2
+piese
+Phillips
+#2
+100
+piese
+Phillips
+C 6,3mm
+ ¼”
+Material
+CrV
+701663
+nr. piese
+31 piese
+211
+79.94
+701507
+nr. piese
+100 piese
+800
+138.65
+51

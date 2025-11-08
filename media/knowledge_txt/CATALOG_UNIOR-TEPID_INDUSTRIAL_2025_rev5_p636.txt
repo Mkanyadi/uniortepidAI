@@ -1,0 +1,210 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:636]
+AS - 1D
+AS - X
+AS - XL
+NOU
+Masca automata de sudura
+• umbra reglabila EN169 de la DIN 9 la DIN 13.
+• masca polimerica de inalta rezistenta
+• conform 89/686/CE si EN 175 / EN 379
+• alimentare cu energie prin celule solare cu circuit prin baterie AAA
+• filtre de protectie economice inlocuibile impotriva stropilor si impactului
+• ham de calitate cu banda de transpiratie si 3 ajustari ale pozitiei capului.
+• ajustare profesionala a sensibilitatii la intuneric, intarziere la lumina 
+si umbra de protectie
+Masca automata de sudura
+AVANTAJELE PRODUSULUI
+• pregatita si pentru polizare
+• raspuns foarte rapid al filtrului reglabil intre 0,1-0,9s
+• filtrul asigura protectie intre Nr. 9 si 13
+• posibilitate reglaj de timp de intarziere de revenire la clar
+• odihnitor pentru ochi
+Masca automata de sudura
+AVANTAJELE PRODUSULUI
+• special pentru TIG.
+• suprafata mare de vizualizare: 100x60mm.
+• 4 senzori.
+• alimentat cu energie solara.
+• pregătit pentru măcinare.
+• viteza de degajare reglabila.
+• baterii reincarcabile.
+AS - 1D
+1.1841
+440
+295.08
+Filtru
+110 x 90 mm
+Zona de vedere
+92 x 35 mm
+Protectie in modul de lumină
+4 DIN
+Protectie in modul intunecat
+9 / 13 DIN
+Protectie UV/IR
+15 DIN
+Timp lumina > intuneric
+1 / 20000 s
+Timp intuneric > lumina
+0 s
+Sensibilitate reglabila
+Temperatura de utilizare
+-5 / + 55 ºC
+Greutate
+440 g
+Durata de viata a filtrului
+2 ani
+AS - X
+1.1059
+500
+426.23
+AS - XL
+1.1386
+500
+737.70
+Filtru
+110 x 90 x 9 mm
+Zona de vedere
+91 x 41 mm
+Filtru
+114 x 133 mm
+Zona de vedere
+100 x 60 mm
+Protectie in modul de lumină
+4 DIN
+Protectie in modul de lumină
+4 DIN
+Protectie in modul intunecat
+9 / 13 DIN
+Protectie in modul intunecat
+5 - 9 / 9 / 13 DIN
+Protectie UV/IR
+16 DIN
+Timp lumina > intuneric
+1 / 25000 s
+Timp intuneric > lumina
+0.2 / 0.8 s
+Sensibilitate reglabila
+Protectie UV/IR
+16 DIN
+Timp lumina > intuneric
+1 / 30000 s
+Timp intuneric > lumina
+0.2 / 0.8 s
+Sensibilitate reglabila
+Temperatura de utilizare
+-5 / + 55 ºC
+Temperatura de utilizare
+-5 / + 55 ºC
+Greutate
+430 g
+Durata de viata a filtrului
+2 ani
+Potrivita pentru polizare
+Greutate
+440 g
+Durata de viata a filtrului
+2 ani
+Potrivita pentru polizare
+AS - R
+NOU
+Masca automata de sudura
+• umbra reglabila en 169 de la din 9 la din 13
+• zona de vedere 92×35 mm
+• mască polimerica de inalta rezistenta
+• senzori cu arc dublu
+• sursa de energie solara cu baterie de rezerva
+CARNIVAL 1 (AUTO)
+NOU
+CARNIVAL 3 (FIRE)
+NOU
+Masca automata de sudura
+• umbra reglabila en 169 de la din 9 la din 13
+• zona de vedere 92×35 mm
+• mască polimerica de inalta rezistenta
+• senzori cu arc dublu
+• sursa de energie solara cu baterie de rezerva
+Masca automata de sudura
+• umbra reglabila en 169 de la din 9 la din 13
+• zona de vedere 92×35 mm
+• mască polimerica de inalta rezistenta
+• senzori cu arc dublu
+• sursa de energie solara cu baterie de rezerva
+AS - R
+1.1792
+500
+311.48
+CARNIVAL 1 (AUTO)
+1.2025
+500
+360.66
+CARNIVAL 3 (FIRE)
+1.2024
+500
+360.66
+Filtru
+110 x 90 x 8 mm
+Zona de vedere
+92 x 35 mm
+Filtru
+110 x 90 x 8 mm
+Zona de vedere
+92 x 35 mm
+Filtru
+110 x 90 x 8 mm
+Zona de vedere
+92 x 35 mm
+Protectie in modul de lumină
+4 DIN
+Protectie in modul intunecat
+9 / 13 DIN
+Protectie UV/IR
+15 DIN
+Timp lumina > intuneric
+1 / 20000 s
+Timp intuneric > lumina
+0.4 s
+Sensibilitate reglabila
+X
+Protectie in modul de lumină
+4 DIN
+Protectie in modul de lumină
+4 DIN
+Protectie in modul intunecat
+9 / 13 DIN
+Protectie in modul intunecat
+9 / 13 DIN
+Protectie UV/IR
+15 DIN
+Timp lumina > intuneric
+1 / 20000 s
+Timp intuneric > lumina
+0.2 / 0.8 s
+Sensibilitate reglabila
+Protectie UV/IR
+15 DIN
+Timp lumina > intuneric
+1 / 20000 s
+Timp intuneric > lumina
+0.2 / 0.8 s
+Sensibilitate reglabila
+Temperatura de utilizare
+-5 / + 55 ºC
+Temperatura de utilizare
+-5 / + 55 ºC
+Temperatura de utilizare
+-5 / + 55 ºC
+Greutate
+500 g
+Durata de viata a filtrului
+2 ani
+Potrivita pentru polizare
+Greutate
+500 g
+Durata de viata a filtrului
+2 ani
+Potrivita pentru polizare
+Greutate
+500 g
+Durata de viata a filtrului
+2 ani
+Potrivita pentru polizare

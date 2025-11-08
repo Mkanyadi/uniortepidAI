@@ -1,0 +1,41 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:867]
+9999003EXT
+Set profil contraprofil pentru usi exterior
+• set de freze cu placute amovibile, Z2
+• realizeaza profilul si contraprofilul foii de usa cu grosimea de 68 mm
+posibilitatea de a avea 4 profile diferite, cu aceelasi corp al frezei, schimband doar setul de placute
+• material prelucrat: lemn esente tari, esente moi
+• sens de rotatie: dreapta
+• masini: masina normala de frezat
+• avans manual
+D - diametrul exterior
+B - inaltime
+d - alezaj
+Z - numar de dinti
+68
+68
+68
+68
+68
+68
+1
+5
+1
+6
+1
+8
+1
+7
+1
+9
+2
+0
+                                                                     B                                                                        Z                                                               d
+NET PROMO
+9999003EXT
+68
+2
+30
+18466,60
+9233.30
+NET PROMO Pret NET PROMO reprezinta pretul promotional net de facturare valabil pana la lichidarea stocului actual. Dupa reaprovizionare produsul revine la pretul de lista alaturat.

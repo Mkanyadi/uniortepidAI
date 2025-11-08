@@ -1,0 +1,465 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:841]
+PF10MD - PF10MS
+Burghiu placat CMS pentru gauri strapunse
+• pentru masini de gaurit multiplu.
+• utilizate pentru realizarea gaurilor strapunse in lemn sau PAL melaminat
+• placuta cu varf de centrare din carbura solida
+• surub M5x10 mm de reglaj pe coada burghiului
+• coada cilindrica aplatizata cu dimensiunea de 10x25 mm
+Ø10
+Ø10
+A
+5
+2
+A
+5
+2
+Right
+Dreapta
+Left
+Stanga
+H
+H
+h
+h
+D
+D
+D                h              H                  A                  Z              sens
+PF10MD AC3
+PF10MD BC3
+PF10MD CC3
+PF10MD DC3
+PF10MD EC3
+PF10MD GC3
+PF10MS AC3
+PF10MS BC3
+PF10MS CC3
+PF10MS DC3
+PF10MS EC3
+PF10MS GC3
+5
+6
+7
+8
+10
+12
+5
+6
+7
+8
+10
+12
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+70
+70
+70
+70
+70
+70
+70
+70
+70
+70
+70
+70
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+dreapta
+dreapta
+dreapta
+dreapta
+dreapta
+dreapta
+stanga
+stanga
+stanga
+stanga
+stanga
+stanga
+PF06MD - PF06MS
+Burghiu placat CMS pentru gauri infundate
+• pentru masini de gaurit multiplu.
+• utilizate pentru realizarea gaurilor oprite (infundate) in lemn sau PAL melaminat
+• placuta cu varf de centrare din carbura solida
+• surub M5x10 mm de reglaj pe coada burghiului
+• coada cilindrica aplatizata cu dimensiunea de 10x25 mm
+128.36
+137.38
+144.92
+141.48
+164.43
+193.11
+128.36
+137.38
+144.92
+141.48
+163.61
+193.11
+Ø10
+Ø10
+Right
+Dreapta
+A
+0
+3
+-
+7
+2
+A
+Left
+Stanga
+0
+3
+-
+7
+2
+H
+H
+h
+h
+D
+D
+D                h              H                  A                  Z              sens
+PF06MD AC3
+PF06MD BC3
+PF06MD CC3
+PF06MD DC3
+PF06MD EC3
+PF06MD FC3
+PF06MD GC3
+PF06MD HC3
+PF06MD IC3
+PF06MD KC3
+PF06MS AC3
+PF06MS BC3
+5
+6
+7
+8
+9
+10
+12
+14
+15
+16
+5
+6
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+70
+70
+70
+70
+70
+70
+70
+70
+70
+70
+70
+70
+10x30
+10x30
+10x30
+10x30
+10x30
+10x30
+10x30
+10x30
+10x30
+10x30
+10x30
+10x30
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+dreapta
+dreapta
+dreapta
+dreapta
+dreapta
+dreapta
+dreapta
+dreapta
+dreapta
+dreapta
+stanga
+stanga
+96.23
+102.13
+123.11
+108.03
+145.41
+125.25
+149.18
+208.69
+218.69
+251.31
+96.23
+102.13
+D                h              H                  A                  Z              sens
+7
+8
+9
+10
+12
+14
+15
+16
+35
+35
+35
+35
+35
+35
+35
+35
+70
+70
+70
+70
+70
+70
+70
+70
+10x30
+10x30
+10x30
+10x30
+10x30
+10x30
+10x30
+10x30
+2
+2
+2
+2
+2
+2
+2
+2
+stanga
+stanga
+stanga
+stanga
+stanga
+stanga
+stanga
+stanga
+123.11
+108.03
+145.41
+125.25
+149.18
+208.69
+218.69
+251.31
+PF06MS CC3
+PF06MS DC3
+PF06MS EC3
+PF06MS FC3
+PF06MS GC3
+PF06MS HC3
+PF06MS IC3
+PF06MS KC3
+PC04MD
+Burghiu precizie placat CMS pentru gauri mari
+• pentru masini de gaurit multiplu
+• utilizate pentru realizarea gaurilor pentru balamale sau gaurilor oprite (infundate ) in lemn 
+sau PAL melaminat
+• placuta cu varf de centrare din carbura solida
+• surub M5x10 mm de reglaj pe coada burghiului
+• coada cilindrica aplatizata cu dimensiunea de 10x25 mm
+Ø10
+Right
+Dreapta
+5
+2
+H
+D
+D                     H                         A                          Z
+12
+14
+15
+16
+18
+20
+22
+25
+26
+30
+35
+38
+40
+50
+60
+PC04MD 123
+PC04MD 143
+PC04MD 153
+PC04MD 163
+PC04MD 183
+PC04MD 203
+PC04MD 223
+PC04MD 253
+PC04MD 263
+PC04MD 303
+PC04MD 353
+PC04MD 383
+PC04MD 403
+PC04MD 503
+PC04MD 603
+04-
+57,5
+57,5
+57,5
+57,5
+57,5
+57,5
+57,5
+57,5
+57,5
+57,5
+57,5
+57,5
+57,5
+57,5
+57,5
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+10x25
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+Freza din carbura solida, cu doua muchii drepte
+• material prelucrat: placaj, lemn masiv. 
+• se pot utiliza atat pe CNC, cat si pe masini portabile de frezat
+• pentru adancimi de frezare mari, se recomanda trecerile multiple prin material
+192.46
+192.46
+212.79
+215.25
+220.49
+230.49
+233.61
+227.70
+233.61
+231.80
+237.70
+327.05
+319.02
+1002.95
+1196.07
+D
+h
+H
+A
+D
+D                 h                  H                 A                Z               rpm max.
+04-09908P
+04-10108P
+04-11308P
+04-11008P
+3
+4
+5
+6
+9,5
+15,8
+12,7
+25,4
+44,5
+44,5
+50,8
+76,2
+8
+8
+8
+8
+2
+2
+2
+2
+24000
+24000
+24000
+24000
+139.51
+164.92
+143.11
+203.28

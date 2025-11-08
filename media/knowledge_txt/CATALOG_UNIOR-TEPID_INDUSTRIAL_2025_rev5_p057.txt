@@ -1,0 +1,80 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:57]
+10807
+10707
+Set chei cu profil TORX in suport
+de plastic TX10-TX40 / 7 piese
+Set chei cu profil TORX Tamper
+ cu gaura in suport de plastic
+TX10-TX40 / 7 piese
+10814
+Set chei cu profil TORX in husa
+de plastic TX6-TX55 / 14 piese
+10807
+TX 10 - TX 40 / 7
+233
+77.21
+(TX 10, TX 15, TX 20, TX 25, TX 27, TX 30, TX 40)
+10907
+Set chei lungi cu profil TORX in 
+suport de plastic TX10-TX40 / 
+7 piese
+10707
+TX 10 - TX 40 / 7
+327
+144.59
+(TX 10, TX 15, TX 20, TX 25, TX 27, TX 30, TX 40)
+11907
+Set chei cu profil TORX 
+cromate in suport de plastic 
+TX10-TX40 / 7 piese
+10814
+TX 6 - TX 55 / 14
+650
+240.66
+(T6; T7; T8; T9; T10; T15; T20; T25; T27; T30; T40;
+T45; T50; T55)
+10897
+Set chei cu profil TORX in husa
+de plastic TX6-TX20 / 7 piese
+10907
+TX 10 - TX 40 / 7
+325
+98.36
+10897
+TX 6 - TX 55 / 7
+90
+103.11
+(T6, T7, T8, T9, T10, T15, T20)
+(TX 10, TX 15, TX 20, TX 25, TX 27, TX 30, TX 40)
+11907
+TX 10 - TX 40 / 7
+327
+86.89
+(TX 10, TX 15, TX 20, TX 25, TX 27, TX 30, TX 40)
+10910
+10007
+Set chei cu profil TX in 
+suport de plastic
+TX10-TX40 / 7 piese
+220/7TXNPH
+Set de chei cu profil TX in
+suport de plastic
+TX8-TX40 / 9 piese 
+Set chei cu profil TORX in husa
+de plastic TX10-TX55 / 10 piese
+10007
+TX 10 - TX 40 / 7
+325
+107.38
+(TX 10, TX 15, TX 20, TX 25, TX 27, TX 30, TX 40)
+617077
+TX 8 - TX 40 / 9
+135
+171.48
+ 220/7TN (TX 8, TX 9, TX 10, TX 15, TX 20, TX 25, TX 27, 
+TX 30, TX 40)
+10910
+TX 10 - TX 55 / 10
+1000
+139.18
+(T10, T15, T20, T25, T27, T30, T40, T45, T50, T55)

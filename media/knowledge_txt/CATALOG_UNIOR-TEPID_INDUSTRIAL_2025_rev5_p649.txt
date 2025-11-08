@@ -1,0 +1,142 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:649]
+57073
+NOU
+1516
+Biax pneumatic drept
+•  viteza de rotatie 25000 rotatii/minut
+•  presiunea maxima de aer comprimat: 6,2 Bar
+•  consum de aer comprimat 113 l/min
+•  racord de aer 1/4"
+•  capacitate de prindere mandrina 6 mm
+•  diametrul interior furtun 10mm
+Avantaje:
+•  levier de siguranta care previne pornirea 
+accidentala
+•  prindere simpla a discurilor de slefuire si a 
+celorlalte parti/extensii
+•  putere mare bazata pe marime
+•  scula mica si compacta
+•  reglare continua si variabila a rotatiei
+Utilizare
+•  polizare precisa
+•  polizare completa
+•  scula industriala
+•  industria auto
+•  industria aerospatiala
+•  curatarea sudurii
+•  curatarea betonului si a suprafetelor de pereti
+•  curatirea suprafetelor de lemn
+•  inlaturarea vopselelor si a lacurilor
+•  inlaturarea ruginii
+•  curatire rulmenti
+•  curatire valve motor
+•  curatire piniane si ambreiaje
+•  alte suprafete diverse
+Masina de gaurit pneumatica unghiulara
+1800 rpm cu mandrina 10 mm
+AVANTAJELE PRODUSULUI
+• usor de utilizat datorita designului ergonomic si greutatii reduse
+• nivel redus de zgomot
+• consum redus de aer
+• presiune de lucru de 6.3 bar
+• nivel redus de vibratii
+• reversibila
+• usor de utilizat cu o mana
+57073
+rpm
+1800
+Putere
+Tutatii
+Capacitate mandrina
+Filet
+Diametru interior recomandat furtun
+Consumul de aer
+Racord aer
+Vibratii
+Presiune de lucru
+Nivel de zgomot
+2029.14
+900
+0,373 kW
+1800 rpm
+10 mm
+3/8”-24
+3/8”
+80 LPM (2.8 CFM)
+1/4"
+<2.5 m/s² 
+6,3 bar / 85 PSI 
+90.5 dBA
+57085
+Capsator pneumatic 21
+1516A
+Biax pneumatic unghiular
+•  viteza de rotatie 20000 rotatii/minut
+•  presiunea maxima de aer comprimat: 6,2 Bar
+•  consum de aer comprimat 113 l/min
+•  racord de aer 1/4"
+•  capacitate de prindere mandrina 6 mm
+•  diametrul interior furtun 10 mm
+Avantaje:
+•  aceasta varianta unghiulara permite accesul in 
+zone dificile in care in mod normal nu se poate 
+face polizarea
+•  levier de siguranta care previne pornirea 
+accidentala
+•  prindere simpla a discurilor de slefuire si a 
+celorlalte parti/extensii
+•  putere mare bazata pe marime
+•  scula mica si compacta
+•  reglare continua si variabila a rotatiei
+Utilizare
+•  polizare precisa
+•  polizare completa
+•  scula industriala
+•  industria auto
+•  industria aerospatiala
+•  curatarea sudurii
+•  curatarea betonului si a suprafetelor de pereti
+•  curatirea suprafetelor de lemn
+•  inlaturarea vopselelor si a lacurilor
+•  inlaturarea ruginii
+•  curatire rulmenti
+•  curatire valve motor
+•  curatire pinioane si ambreiaje
+•  alte suprafete diverse
+L
+617731 155
+A
+60
+390
+ 1F 
+1
+703.28
+57085
+2449.27
+Capacitate
+155 capse
+Capacitate
+Capse
+Presiune de lucru
+Nivel vibratii
+Nivel de zgomot
+Racord aer
+Lungime
+Greutate
+900
+155 capse
+calibru 21
+6,3 bar / 90 PSI 
+<2,5m/s² 
+85,17 dBA
+1/4”
+215 mm
+0,9 kg
+L
+617732 162
+A
+76
+740
+ 1F 
+1
+911.64

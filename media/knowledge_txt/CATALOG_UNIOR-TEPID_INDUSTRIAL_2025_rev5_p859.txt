@@ -1,0 +1,177 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:859]
+99-
+99-
+Freza pentru tablii, profil vertical convex, 
+placata CMS Z2, cu coada si rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+Freza profil contraprofil cu raza, placata CMS Z2, 
+cu coada si rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+A
+99-32512P
+F03FR02503
+H
+h
+R1
+D
+TRAVERSA
+T
+N
+A
+T
+N
+O
+M
+TABLIE
+T
+N
+A
+T
+N
+O
+M
+9
+1
+A
+A
+99-26012P
+F03FR02468
+99-26012P
+F03FR02468
+R1
+22
+D
+H
+6
+R1
+H
+6
+22
+D
+Profil montant
+Profil traversa
+TRAVERSA
+99-32512P
+F03FR02503
+D               h              H              A                            R1          Z       rpm max.
+α
+9
+1
+99-26012P
+F03FR02468
+6
+10,45
+Contraprofil traversa
+99-32512P
+31,8
+41,5
+79,5
+12
+-
+38,1
+2
+24000
+347.54
+D               h              H              A            R1            R2          Z       rpm max.
+99-
+Freza pentru tablii, profil vertical drept cu colturi 
+rotunjite, placata CMS Z2, cu coada si rulment 
+copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+99-26012P
+42,9
+19
+77
+12
+5,5
+-
+2
+24000
+727.87
+99-
+Freza profil contraprofil sinusoidal, 
+placata CMS Z2, cu coada si rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+A
+99-32412P
+F03FR02502
+H
+h
+R1
+D
+TRAVERSA
+T
+N
+A
+T
+N
+O
+M
+TABLIE
+T
+N
+A
+T
+N
+O
+M
+9
+1
+TRAVERSA
+99-32412P
+F03FR02502
+A
+TABLIE
+A
+99-26112P
+F03FR02478
+99-26112P
+F03FR02478
+R1
+R2
+H
+6
+R1
+R2
+H
+6
+22
+D
+22
+D
+Profil montant
+Profil traversa
+D               h              H              A                            R1          Z       rpm max.
+α
+99-32412P
+31,8
+41,5
+79,5
+12
+15°
+4,8
+2
+24000
+347.54
+9
+1
+99-26112P
+F03FR02478
+6
+10,45
+Contraprofil traversa
+D               h              H              A            R1            R2          Z       rpm max.
+99-26112P
+42,9
+19
+77
+12
+4,5
+5,5
+2
+24000
+727.87

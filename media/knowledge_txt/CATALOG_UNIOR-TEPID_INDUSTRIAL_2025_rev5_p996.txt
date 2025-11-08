@@ -1,0 +1,273 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:996]
+NOU
+NOU
+077
+NOU
+Surubelnita TORX® cu maner
+bimaterial, antiex, Al-Bron 
+• material: Al-Bron 
+Trusa 8 surubelnite combinate
+cu maner bimaterial, antiex, 
+Al-Bron
+• material: Al-Bron
+Pila lata cu maner bimaterial, 
+antiex Cu-Be®
+• material: Cu-Be®
+35715
+35717
+35719
+74368
+35721
+35723
+35725
+35727
+T 10
+T 15
+T 20
+T 25
+T 27
+T 30
+T 40
+T 45
+B
+75
+75
+100
+125
+150
+150
+200
+250
+B
+A
+98
+98
+98
+108
+108
+108
+120
+120
+A
+67
+71
+98
+103
+108
+108
+160
+180
+356.19
+379.82
+451.20
+498.63
+569.85
+617.36
+664.78
+712.13
+NOU
+Surubelnita TORX® TAMPER
+cu maner bimaterial, antiex,
+Al-Bron 
+• material: Al-Bron 
+35701
+35703
+35705
+74350
+35707
+35709
+35711
+35713
+TT 10
+TT 15
+TT 20
+TT 25
+TT 27
+TT 30
+TT 40
+TT 45
+B
+75
+75
+100
+125
+150
+150
+200
+250
+B
+A
+98
+98
+98
+108
+108
+108
+120
+120
+A
+67
+71
+98
+103
+108
+108
+160
+180
+391.80
+415.35
+474.83
+534.24
+593.48
+652.89
+712.13
+771.70
+NOU
+Surubelnita cap tubular
+cu maner bimaterial, antiex,
+Al-Bron 
+• material: Al-Bron 
+73880
+73891
+73882
+73884
+73886
+73888
+73890
+6
+7
+8
+10
+13
+16
+17
+B
+90
+100
+100
+110
+110
+120
+120
+B
+A
+100
+110
+110
+110
+120
+120
+120
+A
+85
+95
+100
+140
+474.83
+534.24
+771.70
+890.34
+180
+1008.99
+220
+1187.13
+230
+1365.10
+76470
+8
+1500
+1727.23
+3 x 50; 4 x 100; 5 x 100; 6 x 100
+PH 1; PH2
+PZ 1; PZ 2
+NOU
+Trusa 6 surubelnite combinate
+cu maner bimaterial, antiex, 
+Al-Bron
+• material: Al-Bron
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+056 2500
+mm
+24
+L
+250
+290
+2032.79
+NOU
+Pila lata cu maner bimaterial, 
+semifina antiex Cu-Be®
+• material: Cu-Be
+L
+200
+300
+A
+20
+31
+B
+6
+8
+71607
+71608
+Pila lata cu maner lemn, 
+semifina antiex Cu-Be®
+• material: Cu-Be
+350
+3563.53
+750
+4449.33
+NOU
+76466
+6
+1200
+1418.72
+3 x 50; 4 x 100; 5 x 100; 8 x 150
+PH 1; PH2
+72237
+057
+L
+500
+A
+41
+B
+12
+1800
+8901.05
+NOU
+NOU
+Pila semirotunda cu maner 
+bimaterial, antiex Cu-Be®
+• material: Cu-Be®
+Surubelnita unghiulara
+antiex Al-Bron
+• material: Al-Bron
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+057 2500
+mm
+24
+L
+250
+380
+2032.79
+74302
+72463
+72465
+72467
+4
+6
+8
+10
+L
+125
+72
+125
+195
+50
+25
+50
+356.19
+237.38
+415.35
+125
+534.24

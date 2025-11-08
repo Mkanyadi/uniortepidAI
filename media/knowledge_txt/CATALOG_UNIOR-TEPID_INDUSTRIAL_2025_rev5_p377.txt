@@ -1,0 +1,355 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:377]
+Suruburi cu filet metric
+Ø in mm 
+Suruburi sutofiletante
+Ø in mm 
+Suruburi pentru lemn
+Ø in mm 
+Suruburi fara cap
+Ø in mm 
+Dimensiune
+in mm
+DIN 84 
+DIN 85 
+DIN 963 
+DIN 964 
+DIN 7971
+DIN 7972
+DIN 7973
+DIN 95 
+DIN 96 
+DIN 97 
+DIN 417  DIN 427 
+ a  x  b
+ISO 1207 
+ISO 1580 
+ISO 2009 
+ISO 2010 
+ISO 1418 
+ISO 1482
+ISO 1483
+1,2 / 1,4
+1,6 / 1,8 
+2,0 
+2,5 
+2,5 
+3 
+3 
+1,6
+2 
+1,6
+2 
+2,5 
+2,5 
+3 
+3 
+3 / 3,5 
+3,5 
+2,9 
+3,5 
+2,2 
+2,2 
+2,9 
+2,9 
+2,2 
+2,2 
+1,6 
+2 
+2
+2,5 
+1,6 
+2 
+2,5 
+2,5 
+1,6 
+2,5 / 3 
+2,5 / 3 
+0,4 x 2,0
+0,3 x 1,8
+3,5 
+4 
+3,5 
+4 
+2 
+2,5 
+0,4 x 2,5
+0,5 x 3,0
+0,5 x 4,0
+0,6 x 3,5
+0,6 x 4,5
+2,9 
+2,9 
+3 / 3,5 
+3 / 3,5 
+3 / 3,5 
+5 / 6 
+5 / 6 
+0,8 x 4,0
+3,5 
+3,5 
+4 
+5 
+6
+8 
+10 
+4 
+5 
+8 
+10 
+10 
+4 
+5 
+6 
+8 
+10 
+4 
+5 
+6 
+8 
+10 
+3,5 / 4 
+3,5 / 4 
+3,5 / 4 
+4 / 4,5 
+4 / 4,5 
+4 / 4,5
+3,5 
+3,5 
+0,8 x 5,5
+1,0 x 5,5
+4,2 / 4,8 
+5,5 / 6,3 
+4,2 
+4,8 
+5,5 
+6,3 
+4,2 
+4,8 
+5,5/ 6 
+5 
+5,5 
+6 
+7 
+8 
+5 / 5,5 
+6 
+7 / 8 
+5 
+5,5 
+6 
+7 / 8 
+10 
+8 
+8 
+1,2 x 6,5
+1,2 x 8,0
+10 / 12 
+10 / 12 
+1,6 x 8,0
+14 
+16 
+18 
+14 
+16 
+18 
+1,6 x 10,0
+2,0 x 12,0
+2,5 x 14,0
+2,5 x 16,0
+1200 CR
+INDUSTRY SL
+Cupluri de testare pentru biti profil lat
+1200 CR
+ISOTIN® SL
+Bit hexagonal 1/4" DIN 3126 - 
+Forma C 6,3 - profil lat
+• design de torsiune
+• duritate in conformitate cu norma DIN
+• sablat
+• protectie optima impotriva coroziunii
+DIN 3127
+GERMANY
+TORSIONFLEX
+Long
+Life
+L
+Dimensiune         L
+0,5 x 3,0
+25
+0,5 x 4,0
+25
+0,6 x 3,5
+25
+0,6 x 4,5
+25
+0,8 x 4,5
+25
+0,8 x 5,5
+25
+1,2 x 6,5
+25
+1,2 x 8,0
+25
+1,6 x 8,0
+25
+1,0 x 5,5
+25
+UUSE0112000
+UUSE0112001
+UUSE0112002
+UUSE0112303¹
+UUSE0112004
+UUSE0112305¹
+UUSE0112307¹
+UUSE0112008
+UUSE0112009
+UUSE0112306¹
+( ¹ ) profil de torsiune
+5 (A*)
+5 (A*)
+5 (A*)
+5 (A*)
+5 (A*)
+5 (A*)
+5 (A*)
+5 (A*)
+5 (A*)
+5 (A*)
+33.45
+33.45
+33.45
+33.45
+33.45
+33.45
+33.45
+33.45
+33.45
+33.45
+Tabel compatibilitate prindere biti si masini
+a x b
+0,3  x  2,0
+0,4  x  2,0
+0,4  x  2,5
+0,5  x  3,0
+0,5  x  3,5
+0,6  x  3,5
+0,6  x  4,0
+0,6  x  4,5
+0,8  x  4,0
+0,8  x  5,0
+0,8  x  5,5
+1,0  x  5,5
+1,0  x  6,5
+Nm
+0,20
+0,35
+0,45
+0,80
+0,98
+1,40
+1,61
+1,80
+2,90
+3,58
+3,90
+6,20
+7,28
+a x b
+Nm
+1,2  x  7,0
+1,2  x  8,0
+1,4  x  9,0
+11,28
+12,90
+19,70
+1,5  x  13
+32
+1,6  x  8,0
+22,90
+1,6  x  9,0
+25
+1,6  x  10
+28,70
+2,0  x  12
+2,0  x  13
+2,5  x  14
+53
+58
+98
+2,5  x  16
+112
+3,0  x  18
+Bit hexagonal 1/4" DIN 3126 - 
+Forma C 6,3 - profil lat
+• strat dublu de titanizare
+• duritatea suprafetei 3000 Vickers
+• duritatea optimizata a miezului si strat mai gros de titanizare 
+asigura o durata de viata mai lunga decat cea a unui bit TiN 
+standard
+• protectie optima impotriva coroziunii
+• potrivit pentru toate aplicatiile delicate in materiale dure si 
+moi
+• designul de torsiune combinat cu stratul ISOTIN® creste 
+rezistenta pentru un cuplu de strangere
+DIN 3127
+GERMANY
+TORSIONFLEX
+Long
+Life
+L
+UUSG0212303
+UUSG0212305
+UUSG0212306
+UUSG0212307
+Dimensiune         L
+0,6 x 4,5
+25
+0,8 x 5,5
+25
+1,0 x 5,5
+25
+1,2 x 6,5
+25
+10 (A*)
+10 (A*)
+10 (A*)
+10 (A*)
+164.17
+164.17
+164.17
+164.17
+DIN 3126, Form C 6,3 - ISO 1173
+Bosch, Fein, Holz-Her, Lecureux, Metabo 
+DIN 3126, Form C 8 - ISO 1173
+Bosch, Fein, Holz-Her, Lecureux, Metabo 
+DIN 3126, Form C 6,3 - ISO 1173
+AEG, Atlas Copco, Biax, Black & Decker, 
+Bosch, Buckeye Tools, Chicago Pneumatic, 
+Deprag, Desoutter, Gardner Denver, Hitachi, 
+Makita, Metabo, Rockwell, Skil Tool, Stanley, 
+Virax 
+1/4”
+5/16”
+1/4”
+11 mm
+7 mm
+5.5 mm
+DIN 3126, Form E 11.2 mm - ISO 1173
+AEG, Atlas Copco, Biax, Black & Decker, 
+Bosch, Buckeye Tools, Chicago Pneumatic, 
+Fein, Holz-Her, Ingersoll-Rand, Milwaukee, 
+Rotor Tool, Star, Stanley, Virax
+5/16”
+DIN 3126, Form E G 7 - ISO 1173
+Baier, Fein 
+DIN 3126, Form A 5.5 - ISO 1173
+AEG, Bosch, Holz-Her, Kress, Metabo 
+M 4 - M 6
+& 10-32 UNF
+SDS-plus®
+Buckeye Tools, Demag Pokorny, Desoutter, 
+Fiam, Grasso, Suhner
+Böllhof / Uniquick, Holz-Her, USM, DVSG, 
+Duofast
+AEG, Atlas Copco, Bosch, Hitachi, Kress, 
+Metabo

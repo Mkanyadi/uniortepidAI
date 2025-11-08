@@ -1,0 +1,202 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:836]
+GAMMA I
+INDUS
+Panza circulara placata CMS pentru taierea 
+transversala a lemnului
+Panza circulara placata CMS pentru formatizarea 
+PAL-ului melaminat pe ambele fete
+• pentru debitarea transversal pe fibra a lemnului masiv de esenta moale si tare, lemnului exotic,
+• pentru debitarea panourilor derivate din lemn si al lemnului stratificat, placaj, furnir, placilor 
+melaminate pe o fata
+• utilizare pe circulare cu masa pentru formatizat
+• ascutire alternativa
+• utilizata pentru formatizarea PAL-ului melaminat pe ambele fete impreuna cu panzele incizor
+• panzele circulare sunt proiectate pentru a realiza o taiere precisa si fina in materiale precum 
+placaj, placi aglomerate, PAL, PAL melaminat,  
+• sunt utilizate pe circulare de formatizat cu masa orizontala, impreuna cu panza incizor
+• ascutire: trapez drept, cu unghi de taiere pozitiv
+12 °12 °
+10 °10 °
+10 °10 °
+12 °12 °
+45°
+0,3
+αα
+αα
+LC2508004
+LC3009603
+LC35010807
+D                   B/b                     Z                                        d
+α
+250
+300
+350
+3,2/2,2
+3,2/2,2
+3,5/2,5
+80
+96
+108
+12°
+12°
+12°
+30
+30
+30
+662.66
+767.29
+920.76
+Viteza de taiere recomandata in functie de diametru:
+diametru mm
+100
+125
+150
+160
+180
+200
+250
+300
+350
+400
+450
+500
+550
+600
+rpm maxim
+15000
+13000
+12000
+11000
+10000
+9000
+7000
+6000
+5000
+4500
+4000
+3500
+3000
+2800
+Viteza de avans recomandata 
+in functie de material:
+Viteza de taiere recomandata 
+in functie de material:
+material
+lemn moale
+lemn tare
+placaj
+materiale plastice
+viteza avans
+10/40 m/min
+10/30 m/min
+10/20 m/min
+5/10 m/min
+material
+lemn tare
+lemn tare
+placaj
+materiale plastice
+aluminiu
+viteza taiere
+60/90 m/sec
+50/70 m/sec
+60/80 m/sec
+25/60 m/sec
+20/30 m/sec
+D                   B/b                     Z                                        d
+α
+150
+180
+200
+250
+300
+305
+350
+400
+2,8/1,8
+2,8/1,8
+3,0/2,0
+3,2/2,2
+3,2/2,2
+3,2/2,2
+3,5/2,5
+3,8/2,8
+48
+56
+64
+80
+96
+96
+108
+120
+10°
+10°
+10°
+10°
+10°
+10°
+10°
+10°
+30
+30
+30
+30
+30
+30
+30
+30
+362.72
+460.38
+488.28
+571.99
+669.65
+711.49
+802.17
+976.56
+LC1504806
+LC1805602
+LC2006406
+LC2508001
+LC3009605
+LC3059601
+LC35010801
+LC40012003
+LG2C
+Panza circulara placata CMS pentru taierea 
+transversala a lemnului masiv
+• pentru debitarea transversala pe fibra a lemnului masiv de esenta moale si tare
+• pentru debitare lemn exotic, PAL, compozite termoplastice-lemn, placi MDF laminate pe o parte
+• utilizare pe circulare cu masa pentru formatizat sau portabile
+• ascutire alternativa 15° cu unghi de taiere pozitiv
+°
+8
+1
+°
+5
+1
+5 °
+LG2C 1500
+    300x3,2/2,2x30 Z96 HW
+n max 6500 RPM
+00000000 - 00/13  
+B
+b
+HW  H00K
+18°
+5°
+D                   B/b                     Z                                        d
+α
+LG2C 1200
+LG2C 1500
+250
+300
+3,2/2,2
+3,2/2,2
+80
+96
+5°
+5°
+30
+30
+512.62
+582.30

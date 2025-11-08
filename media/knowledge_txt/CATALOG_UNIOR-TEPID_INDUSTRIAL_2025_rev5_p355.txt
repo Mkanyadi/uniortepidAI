@@ -1,0 +1,215 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:355]
+22 5256
+22 5288
+Panze pentru fierastrau de 
+macelarie
+• pas optimal pentru taierea simpla si rapida
+Fierastrau "Coada de vulpe" 
+fara placute din carbura 
+metalica
+• fierastrau pentru taierea BCA-ului
+• panza din otel foarte lunga, cu dinti separati
+• maner inchis din plastic
+• posibilitatea masurarii unghiului de 45° si 90° cu ajutorul manerului
+22 5279
+NOU
+Fierastrau "Coada de vulpe" 
+cu placute din  carbura metalica
+• fierastrau profesional pentru taierea BCA-ului
+• panza din otel dur
+• placutele de taiere din carbura metalica care asigura performanta 
+inalta de taiere pe un termen lung
+• varianta economica cu placute pe fiecare al doilea dinte Z17
+• maner inchis ergonomic din plastic
+L
+5256000000 450
+H
+20
+T
+2,5
+50
+1
+17.70
+22 5287
+Fierastrau "Coada de vulpe" 
+cu placute din carbura metalica
+• fierastrau profesional pentru taierea BCA-ului
+• panza dura si lunga din otel
+• placutele de taiere din carbura metalica asigura performanta inalta 
+de taiere de lunga durata
+• posibilitatea variantei economice cu placute pe fiecare al doilea dinte
+• maner din lemn masiv
+700mm
+600mm
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+L
+B
+630
+1,20
+640
+1
+125.50
+Z
+34
+5288630000
+22 5290
+Fierastrau pentru caramida 
+cu goluri PORO-THERM
+• fierastrau de mana profesional  proiectat pentru taierea caramizilor 
+cu goluri (POROTHERM)
+• dinti durificati (64 HRC)
+• maner ergonomic cu doua componente, inchis
+600mm
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+Z
+11
+21
+L
+B
+450
+450
+3,00
+540
+3,00
+540
+1
+1
+110.85
+130.45
+5287114500
+5287224500
+22 5289
+Fierastrau "Coada de vulpe" 
+cu placute din  carbura metalica
+• fierastrau profesional pentru taierea BCA-ului
+• panza din otel dur
+• placutele de taiere din carbura metalica care asigura performanta 
+inalta de taiere pe un termen lung
+• posibilitatea variantei economice cu placute pe fiecare al doilea dinte
+• maner din lemn masiv
+700mm
+600mm
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+5290600000
+Z
+78
+L
+B
+600
+8,10
+640
+1
+102.95
+22 5293
+Fierastrau pentru polistiren 
+si izolatii
+• fierastrau de mana profesional  proiectat pentru taierea materialelor  
+de izolare (polistiren extrudat  XPS, polistiren expandat EPS, vata 
+minerala, poliuretan (PUR), spuma
+• maner ergonomic cu doua componente, inchis
+630mm
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+Z
+17
+34
+L
+B
+630
+630
+3,00
+1160
+3,00
+1160
+1
+1
+5279176300
+5279346300
+7002
+188.05
+222.30
+NOU
+Fierastrau pentru izolatii IsoCut
+• fierastrau lso Cut pentru taierea profesionala a izolatiei
+• cu design ergonomic si protectie la oxidare, aceasta noua 
+unealta garanteaza o taiere precisa
+• utilizare simpla si sigura
+•  potrivit pentru: izolatiile conductelor, izolatie din fibra de 
+sticla izolatie din spuma expandabila, placi izolatoare din 
+spuma, izolatie din spuma
+800mm
+700mm
+600mm
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+6
+00mm
+500mm
+400mm
+300mm
+200mm
+100mm
+0
+5289176300
+5289346300
+Z
+17
+34
+L
+B
+630
+630
+3,00
+1160
+3,00
+1160
+1
+1
+188.05
+222.30
+5293040000
+5293045000
+5293050000
+L
+400
+450
+500
+340
+370
+480
+1
+1
+1
+56.67
+61.14
+65.40
+7002-350
+Lmm
+350
+Linch Ømm
+14”
+640
+71.15

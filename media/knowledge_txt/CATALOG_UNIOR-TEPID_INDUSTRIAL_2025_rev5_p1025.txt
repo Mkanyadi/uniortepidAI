@@ -1,0 +1,39 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1025]
+1011A
+1011B
+1011D
+Set de scule de mana 
+in suport SOS
+• conceput pentru intretinerea de baza in service-uri auto, 
+agricole si in industrie
+Set de scule de mana 
+in suport SOS
+• conceput pentru intretinerea de baza in service-uri auto, 
+agricole si in industrie
+Set de scule de mana 
+in suport SOS
+• conceput pentru intretinerea de baza in service-uri auto, 
+agricole si in industrie
+621397
+324
+43200
+ 1F
+1
+16547.54
+964/28SOS, 964/29ASOS, 964/32ASOS, 964/30SOS,
+964/31SOS, 964/33SOS, 964/34SOS
+621398
+192
+23200
+ 1F
+1
+8333.61
+964/32ASOS, 964/35SOS, 964/36SOS, 964/37SOS
+623928
+237
+34700
+ 1F
+1
+11634.43
+964/28SOS, 964/29ASOS, 964/30SOS, 964/33SOS, 
+964/48SOS, 964/49SOS

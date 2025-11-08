@@ -1,0 +1,166 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:674]
+HYCC-P85
+HYSC-20HE
+Cleste hidraulic pentru taiat cabluri max Ø85 mm
+• cap rotativ de 180° pentru o operare convenabila.
+• taiere superioara de tip ghilotina pentru mai putina presare decat alte taietoare de acest tip
+• actiune de pompare în doua etape pentru avans rapid al lamei
+• lamele sunt usor de inlocuit.
+• revenire cu arc.
+• nu este necesar un timp de configurare.
+• instrument usor, autonom, poate fi utilizat oriunde.
+Cap hidraulic pentru taiat cabluri max Ø20 mm
+• taiere rapida cu functionare de la distanta
+• poate fi actionat orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari 
+(10000 psi)
+• angrenare piston / cilindru cu actiune simpla
+• lamele sunt usor de inlocuit
+• zavor rabatabil pentru inserarea usoara a materialului de taiat
+• cilindru cu actiune simpla cu intoarcere cu arc.
+■ Capacitate de taiere:
+toroane Cu: 28 mm
+toroane Al: 38 mm 
+CCP: 85 mm
+cablu subteran: 50 mm (cu exceptia cablului ranforsat)
+* Taierea firului de pian este interzisa.
+■ Capacitate de taiere:
+cablu de sarma 6x7: 16 mm 
+cablu de sarma 6x12: 20 mm 
+cablu de sarma 6x19: 20 mm 
+bara de cupru moale: 20 mm
+bara de aluminiu moale: 16 mm 
+cablu subteran: 18 mm 
+bara de otel moale: 16 mm
+tija de armare: 13 mm
+toroane Cu: 20 mm
+toroane Al: 20 mm
+ACSR: 21 mm
+sarma tip 1x7: 15 mm
+sarma tip 1X19: 16 mm
+* Taierea firului de pian este interzisa.
+Ø
+1
+1
+Ø
+1
+1
+HYCC-P85
+Φ 85 mm
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+9700
+Φ 85 mm
+5.47 tone (48.7 kN)
+66 cc
+700 bar
+716 mm
+9,7 kg
+9954.10
+HYSC-20HE
+Φ 20 mm
+4354.92
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+2100
+Φ 20 mm
+5.84 tone (52 kN)
+19 cc
+700 bar
+240 mm
+2,1 kg
+HYCC-P85#57
+Φ 85 mm
+Cutit de schimb
+1119.84
+TC-085
+Cleste hidraulic pentru taiat cabluri max Ø85 mm
+• cap rotativ de 180° pentru o operare convenabila.
+• taiere superioara de tip ghilotina pentru mai putina presare decat alte taietoare de acest tip
+• actiune de pompare în doua etape pentru avans rapid al lamei
+• lamele sunt usor de inlocuit.
+• revenire cu arc.
+• nu este necesar un timp de configurare.
+• instrument usor, autonom, poate fi utilizat oriunde.
+HYSC-32HE
+Cap hidraulic pentru taiat cabluri max Ø32 mm
+• taiere rapida cu functionare de la distanta
+• poate fi actionat orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari 
+(10000 psi)
+• angrenare piston / cilindru cu actiune simpla
+• lamele sunt usor de inlocuit
+• zavor rabatabil pentru inserarea usoara a materialului de taiat
+• cilindru cu actiune simpla cu intoarcere cu arc.
+■ Capacitate de taiere:
+toroane Cu: 85 mm
+toroane Al: 85 mm 
+CCP: 85 mm
+* Taierea firului de pian este interzisa.
+■ Capacitate de taiere:
+cablu de sarma 6x7: 32 mm 
+cablu de sarma 6x12: 32 mm 
+cablu de sarma 6x19: 32 mm 
+bara de cupru moale: 32 mm
+bara de aluminiu moale: 32 mm 
+cablu subteran: 32 mm 
+bara de otel moale: 25 mm
+tija de armare: 25 mm
+toroane Cu: 32 mm
+toroane Al: 32 mm
+ACSR: 32 mm
+sarma tip 1x7: 32 mm
+sarma tip 1X19: 32 mm
+* Taierea firului de pian este interzisa.
+TC-085
+Ø
+Φ 85 mm
+1
+1
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+8500
+Φ 85 mm
+5.6 tone (56 kN)
+168 cc
+700 bar
+667 mm
+8,5 kg
+Ø
+1
+1
+9445.08
+HYSC-32HE
+Φ 32 mm
+6843.44
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+8900
+Φ 32 mm
+25.4 tone (249 kN)
+135 cc
+700 bar
+300 mm
+8.9 kg
+TC-085#4
+Φ 85 mm
+Cutit de schimb
+1659.02

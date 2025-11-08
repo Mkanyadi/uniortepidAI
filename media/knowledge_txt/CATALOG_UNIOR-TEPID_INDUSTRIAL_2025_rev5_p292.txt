@@ -1,0 +1,173 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:292]
+4839-1
+Dispozitiv verificare suduri tevi
+• material: otel inoxidabil
+4120
+Calibru inel
+• conformn standard ISO1502
+• se livreaza cu certificatul de inspectie al producatorului
+8
+5
+1
+64
+valoare unghi sanfrenare
+grosime perete teava
+aliniere interioara
+interstitiu capete
+trece
+nu trece
+Pas 
+            Toleranta                  Tip
+M 4 x 0.7
+M 5 x 0.8
+M 6 x 1.0
+M 8 x 1.25
+M 10 x 1.5
+M 12 x 1.75
+M 4 x 0.7
+M 5 x 0.8
+M 6 x 1.0
+M 8 x 1.25
+M 10 x 1.5
+M 12 x 1.75
+4120-4
+4120-5
+4120-6
+4120-8
+4120-10
+4120-12
+4120-4N
+4120-5N
+4120-6N
+4120-8N
+4120-10N
+4120-12N
+4130
+6g
+6g
+6g
+6g
+6g
+6g
+6g
+6g
+6g
+6g
+6g
+6g
+trece
+trece
+trece
+trece
+trece
+trece
+nu trece
+nu trece
+nu trece
+nu trece
+nu trece
+nu trece
+336.00
+336.00
+300.30
+300.30
+347.55
+308.70
+322.35
+322.35
+278.25
+300.30
+302.40
+277.20
+Calibru tampon
+• conformn standard ISO1502
+• se livreaza cu certificatul de inspectie al producatorului
+Pas 
+            Toleranta                  Tip
+4130-4
+4130-5
+4130-6
+4130-8
+4130-10
+4130-12
+4130-45
+M 4 x 0.7
+M 5 x 0.8
+M 6 x 1.0
+M 8 x 1.25
+M 10 x 1.5
+M 12 x 1.75
+M 45 x 4.5
+ISQ-RM30
+trece / nu trece
+trece / nu trece
+trece / nu trece
+trece / nu trece
+trece / nu trece
+trece / nu trece
+trece / nu trece
+224.70
+224.70
+224.70
+224.70
+256.20
+291.90
+697.20
+inaltime coroana sudura 
+in plan coliniar
+distanta intre 
+doua linii de
+marcare
+Refractometru pentru lichid racire 0-32%
+• pentru masurarea rapida a concentratiei lichidului de racirei 
+• respectati factorul de refractie al lichidului de racire (exemplu: factorul de refractie al 
+lichidului de racire este 2,1, valoarea de citire este de 6%, deci concentratia reala este 
+(2,1 × 6%) = 12,6%)
+inaltime si lungime cordon sudura
+surub de calibrare
+Masuratori 
+                   Domeniu           Scala 
+Acuratete
+4839-1 valoare unghi sanfrenare 
+grosime perete
+aliniere interioara 
+37.5º
+0-45 mm
+0-35 mm
+-
+1 mm
+1 mm
+interstitiu capete 
+1.6 mm, 2.4 mm
+-
+inaltime coroana 
+0-35 mm
+distanta intre doua repere 
+0-60 mm
+lungime cordon 
+inaltime cordon
+0-30 mm
+0-35 mm
+1 mm
+1 mm
+1 mm
+1 mm
+± 1º
+± 0,5 mm
+± 0,5 mm
+± 0,1 mm
+± 0.5 mm
+± 0.5 mm
+± 0,5 mm
+± 0,5 mm
+496.65
+placa acoperire
+lentile
+ocular
+Gama de masurare       Gradatii     Dimensiune      Greutate
+ISQ-RM30
+0 - 32%
+2%
+27 x 40 x 160
+      175
+619.62

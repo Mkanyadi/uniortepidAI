@@ -1,0 +1,105 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:811]
+030555
+Cleste pentru indoit tabla 
+drept 180 mm
+• articulatie suprapusa
+• adancime de pliere: 175 mm 
+976/125
+039555
+Cleste indoit la 45° pentru faltuit
+• material:  forjat din otel inalt aliat
+• acoperire prin brunare
+Cleste cu varf drept 100 mm
+• manere din PVC (plastizolat)
+• articulatie suprapusa
+• adancime pliere: 58 mm  
+L                   A 
+976/125
+405
+125
+1140
+1185.99
+mm
+180
+<
+175
+2510
+1455.90
+135755
+Cleste cu varf plat
+• manere din PVC (plastizolat) 
+030555
+030655
+Cleste pentru indoit tabla 
+drept 200 mm
+• articulatie suprapusa
+• adancime de pliere: 185 mm 
+mm
+58
+039555
+C-364-C
+135555
+730
+829.02
+Cleste de faltuit pentru colturi
+• maner plastizolat
+mm
+200
+<
+185
+2590
+1567.87
+030655
+975
+Cleste drept pentru faltuit
+• material:  forjat din otel inalt aliat
+• acoperire prin brunare
+mm
+-
+135755
+992
+-
+in curand
+Cleste drept pentru faltuit 24 mm
+• material:  forjat din otel inalt aliat
+• acoperire prin brunare
+• manson PVC
+latime
+adancime
+66
+809
+789.70
+135555
+971
+Cleste drept pentru faltuit 50 mm
+• material:  forjat din otel inalt aliat
+• acoperire prin brunare
+• manson PVC
+L                   A 
+975/100
+975/125
+975/140
+430
+430
+430
+100
+125
+140
+1055
+1205
+1240
+785.86
+835.41
+883.36
+L                   A 
+992/24 PH
+180
+24
+205
+244.01
+L                   A 
+971/50 PH
+260
+50
+515
+439.01

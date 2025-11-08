@@ -1,0 +1,142 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:675]
+HYCC-35HE
+HYCC-P85HE
+Cap hidraulic pentru taiat cabluri max Ø32 mm
+• taiere rapida cu functionare de la distanta
+• poate fi actionat orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari 
+(10000 psi)
+• angrenare piston / cilindru cu actiune simpla
+• lamele sunt usor de inlocuit
+• forma C pentru acces rapid pe cabluri
+Cap hidraulic pentru taiat cabluri max Ø85 mm
+• taiere rapida cu functionare de la distanta
+• poate fi actionat orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari 
+(10000 psi)
+• angrenare piston / cilindru cu actiune simpla
+• lamele sunt usor de inlocuit
+■ Capacitate de taiere:
+toroane Cu: 35 mm
+toroane Al: 35 mm
+* Taierea firului de pian este interzisa.
+■ Capacitate de taiere:
+toroane Cu: 28 mm
+toroane Al: 38 mm 
+CCP: 85 mm
+cablu subteran: 50 mm (cu exceptia cablului ranforsat)
+* Taierea firului de pian este interzisa.
+Ø
+1
+1
+Ø
+1
+1
+HYCC-35HE
+Φ 35 mm
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+3700
+Φ 35 mm
+7.03 tone (62.5 kN)
+67 cc
+700 bar
+365 mm
+3.7 kg
+7088.52
+HYSC-P85HE
+Φ 85 mm
+6541.80
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+6600
+Φ 85 mm
+5.47 tone (48.7 kN)
+65 cc
+700 bar
+430 mm
+6.6 kg
+HYSC-55HE
+TC-085HE
+Cap hidraulic pentru taiat cabluri max Ø55 mm
+• taiere rapida cu functionare de la distanta
+• poate fi actionat orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari 
+(10000 psi)
+• angrenare piston / cilindru cu actiune simpla
+• lamele sunt usor de inlocuit
+• zavor rabatabil pentru inserarea usoara a materialului de taiat
+• cilindru cu actiune simpla cu intoarcere cu arc.
+Cap hidraulic pentru taiat cabluri max Ø85 mm
+• taiere rapida cu functionare de la distanta
+• poate fi actionat orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari 
+(10000 psi)
+• angrenare piston / cilindru cu actiune simpla
+• lamele sunt usor de inlocuit
+■ Capacitate de taiere:
+cablu de sarma 6x7: 25 mm 
+cablu de sarma 6x12: 30 mm 
+cablu de sarma 6x19: 30 mm 
+bara de cupru moale: 35 mm
+bara de aluminiu moale: 28 mm 
+cablu subteran: 50 mm
+bara de otel moale: 22 mm
+* Taierea firului de pian este interzisa.
+tija de armare: 19 mm
+toroane Cu: 50 mm
+toroane Al: 50 mm
+ACSR: 50 mm
+sarma tip 1x7: 15 mm
+sarma tip 1X19: 20 mm
+■ Capacitate de taiere:
+toroane Cu: 85 mm
+toroane Al: 85 mm 
+CCP: 85 mm
+* Taierea firului de pian este interzisa.
+Ø
+1
+1
+Ø
+1
+1
+HYSC-55HE
+Φ 55 mm
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+8400
+Φ 55 mm
+16.44 tone (146.3 kN)
+107 cc
+700 bar
+415 mm
+8.4 kg
+9331.97
+TC-085HE
+Φ 85 mm
+6409.84
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+5100
+Φ 85 mm
+6.23 tone (55.4 kN)
+73 cc
+700 bar
+373 mm
+5.1 kg

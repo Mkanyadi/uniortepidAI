@@ -1,0 +1,332 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:927]
+FR499620
+Cleste cu clichet pentru taiat 
+cabluri, izolat la 1000V
+• Standard: IEC 60900:2004
+• deschidere frontala, cutit ranforsat
+• realizat din otel special,
+• clestele se poate deschide in toate pozitiile.
+603VDE
+Surubelnita profil lat 
+cu lama izolata la 1000 V
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  capat brunat
+•  maner: forma ergonomica
+•  maner: polipropilena
+•  gaura de agatare
+•  in concordanta cu standardul EN 60900
+613VDE
+Surubelnita profil Phillips
+cu lama izolata la 1000 V
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  capat brunat
+•  maner: forma ergonomica
+•  maner: polipropilena
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2 si 
+60900
+L
+410
+Ø mm
+62
+2060
+9458.12
+FR499620
+FR509329
+Cleste cu clichet pentru taiat 
+cabluri, izolat la 1000V
+• Standard: IEC 60900:2004
+a
+b
+33
+37
+39
+43
+75
+a x b
+616470 0.4 x 2.5
+C
+75
+L
+160
+616471 0.5 x 3.0
+100 185
+616472 0.6 x 3.5
+100 185
+616473 0.8 x 4.0
+100 185
+616474 1.0 x 5.5
+125 225
+L
+400
+Ø mm
+55
+1680
+3019.18
+616475 1.2 x 6.5
+150 260 113
+616476 1.2 x 8.0
+175 295 163
+616477 1.6 x 10.0
+200 320 115
+NOU
+603VDETBI
+FR509329
+4798 VDE
+C
+L
+616478 PH0
+616479 PH1
+616480 PH2
+616481 PH3
+C
+60
+80
+100
+150
+L
+145
+165
+200
+260
+34
+60
+94
+104
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+5
+19.51
+23.28
+30.49
+41.64
+620VDETBI
+Surubelnita profil
+hexagonal cu lama izolata
+la 10000 V
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  capat brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul EN 60900
+C
+L
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+10
+10
+10
+5
+5
+18.36
+20.33
+21.31
+23.61
+29.34
+34.75
+38.85
+50.66
+Surubelnita profil lat 
+cu lama izolata la 1000 V
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  capat brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul EN 60900
+Set surubelnite izolate la 1000 V cu
+lame interschimbabile
+• pentru lucru sigur si eficient la tensiuni de pana la 1.000 V
+• design de produs optimizat pentru aplicatii, materiale de inalta 
+calitate, tolerante scazute, ergonomie excelenta si durata lunga 
+de viata cu izolatie de protectie durabila
+• blocare automata pentru a preveni indepartarea accidentala 
+• capac rotativ atasabil pentru lame interschimbabile
+ • sistemul automat de blocare previne extragerea accidentala
+• izolat VDE pană la 1000 V
+ • DIN EN 60900
+Componenta:
+• 1x mâner din două componente
+• 1x capac rotativ atasabil
+• lame cu profil lat: 2,5 x 0,4; 3,0 x 0,5; 3,5 x 0,6; 4,0 x 0,8; 
+5,5 x 1,0; 6,5 x 1,2 mm
+• lame cu profil Phillips: PH1; PH2
+• lame cu profil Pozidrive: PZ2
+• lame cu profil TORX: T10; T15; T20
+a
+b
+33
+37
+39
+43
+75
+75
+L
+160
+185
+185
+185
+225
+225
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+260 113  4B 
+295 163  4B 
+a x b
+616436 0.4 x 2.5
+616437 0.5 x 3.0
+616438 0.6 x 3.5
+616439 0.8 x 4.0
+621247 1.0 x 4.5
+616440 1.0 x 5.5
+616441 1.2 x 6.5
+616442 1.2 x 8.0
+C
+75
+100
+100
+100
+125
+125
+150
+175
+mm
+SW96469511
+14
+229x134x54
+814
+859.25
+621248 1.6 x 10.0 200
+320 115  4B 
+C
+L
+10
+10
+10
+10
+10
+10
+10
+5
+5
+26.39
+27.05
+30.16
+31.31
+39.84
+39.84
+47.87
+53.93
+72.30
+L
+C
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+10
+10
+5
+46.89
+51.97
+57.70
+69.34
+80.33
+110.00
+C
+75
+75
+75
+75
+100
+100
+L
+160
+175
+175
+185
+210
+210
+34
+37
+68
+93
+128
+203
+616448 2.5
+616449 3
+616450 4
+616451 5
+616452 6
+616453 8
+623VDE
+Surubelnita profil Pozidrive
+cu lama izolata la 1000 V
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  capat brunat
+•  maner: forma ergonomica
+•  maner: polipropilena
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2 si 
+60900
+616482 PZ0
+616483 PZ1
+616484 PZ2
+616485 PZ3
+C
+60
+80
+100
+150
+L
+145
+165
+200
+260
+34
+60
+93
+156
+L
+C
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+5
+21.31
+25.08
+34.10
+43.44

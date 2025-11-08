@@ -1,0 +1,153 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:635]
+iMIG 250
+LA COMANDA
+NOU
+iMIG 350
+LA COMANDA
+NOU
+iMIG 400 SC
+LA COMANDA
+NOU
+Invertor sudura MIG 60% @ 250 A
+compact, 3x 400V, MIG/MMA, afișaj dublu, comenzi manuale
+• aparat multifunctional MIG/MMA
+• ecran TFT de 7 inchi
+• alimentator de sarma cu 4 role
+• modul in 2 trepte, 4 trepte si spot/interval
+• programe de sudura pentru otel, inox, aluminiu si sarma cu miez flux
+• selectarea tensiunii de sudare, curentului si grosimii materialului
+• optiune de sudare cu electrozi acoperiti
+• optiune de racire cu apa
+Invertor sudura MIG 60% @ 350 A
+compact, 3x400 V, afisaj dublu, comenzi manuale
+Invertor sudura MIG 40% @ 400 A
+compact, 3x 400V, MIG/MMA, afisaj dublu, comenzi sinergice
+• linia Iskra de aparate de sudură iMIG a fost conceputa pentru a 
+oferi sudare de calitate a otelului, aluminiului si otelului inoxidabil 
+in orice mediu
+• toate modelele au inductanta reglabila pentru o sudura optima 
+chiar si atunci cand CO2 pur este utilizat ca gaz de protectie.
+• tehnologia invertorului ofera caracteristici excelente de sudare 
+cu arc stabil si setare precisa
+• controlul exceptional al arcului are ca rezultat un arc neted si 
+fara stropire
+• chiar si cu aluminiu si otel inoxidabil, sudura ramane curata si stabila
+• interfata digitala ofera operatorului un control clar al tensiunii si 
+curentului de sudare sau setare usoara prin grosimea materialului.
+• parametrii avansati, cum ar fi arderea inapoi si rampa motorului, 
+sunt configurati cu usurinta prin panoul de control
+• programul de sudare pentru fiecare material ofera parametri 
+prestabiliti ajustabili in functie de cerintele sudorului
+• un mod complet manual este, de asemenea, la indemana
+• optiune de sudare cu electrozi acoperiti
+• optiune de racire cu apa
+• seria SC profi sunt aparate moderne de sudură MIG în care 
+electronica avansată este combinată cu fiabilitatea unui transfor-
+mator clasic
+• la baza se afla un transformator robust din cupru, care asigura 
+caracteristici de sudare de calitate si fiabilitate de neegalat
+• pentru o operare usoara si rezultate bune la sudare există 2 afisaje 
+digitale si programe de sudare pentru o serie de materiale.
+• toate aparatele SC profi au alimentator de sarma cu 4 role, afisaj 
+digital dublu si un suport pentru lanterna la indemana
+• aparatele sunt usor de operat, operatorul trebuie doar sa seteze 
+treapta de putere odata ce programul de sudare este ales
+• pentru utilizatorii avansati sunt disponibile functii speciale, cum ar 
+fi controlul arderii inapoi, cronometru spot, sudare pe intervale etc.
+• optiune de sudare cu electrozi acoperiti
+• optiune de racire cu apa
+Curent sudare
+iMIG 250
+20 - 250 A 
+Tensiune de alimentare
+Siguranta
+Curent sudare
+Ciclu functionare
+Diametru sarma sudura
+Dimansiuni
+Greutate
+10295.08
+28000
+3 x 400 V
+16 A
+30 - 250 A
+100% - 200 A
+60% - 250 A
+0,8 - 1,2 mm (otel)
+795 x 540 x 700 mm
+28 kg
+iMIG 300
+LA COMANDA
+NOU
+Invertor sudura MIG 40% @ 300 A
+compact, 3x 400V, MIG/MMA, afișaj dublu, comenzi manuale
+• aparat multifunctional MIG/MMA
+• ecran TFT de 7 inchi
+• alimentator de sarma cu 4 role
+• modul in 2 trepte, 4 trepte si spot/interval
+• programe de sudura pentru otel, inox, aluminiu si sarma cu miez flux
+• selectarea tensiunii de sudare, curentului si grosimii materialului
+• optiune de sudare cu electrozi acoperiti
+• optiune de racire cu apa
+Curent sudare
+iMIG 300
+30 - 300 A 
+Tensiune de alimentare
+Siguranta
+Curent sudare
+Ciclu functionare
+Diametru sarma sudura
+Dimansiuni
+Greutate
+10704.92
+28000
+3 x 400 V
+16 A
+30 - 300 A
+100% - 200 A
+60% - 250 A
+40% - 300 A
+0,8 - 1,2 mm (otel)
+795 x 540 x 700 mm
+28 kg
+Curent sudare
+iMIG 350
+30 - 350 A 
+Tensiune de alimentare
+Siguranta
+Curent sudare
+Ciclu functionare
+Diametru sarma sudura
+Dimansiuni
+Greutate
+15229.51
+33000
+3 x 400 V
+16 A
+30 - 350 A
+100% - 250 A
+60% - 350 A
+0,8 - 1,2 mm (otel)
+795 x 540 x 700 mm
+33 kg
+Curent sudare
+iMIG 400
+30 - 400 A 
+Tensiune de alimentare
+Siguranta
+Curent sudare
+Ciclu functionare
+Diametru sarma sudura
+Dimansiuni
+Greutate
+14524.59
+33000
+3 x 400 V
+25 A
+30 - 400 A
+100% - 250 A
+60% - 350 A
+40% - 400 A
+0,8 - 1,2 mm (otel)
+795 x 540 x 700 mm
+33 kg

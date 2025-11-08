@@ -1,0 +1,234 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:659]
+MASTEREX 79613
+NOU
+MASTEREX 79610
+NOU
+MASTEREX 79631
+NOU
+Masina pneumatica de insurubat cu
+impact 1”, 1800 Nm 
+• este esentiala pentru lucrul in zone periculoase precum minerit, lucru 
+in spatii restranse, lucrari subterane etc.
+• ideal pentru aplicarea unui cuplu ridicat la toate tipurile de elemente de
+fixare filetate cu o actiune simpla de declansare
+• chiar si elementele de fixare cu niveluri foarte ridicate de rugina pot fi
+stranse si slabite.
+Masina pneumatica de insurubat cu
+impact 1/2”, 610 Nm 
+• este esentiala pentru lucrul in zone periculoase precum minerit, lucru 
+in spatii restranse, lucrari subterane etc.
+• ideal pentru aplicarea unui cuplu ridicat la toate tipurile de elemente de
+fixare filetate cu o actiune simpla de declansare
+• chiar si elementele de fixare cu niveluri foarte ridicate de rugina pot fi
+stranse si slabite.
+Masina pneumatica de insurubat cu
+impact 1.1/2”, 4400 Nm 
+• este esentiala pentru lucrul in zone periculoase precum minerit, lucru 
+in spatii restranse, lucrari subterane etc.
+• ideal pentru aplicarea unui cuplu ridicat la toate tipurile de elemente de
+fixare filetate cu o actiune simpla de declansare
+• chiar si elementele de fixare cu niveluri foarte ridicate de rugina pot fi
+stranse si slabite.
+ZONE M2 MINIERE
+ZONE 1, 2 GAZ
+79613
+Cuplu
+1800 Nm
+Presiune de lucru
+Patrat antrenare
+Cuplu maxim
+Pentru suruburi si piulite
+Racorduri
+Diamentru interior recomandat furtun
+Nivel zgomot
+Nivel vibratii
+Lungime
+Marcaje ATEX
+Greutate
+43502.02
+12200
+6 bar
+1” 
+1800 Nm
+M33 (50 mm AF)
+Rd 32 x 1/8"a
+13 mm
+92 dB
+<3,2 m/s²
+280 mm
+EX  I M2 c T6 
+9 kg
+MASTEREX 79604
+NOU
+Masina de gaurit cu pecutie 
+pneumatica 0.5 kW
+• perfect pentru gaurirea materialelor groase sau foarte dure precum 
+beton, piatra etc. in medii periculoase
+• optiunile de miscare de percutie si rotatie pot fi aplicate simultan, 
+permitand o performanta mai usoara
+• doua functii: gaurire cu ciocan sau gaurire normala
+• maner suplimentar reglabil la 360º pentru diferite pozitii
+• carcasa metalica robusta pentru o durabilitate mai mare
+ZONE M2 MINIERE
+79610
+Cuplu
+610 Nm
+Presiune de lucru
+Patrat antrenare
+Cuplu maxim
+Pentru suruburi si piulite
+Racorduri
+Diamentru interior recomandat furtun
+Nivel zgomot
+Nivel vibratii
+Lungime
+Marcaje ATEX
+Greutate
+17835.79
+3600
+6 bar
+1/2” 
+610 Nm
+M20 (30 mm AF)
+1/4”
+10 mm
+90 dB
+<2,6 m/s²
+160 mm
+EX IM2cT6
+3.6 kg
+MASTEREX 79626
+NOU
+Masina pneumatica de insurubat cu
+impact 3/4”, 1350 Nm 
+• este esentiala pentru lucrul in zone periculoase precum minerit, lucru 
+in spatii restranse, lucrari subterane etc.
+• ideal pentru aplicarea unui cuplu ridicat la toate tipurile de elemente de
+fixare filetate cu o actiune simpla de declansare
+• chiar si elementele de fixare cu niveluri foarte ridicate de rugina pot fi
+stranse si slabite.
+79631
+Cuplu
+4400 Nm
+Presiune de lucru
+Patrat antrenare
+Cuplu maxim
+Pentru suruburi si piulite
+Racorduri
+Diamentru interior recomandat furtun
+Nivel zgomot
+Nivel vibratii
+Lungime
+Marcaje ATEX
+Greutate
+66948.37
+12200
+6 bar
+1.1/2” 
+4400 Nm
+M56 (85 mm AF)
+1/2”
+15 mm
+107 dB
+<6,6 m/s²
+- mm
+EX II 2G c T6
+12.2 kg
+MASTEREX 79625
+NOU
+Masina pneumatica de insurubat cu
+impact 1”, 2200 Nm 
+• este esentiala pentru lucrul in zone periculoase precum minerit, lucru 
+in spatii restranse, lucrari subterane etc.
+• ideal pentru aplicarea unui cuplu ridicat la toate tipurile de elemente de
+fixare filetate cu o actiune simpla de declansare
+• chiar si elementele de fixare cu niveluri foarte ridicate de rugina pot fi
+stranse si slabite.
+ZONE 1, 2 GAZ
+79625
+Cuplu
+2200 Nm
+Presiune de lucru
+Patrat antrenare
+Cuplu maxim
+Pentru suruburi si piulite
+Racorduri
+Diamentru interior recomandat furtun
+Nivel zgomot
+Nivel vibratii
+Lungime
+Marcaje ATEX
+Greutate
+61718.08
+11000
+6 bar
+1” 
+2200 Nm
+M36 (54 mm AF)
+1/2”
+13 mm
+92 dB
+<6,2 m/s²
+- mm
+EX II 2G Ex h IIB T6 Gb
+11 kg
+ZONE M2 MINIERE
+79604
+RPM
+950
+Presiune de lucru
+Capacitate mandrina
+Capacitate maxima gaurire in otel
+Turatie mers in gol
+Putere motor
+Consum de aer
+Racorduri
+Diamentru interior recomandat furtun
+Nivel zgomot
+Nivel vibratii
+Lungime
+Marcaje ATEX
+Greutate
+28857.08
+3300
+6 bar
+13 mm
+13 mm
+950 rpm
+0.500 kW
+0.6 m³/min
+1/4”
+10 mm
+84 dB
+<2,5 m/s²
+290  mm
+EX I M2 Ex h I Mb T6
+3.3 kg
+ZONE 1, 2 GAZ
+79626
+Cuplu
+1350 Nm
+Presiune de lucru
+Patrat antrenare
+Cuplu maxim
+Pentru suruburi si piulite
+Racorduri
+Diamentru interior recomandat furtun
+Nivel zgomot
+Nivel vibratii
+Lungime
+Marcaje ATEX
+Greutate
+38957.17
+5600
+6 bar
+3/4” 
+1350 Nm
+M30 (46 mm AF)
+1/4”
+13 mm
+96 dB
+<4,5 m/s²
+220 mm
+EX II 2G Ex h IIB T6 Gb
+5.6 kg

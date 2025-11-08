@@ -1,0 +1,177 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:664]
+MASTEREX 79606
+NOU
+MASTEREX 79607
+NOU
+Masina de gaurit cu pecutie 
+pneumatica 0.5 kW
+• perfect pentru gaurirea materialelor groase sau foarte dure precum 
+beton, piatra etc. in medii periculoase
+• optiunile de miscare de percutie si rotatie pot fi aplicate simultan, 
+permitand o performanta mai usoara
+• doua functii: gaurire cu ciocan sau gaurire normala
+• maner suplimentar reglabil la 360º pentru diferite pozitii
+• carcasa metalica robusta pentru o durabilitate mai mare
+Masina de gaurit cu pecutie, SDS-plus  
+pneumatica 0.5 kW
+• esentiala pentru gaurirea materialelor precum beton, caramida, piatra
+• rotirea este insotita de o miscare de percutie care provoaca ruperea 
+materialului si permite avansarea burghiei facilitand realizarea gaurii
+• echipat cu un ambreiaj de siguranta care protejeaza impotriva
+supraincarcarilor si blocajelor
+• un maner lateral reglabil si un indicator de adancime ofera un
+confort sporit. 
+ZONE 1, 2 GAZ
+79907
+RPM
+625
+79606
+RPM
+950
+Presiune de lucru
+Capacitate mandrina
+Capacitate maxima gaurire in otel
+Capacitate maxima gaurire in beton
+Turatie mers in gol
+Putere motor
+Consum de aer
+Racorduri (interior / exterior)
+Diamentru interior recomandat furtun
+Nivel zgomot
+Nivel vibratii
+Lungime
+Marcaje ATEX
+Greutate
+52808.55
+3300
+6 bar
+13 mm
+13 mm
+20 mm
+950 rpm
+0.500 kW
+0.6 m³/min
+R 1/4"f - R 3/8"f 
+10 mm
+84 dB
+<2,5 m/s²
+300 mm
+EX II 2G Ex h IIB T6 Gb 
+3.3 kg
+MASTEREX 79357
+NOU
+Masina de carotat pneumatica
+capacitate maxima 160 mm, 1.6 kW
+• EGA Master ofera o gama larga de unelte si instrumente intrinsec 
+sigure pentru utilizare in zone periculoase. Printre acestea compania
+produce masini de gaurit pneumatice, ideal pentru foraj in zone explozive
+• masina de gaurit este perfecta pentru majoritatea lucrarilor de foraj in 
+zone periculoase
+ZONE 1, 2 GAZ
+87491.06
+6300
+6 bar
+SDS-max
+3000 imp
+28 mm
+625 rpm
+0.500 kW
+0.6 m³/min
+R 1/2” f / R 3/8” f 
+93 dB
+<4.2 m/s²
+≥ 13 mm 
+400 mm
+EX II 2G Ex h IIB T6 Gb
+6.3 kg
+Presiune de lucru
+Port-scula
+Percutie
+Capacitate maxima gaurire in beton
+Turatie mers in gol
+Putere motor
+Consum de aer
+Racorduri (interior / exterior)
+Nivel zgomot
+Nivel vibratii
+Diamentru interior recomandat furtun
+Lungime
+Marcaje ATEX
+Greutate
+MASTEREX 79908
+NOU
+Masina de gaurit cu pecutie, SDS-max 
+pneumatica 0.5 kW
+• esentiala pentru gaurirea materialelor precum beton, caramida, piatra
+• rotirea este insotita de o miscare de percutie care provoaca ruperea 
+materialului si permite avansarea burghiei facilitand realizarea gaurii
+• echipat cu un ambreiaj de siguranta care protejeaza impotriva
+supraincarcarilor si blocajelor
+• un maner lateral reglabil si un indicator de adancime ofera un
+confort sporit. 
+ZONE 1, 2 GAZ
+RPM
+79357
+400-900-1600
+Presiune de lucru
+Conexiune carote
+Trepte cuplu
+Turatie mers in gol
+Putere motor
+Diametru maxim carote
+Consum aer
+Racorduri
+Diamentru interior recomandat furtun
+Lungime
+Marcaje ATEX
+Greutate
+8200
+52375.47
+6 bar
+1.1/4"UNC male / R1/2" female
+49/31/16 Nm 
+400-900-1600 rpm
+1.60 kW
+≤160 mm 
+2.2 m³/min 
+R 3/4" f
+- mm
+550 mm
+EX ll 2G Ex h IIB T6 Gb 
+8200 kg
+ZONE 1, 2 GAZ
+79908
+RPM
+250
+Presiune de lucru
+Port-scula
+Percutie
+Capacitate maxima gaurire in zidarie
+Capacitate maxima gaurire in beton
+Turatie mers in gol
+Putere motor
+Consum de aer
+Racorduri (interior / exterior)
+Nivel zgomot
+Nivel vibratii
+Diamentru interior recomandat furtun
+Lungime
+Marcaje ATEX
+Greutate
+79773.34
+3300
+6 bar
+SDS-max
+2500 imp
+80 mm
+50 mm
+250 rpm
+1.500 kW
+1.5 m³/min
+R 1/2” f / R 3/8” f 
+90.4 dB
+<9.2 m/s²
+≥ 13 mm 
+640 mm
+EX II 2G Ex h IIB T6 Gb
+13.3 kg

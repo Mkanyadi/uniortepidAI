@@ -1,0 +1,112 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:766]
+ 3050/2BI 
+Scula pentru ambreaj si pinion de antrenare
+• material: compozitie speciala pentru calire revenire
+• suprafata:cromata in concordanta cu standardul EN 12540
+• maner ergonomic rezistent bimaterial
+Avantaje:
+• forma de pana asigura blocarea protejând dantura impotriva deteriorarii.
+• scula include de asemenea un surub care asigura fixarea sculei in pozitia dorita si in 
+consecinta o strângere ferma.
+Mod de utilizare
+• aceasta scula este destinata la fixarea ambreiajului,rulmenti si arborele cu came la strângerea 
+rulmentilor, pana la marimea de 130 mm in timpul montarii si demontarii.
+• pentru toate tipurile de motociclete
+3055/4A
+Extractor volant cu filet interior
+• material: otel carbon
+• acoperire prin brunare conform DIN 50938
+• tarozii M10, M14,M16,M18,M24 sunt pe partea dreapta, iar M27 este pe stanga
+Avantaje:
+• scula are 6 marimi diferite ale filetelor,aceasta asigurând acoperirea majoritatii tipurilor de 
+motoare care au magnet cu filet interior.
+• permite schimbarea rotii libere fara demontarea motorului de pe cadru.
+• pe fiecare axa, este un atasament pentru o cheie fixa care face mai usoara scoaterea volantei 
+magnetice.
+Utilizare:
+• pentru demontarea volantilor cu filet intern
+620261
+D
+40
+D
+130
+C
+35
+B
+6
+A
+53
+L
+390
+637
+ 1G 
+164.26
+ 3051/2BI
+Scula pentru ambreaj si pinion de antrenare
+• material:compozitie speciala pentru calire revenire
+• suprafata:cromata in concordanta cu standardul EN 12540
+• maner ergonomic rezistent bimaterial
+Avantaje:
+• datorita structurii universale aceasta permite fixarea gaurilor cu un diametru de 5-9 mm si o 
+distanta intre 20 si 180 mm
+• scula are de asemenea un surub care asigura fixarea sculei la distanta adecvata intre gauri 
+si magnet sau roata.
+Mod de utilizare
+• scula este proiectata pentru oprirea magnetului si a pinionului in timpul ansambluri si demontarii.
+• pentru toate tipurile de motociclete
+620262
+D
+20
+D
+180
+D1
+5
+D2
+9
+L
+340
+A
+32
+604
+ 1G 
+142.62
+M
+M
+M
+M
+M
+M
+S1 S2 S3 A
+B
+620278
+M10x1 M14x1,5 M16x1,5 M18x1,5 M24x1 M27x1 24 14
+11 168 160 531  1E 
+161.15
+3055/4B
+Extractor volant cu filet interior
+• material: otel carbon
+• acoperire prin brunare conform DIN 50938
+• toti tarozii sunt pe partea dreapta
+Avantaje:
+• scula are 4 marimi diferite ale filetelor,aceasta asigurând acoperirea majoritatii tipurilor de 
+motoare care au magnet cu filet interior.
+• permite schimbarea rotii libere fara demontarea motorului de pe cadru.
+• pe fiecare axa, este un atasament pentru o cheie fixa care face mai usoara scoaterea volantei 
+magnetice.
+Utilizare:
+• pentru demontarea volantilor cu filet intern
+M
+M
+M
+M
+S1
+620279
+M16x1,5 M18 1,5 M20x1,5 M22x1,5 19
+S2
+14
+A
+B
+161 161
+630
+ 1E 
+127.87

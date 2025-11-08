@@ -1,0 +1,144 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:220]
+TORSIOTRONIC 10/29
+NOU
+701/32/1
+NOU
+Set surubelnita dinamometrica TORSIOTRONIC 
+29 piese
+• indicarea si declansarea electromecanica
+• clichet integrat cu 80 de dinți pentru un unghi de lucru de numai 4,5° și astfel o lucru deosebit 
+de fin gradat - ideal pentru conexiuni cu șuruburi greu accesibile  după eliberare, mecanismul de 
+alunecare împiedică depășirea neintenționată a cuplului de strângere stabilit și strângerea 
+excesivă a șurubului
+• afișare clară a tuturor informațiilor relevante pe un afișaj color OLED luminos și care 
+economisește baterie - care poate fi citit din aproape orice unghi
+• evaluarea vizuală a strângerii șuruburilor prin intermediul culorilor semaforului din afișaj și 
+LED-urilor laterale
+• afișare în diferite limbi
+• durată lungă de viață a bateriei cu modul standby de economisire a bateriei. Bateriile pot fi 
+schimbate rapid și ușor.
+• stochează până la 2.500 de operații și secvențe de înșurubare pentru citire și documentare 
+ulterioară pe PC prin interfața micro-USB integrată
+•  cuplul țintă și toleranțele pentru evaluarea valorii măsurate pot fi setate individual
+• perioadă scurtă de pregătire datorită elementelor de operare aproape auto-explicative și unei 
+structuri de meniu ușor de înțeles
+• trei moduri de operare (Click, Track, Peak Hold)
+• semnal de oprire optic, acustic și haptic
+• mânerul cu bile optimizat ergonomic permite lucrul fără oboseală și este rezistent la uleiuri, 
+grăsimi, combustibili, lichide de frână și Skydrol
+• cu pătrat exterior de 1/4" (6,3 DIN 3120/ISO 1174-1) pentru a găzdui prize de 1/4"
+• cu pătrat interior de 1/4" la capătul mânerului (6.3 DIN 3120/ISO 1174-1) pentru a găzdui un 
+mâner transversal de 1/4"
+• unități de măsură: cN-m, N-m, ft-lb, in-lb, in-oz
+• set llivrare: Software SENSOMASTER 4, cablu USB, suport pentru biți, mâner în cruce (10)
+• livrat cu baterie litiu 3,6 V, tip 18650, ambalat conform UN 3480
+• certificat conform DIN EN ISO 6789-2:2017
+• abaterea afișajului ± 4
+L
+Antrenare
+SW 96510000
+1/4”
+1-10
+0,7-7,3 ft·lb
+420
+575
+1/4”
+1
+14275.38
+1 Surubelnita dinamometrica Electromecanica Nr.TORSIOTRONIC 10 100-1000 cN-m 1/4".
+1 CD SENSOMASTER 4
+1 saiba izolatoare
+1 maner in cruce 1/4" cu piesa de glisare L. 250 mm
+1 insert cheie tubular 1/4" cu hexagon nr. 40 SW 4; 5; 5,5; 6; 7; 8; 9; 10 mm
+Inserții de șurubelniță cu 3 biți de 1/4" pentru șuruburi cu cap încrucișat PH1; PH2, PH3
+Inserții de șurubelniță cu 3 biți 1/4" pentru șuruburi cu cap în cruce PZ1; PZ2, PZ3
+4 inserturi INHEX 1/4" Nr. 44 K: SW 3; 4; 5; 6 mm
+5 biți de șurubelniță 1/4" pentru șuruburi TORX® din interior nr. 44 KTX: T8; T9; T10; T15; T20
+5 biți de șurubelniță 1/4" pentru șuruburi TORX® interioare cu gaura nr. 44 KTXB: T8; T9; T10; T15; T20
+1 suport bit 1/4" L.25mm
+1 șurubelniță decalată TORX® nr. 10766 T8
+1 cablu de conectare USB
+1 baterie litiu-ion
+721QR/20/3/1 Quick
+NOU
+Set strangere roti
+• cheie dinamometrica 40-200 N·m cu clichet QR de ½", cu chei tubulare pentru roti 
+Nr. 51IMP K, 17 mm (verde), 19 mm (albastru), 20,8 mm (rosu), extensie 130 mm, 96507214
+• setul la indemana contine toate instrumentele de care aveti nevoie pentru schimbarea rapida 
+si uaoară a anvelopelor
+• nu este nevoie sa setati cheia dinamometrica inapoi la „0” – valoarea de strangere poate 
+ramane permanent setata datorita sistemului brevetat de eliberare cu uzura redusa cu tija flexibila
+SW 96507214
+40-200
+30-150
+560x95x75
+920
+1
+5703.32
+1 MANOSKOP® No 721QR/20 Quick, 40-200 N·m, 30 - 150 ft·lb, cu clichet QuickRelease reversibil, 1/2"
+3 capete tubulare de impact pentru roti nr. 51IMP K, dimensiuni 17 (verde), 19 (albastru), 21 mm (rosu)
+L
+Set cheie dinamometrica SENSOTORK® 701/32/1
+• design foarte subțire și compact pentru cupluri mici de la 1 N-m
+• unități de măsură: N-m, cN-m, ft-lb, in-lb
+• măsurare independentă de punctul de aplicare a forței
+• funcții suplimentare cu software-ul SENSOMASTER 4
+• livrat cu baterie litiu 3,6 V, tip 14500
+• calibrare cu dispozitivul de calibrare perfectControl nr. 7794 sau sistemul de calibrare nr. 7706.
+• cu certificat
+• acuratete: ± 4
+L
+Antrenare
+SW 96090005
+1
+920
+320
+1/4”
+1/4”
+1-20
+0,7-15 ft·lb
+1 cheie dinamometrică nr. 701/2, 1-20 N-m, 1/4"
+Inserții pentru chei tubulare de 11 1/4" nr. 40, SW 4; 5; 5,5; 6; 7; 8; 9; 10; 11; 12; 13 mm
+Prelungire QuickRelease 1 1/4" L. 54 mm
+1 suport bit nr. 412
+3 biți pentru șuruburi Phillips Nr. 1221-1223, PH1; PH2; PH3
+3 biți pentru șuruburi Phillips Nr. PZ1221-1223, PZ1; PZ2; PZ3
+4 biți pentru șuruburi cu cap hexagonal nr. 13011304, SW 4; 5; 6; 8 mm
+7 biți pentru șuruburi interne TORX® Nr. 1414-1420, T10; T15; T20; T25; T27; T30; T40
+1 cablu USB nr.7754, mufa USB-A la mufa Micro-B
+5703.32
+730R/40/32 Quick
+NOU
+Set chei dinamometrice MANOSKOP® Quick
+• click-type
+• elementul de măsurare este doar sub sarcină în timp ce se aplică forța, nu este necesară 
+resetarea manuală la zero
+• suport pentru unelte interschimbabile de inserție/carcasă
+• blocare de siguranță QuickRelease
+• setare rapidă datorită manetei de blocare cu acțiune ușoară din mâner
+• dispozitiv de reglare anti-alunecare, proiectat ergonomic, cu o locașă pentru degetul mare
+• maner convex optimizat pentru lucru fără efort
+• semnal dublu de oprire
+• poate fi aplicat fie pentru strângerea în sensul acelor de ceasornic, fie în sens invers acelor 
+de ceasornic prin răsturnarea inserțiilor
+• cu certificat
+• valoarea abaterii afișajului ± 4%
+mm
+1
+14505.91
+SW 96502053
+9739
+480x240x60
+80 - 400
+1 Service-MANOSKOP® No 730/40 Quick, 80-400 N·m
+1 clichet nr. 735/20, reversibil, 1/2"
+1 clichet nr. 734/20, 1/2"
+7 capete chei fixe 731/40: 13; 15; 17; 19; 22; 27; 30 mm
+1 cap cheie fixa nr. 3731/40, 24 mm
+7 capete chei inelare Nr 732/40: 13; 15; 17; 19; 22; 24; 27 mm
+10 capete tubulare 12 laturi nr 50: 13; 14; 15; 17; 19; 22; 24; 27; 30; 32 mm
+4 accesorii, 1/2"
+1 antrenor in T nr 506
+1 prelungitor nr 509/10, 255 mm
+1 prelungitor nr 509/5, 130 mm
+1 prelungitor nr 509/2, 55 mm

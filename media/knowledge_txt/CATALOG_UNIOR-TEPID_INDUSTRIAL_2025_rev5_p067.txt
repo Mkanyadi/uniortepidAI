@@ -1,0 +1,142 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:67]
+188.1/1ABI
+Antrenor cu clichet reversibil 1/4"
+•  material: compozitie speciala pentru calire revenire
+•  corp forjat
+•  tratament termic total
+•  suprafata: cromata in concordanta cu standardul EN 12540
+•  maner ergonomic rezistent bimaterial
+•  executie in concordanta cu standardul ISO 3315
+•  cu 40 de dinti
+•  unghi de lucru: 9°
+•  sistem de blocare de securitate
+•  capul tubular este eliberat din clichet printr-o simpla apasare pe buton
+188.3/2
+Antrenor cu parghie glisanta 1/4"
+•  material: crom vanadiu
+•  tratament termic total
+•  suprafata:cromata in concordanta cu standardul EN 12540
+•  executie in concordanta cu standardul ISO 3315
+L
+157
+A
+24.5
+B
+25
+111
+ 4B 
+10
+183.93
+611901
+1/4"
+188.11
+Parti componente pentru 188.1/1ABI si 188.1/1FBI
+612503
+1/4"
+11
+30
+ 1E 
+1
+107.07
+188.2/2BI
+Antrenor articulat cu maner
+•  material: crom vanadiu
+•  corp forjat
+•  tratament termic total
+•  suprafata: cromata in concordanta cu standardul EN 12540
+•  maner ergonomic rezistent bimaterial
+•  executie in concordanta cu standardul ISO 3315
+611902
+1/4"
+L
+150
+81
+ 4B 
+10
+80.66
+L
+120
+A
+24
+D1
+7
+D2
+14
+47
+ 4A 
+10
+39.67
+600830 1/4"
+188.4/2
+Prelungitor 1/4"
+•  material: crom vanadiu
+•  forjata, calire si revenire totala
+•  acoperire cromare conform EN12540
+•  produs in conformitate cu standardul ISO 3316
+L
+55
+100
+150
+D1
+8
+8
+8
+D2
+12
+12
+12
+18
+40
+50
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+32.95
+45.25
+41.15
+600826
+625393
+600827
+1/4"
+1/4"
+1/4"
+188.4/2F
+Prelungitor flexibil 1/4"
+•  material: crom vanadiu
+•  capul cheii este tratat in intregime
+•  acoperire cromare conform EN12540
+612868
+1/4"
+57411
+L
+150
+D1
+8.3
+D2
+12
+56
+ 4B 
+10
+35.90
+NOU
+Antrenor cu clichet reversibil 1/4"
+• DIN 3122
+57411
+1/4”
+L
+160
+A
+22
+B
+21
+C
+23
+D
+17
+120
+ 1E 
+6
+470.63

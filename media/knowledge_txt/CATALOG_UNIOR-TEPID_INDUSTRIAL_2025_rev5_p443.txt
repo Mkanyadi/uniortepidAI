@@ -1,0 +1,588 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:443]
+Ø          P       L        l        d2     DIN
+962ST51
+9643011
+MF10
+MF10
+MF12
+MF12
+MF12
+MF14
+MF14
+MF14
+MF16
+MF18
+MF20
+MF22
+MF24
+MF24
+MF30
+1,0
+1,25
+1,0
+1,25
+1,5
+1,0
+1,25
+1,5
+1,5
+1,5
+1,5
+1,5
+1,5
+2,0
+1,5
+90
+100
+100
+100
+100
+100
+100
+100
+110
+110
+125
+125
+140
+140
+150
+18
+20
+22
+22
+22
+22
+22
+22
+22
+25
+25
+25
+25
+25
+32
+7
+7
+9
+9
+9
+11
+11
+11
+12
+14
+16
+18
+18
+18
+22
+374
+374
+374
+374
+374
+374
+374
+374
+374
+374
+374
+374
+374
+374
+374
+186.13
+202.48
+231.17
+221.53
+213.04
+357.00
+327.16
+261.87
+321.66
+388.50
+443.93
+463.26
+651.00
+794.79
+1000.71
+960303101000100
+960303101000125
+960303101200175
+960303101200125
+960303101200150
+960303101400100
+960303101400125
+960303101400150
+960303101600150
+960303101800150
+960303102000150
+960303102200150
+960303102400150
+960303102400200
+960303103000150
+9622011
+Tarozi de masina, filet UNC/UNF, 
+similar DIN 371, HSS-E ( Co 5% )
+• tarozi de masina, filet UNC/UNF, similar DIN 371, 
+• material: HSS-E ( Co 5% ), tratament termic, 
+• profil filet rectificat detalonat 
+• parametri filet conform ANSI B1.1 
+• toleranta 2B
+• unghiul flancurilor filetului 60°
+• forma C,  canale drepte, taiere pe dreapta
+• destinate pentru filetare in oteluri ne aliate si aliate pentru 
+tratament termic, cu σr ≤ 700 N / mm² si aliaje de aluminiu
+• pentru gauri strapunse 
+2
+d
+L
+Ø
+l1
+P
+Ø             P        L        l       d2
+4
+4,5
+7
+9
+8
+6
+7
+9
+UNC N°6
+UNC N°8
+UNC 1/4
+UNC 3/8
+UNC 5/16
+UNF N°10
+UNF 1/4
+UNF 3/8
+56
+63
+80
+90
+90
+70
+80
+100
+32
+32
+20
+16
+18
+32
+28
+24
+11
+12
+16
+18
+18
+14
+16
+18
+113.84
+112.92
+110.97
+147.34
+132.48
+131.85
+117.05
+149.41
+962201100006320
+962201100008320
+962201100140200
+962201100380160
+962201100516180
+962201100010320
+962201100140280
+962201100380240
+9623011
+Tarozi de masina, filet UNF, similar
+DIN 376, HSS-E ( Co 5% )
+• tarozi de masina, filet UNF, similar DIN 376, 
+• material: HSS-E ( Co 5% ), tratament termic, 
+• profil filet rectificat detalonat 
+• parametri filet conform ANSI B1.1 
+• toleranta 2B
+• unghiul flancurilor filetului 60°
+• forma C,  canale dreprte, taiere pe dreapta
+• destinate pentru filetare in oteluri ne aliate si aliate pentru 
+tratament termic, cu σr ≤ 700 N / mm² si aliaje de aluminiu
+• pentru gauri strapunse 
+2
+d
+L
+Ø
+l1
+P
+Tarozi de masina, filet UNC/UNF, 
+similar DIN 371/376, HSS-E ( Co 5% ), 
+TiN
+• tarozi de masina, filet UNC/UNF, similar DIN 371/376, 
+• material: HSS-E ( Co 5% ), tratament termic, acoperire TiN,
+• profil filet rectificat detalonat 
+• parametri filet conform ANSI B1.1 
+• toleranta 2B
+• unghiul flancurilor filetului 60°
+• forma C,  unghiul spirei 35°, taiere pe dreapta
+• pentru filetare in oteluri ne aliate si aliate pentru tratament 
+termic, cu σr ≤ 1400 N / mm²
+• pentru gauri infundate 
+Tarozi scurti de masina, pentru filet
+NPT, similar DIN 5156 HSS-G 
+• tarozi scurti de masina, pentru filet conic NPT, similar 
+DIN 5156 HSS-G
+• material: HSS, tratament termic,
+• profil filet rectificat detalonat 
+• unghiul flancurilor filetului 55°
+• conicitate 1 : 16
+• forma C, canale drepte 
+• destinate pentru filetare in oteluri ne aliate si aliate pentru 
+tratament termic, cu σr ≤ 1400 N / mm², aliaje de aluminiu
+• pentru gauri strapunse 
+2
+d
+L
+Ø
+l1
+P
+2
+d
+L
+Ø
+l1
+P
+Ø          P       L        l        d2     DIN
+962ST5100140200
+962ST5100380160
+962ST5100120130
+962ST5100340100
+962ST5110000080
+962ST5100140280
+962ST5100380240
+962ST5100120200
+962ST5100340160
+962ST5110000120
+UNC 1/4
+UNC 3/8
+UNC 1/2
+UNC 3/4
+UNC 1"
+UNF 1/4
+UNF 3/8
+UNF 1/2
+UNF 3/4
+UNF 1"
+20
+16
+13
+10
+8
+28
+24
+20
+16
+12
+80
+90
+110
+125
+160
+80
+100
+110
+125
+140
+12
+14
+16
+25
+30
+10
+14
+16
+18
+25
+7
+9
+9
+14
+20
+7
+9
+9
+14
+20
+371
+371
+376
+376
+376
+371
+371
+376
+376
+376
+207.42
+282.58
+353.67
+626.21
+1166.93
+210.75
+301.23
+401.87
+702.64
+1379.34
+964301100116270
+964301100180270
+964301100140180
+964301100380180
+964301100120140
+964301100340140
+964301110000115
+964301110140115
+9704601
+Ø           P 
+27
+27
+18
+18
+14
+14
+11,5
+11,5
+NPT 1/16
+NPT 1/8
+NPT 1/4
+NPT 3/8
+NPT 1/2
+NPT 3/4
+NPT 1"
+NPT 1"1/4
+ L          l      d2
+90
+6
+16
+90
+8
+21
+100
+11
+28
+110
+14
+28
+140
+18
+35
+140
+22
+35
+160
+25
+45
+170
+32
+45
+263.25
+263.25
+368.93
+509.80
+712.51
+1089.42
+1224.02
+1969.47
+9633011
+Tarozi de masina, filet GAZ ( BSP ),
+DIN 5156 HSS-E (Co 5%), Forma C
+• tarozi de masina, filet GAZ ( BSP, British Standard Pipe ), 
+DIN 5156
+• material: HSS-E ( Co 5% ), tratament termic,
+• profil filet rectificat detalonat 
+• unghiul flancurilor filetului 55°
+• forma C, canale drepte
+• destinate pentru filetare in oteluri ne aliate si aliate pentru 
+tratament termic, cu σr ≤ 900 N / mm², aliaje de aluminiu
+• pentru gauri strapunse 
+Tarozi extralungi de masina, filet 
+Metric, NFE 66112 similar DIN 357, 
+forma A, HSS-E (Co 5%)
+• tarozi extralungi de masina ( pentru piulite ), filet Metric,
+DIN 357, 
+• material: HSS-E (Co 5%), tratament termic 
+• profil filet rectificat detalonat 
+• parametri filet conform DIN ISO 13
+• toleranta 6H, conform ISO 2
+• unghiul flancurilor filetului 60°
+• forma A,  taiere pe dreapta
+• conul de atac :  6-8 spire
+• pentru gauri strapunse
+• pentru filetare in oteluri ne aliate si aliate pentru tratament 
+termic, cu σr ≤ 1400 N / mm²
+2
+d
+L
+Ø
+l1
+P
+2
+d
+L
+Ø
+l1
+P
+Ø           P 
+ L          l      d2
+962301100716200
+962301100120200
+962301100916180
+962301100580180
+962301100340160
+UNF 7/16
+UNF 1/2
+UNF 9/16
+UNF 5/8
+UNF 3/4
+20
+20
+18
+18
+16
+100
+110
+110
+110
+125
+22
+25
+25
+25
+32
+8
+9
+11
+12
+14
+188.71
+198.87
+244.54
+277.76
+355.62
+Ø           P 
+963301100180280
+963301100140190
+963301100380190
+963301100120140
+963301100340140
+963301110000110
+963301110140110
+G1/8
+G1/4
+G3/8
+G1/2
+G3/4
+G1"
+G1"1/4
+28
+19
+19
+14
+14
+11
+11
+ L          l      d2
+7
+18
+90
+11
+22
+100
+12
+25
+100
+16
+25
+125
+20
+28
+140
+25
+36
+160
+32
+40
+170
+142.24
+210.80
+252.40
+319.02
+499.30
+774.65
+1388.64
+970460100300050
+970460100400070
+970460100500080
+970460100600100
+970460100800125
+970460101000150
+970460101200175
+970460101400200
+970460101600200
+Ø           P 
+0,5
+0,7
+0,8
+1,0
+1,25
+1,5
+1,75
+2,0
+2,0
+M3
+M4
+M5
+M6
+M8
+M10
+M12
+M14
+M16
+ L          l      d2
+90
+100
+110
+120
+135
+150
+165
+180
+190
+19
+20
+25
+27
+32
+38
+43
+50
+50
+2,1
+2,9
+3,7
+4,5
+6,2
+7,6
+9
+10,5
+12,5
+736.95
+426.43
+481.45
+481.45
+640.79
+688.18
+731.56
+1052.07
+1052.07

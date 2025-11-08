@@ -1,0 +1,328 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:337]
+762/5S
+Set de pile fine 200 mm
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+Tipuri de danturi
+pila bastard
+pila semifina
+pila fina
+raspila bastard
+raspila semifina
+raspila fina
+ascutire simpla
+ascutire radiala
+ascutire cu spargator 
+de aschii
+UP/297
+PPMS/193
+Pila dreptunghiulara universala
+• pila rectangulara universala cu dantura simpla pe ambele
+parti si spargator de aschie
+• cu un cant activ
+•  1 - bastard; 2 - semifina; 3 - fina
+•  duritate: 60-66 HRc
+Pila plata pentru lant de motofierastrau
+• cu tais incrucisat
+•  1 - bastard; 2 - semifina; 3 - fina
+L
+Taiere
+a x b
+UP297200SF
+UP297250SF
+200
+250
+2
+2
+20 x 4.5
+24 x 6.0
+150
+270
+62.30
+82.31
+P2CX/100
+Pila plata cu muchii drepte pentru
+ascutit panze circulare
+• pila rectangulara cu tais simplu pe toate cele 4 fete
+• pentru panze fierastrau circular si panglica
+•  1 - bastard; 2 - semifina; 3 - fina
+L
+Taiere
+a x b
+PPMS193150 150
+2
+15 x 3.0
+70
+29.05
+P1CR/101
+Pila plata cu o  muchie dreapta si
+una rotunjita pentru ascutit panze
+circulare
+• pila rectangulara cu tais simplu pe toate cele 4 fete
+• pentru panze fierastrau circular si panglica
+•  1 - bastard; 2 - semifina; 3 - fina
+612933
+5 piese
+1020
+232.30
+ 760HS (200), 
+761HS  (200), 
+ 763HS (200), 
+ 764HS (200), 
+  765HS  (200)
+0322200-P
+Set 5 pile semifine 200 mm cu
+maner plastic
+• cu manere din plastic (forma lata, semirotunda, triunghiulara, 
+patrata, rotunda).
+mm
+0322200-P
+200
+lata, semirotunda, triunghiulara, patrata, rotunda
+800
+5
+335.27
+F/070
+Pila cutit fara maner
+• pila tip cutit cu profil triunghiular cu ascutire incrucisata pe
+ambele parti
+• margine ingusta cu tais simplu
+•  1 - bastard; 2 - semifina; 3 - fina
+•  duritate: 60-66 HRc
+DIN
+7261
+Forma
+G
+L
+Taiere
+a x b
+F070100BA
+F070100SF
+F070100FI
+F070150BA
+F070150SF
+F070150FI
+F070200BA
+F070200SF
+F070200FI
+F070250BA
+F070250SF
+F070250FI
+F070300BA
+100
+100
+100
+150
+150
+150
+200
+200
+200
+250
+250
+250
+300
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+11,8 x 2.5
+11,8 x 2.5
+11,8 x 2.5
+17,0 x 4.5 
+17,0 x 4.5
+17,0 x 4.5
+21,0 x 5.0
+21,0 x 5.0
+21,0 x 5.0
+26,0 x 6.5
+26,0 x 6.5
+26,0 x 6.5
+30,0 x 7.0
+20
+20
+20
+60
+60
+60
+100
+100
+100
+200
+200
+200
+340
+61.91
+67.16
+70.14
+64.90
+70.14
+73.86
+94.84
+102.27
+106.87
+108.32
+116.64
+122.45
+140.29
+DIN
+7276
+Forma
+E
+L
+Taiere
+a x b
+P2CX100150BA
+P2CX100150SF
+P2CX100150FI
+P2CX100200BA
+P2CX100200SF
+P2CX100200FI
+P2CX100250BA
+P2CX100250SF
+P2CX100250FI
+P2CX100300BA
+P2CX100300SF
+P2CX100300FI
+150
+150
+150
+200
+200
+200
+250
+250
+250
+300
+300
+300
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+2
+3
+15 x 2.5
+15 x 2.5
+15 x 2.5
+20 x 3.5
+20 x 3.5
+20 x 3.5
+24 x 4.0
+24 x 4.0
+24 x 4.0
+29 x 5.0
+29 x 5.0
+29 x 5.0
+60
+60
+60
+120
+120
+120
+190
+190
+190
+340
+340
+340
+28.57
+29.78
+31.08
+32.29
+33.74
+35.35
+47.46
+48.91
+51.09
+59.65
+61.59
+64.09
+DIN
+7276
+Forma
+E
+L
+Taiere
+a x b
+P1CR101150BA
+P1CR101150SF
+P1CR101150FI
+P1CR101200BA
+P1CR101200SF
+P1CR101200FI
+P1CR101250BA
+P1CR101250SF
+P1CR101300BA
+P1CR101300SF
+P1CR101300FI
+150
+150
+150
+200
+200
+200
+250
+250
+300
+300
+300
+1
+2
+3
+1
+2
+3
+1
+2
+1
+2
+3
+15 x 2.5
+15 x 2.5
+15 x 2.5
+20 x 3.5 
+20 x 3.5
+20 x 3.5
+24 x 4.0
+24 x 4.0
+24 x 4.0
+29 x 5.0
+29 x 5.0
+60
+60
+60
+120
+120
+120
+190
+190
+340
+340
+340
+32.77
+33.74
+34.95
+35.19
+36.08
+37.69
+50.69
+51.74
+62.15
+63.60
+67.56

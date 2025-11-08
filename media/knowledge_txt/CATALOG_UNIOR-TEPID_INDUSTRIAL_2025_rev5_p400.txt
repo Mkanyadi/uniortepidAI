@@ -1,0 +1,110 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:400]
+05016
+NOU
+05003
+NOU
+05014
+NOU
+Trusa 10 biti, accesorii
+si burghie HSS pentru lemn
+Trusa 10 biti si accesorii
+Zirconium
+Trusa 10 biti si accesorii
+Torx®
+1/4“
+1/4“
+1/4“
+05016
+133.69
+10 piese
+5 biti - 1/4“ C 6,3 - 25 mm
+PH 2; PZ 2; TX15; TX 20; TX 25
+4 burghie HSS pentru lemn
+3; 4; 5; 6 mm 
+1 prelungitor biti - 1/4“ E 6,3 - 60 mm magnetic
+05003
+10 piese
+5 biti - 1/4“ C 6,3 - 25mm
+1x PH 2; PZ 2; TX 15; TX 20; TX 25
+4 biti - 1/4“ C 6,3 - 25mm
+1x PH 2; PZ 2; TX 20; TX 25
+1 prelungitor biti - 1/4“ E 6,3 - 60 mm magnetic
+77.17
+05014
+10 piese
+9 biti - 1/4“ C 6,3 - 25mm
+TX 10; TX15; TX 20(2x); TX 25(2x); TX 30(2x); TX 40
+1 prelungitor biti - 1/4“ E 6,3 - 60 mm magnetic
+53.93
+05015
+NOU
+05001
+NOU
+Trusa 10 biti si accesorii
+Zirconium
+05004
+Trusa 10 biti si accesorii
+Industry standard
+NOU
+Trusa 10 biti, accesorii
+si burghie HSS pentru metal
+1/4“
+1/4“
+1/4“
+05001
+10 piese
+9 biti - 1/4“ C 6,3 - 25mm
+1x PH 1; PH 2; PH 3; PZ 1; PZ 2; PZ 3; TX 20; TX 25; TX 30
+1 prelungitor biti - 1/4“ E 6,3 - 60 mm magnetic
+68.56
+05004
+10 piese
+5 biti - 1/4“ C 6,3 - 25 mm
+1x PH 2; PZ 2; TX 15; TX 20; TX 25
+4 biti - 1/4“ C 6,3 - 50 mm
+1x PH 2; PZ 2; TX 20; TX 25
+1 prelungitor biti - 1/4“ E 6,3 - 60 mm magnetic
+05015
+57.09
+131.39
+10 piese
+5 biti - 1/4“ C 6,3 - 25 mm
+PH 2; PZ 2; TX15; TX 20; TX 25
+4 burghie HSS pentru metal
+3; 4; 5; 6 mm 
+1 prelungitor biti - 1/4“ E 6,3 - 60 mm magnetic
+05017
+NOU
+05002
+NOU
+05006
+Trusa 10 biti si accesorii
+Industry standard
+Trusa 5 biti si accesorii
+Industry standard
+NOU
+Trusa 10 biti, accesorii
+si tarozi combinati
+1/4“
+1/4“
+1/4“
+05002
+10 piese
+9 biti - 1/4“ C 6,3 - 25mm
+1x PH 1; PH 2; PH 3; PZ 1; PZ 2; PZ 3; TX 20; TX 25; TX 30
+1 prelungitor biti - 1/4“ E 6,3 - 60 mm magnetic
+53.93
+05006
+5 piese
+4 biti - 1/4“ C 6,3 - 70 mm
+1x PH 2; PZ 2; TX 20; TX 25
+1 prelungitor biti - 1/4“ E 6,3 - 60 mm magnetic
+54.80
+05017
+10 piese
+5 biti - 1/4“ C 6,3 - 25 mm
+PH 2; PZ 2; TX15; TX 20; TX 25
+4 tarozi combinati HSSG
+M 3; 4; 5; 6 
+1 prelungitor biti - 1/4“ E 6,3 - 60 mm nemagnetic cu inel
+197.95

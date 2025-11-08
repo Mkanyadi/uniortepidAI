@@ -1,0 +1,353 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:527]
+Recomandari generale
+pentru utilizarea panzelor rectilinii pentru 
+debitarea metalelor
+Cum sa alegeti tipul de rectilinii corect
+Alegerea panzei rectilinii cu numar 
+corect de dinti pe tol depinde de 
+dimensiunile si de tipul materialului 
+debitat
+γ 0°
+Defectiuni si cauzele acestora
+1. Tocirea rapida
+2. Ruperea dintilor
+» pasul dintilor este prea mic (numar de dinti 
+pe 25 mm) in timpul taierii lementelor subtiri
+» in cazul taierii varfurilor ascutite sau 
+corpurilor cu pereti subtiri, atunci cand mai 
+putin de 4 dinti taie in acelasi timp
+» daca materialul nu este bine intins
+» daca se alege un numar de dinti gresit
+» daca panza de ferastrau nu este tensionata 
+cum trebuie
+» daca viteza de taiere este prea mare - in 
+special in cazul taierii materialelor dure
+» daca presiunea este prea mare - dintii se 
+tocesc foarte repede
+» presiunea este insuficienta - dintii razuie dar 
+nu taie materialul
+» racirea este insuficienta
+» daca apar defectiuni in mecanismul pentru 
+taierea inversa
+4
+6
+8
+10
+14
+da
+nu
+3. Ruperea panzei de fierastrau
+da
+nu
+4. Taierea curbata
+> 150
+150
+50
+15
+10 6 3
+10 dinti/25 mm - taierea materialelor subtiri de toate tipurile, ca de exemplu tuburi, 
+tevi, profile, etc
+10 dinti/25 mm - taierea tuturor tipurilor de materiale de dimensiuni mici si medii
+6 dinti/25 mm - taierea tuturor tipurilor de material de grosime mai mare
+4 dinti/25 mm - taierea materialului moale de grosime mai mare
+» strangerea nejustificata a panzei de ferastrau in 
+rama masinii
+» alegerea gresita a panzei pentru un avans mare
+» coborarea neatenta a ramei masinii
+» materialul care trebuie taiat nu este intins bine
+» folosirea unei panze rectilinii noi pe aceeasi linie 
+de taiere trasata de o panza veche
+» agatarea/prinderea materialului la sfarsitul taierii
+» lagar defect in masina sau cursa defecta
+» fixarea gresita a panzei in masina
+» panza este insuficient tensionata
+» materialul este tensionat insuficient
+» presiune prea mare si panza aleasa gresit
+» puncte dure in interiorul materialului
+» masina deficienta - lagar uzat, rama nu este 
+fixata
+DINTAREA RECOMANDATA PENTRU 25 MM (TPI) PENTRU FIECARE TIP DE MATERIAL
+22 2961
+Material
+Otel pentru masini
+Fier pentru constructii
+Otel de stuctura
+Otel tratat la temperaturi mari
+Otel de nitrura
+Otel pentru unelte fara aliaj
+Otel pentru unelte in aliaj
+Otel pentru arcuri
+Otel rezistent la temperature mari
+Otel inoxidabil
+Fier maleabil pana la 200HB
+Fonta cenusie pana la 200HB
+Fier de turnatorie
+Bronz
+Dural
+Aluminiu
+Alama
+10 - 30
+Diametrul materialului
+30 - 100
+Dinti/tol (25 mm)
+100 - 250
+14 - 8
+8 - 6
+6 - 4
+14 - 8
+10 - 8
+14 - 8
+8 - 6
+8 - 6
+10 - 8
+8 - 6
+6 - 4
+8 - 6
+6 - 4
+6 - 4
+8 - 6
+6 - 4
+4
+6 - 4
+6 - 4
+4
+6 - 4
+6 - 4
+6 - 4
+6 - 4
+Numarul mic de dinti este potrivit pentru taierea materialelor mai groase iar numarul 
+de dinti mai mare este potrivit pentru taierea profilelor subtiri.
+Folosirea corecta a panzelor rectilinii
+1. Este important sa acordam aceeasi atentie panzelor rectilinii ca si oricaror altor 
+unelte.
+2. Mentineti masina intr-o conditie tehnica foarte buna. Este important sa verificati 
+urmatoarele lucruri:
+a) bratul rabatabil si functia acestuia sunt in ordine
+b) pompa de ulei a bratului rabatabil este curata si fara bule de aer.
+3. Tensionati bine panza rectilinie in masina si aranjati-o in pozitia corecta.
+4. Tensionati bine materialul de taiat in bucse astfel incat sa taie cat mai multi dinti 
+posibil (cel putin 4, maxim 30).
+5. In cazul taierii in pachet (mai multe bucati dintr-o data), asigurati-va ca fiecare 
+bucata este prinsa bine.
+6. In timpul taierii corpurilor din metal, asigurati-va ca ati indepartat urmele de praf de 
+pe suprafata acestora folosind o pila bastard sau o perie din otel. Nisipul poate cauza 
+deteriorarea rapida a panzei de ferastrau alternative.
+7. Cand porniti masina, coborati rama ferastraului cu grija si modificati presiunea sau 
+micsorati avansul ferastraului pentru primele taieturi (numai cand se utilizeaza o 
+panza noua).
+8. Nu folositi o presiune prea mare sau prea mica.
+9. Folositi intotdeauna lichid de racire in timpul taierii.
+10. Dupa doua sau trei taieri verificati tensiunea panzei.
+11. Dupa o anumita perioada de taiere, verificati timpul necesar pentru o singura 
+taiere. In cazul in care acesta este anormal de mare, inlocuiti imediat panza cu una 
+noua.
+12. Nu folositi niciodata o panza rectilinie noua in locul unei taieri cu o panza veche. 
+Setarea panzei vechi era deja mai mica iar linia de taiere este prea ingusta pentru 
+panza noua. Este necesara oprirea taierii, inlocuirea materialului taiat si inceperea 
+unei noi taieri.
+Panze rectilinii HSS
+• panzele rectilinii sunt fabricate dintr-un otel suedez  foarte eficient, intarit si ajustat pentru 
+a face posibila o performanta de invidiat
+• material HSS ABC3
+• dinti dispusi alternativ 
+• folosite pentru taierea otelurilor structurale, otelurilor pentru unelte si a otelurilor rapide, 
+fontelor (de turnatorie), metalelor neferoase, m aterialelor solide, profilelor, tuburilor, metalelor
+6113561510
+6114561500
+4004020006
+6114561508
+4004020008
+6115561500
+6115561504
+6115561508
+6115561510
+6115561514
+4504020006
+4504020008
+4504020010
+6116661504
+6116661508
+6116661510
+6116661500
+5505025006
+5505025008
+5505025004
+6117761504
+6117761508
+6117761510
+6117761500
+6118761504
+6118761500
+6118761508
+6505025004
+6505025006
+6505025008
+1610510400
+1610510404
+1610510408
+L (mm)                  H (mm)              S (mm)                  TPI                     Pret
+1,6
+350
+1,6
+400
+2,0
+400
+1,6
+400
+2,0
+400
+1,6
+450
+1,6
+450
+1,6
+450
+1,6
+450
+1,6
+450
+2,0
+450
+2,0
+450
+2,0
+450
+2,0
+500
+2,0
+500
+2,0
+500
+2,0
+500
+2,5
+550
+2,5
+550
+2,5
+550
+2,0
+600
+2,0
+600
+2,0
+600
+2,0
+600
+2,5
+600
+2,5
+600
+2,5
+600
+2,5
+650
+2,5
+650
+2,5
+650
+2,5
+700
+2,5
+700
+2,5
+700
+59.01
+68.82
+101.23
+68.82
+101.23
+74.84
+74.84
+74.84
+74.84
+74.84
+107.65
+107.65
+107.65
+118.58
+118.58
+118.58
+118.58
+198.89
+198.89
+198.89
+192.11
+192.11
+192.11
+192.11
+192.11
+192.11
+192.11
+244.15
+244.15
+244.15
+295.99
+295.99
+295.99
+32
+32
+40
+32
+40
+32
+32
+32
+32
+32
+40
+40
+40
+40
+40
+40
+40
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+10
+6
+6
+8
+8
+6
+4
+8
+10
+14
+6
+8
+10
+4
+8
+10
+6
+6
+8
+4
+4
+8
+10
+6
+4
+6
+8
+4
+6
+8
+6
+4
+8

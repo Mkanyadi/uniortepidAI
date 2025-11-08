@@ -1,0 +1,629 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:422]
+B 
+     NOTA TIVOLY
+Gaurirea otelurilor rezistente este
+cea mai frecventa operatiune in
+lucrari de mecanica, lacatuserie 
+sau
+mentenanta.
+    La utilizarea cu masini cu
+comanda numerica, asigura o
+durata de viata foarte lunga si o
+productivitate crescuta.
+    La utilizarea cu masini electrice
+portative, viteza de gaurire si forta
+axiala reduse, asigura munca de
+calitate si previne aparitia
+afectiunilor musculo-scheletice
+pentru utilizatori (AMS).
+C  INOVATIE TIVOLY
+Echipa de cercetare si dezvoltare
+Tivoly a proiecat noul burghiu Tivoly
+printr-o combinatie exclusiva a unui
+design geometric si al acoperirii PDV
+noi, pentru un nivel exceptional de
+performanta.
+E 
+    CONDITII DE GAURIRE
+Pe fiecare ambalaj Tivoly sunt
+indicate conditiile de gaurire in
+functie de diametrul burghiului.
+FURIUS
+ø 5
+10
+pcs/stk
+HSS coat. Fusio
+DIN 338
+11454110500
+1000
+1500
+1000
+0,07
+0,12
+0,12
+MARCAJ LASER
+F 
+Inscriptionare laser cu caractere
+mari pentru citirea usoara a
+principalelor informatii despre
+produs.
+Cu intrebuintarea la gaurire a burghielor Furius, utilizatorul contribuie la protejarea mediului inconjurator:
+    Reducerea consumului de energie electrica.
+    Cresterea duratei de utilizare a burghielor
+    Previne suprasolicitarea masinilor electrice si acumulatorilor
+    Produs cu utilizare facila, previne aparitia afectiunilor utilizatorului si creste productivitatea muncii.
+FABRICAT 
+IN FRANTA 
+ECO 
+CONCEPT
+Cu o experienta de peste 90 de ani in domeniul fabricatiei
+de burghie pentru metal, Tivoly propune cea mai
+noua invovatie in domeniul gauririi in oteluri de inalta
+rezistenta.
+D 
+    ACOPERIRE PVD
+«FUSIO»
+   Realizata cu cea mai recenta
+tehnologie PVD, acoperirea 
+FUSIO,
+special dezvoltata pentru 
+burghiele
+Furius, garanteaza:
+   Confort
+   Rapiditate
+   Stabilitate
+   Rezistenta
+  Datorita structurii multi-strat si al
+compozitiei speciale, noua
+acoperire asigura:
+   Durabilitate superioara
+   Duritate ridicata
+   Coeficient redus de frecare
+Reduce uzura pe muchiile de
+taiere in timpul gauririi otelurilor
+rezistente (<950 N/mm2). Perfect
+pentru aplicatii de gaurire cu
+intreruperi (cu masini electrice
+portative), contribuie la performan-
+ta exceptionala a burghiului.
+A     EXPERIENTA TIVOLY
+Datorita experientei sale vaste in
+domeniu productiei de burghie,
+Tivoly ofera solutii adaptate pentru
+cerintele utilizatorului.
+TEST DURATA VIATA 
+TEST DE PRODUCTIVITATE 
+TEST DE EFORT
+TEST COTA DIAMETRU 
+Durata de viata cu lubrefiere:
+d=6mm - 304L - Vc = 12m/mn - f = 0.10
+ Ascutire 4 fete plan
+ Ascutire varf de centrare
+x :  adancime gaurire
+y : nr. de gauri
+Y
++20%
+Y
+200
+150
+100
+50
+ Ascutire 4 fete plan
+ Ascutire varf de centrare
+x : diametru gaura  
+y : avans
++30%
+Y
+1100
+1000
+900
+800
+700
+Masurarea efortului cu lubrefiere:
+d=6mm - 304L - Vc = 12m/mn - f = 0.10
+Abatere de la geometria gaurii:
+d=6mm - 304L - Vc = 8m/mn - f = 0.1
+ Ascutire 4 fete plan
+ Ascutire varf de centrare
+ø la intrare
+ø la iesire
+y : cota diametru 
+ Ascutire 4 fete plan
+ Ascutire varf de centrare
+x : adancime gaurire  
+y : efort mediu Fz
+-30%
+Y
+7mm
+6mm
+2xd
+3xd
+X
+ø2
+ø4
+ø6
+ø8
+ø10
+X
+2xd
+3xd
+4xd
+5xd
+X
+Sp1
+TBX 4F
+X
+        Ø         d2           L           l1 
+        Ø         d2           L           l1 
+        Ø         d2           L           l1 
+Ascutire 4 fete : medie constanta fata de NEW CUTINOX 4F 
+| 
+ Ascutire varf centrare (Sp1) : medie constanta fata de produsul concurent
+11455010350
+11455010360
+11455010370
+11455010375
+11455010380
+11455010390
+11455010400
+11455010410
+11455010420
+11455010425
+11455010430
+11455010440
+11455010450
+11455010460
+11455010470
+11455010475
+11455010480
+11455010490
+11455010500
+11455010510
+11455010520
+11455010525
+11455010530
+11455010540
+11455010550
+11455010560
+3.50
+3.60
+3.70
+3.75
+3.80
+3.90
+4.00
+4.10
+4.20
+4.25
+4.30
+4.40
+4.50
+4.60
+4.70
+4.75
+4.80
+4.90
+5.00
+5.10
+5.20
+5.25
+5.30
+5.40
+5.50
+5.60
+3.50
+3.60
+3.70
+3.75
+3.80
+3.90
+4.00
+4.10
+4.20
+4.25
+4.30
+4.40
+4.50
+4.60
+4.70
+4.75
+4.80
+4.90
+5
+5,1
+5,2
+5,25
+5,3
+5,4
+5,5
+5.6
+70
+70
+70
+70
+75
+75
+75
+75
+75
+75
+80
+80
+80
+80
+80
+80
+86
+86
+86
+86
+86
+86
+86
+93
+93
+93
+39
+39
+39
+39
+43
+43
+43
+43
+43
+43
+47
+47
+47
+47
+47
+47
+52
+52
+52
+52
+52
+52
+52
+57
+57
+57
+9.58
+10.84
+10.84
+10.96
+10.79
+10.79
+9.93
+13.54
+11.88
+11.07
+12.68
+12.68
+11.07
+14.11
+14.11
+13.14
+14.23
+14.23
+12.45
+14.00
+15.32
+14.34
+15.89
+15.89
+15.55
+19.34
+11455010570
+11455010575
+11455010580
+11455010590
+11455010600
+11455010610
+11455010620
+11455010625
+11455010630
+11455010640
+11455010650
+11455010660
+11455010670
+11455010675
+11455010680
+11455010690
+11455010700
+11455010710
+11455010720
+11455010725
+11455010730
+11455010740
+11455010750
+11455010760
+11455010770
+11455010775
+5.70
+5.75
+5.80
+5.90
+6.00
+6.10
+6.20
+6.25
+6.30
+6.40
+6.50
+6.60
+6.70
+6.75
+6.80
+6.90
+7.00
+7.10
+7.20
+7.25
+7.30
+7.40
+7.50
+7.60
+7.70
+7.75
+5,7
+5,75
+5,8
+5,9
+6
+6,1
+6,2
+6,25
+6,3
+6,4
+6,5
+6,6
+6,7
+6,75
+6,8
+6,9
+7
+7,1
+7,2
+7,25
+7,3
+7,4
+7,5
+7,6
+7,7
+7,75
+93
+93
+93
+93
+93
+101
+101
+101
+101
+101
+101
+101
+101
+109
+109
+109
+109
+109
+109
+109
+109
+109
+109
+117
+117
+117
+57
+57
+57
+57
+57
+63
+63
+63
+63
+63
+63
+63
+63
+69
+69
+69
+69
+69
+69
+69
+69
+69
+69
+69
+75
+75
+19.34
+16.81
+18.70
+18.70
+16.75
+23.47
+23.47
+19.91
+23.07
+23.07
+20.66
+24.61
+24.61
+23.07
+26.34
+26.34
+21.86
+31.10
+31.10
+25.48
+28.75
+28.75
+24.61
+35.11
+34.14
+29.38
+11455010780
+11455010790
+11455010800
+11455010810
+11455010820
+11455010825
+11455010830
+11455010840
+11455010850
+11455010860
+11455010870
+11455010875
+11455010880
+11455010890
+11455010900
+11455010910
+11455010920
+11455010925
+11455010930
+11455010940
+11455010950
+11455010960
+11455010970
+11455010980
+11455010990
+11455011000
+7.80
+7.90
+8.00
+8.10
+8.20
+8.25
+8.30
+8.40
+8.50
+8.60
+8.70
+8.75
+8.80
+8.90
+9.00
+9.10
+9.20
+9.25
+9.30
+9.40
+9.50
+9.60
+9.70
+9.80
+9.90
+10.00
+7,8
+7,9
+8
+8,1
+8,2
+8,25
+8,3
+8,4
+8,5
+8,6
+8,7
+8,75
+8,8
+8,9
+9
+9,1
+9,2
+9,25
+9,3
+9,4
+9,5
+9,6
+9,7
+9,8
+9,9
+10
+117
+117
+117
+117
+117
+117
+117
+117
+117
+125
+125
+125
+125
+125
+125
+125
+125
+125
+125
+125
+125
+133
+133
+133
+133
+133
+75
+75
+75
+75
+75
+75
+75
+75
+75
+81
+81
+81
+81
+81
+81
+81
+81
+81
+81
+81
+81
+87
+87
+87
+87
+87
+33.22
+33.22
+27.83
+38.39
+38.39
+31.56
+39.02
+39.02
+29.55
+41.71
+41.71
+35.69
+41.43
+41.43
+35.98
+48.83
+48.83
+40.51
+47.11
+47.11
+37.70
+56.57
+56.57
+57.43
+57.49
+40.85

@@ -1,0 +1,68 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1073]
+949.2
+Dulap de scule
+•  tabla cu gauri perforate
+•  sistem de inchidere
+•  7 sertare dim.560 x 605 x 70
+•  sertare pe rulmenti
+•  vopsite cu vopsele ecologice fara cadmiu si plumb
+•  element din 949
+949
+Dulap de scule
+•  sistem de inchidere
+•  sertare pe rulmenti
+•  vopsite cu vopsele ecologice fara cadmiu si plumb
+•  tabla perforata
+977/1
+Suport metalic pentru chei fixe
+•  material: tabla
+•  vopsite cu vopsele ecologice fara cadmiu si plumb
+A
+B H
+605160 6-32/12
+180 50 330 420  1F 
+1
+84.43
+977/2
+Suport metalic pentru chei 
+combinate, varianta lunga
+•  material: tabla
+•  vopsite cu vopsele ecologice fara cadmiu si plumb
+A
+B
+H
+A
+B H
+622671
+695
+660
+2030
+135000
+10773.93
+605161 6-22/17 215 55 420 590  1F 
+1
+84.43
+B
+H
+660
+1023
+83400
+6466.72
+A
+695
+622673
+949.1
+Dulap de scule
+•  sistem de inchidere
+•  vopsite cu vopsele ecologice fara cadmiu si plumb
+•  tabla perforata
+•  element din 949
+A
+B
+H
+622672
+695
+660
+1023
+48800
+10773.93

@@ -1,0 +1,301 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:73]
+L
+28
+28
+28
+30
+30
+30
+32
+32
+32
+32
+D1
+15.7
+15.7
+15.7
+15.7
+15.7
+25.7
+27.7
+29.5
+31.7
+33.7
+D2
+16.7
+17.7
+19.5
+21.7
+23.3
+23
+25
+26
+28
+30
+T
+8
+8
+12
+12
+12
+14
+14
+14
+14
+14
+29
+32
+39
+48
+59
+73
+88
+105
+112
+132
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+12.46
+12.46
+14.10
+15.41
+17.38
+23.44
+30.82
+33.93
+35.90
+46.72
+11501420002
+Cap tubular universal 3/8" cu pini
+• cap tubular universala de la 7 la 19 mm - 1x antrenor cu clichet de 3/8" + 
+1x prelungitor hexagonal de 6,35 mm pentru cap tubular de 3/8"
+• instrumentul de montaj universal pentru inlocuirea cheilor, clestilor si capetelor 
+tubulare traditionale.
+• 54 de ace retractabile
+• antrenor cu clichet 3/8"
+• arc de revenire
+• mai multe tipuri de cap de șurub
+• diametrul exterior: 24.5 mm
+• cuplu maxim: 100 Nm
+• lungime cap: 50.8 mm
+• greutate: 114 g
+• adancime maxima: 9.5 mm
+616926 7/16"
+616927
+1/2"
+616928 9/16"
+616929
+5/8"
+616930 11/16"
+616931
+3/4"
+616932 13/16"
+616933
+7/8"
+616934 15/16"
+616935
+1"
+238/1L6p
+Capete chei tubulare 3/8", varianta lunga
+•  material: crom vanadiu
+•  forjata, calire si revenire totala
+•  acoperire cromare conform EN12540
+•  polizate
+•  executie in concordanta cu standardul ISO 2725-1 (numai pentru dimensiunea in mm) 
+612036
+612037
+612038
+612039
+612040
+612041
+612042
+612043
+612044
+612045
+612046
+612047
+612048
+612049
+612050
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+L
+63
+63
+63
+63
+63
+63
+63
+63
+63
+63
+63
+63
+63
+63
+63
+D1
+11.8
+13.2
+14.5
+15.7
+16.8
+17.8
+19.55
+20.75
+21.75
+23.3
+24.5
+25.7
+27
+27.7
+29.5
+D2
+16.8
+16.8
+16.8
+16.8
+16
+16.5
+17
+18
+19
+20
+21
+23
+24
+25
+26
+T
+9
+9
+9
+12
+12
+12
+15
+15
+15
+15
+18
+18
+18
+18
+21
+55
+58
+61
+67
+75
+81
+91
+117
+107
+128
+112
+147
+157
+165
+200
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+30.33
+30.33
+30.82
+30.82
+30.82
+30.82
+30.82
+31.31
+32.30
+33.77
+38.69
+40.16
+41.15
+42.46
+46.39
+3 / 8 "
+3126
+297.96
+A
+30
+11501420002
+3/8"
+238.5/2
+Antrenor cotit 3/8"
+•  material: crom vanadiu
+•  tratament termic total
+•  acoperire cromare conform EN12540
+•  executie in concordanta cu standardul ISO 3315
+611962
+3/8”
+L1
+200
+L2
+45
+D
+10
+145
+ 4A 
+10
+47.38

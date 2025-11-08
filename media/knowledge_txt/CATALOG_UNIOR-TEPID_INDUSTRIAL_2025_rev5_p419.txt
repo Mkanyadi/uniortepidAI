@@ -1,0 +1,511 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:419]
+1202
+NOU
+KG 10
+NOU
+Burghiu DIN 338 HSS-G, cu varf in trepte
+TURBO STEP
+• perfect pentru masinile de gaurit cu / fara fir
+• semnificativ mai rapid decat burghiile elicoidale obisnuite
+• curatarea simplificata a gaurilor existente
+• ideal pentru gaurirea suruburilor sau a niturilor
+• aplicatii universale in otel cu rezistenta la rupere < 1.000 N/mm², materiale turnate, aluminiu, 
+materiale plastice (de exemplu, sticla acrilica), lemn de esenta tare si lemn de esenta moale.
+PROFI
+by BOHRCRAF T
+PLUS
+Set burghie Turbo Steps 19 piese
+Ø 1,0 - 10,0 mm x 0,5 mm
+• perfect pentru masinile de gaurit cu / fara fir
+• semnificativ mai rapid decat burghiile elicoidale obisnuite
+• curatarea simplificata a gaurilor existente
+• ideal pentru gaurirea suruburilor sau a niturilor
+ALU / OTEL
+LEMN DUR
+STICLA ACRILICA
+• Geometrie inovatoare, in trepte de la Ø 2,5 mm
+• Gauri rotunde precise si curate, fara bavuri
+• Gaurire curata datorita varfului autocentrant
+• Avans foarte rapid la gaurire ( viteza mare de 
+gaurire, varful in trepete fragmenteaza aschia si 
+scade forta de aschiere )
+• Revenire in aburi
+• Burghiu HSS standard
+• Twist Drill HSS standard
+• Coada triunghiulara pentru dimensiuni de peste 
+Ø 4,0 mm pentru o transmisie optima a puterii
+Cu, Ni, 
+Ms, Zn
+Plastics
+PVC
+Acrylglas
+DIN
+338
+HSS
+G
+TURBO
+STEP
+Ø>2,5mm SPLIT POINT
+3
+5xD
+L1
+mm
+L2
+mm
+L1
+mm
+L2
+mm
+Ø
+mm
+1,0
+1,5
+2,0
+2,5
+3,0
+3,2
+3,5
+4,0
+4,2
+4,5
+4,9
+5,0
+5,2
+5,5
+6,0
+6,5
+6,8
+7,0
+7,5
+8,0
+8,5
+9,0
+9,5
+12020300100
+12020300150
+12020300200
+12020300250
+12020300300
+12020300320
+12020300350
+12020300400
+12020300420
+12020300450
+12020300490
+12020300500
+12020300520
+12020300550
+12020300600
+12020300650
+12020300680
+12020300700
+12020300750
+12020300800
+12020300850
+12020300900
+12020300950
+34
+40
+49
+57
+61
+65
+70
+75
+75
+80
+86
+86
+86
+93
+93
+101
+109
+109
+109
+117
+117
+125
+125
+12020301000
+10,0
+133
+12020301050
+10,5
+133
+12020301100
+11,0
+142
+12020301150
+11,5
+142
+12
+18
+24
+30
+33
+36
+39
+43
+43
+47
+52
+52
+52
+57
+57
+63
+69
+69
+69
+75
+75
+81
+81
+87
+87
+94
+94
+AKKU
+16.07
+17.21
+19.18
+29.34
+32.46
+32.79
+33.61
+38.69
+40.66
+41.64
+44.75
+49.67
+51.15
+54.26
+61.97
+67.21
+69.34
+71.15
+79.51
+85.74
+99.84
+104.59
+109.34
+125.41
+130.66
+144.59
+149.02
+1.4
+1.4
+2.4
+3.4
+4.4
+4.4
+4.4
+7.4
+7.8
+9.8
+12.8
+13.8
+17.8
+19.8
+21.8
+26.1
+29.1
+30.1
+35.5
+36.5
+41.5
+50.5
+56.5
+64.5
+73.0
+82.0
+88.0
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+5
+5
+5
+5
+5
+5
+12020700100
+12020700150
+12020700200
+12020700250
+12020700300
+12020700320
+12020700350
+12020700400
+12020700420
+12020700450
+12020700490
+12020700500
+12020700520
+12020700550
+12020700600
+12020700650
+12020700680
+12020700700
+12020700750
+12020700800
+12020700850
+12020700900
+12020700950
+Ø
+mm
+1,0
+1,5
+2,0
+2,5
+3,0
+3,2
+3,5
+4,0
+4,2
+4,5
+4,9
+5,0
+5,2
+5,5
+6,0
+6,5
+6,8
+7,0
+7,5
+8,0
+8,5
+9,0
+9,5
+34
+40
+49
+57
+61
+65
+70
+75
+75
+80
+86
+86
+86
+93
+93
+101
+109
+109
+109
+117
+117
+125
+125
+12020701000
+10,0
+133
+12020701050
+10,5
+133
+12020701100
+11,0
+142
+12020701150
+11,5
+142
+12
+18
+24
+30
+33
+36
+39
+43
+43
+47
+52
+52
+52
+57
+57
+63
+69
+69
+69
+75
+75
+81
+81
+87
+87
+94
+94
+1.4
+1.4
+2.4
+3.4
+4.4
+4.4
+4.4
+7.4
+7.8
+9.8
+12.8
+13.8
+17.8
+19.8
+21.8
+26.1
+29.1
+30.1
+35.5
+36.5
+41.5
+50.5
+56.5
+64.5
+73.0
+82.0
+88.0
+19.02
+20.33
+22.13
+32.30
+35.41
+35.74
+36.56
+41.64
+43.61
+44.59
+47.70
+52.62
+54.10
+57.54
+65.25
+70.49
+72.62
+74.43
+82.79
+89.02
+103.11
+107.87
+112.62
+129.02
+134.10
+148.20
+152.62
+102.0
+170.98
+106.0
+180.16
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+12021330019
+Ø1,0-10,0 mm x 0,5 mm
+730
+1174.92
+KG 13
+NOU
+Set burghie Turbo Steps 25 piese
+Ø 1,0 - 13,0 mm x 0,5 mm
+• perfect pentru masinile de gaurit cu / fara fir
+• semnificativ mai rapid decat burghiile elicoidale obisnuite
+• curatarea simplificata a gaurilor existente
+• ideal pentru gaurirea suruburilor sau a niturilor
+12021330025
+Ø1,0-13,0 mm x 0,5 mm
+730
+2077.54
+MG 5
+NOU
+Set burghie Turbo Steps 5 piese
+Ø 4 - 5 - 6 - 8- 10 mm
+• perfect pentru masinile de gaurit cu / fara fir
+• semnificativ mai rapid decat burghiile elicoidale obisnuite
+• curatarea simplificata a gaurilor existente
+• ideal pentru gaurirea suruburilor sau a niturilor
+12020301200
+12,0
+151
+101
+12020301250
+12,5
+151
+101
+12020301300
+13,0
+151
+101
+102.0
+167.38
+12020701200
+12,0
+151
+101
+106.0
+176.56
+12020701250
+12,5
+151
+101
+117.0
+194.92
+12020701300
+13,0
+151
+101
+117.0
+198.52
+12021330005
+Ø 4 - 5 - 6 - 8 - 10 mm
+730
+374.26

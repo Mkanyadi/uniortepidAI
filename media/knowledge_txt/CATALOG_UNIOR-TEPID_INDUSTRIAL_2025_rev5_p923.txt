@@ -1,0 +1,253 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:923]
+461/1VDEBI
+Cleste tais lateral izolat la 
+1000 V
+•  material:compozitie speciala pentru calire 
+revenire
+•  tratat complet
+•  partile taietoare tratate prin inductie
+•  cap polizat
+•  finisare:cromat in conformitate cu standardul 
+EN12540
+•  manere bimaterial pentru conditii grele
+•  in conformitate cu standardul ISO 5749 si EN 
+60900
+466/1VDEBI
+36773
+NOU
+Cleste tais lateral pentru
+conditii grele izolat la 1000 V
+•  material: compozitie speciala pentru
+calire revenire
+•  tratat complet
+•  partile taietoare tratate prin inductie
+•  cap polizat
+•  finisare: cromat in conformitate cu standardul 
+EN12540
+•  manere bimaterial pentru conditii grele
+•  in conformitate cu standardul ISO 5749 si EN 
+60900
+Cleste tais fata pentru
+conditii grele izolat la 1000 V
+•  material: compozitie speciala pentru calire 
+revenire
+•  tratat complet
+•  partile taietoare tratate prin inductie
+•  cap polizat
+•  finisare: cromat in conformitate cu standardul EN12540 
+•  in conformitate cu standardul ISO 5749 si EN 60900 
+Avantaje:
+•  manerele izolate cu doua straturi de culori 
+diferite care permit o protectie suplimentara
+Important
+•  daca al doilea strat devine vizibil inlocuiti 
+scula VDE cu una noua
+L
+610426 140
+B
+19
+A
+9.5
+610427 160 22.5
+10
+C
+18
+22
+169
+214
+ 4B 
+ 4B 
+1
+1
+127.38
+126.39
+capacitatea de taiere (10N=1kg)
+L
+max 1600 N/mm²
+max 650 N/mm²
+610426 140
+610427 160
+1,6
+1,6
+2,0
+2,5
+L
+610428 180
+611756 200
+B
+28
+27
+A
+11
+11
+C
+20
+21
+316
+ 4B 
+344
+ 4B 
+1
+1
+166.72
+189.18
+capacitatea de taiere (10N=1kg)
+L
+max 2150 N/mm²
+max 650 N/mm²
+610428 180
+611756 200
+1,8
+2,0
+3,0
+3,5
+461/1VDEDP
+Cleste tais lateral izolat 
+la 1000 V
+•  material:compozitie speciala pentru calire 
+revenire
+•  tratat complet
+•  partile taietoare tratate prin inductie
+•  cap polizat
+•  finisare: cromat in conformitate cu standardul 
+EN12540
+•  in conformitate cu standardul ISO 5749 si EN 
+60900
+Avantaje:
+•  manerele izolate cu doua straturi de culori 
+diferite care permit o protectie suplimentara
+Important
+•  daca al doilea strat devine vizibil inlocuiti 
+scula VDE cu una noua
+466/1VDEDP
+Cleste tais lateral pentru
+conditii grele izolat la 1000 V
+•  material: compozitie speciala pentru calire 
+revenire
+•  tratat complet
+•  partile taietoare tratate prin inductie
+•  cap polizat
+•  finisare: cromat in conformitate cu standardul 
+EN12540
+•  in conformitate cu standardul ISO 5749 si EN 
+60900
+Avantaje:
+•  manerele izolate cu doua straturi de culori 
+diferite care permit o protectie suplimentara
+Important
+•  daca al doilea strat devine vizibil inlocuiti 
+scula VDE cu una noua
+L
+36773
+160
+B
+9
+A
+27
+C
+11
+D
+9
+303
+1
+310.53
+36773
+NOU
+Cleste tais fata pentru
+conditii grele izolat la 1000 V
+•  material: compozitie speciala pentru calire 
+revenire
+•  tratat complet
+•  partile taietoare tratate prin inductie
+•  cap polizat
+•  finisare: cromat in conformitate cu standardul EN12540 
+•  in conformitate cu standardul ISO 5749 si EN 60900 
+Avantaje:
+•  manerele izolate cu doua straturi de culori 
+diferite care permit o protectie suplimentara
+Important
+•  daca al doilea strat devine vizibil inlocuiti 
+scula VDE cu una noua
+DIN 5748
+L
+619193 140
+B
+19
+A
+9.5
+619194 160 22.5
+10
+C
+18
+22
+174
+ 4B 
+224
+ 4B 
+1
+1
+136.39
+147.87
+capacitatea de taiere (10N=1kg)
+L
+max 1600 N/mm²
+max 650 N/mm²
+619193 140
+619194 160
+1,6
+1,6
+2,0
+2,5
+L
+619195 180
+619196 200
+B
+28
+27
+A
+11
+11
+C
+20
+21
+303
+351
+ 4B 
+ 4B 
+1
+1
+151.15
+171.80
+L
+36774
+160
+B
+9
+36775
+200
+11
+A
+20
+22
+C
+11
+14
+D
+19
+250
+19
+410
+6
+6
+315.59
+334.85
+capacitatea de taiere (10N=1kg)
+L
+max 2150 N/mm²
+max 650 N/mm²
+619195 180
+619196 200
+1,8
+2,0
+3,0
+3,5

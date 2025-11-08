@@ -1,0 +1,388 @@
+[SOURCE:KRONUS_-_CATALOG_Editia_II_-_2025_-_06.06.2025_web] [PAGE:8]
+Preturile sunt exprimate in lei si nu contin TVA.
+7188 1/4”
+Capete chei tubulare 6 laturi 1/4”
+• material: crom molibden
+• acoperire cromare conform EN12540
+• forjata, calire si revenire totala
+• executie in concordanta cu standardul ISO 2725-1
+7187 PZ 1/4”
+7187 TX 1/4”
+Capete chei tubulare 1/4” profil 
+Pozidrive
+• material capete chei tubulare: crom molibden
+• bit: otel special de scule
+• capul cheii este tratat in intregime
+Capete chei tubulare 1/4” cu
+profil TORX® exterior
+• material capete chei tubulare: crom molibden
+• bit: otel special de scule
+• capul cheii este tratat in intregime
+Material
+CrV
+ISO
+2725-1
+mm     L      D1     D2      T
+902726
+616141
+902727
+616142
+902728
+616143
+616144
+616145
+616146
+616147
+616148
+616149
+616150
+616151
+3.2
+4.0
+4.5
+5.0
+5.5
+6.0
+7.0
+8.0
+9.0
+10.0
+11.0
+12.0
+13.0
+14.0
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+6.0
+6.8
+7.1
+8.0
+8.3
+9.2
+11.0
+12.0
+13.0
+14.5
+16.0
+17.0
+18.0
+19.5
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+13.0
+14.5
+15.5
+17.0
+18.0
+19.5
+4.0
+4.0
+5.0
+5.0
+5.0
+6.0
+6.0
+7.5
+7.5
+9.0
+10.5
+10.5
+10.5
+13.0
+10.0
+NOU
+4.62
+10.0
+3.00
+10.0
+NOU
+3.00
+10.0
+2.43
+10.0
+NOU
+3.00
+12.0
+14.0
+13.0
+18.0
+16.0
+18.0
+26.0
+24.0
+31.7
+2.43
+2.43
+2.43
+2.43
+2.84
+2.84
+3.24
+3.24
+3.45
+7187 SL 1/4”
+Capete chei tubulare 1/4” cu profil lat
+• material capete chei tubulare: crom molibden
+• bit: otel special de scule
+• capul cheii este tratat in intregime
+Material
+CrV
+mm        L       L1       D
+616170
+616171
+616172
+0,8 x 4,0
+1,0 x 5,5
+1,2 x 7,0
+32
+32
+32
+13
+13
+13
+12
+12
+12
+12
+12
+12
+3.30
+3.30
+3.30
+Pozidrive    L      L1      D
+902729
+902730
+PZ 1
+PZ 2
+32
+32
+13
+13
+12
+12
+12
+12
+NOU
+4.07
+NOU
+4.07
+7187 PH 1/4”
+Capete chei tubulare 1/4” profil 
+Phillips
+• material capete chei tubulare: crom molibden
+• bit: otel special de scule
+• capul cheii este tratat in intregime
+TORX®      L        L1        D
+32.0
+32.0
+32.0
+32.0
+32.0
+32.0
+32.0
+32.0
+13.0
+13.0
+13.0
+13.0
+13.0
+13.0
+13.0
+13.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+15
+15
+15
+15
+15
+15
+15
+17
+4.27
+3.30
+3.30
+3.30
+3.30
+3.30
+3.30
+4.27
+616162
+616163
+616164
+616165
+616166
+616167
+616168
+616169
+TX 8
+TX 10
+TX 15
+TX 20
+TX 25
+TX 27
+TX 30
+TX 40
+7189 1/4”
+Capete chei tubulare 1/4” cu profil
+TORX® interior
+• material: crom vanadiu
+• acoperire cromare conform EN12540
+Phillips       L      L1      D
+616173
+616174
+PH 1
+PH 2
+32
+32
+13
+13
+12
+12
+12
+12
+3.30
+3.30
+Material
+CrV
+7187 HX 1/4”
+Capete chei tubulare 1/4” cu
+profil hexagon exterior
+• material capete chei tubulare: crom molibden
+• bit: otel special de scule
+• in conformitate cu standardul DIN 7422
+• capul cheii este tratat in intregime
+TORX®      L        D2       D1
+616175
+616176
+616177
+616178
+616179
+616180
+E 4
+E 5
+E 6
+E 7
+E 8
+E 10
+7188.8 1/4”
+25
+25
+25
+25
+25
+25
+12
+12
+12
+12
+12
+12
+5,4
+6,7
+7,7
+8,3
+10,1
+11,3
+15
+15
+15
+15
+15
+15
+3.67
+3.10
+3.10
+3.10
+3.10
+4.46
+Surubelnita cu patrat de 1/4"
+• material: tija - crom vanadiu tratata complet
+• maner - polipropilena
+• executie in concordanta cu standardul ISO 3315
+HEX     L         L1        D
+616157
+616158
+616159
+616160
+616161
+618399
+618400
+HX 3
+HX 4
+HX 5
+HX 6
+HX 7
+HX 8
+HX 10
+32.0
+32.0
+32.0
+32.0
+32.0
+32.0
+32.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+12.0
+18
+18
+18
+18
+18
+20
+20
+3.30
+3.30
+3.30
+3.30
+4.27
+4.51
+6.16
+13.0
+13.0
+13.0
+13.0
+13.0
+13.0
+13.0
+8
+Material
+CrV
+DIN
+3315
+L                C
+902245
+1/4”
+150
+50
+97
+24.43

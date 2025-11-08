@@ -1,0 +1,114 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:763]
+ SET-2600E-US 
+NOU
+SET1-2600AC
+NOU
+SET3-2600AC
+NOU
+Set scule in SOS 1 pentru 2600A si 
+2600C - Scule generale
+• dimensiuni: 560x570x40 mm
+Set scule in SOS 3 pentru 2600A si 
+2600C - Scule roti
+• dimensiuni: 560x570x40 mm
+Set de scule de bicicleta in module
+SOS pentru 2600E
+• kitul de instalare include dispozitiv filetat, adaptoare 
+pentru urmatoarele tipuri de rulmenti standard: 608, 1526, 6000, 
+6001, 6802, 6803, 6804, 6805, 6900, 6901, 6902, 6903, R6, 
+28x17 (Hope), BB30, toate Press - se potrivesc standardelor si 
+doua adaptoare acoperite din plastic de dimensiuni diferite, 
+pentru a proteja suprafetele de carbon in timpul instalarii 
+rulmentului.
+• unul dintre manerele filetate include un sistem de eliberare 
+rapida pentru o utilizare rapida si usoara.
+• setul de extractoare include un ciocan glisant de mare 
+capacitate cu adaptoare care sustin indepartarea rulmentului cu 
+dimensiunile interioare ale rulmentului 6.5-8,10-12, 12-15, 
+17-20, 22-28, 30-36mm.
+• toate piesele sunt aranjate in tavi de spuma decupate, care 
+se potrivesc carucioarelor Europlus, Eurovision, Eurostyle si 
+Hercules 
+629833
+28
+2770
+2288.85
+193TX-US (TX 8, TX 10, TX 15, TX 20, TX 25, TX 27, TX 30); 
+193HX-US (2, 2,5, 3, 4, 5, 6, 8, 10); 461/1VDEBI (160); 
+584/4BI-US (180); 1755/2; 710R-US (3 m); 582/3P-US (150); 
+270A (0 - 150); 45/2DP; 639C (165); 
+603VDETBI (0.4 x 2.5x75, 1.0 x 5.5x125); 
+613VDETBI (PH0x60, PH2x100); vl1-2600AC (560x570x40)
+SET4-2600AC
+NOU
+Set de scule in SOS 4 pentru 2600A 
+si 2600C - Chei dinamometrice si clesti
+• dimensiuni: 560x570x40 mm
+629835
+40
+4820
+2360.66
+1617/2DP-US 13 (2x), 14 (2x), 15 (2x), 16 (2x), 17 (2x), 18, 19 (2x),
+20, 22, 23, 24, 26, 27, 30, 32, 36; 1657ORANGE; 1657/2A; 1632; 
+1630/5 (4, TX20, 3,3, 3,45); 1633/2P-US (3,3x3,45, 4x4,4); 
+1634/2P-US (4,3x4,4); 1636/2P-US (5x5,5, 5.5x6); 1635/2P-US; 
+1635/2AP-US (6,8); 1666/2DP-US (2,2); 1750/2DP-US; 
+1727/2DP; vl3-2600AC (560x570x40)
+SET5-2600AC
+NOU
+Set de scule in SOS 5 pentru 2600A 
+si 2600C - Unelte pentru transmisie
+• dimensiuni: 560x570x40 mm
+628676
+34
+4930
+ 1K 
+1
+2926.07
+1721.1 (30 x 42 - BB30 (2x), 24 x 41-BB86/92 (2x), 22 x 41 (2x),
+10 x 26 - 6000, 10 x 22 - 6900, 12 x 28 - 6001, 12 x 24 - 6901, 
+15 x 28 - 6902, 15 x 24 - 6802, 15 x 26 - 1526, 17 x 28 - 17286, 
+17 x 30 - 6903, 17 x 26 - 6803, 20 x 32 - 6804, 25 x 37 - 6805, 
+9.5 x 22.2 (3/8" x 7/8") - R6 (2x), 8 x 22 - 608, DUB 29×42 (2x))
+1721.2; 1721.3; 1721.4; 689.1/4 (6,5 - 8, 10 - 12, 12 - 15, 17 - 20, 
+22 - 28, 30 - 36); 689.2/2BI-US; vl.1600SOS20 (564x364x30)
+SET2-2600AC
+NOU
+Set de scule in SOS 2 pentru 2600A 
+si 2600C - scule BB & pedalier
+• dimensiuni: 560x570x40 mm
+629834
+26
+7020
+5517.54
+1671.BB9000; 1671.BBR60; 1671.BSA30; 1671.MEvo; 
+1671.16N; 1.67E13; 1671.HP; 1671.T47; 1671.RET; 1671.9/2DP
+1671.10/2DP; 1725/2CF (32, 36); 1671.8/2BI-US; 1625/2 (80);
+1625/2BB90; 1671.2/4; 1609.1; 1609.2DUB/5; 1662/4; 1661/4
+1613/2BI-US (15); 1602/5; 190.2/1BI-US (1/2"x450); 
+190.1/1ABI-US (1/2"); vl2-2600A (560x570x40)
+629836
+74
+7920
+7167.87
+110/1  (4 x 5, 6 x 7, 8 x 9, 10 x 11, 12 x 13, 14 x 15, 16 x 17, 18 x 19, 
+20 x 22, 21 x 23, 24 x 26, 25 x 28, 27 x 29, 30 x 32);
+193HXS-US (3, 4, 5); 406/1VDEBI (160); 449/1PYTHON-US (240)
+449.1 (240); 506/1VDEBI (140); 1642.1/2P-US; 407/4PR (170);
+463/4BI-US (140); 1781/2HX-US (4x5x6, 2x2,5x3); 
+1781/2TX-US (10x15x25); 220/7TX (TR 10); 220/3L (10, 12);
+220/3SL (1.5, 2, 2.5, 3, 4, 5, 6, 8); 266B (1/4"x1 - 20, 1/2"x4,3 - 85)
+1760/2; 187/2HX (2,5, 3, 4, 5, 6); 187/2TX (TX 8, TX 10, TX 15, 
+TX 25, TX 27, TX 30); 188.7/2 (1/4" - 3/8"); 188.4/2 (1/4"x100)
+190.4/1 (1/2"x125); 188/2 6p (7, 8, 9, 10, 11); 190/1 6p
+(12, 13, 14, 15, 17, 18, 19); 192/2HXL (6x64, 8x64, 10x64)
+190.7/2 (1/2"x3/8"); 190.1/1ABI-US (1/2"); 188.1/1ABI-US (1/4")
+vl4-2600AC (560x570x40)
+629837
+18
+3920
+2145.41
+1647/2BBI-US; 1720/4DP; 1668/2; 1644/6; 1658/2P; 1670/2BI-US 
+(11/12); 1670/2BI-AXS-US; 1660/2DP-US; 1670.1/4; 1670.2/4;
+1670.3/4; 1670.4/4; 1670.5/4; 1670.6/4; 1670.9/4; 819A-US (45)
+190.8/2BI-US (1/2")

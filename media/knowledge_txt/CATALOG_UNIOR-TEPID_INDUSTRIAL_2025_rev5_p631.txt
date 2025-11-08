@@ -1,0 +1,161 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:631]
+POTENZA 200 GE
+PROGRESS 2021 GE K
+NOU
+PROGRESS 2100 PFC (85 V - 265 V)
+Invertor de sudura MMA 200 A
+AVANTAJELE PRODUSULUI
+• echipamente Invertor de inalta performanta de 200 A, cu 
+componente de calitate care garanteaza robustete maxima si 
+precizie de sudare
+• 60% ciclu de lucru
+• protejat impotriva variatiilor de temperatura si tensiune
+• potrivit pentru electrozi de 5 mm
+• potrivit pentru urmatorii electrozi: rutilici, bazici, celulozici, inox
+si fonta
+• microprocesor pe 32 de biti, inclusiv software-ul de control
+inteligent STAYER
+• timpi mari de raspuns datorita IGBT-urilor de ultima generatie
+si software-ului actualizat
+• conectori DINSE 1/2” pentru putere maxima de iesire
+• usor de utilizat, cu Hot Start (aprindere usoara a arcului),
+force arc (pentru un arc stabil) si Anti-Stick (pentru a evita
+electrozii blocati)
+• pregatit pentru utilizare generatoare stabilizate, cu o abatere
+de intrare a tensiunii de +/-17%
+Invertor de sudura MMA 200 A
+AVANTAJELE PRODUSULUI
+• echipament de sudare superior de 200 A, cu setari electronice 
+sinergice pentru toate tipurile de electrozi, in special din aluminiu
+si TIG cu setari inteligente.
+• configuratie sinergica bazata pe diametrul electrodului de pana 
+la 5 mm - potrivit pentru toate tipurile de electrozi.
+• componente de ultimă generatie, IGBT-uri de calitate maxima 
+si design intern imbunatatit cu racire silentioasa
+• 4 punți de diode, pentru o mai mare stabilitate si putere.
+• panou de control gestionat de software-ul STAYER, cu reglare 
+sinergică a amperajului pe baza diametrului electrodului, Arc 
+Force & Hot Start configurabil, VRD pentru sudare in siguranta 
+si mod TIG Lift Arc.
+• modul inteligent Synergic TIG PRO, conectand o torta TIG, 
+grupul este setat la TIG Lift Arc cu arc curat de calitate.
+• special pentru electrozi din aluminiu.
+• VRD reglabil, dispozitiv de reducere a tensiunii pentru a 
+mentine siguranta pe conectorii de grup conform IEC 60974, 
+reducand tensiunea un medii umede si saline
+• Anti Stick inteligent programat cu software-ul STAYER.
+• proiectat si produs conform reglementarilor europene 
+2014/35/UE, 2014/30/EU ai 2011/65/UE
+• pregatit pentru utilizare generatoare stabilizate, cu o abatere 
+de intrare a tensiunii de +/-17%.
+Invertor de sudura MMA 210 A
+AVANTAJELE PRODUSULUI
+• echipamente cu invertor multi voltaj (85-265Vac) cu consum 
+redus datorita PFC si tehnologiei avansate.
+• PFC, Power Factor Corrector pentru o utilizare optima a puterii 
+de iesire, reducand drastic consumul electric.
+• sudura de inalta calitate si eficienta cu toate tipurile de 
+electrozi, inclusiv din aluminiu.
+• interval mare de intrare permite lucrul in medii de 110V si 
+230V, rezistand supratensiunii si caderilor de tensiune, cu o 
+performanta excelenta cu generatoare.
+• potrivit pentru cabluri de prelungire de mare lungime: 250mts - 
+4mm² / 500mts - 6,0mm².
+• setari pentru utilizare imbunatatita cu generatorul
+• VRD reglabil, dispozitiv de reducere a tensiunii pentru a 
+mentine siguranta pe conectorii de grup conform IEC 60974, 
+reducand tensiunea in medii umede si saline.
+• mod de sudare TIG, pentru TIG Lift Arc cu arc curat de calitate
+• regulator automat al ventilatorului, evitand zgomotul in timp ce 
+creste durata de viata a grupului
+Bas Cel
+CARRY CASE
+INCLUDED
+Bas Cel
+PROGRESS 2100 PFC
+1.1363
+5000
+4508.20
+Curent sudura
+210 A 
+Tensiune de alimentare
+230 V
+Ciclu de functionare (30ºC)
+100% 
+CARRY CASE
+Generator recomandat
+7,2 KVA / 230V ±17%
+Electrozi
+1.6 - 6.0 mm 
+Bas
+SYNERGIC
+INCLUDED
+Dimensiuni
+41 x 24 x 14.5 cm
+Greutate
+8.4 kg
+Conector DINSE
+1/2” (35-50) ø
+Cablu de alimentare
+3.0 m x 3.0 mm²
+POTENZA 200 GE
+2.287
+6000
+2213.11
+Curent sudura
+200 A 
+Tensiune de alimentare
+230 V
+Ciclu de funcționare (30ºC)
+60% 
+Electrozi
+1.6 - 5.0 mm 
+Generator recomandat
+7 - 9 KVA / 230V ±17%
+Dimensiuni
+42 x 30 x 14 cm
+Greutate
+6.0 kg
+Conector DINSE
+1/2” (35 - 50) ø
+Cablu de alimentare
+2.0 m x 2.5 mm²
+Cablu + cleste de impamantare
+2.0 m - 25 mm²
+Cablu + cleste electrod
+3.0 m - 25 mm²
+ADJUSTABLE ADJUSTABLE
+Cablu + cleste de impamantare
+2.0 m - 25 mm²
+Cablu + cleste electrod
+2.5 m - 25 mm²
+Ciocan / Perie
+Geanta de transport
+PROGRESS 2021 GE K
+1.2668
+5000
+2295.08
+Curent sudura
+200 A 
+Tensiune de alimentare
+230 V
+Ciclu de functionare (30ºC)
+100% 
+Electrozi
+1.6 - 5.0 mm 
+Generator recomandat
+7 - 9 KVA / 230V ±17%
+Dimensiuni
+34.5 x 24 x 14 cm
+Greutate
+5.0 kg
+Conector DINSE
+1/2” (35-50) ø
+Cablu de alimentare
+2.0 m x 2.5 mm²
+Cablu + cleste de impamantare
+1.5 m - 25 mm²
+Cablu + cleste electrod
+2.5 m - 25 mm²
+Ciocan / Perie
+Geanta de transport

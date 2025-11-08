@@ -1,0 +1,324 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:503]
+1037051
+1037061
+1037031
+Carota HSS cu prindere Weldon (3/4") 
+lungime 30 mm
+• carota HSS cu prindere Weldon (3/4") lungime 30 mm
+• material HSS, tratament termic integral
+• faciliteaza aschierea cu viteze mari
+• recomandate pentru otel (table cu grosimi mari), profile sau 
+tevi din otel ne aliat si aliat, piese turnate din otel cu
+σr ≤ 700 N/mm², metale neferoase si materiale compozite 
+plastice
+• se utilizeaza pe toate tipurile de masini de gaurit cu talpa 
+magnetica cu prindere pe con cu adaptor WELDON, precum 
+si pe masini stationare de frezat
+Carota HSS cu prindere Weldon (3/4") 
+lungime 50 mm
+• carota HSS cu prindere Weldon (3/4") lungime 50 mm
+• material HSS, tratament termic integral
+• faciliteaza aschierea cu viteze mari
+• recomandate pentru otel (table cu grosimi mari), profile sau 
+tevi din otel ne aliat si aliat, piese turnate din otel cu 
+σr ≤ 700 N/mm², metale neferoase si materiale compozite 
+plastice
+• se utilizeaza pe toate tipurile de masini de gaurit cu talpa 
+magnetica cu prindere pe con cu adaptor WELDON, precum si 
+pe masini stationare de frezat
+Tesitor cu 3 muchii 90º HSS, prindere
+Weldon 19 mm
+• material: HSS, tratat termic
+• unghi la varf: 90º
+• coada Weldon 19 mm
+• pentru oteluri ne aliate si slab aliate, oteluri pentru tratament
+termic cu σr ≤ 700 N / mm² , fonte si materiale plastice compozite      
+L
+l2
+Ø
+L
+l2
+Ø
+i
+i
+L
+Ø
+        Ø (mm)         L  (mm)
+10370312500
+10370313000
+10370314000
+10370315500
+25
+30
+40
+55
+43
+47
+52
+63
+785.72
+873.57
+1037.61
+1553.08
+10370511200
+10370511300
+10370511400
+10370511500
+10370511600
+10370511700
+10370511800
+10370511900
+10370512000
+10370512100
+10370512200
+10370512300
+10370512400
+10370512500
+10370512600
+10370512700
+10370512800
+10370513000
+10370513200
+10370513500
+10370513800
+10370514000
+10370514200
+10370514500
+10370514800
+10370515000
+Ø (mm)   Weldon (mm)  L (mm)
+19
+12.0
+19
+13.0
+19
+14.0
+19
+15.0
+19
+16.0
+19
+17.0
+19
+18.0
+19
+19.0
+19
+20.0
+19
+21.0
+19
+22.0
+19
+23.0
+19
+24.0
+19
+25.0
+19
+26.0
+19
+27.0
+19
+28.0
+19
+30.0
+19
+32.0
+19
+35.0
+19
+38.0
+19
+40.0
+19
+42.0
+19
+45.0
+19
+48.0
+19
+50.0
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+135.34
+137.29
+138.96
+139.49
+139.70
+149.88
+150.82
+148.14
+159.79
+164.51
+171.28
+177.47
+183.50
+189.48
+194.73
+209.42
+217.70
+231.19
+250.39
+310.45
+340.67
+361.86
+396.38
+447.16
+493.32
+513.00
+10370611200
+10370611300
+10370611400
+10370611500
+10370611600
+10370611700
+10370611800
+10370611900
+10370612000
+10370612100
+10370612200
+10370612300
+10370612400
+10370612500
+10370612600
+10370612700
+10370612800
+10370613000
+10370613200
+10370613500
+10370613800
+10370614000
+10370614200
+10370614500
+10370614800
+10370615000
+Ø (mm)   Weldon (mm)  L (mm)
+19
+12.0
+19
+13.0
+19
+14.0
+19
+15.0
+19
+16.0
+19
+17.0
+19
+18.0
+19
+19.0
+19
+20.0
+19
+21.0
+19
+22.0
+19
+23.0
+19
+24.0
+19
+25.0
+19
+26.0
+19
+27.0
+19
+28.0
+19
+30.0
+19
+32.0
+19
+35.0
+19
+38.0
+19
+40.0
+19
+42.0
+19
+45.0
+19
+48.0
+19
+50.0
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+200.24
+201.02
+202.33
+203.28
+205.27
+206.58
+207.42
+209.84
+219.38
+224.94
+232.18
+247.19
+254.58
+255.95
+267.65
+285.69
+298.02
+323.30
+354.15
+400.89
+441.13
+485.51
+539.28
+576.05
+647.76
+657.31

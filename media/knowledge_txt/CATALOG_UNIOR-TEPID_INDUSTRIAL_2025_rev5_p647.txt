@@ -1,0 +1,225 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:647]
+NOU
+58902
+NOU
+58913 
+NOU
+Masina de insurubat pneumatica 
+compacta la 45º cu bucsa 9/32”
+capacitate 5,9 mm - 3/16” 4000 rpm
+AVANTAJELE PRODUSULUI
+• carcasa metalica, rezistenta la zgarieturi
+• maner din plastic moale si robust
+• reversibila inversand parghia de langă tragaci
+• vibratii reduse, prevenind oboseala mainii in timpul operatiunilor lungi
+Masina de insurubat pneumatica
+cu strangere controlata 3/8; 1,2-2,4 Nm
+AVANTAJELE PRODUSULUI
+• EGA Master produce o gama larga de scule pentru strangere controlata.
+• noile masini pneumatice cu cuplu sunt proiectate pentru aplicatii in care
+este necesar un control precis al cuplului, chiar si in spatii inguste, oferind
+performanta maxima la fiecare lucrare
+• corpul sculei extins pentru o operare confortabila si o forta de reactie
+mai mică
+• reversibila, cu schimbarea sensului de rotatie
+• gama larga de reglare a cuplului, de la 1,2 Nm la 70 Nm
+• precizie ridicata: valoare CmK>1,33 ± 10% la modelele tip unghi si 
+precizie +/- 3% la modelul tip maner pistol
+• reglare confortabila si simpla a cuplului, economisire mai mare de timp
+• modele de tip maner unghi si pistol
+Masina de insurubat pneumatica
+cu strangere controlata 3/8; 4-10 Nm
+AVANTAJELE PRODUSULUI
+• EGA Master produce o gama larga de scule pentru strangere controlata.
+• noile masini pneumatice cu cuplu sunt proiectate pentru aplicatii in care
+este necesar un control precis al cuplului, chiar si in spatii inguste, oferind
+performanta maxima la fiecare lucrare
+• corpul sculei extins pentru o operare confortabila si o forta de reactie
+mai mică
+• reversibila, cu schimbarea sensului de rotatie
+• gama larga de reglare a cuplului, de la 1,2 Nm la 70 Nm
+• precizie ridicata: valoare CmK>1,33 ± 10% la modelele tip unghi si 
+precizie +/- 3% la modelul tip maner pistol
+• reglare confortabila si simpla a cuplului, economisire mai mare de timp
+• modele de tip maner unghi si pistol
+ISO 5393
+ISO 5393
+58999
+59001
+RPM
+4000
+4000
+L
+mm
+260
+121x32x16
+650
+6225.89
+7183.40
+330
+198x32.5xd16
+Putere
+Tutatii
+Consumul de aer
+Racord aer
+Vibratii
+Presiune de lucru
+Nivel de zgomot
+750
+0.22 kW
+4000 rpm
+283 LPM (10 CFM)
+1/4"
+2,5 m/s² 
+6,3 bari / 90 PSI
+81,5 dBA
+NOU
+Masina de insurubat pneumatica 
+compacta la 45º cu bucsa 9/32”
+capacitate 5,9 mm - 3/16” 3600 rpm
+AVANTAJELE PRODUSULUI
+• carcasa metalica, rezistenta la zgarieturi
+• maner din plastic moale si robust
+• reversibila inversand parghia de langă tragaci
+• vibratii reduse, prevenind oboseala mainii in timpul operatiunilor lungi
+59003
+59005
+RPM
+3600
+3600
+L
+mm
+270
+121x32x16
+850
+7525.13
+8483.39
+350
+198x32.5xd16
+Putere
+Tutatii
+Consumul de aer
+Racord aer
+Vibratii
+Presiune de lucru
+Nivel de zgomot
+950
+0.37 kW
+3600 rpm
+368 LPM (13 CFM)
+1/4"
+2,5 m/s² 
+6,3 bari / 90 PSI
+80 dBA
+Cuplul de strangere
+58902
+1,2-2,4  Nm
+Cuplu strangere
+Tutatii
+Consumul de aer
+Admisie
+Vibratii
+Presiune de lucru
+Lungime
+6804.46
+1200
+1,2-2,4 Nm 
+1450 rpm
+198 LPM (7 CFM)
+1/4"
+2,5 m/s² 
+6,3 bari / 90 PSI
+340 mm
+Cuplul de strangere
+58913
+4-10  Nm
+Cuplu strangere
+Tutatii
+Consumul de aer
+Admisie
+Vibratii
+Presiune de lucru
+Lungime
+58903
+NOU
+58914
+10889.13
+1300
+4-10 Nm 
+1450 rpm
+198 LPM (7 CFM)
+1/4"
+<2,5 m/s² 
+6,3 bari / 90 PSI
+350 mm
+NOU
+Masina de insurubat pneumatica
+cu strangere controlata 3/8; 2,2-4,3 Nm
+AVANTAJELE PRODUSULUI
+• EGA Master produce o gama larga de scule pentru strangere controlata.
+• noile masini pneumatice cu cuplu sunt proiectate pentru aplicatii in care
+este necesar un control precis al cuplului, chiar si in spatii inguste, oferind
+performanta maxima la fiecare lucrare
+• corpul sculei extins pentru o operare confortabila si o forta de reactie
+mai mică
+• reversibila, cu schimbarea sensului de rotatie
+• gama larga de reglare a cuplului, de la 1,2 Nm la 70 Nm
+• precizie ridicata: valoare CmK>1,33 ± 10% la modelele tip unghi si 
+precizie +/- 3% la modelul tip maner pistol
+• reglare confortabila si simpla a cuplului, economisire mai mare de timp
+• modele de tip maner unghi si pistol
+Masina de insurubat pneumatica
+cu strangere controlata 1/2; 10-40 Nm
+AVANTAJELE PRODUSULUI
+• EGA Master produce o gama larga de scule pentru strangere controlata.
+• noile masini pneumatice cu cuplu sunt proiectate pentru aplicatii in care
+este necesar un control precis al cuplului, chiar si in spatii inguste, oferind
+performanta maxima la fiecare lucrare
+• corpul sculei extins pentru o operare confortabila si o forta de reactie
+mai mică
+• reversibila, cu schimbarea sensului de rotatie
+• gama larga de reglare a cuplului, de la 1,2 Nm la 70 Nm
+• precizie ridicata: valoare CmK>1,33 ± 10% la modelele tip unghi si 
+precizie +/- 3% la modelul tip maner pistol
+• reglare confortabila si simpla a cuplului, economisire mai mare de timp
+• modele de tip maner unghi si pistol
+ISO 5393
+ISO 5393
+Cuplul de strangere
+58903
+2,2-4,3  Nm
+Cuplu strangere
+Tutatii
+Consumul de aer
+Admisie
+Vibratii
+Presiune de lucru
+Lungime
+6804.46
+1200
+2,2-4,3  Nm 
+800 rpm
+198 LPM (7 CFM)
+1/4"
+2,5 m/s² 
+6,3 bari / 90 PSI
+340 mm
+Cuplul de strangere
+58914
+10-40 Nm
+Cuplu strangere
+Tutatii
+Consumul de aer
+Admisie
+Vibratii
+Presiune de lucru
+Lungime
+21964.14
+2400
+10-40 Nm 
+280 rpm
+283 LPM (10 CFM)
+1/4"
+<2,5 m/s² 
+5,9 bar / 85 PSI 
+520 mm

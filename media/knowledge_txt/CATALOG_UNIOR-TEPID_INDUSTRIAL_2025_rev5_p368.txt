@@ -1,0 +1,356 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:368]
+1602 TOR
+NOU
+INDUSTRY PH
+6463C6,3
+Bit hexagonal 1/4" 
+DIN 3129 Forma C 6,3
+profil Phillips
+• otel special aliat
+• durabilitate ridicata
+• protectie anticoroziva
+• pentru lucrul manual si cu masina
+• pentru prindere magnetica sau non-magnetica
+• in concordanta cu standardul ISO 2351
+• standard: DIN 3129 ISO 1174 
+Bit hexagonal 1/4" DIN 3126 - 
+Forma C 6,3 - profil Phillips
+• design de torsiune
+• duritate in conformitate cu norma DIN
+• sablat
+• protectie optima impotriva coroziunii
+Bit hexagonal 1/4" 
+DIN 3126 Forma C 6,3
+profil Phillips
+• material: aliaj special S2 (1.2381 / 73 Mo V 5 2)
+• duritate material: 58 +/- 2 HRc
+• in conformitate cu standardele DIN 3126 ISO 1173
+• durabilitate ridicata
+• protectie anticoroziva
+• pentru lucrul manual si cu masina
+• pentru prindere magnetica sau non-magnetica
+DIN 3129
+1000031563
+1000031564
+1000031565
+Dimensiune         D        L 
+25
+25
+25
+PH 1
+PH 2
+PH 3
+-
+-
+-
+DIN 5260
+GERMANY
+TORSIONFLEX
+Long
+Life
+D
+L
+Dimensiune         L
+25
+25
+25
+25
+25
+PH 0
+PH 1
+PH 2
+PH 3
+PH 4
+UUSG0012040
+UUSG0012341¹
+UUSG0012342¹
+UUSG0012343¹
+UUSG0012045
+( ¹ ) profil de torsiune
+10 (A*)
+10 (A*)
+10 (A*)
+10 (A*)
+10 (A*)
+42.76
+42.76
+42.76
+42.76
+66.18
+D
+L
+vrac
+vrac
+vrac
+4.75
+4.75
+4.75
+1602 CON
+NOU
+Bit hexagonal 1/4" 
+DIN 3129 Forma C 6,3
+profil Phillips Cool Nitrogen
+• otel special aliat
+• durabilitate ridicata
+• protectie anticoroziva
+• pentru lucrul manual si cu masina
+• pentru prindere magnetica sau non-magnetica
+• in concordanta cu standardul ISO 2351
+• standard: DIN 3129 ISO 1174 
+Bit TORSION 1/4" DIN/ISO 1173
+Forma C 6,3 - profil Phillips
+• TORSION - versiune frezata pentru a se potrivi perfect la aplicatii 
+usoare (ex. lemn de esenta moale)
+• cuplu foarte bun, de aproximativ 90% peste standardul DIN
+• fara acoperire
+• DIN 5264-C, ISO 2380
+DIN 3126
+®
+Professional Quality
+70112201
+70112401
+70112601
+900516
+900517
+900518
+70112205
+70112405
+70112605
+70112210
+70112410
+70112610
+70112225
+70112425
+70112625
+Dimensiune         D        L
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+PH 1
+PH 2
+PH 3
+PH 1
+PH 2
+PH 3
+PH 1
+PH 2
+PH 3
+PH 1
+PH 2
+PH 3
+PH 1
+PH 2
+PH 3
+4.5
+6.0
+6.0
+4.5
+6.0
+6.0
+4.5
+6.0
+6.0
+4.5
+6.0
+6.0
+4.5
+6.0
+6.0
+D
+L
+vrac
+vrac
+vrac
+3 (PP*)
+3 (PP*)
+3 (PP*)
+5 (PP*)
+5 (PP*)
+5 (PP*)
+10 (PP*)
+10 (PP*)
+10 (PP*)
+25 (PP*)
+25 (PP*)
+25 (PP*)
+1.83
+1.83
+1.83
+6.88
+6.88
+6.88
+12.58
+12.58
+12.58
+25.19
+25.19
+25.19
+62.99
+62.99
+62.99
+1602 CR
+Bit hexagonal 1/4" DIN/ISO 1173
+Forma C 6,3 - profil Phillips
+• DIN 5260, ISO 8764
+• cu inel identificare
+DIN 3129
+1000037139
+1000037140
+1000037141
+Dimensiune         D        L 
+25
+25
+25
+PH 1
+PH 2
+PH 3
+4,5
+6
+8
+D
+L
+vrac
+vrac
+vrac
+7.83
+7.83
+7.83
+Dimensiune         L 
+PH 1
+25
+PH 2
+25
+PH 3
+25
+PH 1
+PH 2
+PH 3
+25
+25
+25
+01924
+01925
+01926
+01118
+01119
+01120
+L
+vrac
+vrac
+vrac
+10 (PP*)
+10 (PP*)
+10 (PP*)
+2.18
+2.18
+2.18
+30.41
+30.41
+30.41
+1000012071
+1000012072
+1000012073
+D
+L
+vrac
+vrac
+vrac
+4.56
+4.56
+4.56
+Dimensiune       L          D
+4,6
+6,0
+6,0
+PH 1
+PH 2
+PH 3
+25
+25
+25
+Suruburi metrice
+Suruburi autofiletante
+Suruburi pentru lemn
+Suruburi speciale
+Dimensiune
+Ø in mm
+Ø in mm 
+Ø in mm 
+Ø in mm 
+DIN 965 
+DIN 966 
+DIN 7985 
+DIN 7981 
+DIN 7982 
+DIN 7995 
+DIN 7996 
+DIN 7997 
+PH
+PZ
+1,6 / 2 
+1,6 / 2 
+1,6 / 2 
+2,5 / 3 
+2,5 / 3 
+2 / 2,5 
+2,2 
+2,9 
+2,2 
+2,9 
+2 
+2,5 / 3 
+2,5 / 3 
+2,5 / 3 
+3,5 - 5 
+3,5 - 5 
+3,5 - 5 
+3,5 - 4,8 
+3,5 - 5 
+3,5 - 5 
+3,5 - 5 
+3,5 - 4,5 
+6 
+6 
+6 / 6,3 
+5,5 / 6,3 
+5,5 - 7 
+5,5 - 7 
+5,5 - 7 
+8 / 10 
+8 / 10 
+8 / 10 
+8 / 9,5 
+8 / 9,5 
+8 
+8 
+5,5 
+8 
+2,1 / 3,0  
+3,1 - 5,2  
+5,5 - 7,2  
+7,3 - 12,7  
+*Nu sunt incluse in standard
+00*
+00*
+0 
+1 
+2 
+3 
+4 
+0 
+1 
+2 
+3 
+4 

@@ -1,0 +1,197 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:648]
+58922
+NOU
+1515
+1515H
+Masina de insurubat pneumatica
+cu strangere controlata 1/2; 35-70 Nm
+AVANTAJELE PRODUSULUI
+• EGA Master produce o gama larga de scule pentru strangere controlata.
+• noile masini pneumatice cu cuplu sunt proiectate pentru aplicatii in care
+este necesar un control precis al cuplului, chiar si in spatii inguste, oferind
+performanta maxima la fiecare lucrare
+• corpul sculei extins pentru o operare confortabila si o forta de reactie
+mai mică
+• reversibila, cu schimbarea sensului de rotatie
+• gama larga de reglare a cuplului, de la 1,2 Nm la 70 Nm
+• precizie ridicata: valoare CmK>1,33 ± 10% la modelele tip unghi si 
+precizie +/- 3% la modelul tip maner pistol
+• reglare confortabila si simpla a cuplului, economisire mai mare de timp
+• modele de tip maner unghi si pistol
+ISO 5393
+Pistol de gaurire pneumatic
+•  cu schimbarea sensului de rotatie
+•  viteza de rotatie 1800 rotatii/minut
+•  presiunea maxima de aer comprimat:6, 2 Bar
+•  consum de aer comprimat 113 l/min
+•  racord de aer 1/4"
+•  capacitate de prindere mandrina 1,0 - 10mm
+•  racord filetat 3/8", 24 UNF
+•  diametrul interior furtun 10mm
+Avantaje:
+•  putere mare 
+•  greutate mica, compact si usor de manevrat
+•  maner rotitor
+•  maner cu forma ergonomica pentru lucru fara 
+efort
+•  maner protejat pentru micsorarea vibratiilor
+•  schimbare de sens
+•  sistem de schimbare rapida
+Pistol pneumatic de gaurit 
+cu maner lateral
+•  cu schimbarea sensului de rotatie
+•  viteza de rotatie 800 rotatii/minut
+•  presiunea maxima de aer comprimat:6, 2 Bar
+•  consum de aer comprimat 113 l/min
+•  racord de aer 1/4"
+•  capacitate de prindere mandrina 1,5 - 13mm
+•  racord filetat 3/8", 24 UNF
+•  diametrul interior furtun 10mm
+Avantaje:
+•  putere mare 
+•  greutate mica, compact si usor de manevrat
+•  maner reglabil pentru o prindere buna
+•  maner rotitor
+•  maner cu forma ergonomica pentru lucru fara 
+efort
+•  maner protejat pentru micsorarea vibratiilor
+•  schimbare de sens
+•  sistem de schimbare rapida
+Cuplul de strangere
+58922
+35-70 Nm
+Cuplu strangere
+Tutatii
+Consumul de aer
+Admisie
+Vibratii
+Presiune de lucru
+Lungime
+25086.01
+2400
+35-70 Nm 
+130 rpm
+283 LPM (10 CFM)
+1/4"
+<2,5 m/s² 
+5,9 bar / 85 PSI 
+520 mm
+58869
+NOU
+L
+A
+L
+A
+Pistol de insurubat pneumatic
+cu strangere controlata 3/8”; 5-28 Nm
+AVANTAJELE PRODUSULUI
+• EGA Master produce o gama larga de scule pentru strangere controlata.
+• noile masini pneumatice cu cuplu sunt proiectate pentru aplicatii in care
+este necesar un control precis al cuplului, chiar si in spatii inguste, oferind
+performanta maxima la fiecare lucrare
+• corpul sculei extins pentru o operare confortabila si o forta de reactie
+mai mică
+• reversibila, cu schimbarea sensului de rotatie
+• gama larga de reglare a cuplului, de la 1,2 Nm la 70 Nm
+• precizie ridicata: valoare CmK>1,33 ± 10% la modelele tip unghi si 
+precizie +/- 3% la modelul tip maner pistol
+• reglare confortabila si simpla a cuplului, economisire mai mare de timp
+• modele de tip maner unghi si pistol
+ISO 5393
+617726 190
+150
+1360
+ 1F 
+1
+756.39
+617727 220
+150
+1570
+ 1F 
+1
+1216.56
+57071
+NOU
+57070
+NOU
+Surubelnita pneumatica HEX 1/4” 
+13 Nm
+AVANTAJELE PRODUSULUI
+• usor de utilizat datorita designului ergonomic si greutatii reduse
+• nivel redus de zgomot
+• consum redus de aer
+• presiune de lucru de 6.3 bar
+• declansator sensibil pentru o utilizare fina si precisa
+• surubelnita dreapta cu regulator de viteza
+• nivel redus de vibratii
+• reversibila
+• usor de utilizat cu o mana
+Surubelnita pneumatica HEX 1/4” 
+5-13 Nm
+AVANTAJELE PRODUSULUI
+• usor de utilizat datorita designului ergonomic si greutatii reduse
+• nivel redus de zgomot
+• consum redus de aer
+• presiune de lucru de 6.3 bar
+• declansator sensibil pentru o utilizare fina si precisa
+• surubelnita dreapta cu regulator de viteza
+• nivel redus de vibratii
+• reversibila
+• usor de utilizat cu o mana
+Cuplul de strangere
+58869
+5-28 Nm
+Cuplu strangere
+Tutatii
+Consumul de aer
+Admisie
+Vibratii
+Presiune de lucru
+Dimensiuni
+9181.81
+1200
+5-28 Nm 
+280 rpm
+550 LPM (17,7 CFM) 
+1/4"
+<2,5 m/s² 
+5,9 bar / 85 PSI 
+235x39x190 mm
+Cuplul de strangere
+57071
+13 Nm
+Cuplu strangere
+Tutatii
+Consumul de aer
+Admisie
+Vibratii
+Presiune de lucru
+Nivel de zgomot
+2181.41
+1100
+13 Nm 
+1800 rpm
+113 LPM (4 CFM)
+1/4"
+<2,5 m/s² 
+6,3 bar / 85 PSI 
+104.9 dBA
+Cuplul de strangere
+57070
+5~13 Nm
+Cuplu strangere
+Tutatii
+Consumul de aer
+Admisie
+Vibratii
+Presiune de lucru
+Nivel de zgomot
+2772.66
+900
+5-13 Nm 
+1800 rpm
+73 LPM (2.6 CFM)
+3/8"
+<10.04 m/s² 
+6,3 bar / 85 PSI 
+102.5 dBA

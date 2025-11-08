@@ -1,0 +1,179 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1016]
+masterEx 79641
+masterEx 79595
+masterEx 76533
+NOU
+Lanterna antiex 3W
+• MasterEx 79641 este echipata cu un led alb de 3W si un 
+led rosu de inalta intensitate care emite intermitent si 
+ghideaza. Lanterna ideala pentru zonele periculoase, pana 
+la zona 0 si 20, combinand performante grele si iluminare 
+puternica. Fabricat din rasina termoplastica cu rezistenta 
+ridicata la socuri, temperaturi extreme, lichide si substante 
+corozive
+• sursa lumina: LED 3 W
+• luminozitate lumina alba: 136 lumeni
+• luminozitate lumina rosie: 27 lumeni
+• cap rotitor: 180º
+• timp de operare: 3 h - 6 h
+• alimentare: Li-ion / 3.7 V
+• clasa protectie: IP65
+• greutate: 180 g
+• dimensiune: 156x56x484 mm
+• aplizatii: Ex II 1 GD Ex ia IIC T4 Ex ia D 20 IP65 T85°C
+Ex II 2 GD Ex ia IIC T4 IP65 T85°C
+Lanterna antiex 1W
+• 32 de ore de lucru continuu cu 4 baterii alcaline AA, 
+proiectand o iluminare de 79 lumeni
+• designul sau usor si mic o fac lanterna ideala pentru cele 
+mai periculoase zone de gaz / praf, pana la Zona 0/20. 
+• temperatura ambientala Ta: -20 ° C - +50 ° C
+• sursa de lumina: 1 W LED
+• luminozitate: 79 lumeni
+• alimentare: 4 baterii AA
+• clasa de protectie: IP66
+• lungime: 190 mm
+• marcaj ATEX: Ex II 1G Ga Ex ia IIC T4, II 1D Da
+Ex iaD 20 IP66 T83ºC
+• greutate: 297 g
+• bateriile nu sunt incluse
+Lanterna frontala antiex LED CREE
+• zone 0, 1, 2 gaz
+• temperatura ambientala Ta: -20 ° C - +540 ° C
+• sursa de lumina: Cree XP-G2 LED
+• luminozitate: scazuta: 100 lumeni / ridicata: 216 lumeni
+• alimentare: 3 baterii alcaline AAA
+• clasa de protectie: IP67
+• lungime: 80 mm
+• ATEX: Ex  II 1G Ex ia IIC T4 Ga IP67 
+• greutate: 130 g
+• bateriile sunt incluse
+ZONE 0, 1, 2 GAZ
+20, 21, 22 PRAF
+ZONE 0, 1, 2 GAZ
+20, 21, 22 PRAF
+W
+1
+79595
+L
+190
+masterEx 79598
+297
+3291.59
+Lanterna antiex 1W
+• zone 0, 1, 2 gaz
+• 13 ore de lucru continuu cu 4 baterii alcaline AA si este 
+echipata cu un LED de putere de 1W
+• lumina sa, ergonomia si gradul de protectie IP68 o fac o 
+lanterna perfecta pentru utilizare in zone cu gaz periculos, 
+pana la Zona 0
+• ideala pentru utilizare subacvatica cu o adancime maxima 
+de imersiune de 3 metri
+• reflector proiectat pentru iluminat pe distante lungi, poate 
+ajunge pana la 130 de metri
+• carcasa rezistenta durabila si antiderapanta
+• buton comutator ergonomicCaracteristici tehnice:
+• imersiune continua
+• sursa de lumina: Osram 1 W Led
+• luminozitate: 60 lumeni
+• alimentare: 4 baterii AA
+• clasa de protectie: IP68
+• lungime: 175 mm
+• ATEX: Ex II 1 G Ex ia IIC T4 ia D 20 T135°C
+• IECEx: Ex ia IIc T4 Ga
+• UL: Clasa I Div 1 Grp ABCD Clasa II Div1 Grp EFG 
+Clasa III Cod temp: T4
+• greutate: 96 g
+• bateriile sunt incluse
+W
+3
+79641
+D
+146x56x484
+180
+4103.13
+masterEx 79591
+Lanterna antiex 0,2W
+• 130 de ore de lucru continuu cu 4 baterii alcaline LR44, 
+proiectand o iluminare de 9 lumeni
+• designul sau usor si mic o fac lanterna ideala pentru cele 
+mai periculoase zone de gaz / praf, pana la Zona 0/20. 
+• temperatura ambientala Ta: -20 ° C - +50 ° C
+• sursa de lumina: 0,2 W LED
+• luminozitate: 9 lumeni
+• alimentare: 4 baterii LR 44
+• clasa de protectie: IP54
+• lungime: 67 mm
+• marcaj ATEX: Ex II 1 G Ex ia IIC T4 / T6
+• greutate: 25 g
+• bateriile incluse
+ZONE 0, 1, 2 GAZ
+W
+1.0
+76533
+L
+71
+120
+1226.37
+13126-2
+Lanterna antiex tip stilou
+• certificata pentru zona 1
+• agrementari : II 2G Ex e ib IIB T4 Gb,  II 2D Ex ib IIIC T60C IP6X Db
+• de 3 ori mai luminoasa datorita led-ului puternic
+• corp din ABS neconducator  electric cu protectie anticoroziune 
+si rezistenta la impact
+• stralucirea fasciculului constant pe 80% din durata de viata a 
+bateriei  datorita circuitelor eLED
+• buton de pornire cauciucat pentru folosire temporara sau continua
+• protectie la apa pana la IP68, 3 m adancime
+• luminozitate 35 lumen
+• raza de actiune 64 m
+• baterii 2x AAA alkaline neincluse
+Dimensiune
+L
+SW 77490012
+132 x 24 x 22
+132
+20
+589.10
+masterEx 79693
+Lanterna antiex Cree XP-E LED
+• lanterna cu LED MasterEx 79693 ofera 40 de ore de lucru 
+continuu cu 3 baterii alcaline de 1,5 V C si este echipata cu 
+un LED Cree XP-E
+• gradul sau de protectie ergonomic IPX7 o face o lanterna 
+perfecta pentru utilizare atat in zone cu gaz periculos, pana la 
+Zona 0, cat si pentru utilizare subacvatica (imersie temporara)
+• sursa de lumina: LED Cree XP-E
+• luminozitate: scazuta: 57 lumeni / inalta: 141 lumeni
+• mod: High-Low-Off
+• alimentare: 3 x baterii alcaline 1.5V
+• clasa de protectie: IPX7
+• lungime: 220 mm
+• ATEX: Ex II 1 G Ex ia IIC T4 • IECEx: Ex ia IIc T4 Ga
+• UL: Clasa I Div 1 Grp ABCD Clasa II Div1 Grp EFG Clasa III 
+• greutate: 190 g
+• bateriile sunt incluse
+ZONE 0, 1, 2 GAZ
+ZONE 0, 1, 2 GAZ
+W
+0.2
+79591
+L
+67
+25
+1226.37
+79598
+W
+1.0
+L
+175
+96
+937.93
+79693
+W
+L
+220
+190
+1154.19
+ZONE 0, 1, 2 GAZ

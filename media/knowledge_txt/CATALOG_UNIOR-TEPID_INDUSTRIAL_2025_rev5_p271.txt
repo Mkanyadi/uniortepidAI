@@ -1,0 +1,242 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:271]
+1208
+Subler mecanic de exterior-interior, cu reglaj fin
+• cu reglaj fin
+• material: otel inoxidabil, cromare satinata
+• gradatie: 0.05 mm
+2105
+NOU
+Subler mecanic de exterior-interior, cu reglaj fin
+• in conformitate cu DIN 862
+• gradatie: 0.05 mm/1/128"
+• fabricat din inoxidabil, calit, finisaj cromare satinata
+• cu surub de blocare superior, bumbul de impingere din metal
+• livrare cu raportul de inspectie
+• in cutie de plastic
+Scala 
+Acuratete 
+     a         c 
+          d           e         L
+1208-394
+0-300 mm
+± 0.07 mm
+1208-324
+0-300 mm
+± 0.07 mm
+1208-524
+0-500 mm
+± 0.07 mm
+10
+18
+18
+20
+24
+24
+90
+150
+100
+10
+20
+20
+410
+410
+670
+1281.00
+2058.00
+2194.50
+1214
+Subler mecanic de exterior-interior, cu reglaj fin
+• cu reglaj fin
+• material: otel inoxidabil, cromare satinata
+• gradatie: 0.02 mm
+b
+c
+Scala
+Acuratete
+2105-500
+0-500mm/0-20"
+± 0.08 mm
+213-9460
+0-600mm/0-24"
+± 0.08 mm
+213-8418
+0-1000mm/0-40"
+± 0.10 mm
+a
+100
+100
+150
+b
+15
+15
+24
+c
+10
+10
+10
+h
+24
+24
+31
+2105
+670
+950
+1382.32
+1442.14
+1200
+3773.46
+NOU
+Subler mecanic de exterior-interior, cu varfuri lungi si
+reglaj fin
+• gradatie: 0.05 mm/1/128"
+• fabricat din inoxidabil, calit, finisaj cromare satinata
+• cu reglaj fin si surub de fixare superior
+• cu vernier monobloc
+• livrare cu raportul de inspectie
+• in cutie de plastic
+Scala 
+Acuratete 
+       a         c            e           L         d
+1214-450
+0-450 mm
+± 0.05 mm
+1214-500
+0-500 mm
+± 0.05 mm
+1214-600
+0-600 mm
+± 0.05 mm
+1214-1000
+0-1000 mm
+± 0.08 mm
+18
+18
+18
+24
+24
+24
+24
+32
+20
+20
+20
+20
+650
+670
+770
+1216
+100
+100
+100
+140
+1627.50
+1669.50
+1753.50
+5029.50
+1215
+Subler mecanic de exterior-interior, cu varfuri 
+lungi si reglaj fin
+• cu reglaj fin
+• material: otel inoxidabil, cromare satinata
+• gradatie: 0.02 mm / 0.001"
+b
+c
+Scala
+Acuratete
+2105-502
+0-500mm/0-20"
+± 0.12 mm
+2105-800
+0-800mm/0-32"
+± 0.09 mm
+2105-1002
+0-1000mm/0-40"
+± 0.13 mm
+2105-1003
+0-1000mm/0-40"
+± 0.15 mm
+a
+200
+150
+200
+300
+b
+15
+15
+24
+24
+c
+10
+10
+10
+10
+h
+24
+24
+31
+31
+670
+1020
+1220
+1330
+1388.68
+2591.71
+4528.08
+5979.68
+1135-601
+Subler digital 0-600 mm
+• rezolutie: 0.01 mm / 0.0005"
+• butoane: on/off, zero, mm/inch, ABS, data preset
+• baterie: CR2032
+• iesire date
+• material: otel inoxidabil
+Scala 
+Acuratete 
+     a         c 
+          d           e         L
+1215-532
+0-500 mm
+± 0.06 mm
+1215-822
+0-800 mm
+± 0.07 mm
+1215-1032
+0-1000 mm
+± 0.08 mm
+1215-1052
+0-1000 mm
+± 0.11 mm
+18
+24
+24
+24
+24
+32
+32
+42
+200
+150
+200
+300
+20
+20
+20
+20
+670
+1020
+1220
+1330
+2929.50
+4599.00
+6583.50
+9859.50
+1135-601
+Scala 
+0-600
+Acuratete 
+      L           a          c                 d
+± 0.05 mm
+770        45
+24
+100
+3486.00

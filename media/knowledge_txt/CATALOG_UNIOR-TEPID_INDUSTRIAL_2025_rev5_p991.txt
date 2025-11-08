@@ -1,0 +1,190 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:991]
+613
+Dispozitiv taiat tevi
+• material: Cu-Be
+NOU
+NOU
+NOU
+Cheie tais lateral anti-ex Al-Bron
+• material: Al-Bron
+Cleste varfuri semirotunde 
+antiex Al-Bron
+• material: Al-Bron
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+Ø
+613 4450
+60
+L
+445
+H
+60
+3800
+15016.39
+612
+NOU
+Cheie cu lant anti-ex Cu-Be
+• material: Cu-Be
+70537
+76475
+L
+160
+200
+250
+370
+1424.42
+1661.88
+NOU
+Cheie tais lateral Heavy Duty
+anti-ex Al-Bron
+• material: Al-Bron
+L
+160
+180
+200
+73149
+73151
+73650
+008
+250
+270
+370
+1543.07
+1661.88
+1780.61
+Cleste cu varfuri plate antiex
+CuBe
+• material: CuBe
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+612 5500
+612 9100
+612 6900
+006
+L
+550
+910
+690
+ØA
+50 - 90
+60 - 130
+4300
+7640
+12655.74
+13377.05
+80 - 180
+10030
+14819.67
+L
+160
+180
+72095
+70538
+068
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+260
+320
+1305.69
+1424.42
+008 1600
+L
+160
+150
+1075.41
+NOU
+Cleste combinat antiex CuBe
+• material: CuBe
+Cleste varfuri semirotunde 
+(telefonisti)
+• material: CuBe
+Cleste varfuri plate
+antiex Al-Bron
+• material: Al-Bron
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+006 2000
+L
+200
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+325
+1127.87
+068 1800
+NOU
+L
+180
+150
+1075.41
+NOU
+Cleste combinat antiex Al-Bron
+• material: Al-Bron
+Cleste varfuri semirotunde 
+antiex Al-Bron
+• material: Al-Bron
+170
+1008.99
+L
+160
+70533
+73903
+Cleste dezizolat cabluri
+• material: Cu-Be
+L
+160
+180
+200
+70530
+70531
+70532
+066
+250
+320
+370
+1033.37
+1148.13
+1262.73
+L
+160
+180
+200
+70535
+76131
+70536
+007
+Cleste cu tais lateral antiex CuBe
+• material: CuBe
+Cleste cu varfuri rotunde
+• material: CuBe
+250
+270
+370
+1068.48
+1187.13
+1305.69
+73903
+L
+170
+220
+2730.28
+Cleste varfuri rotunde antiex
+• material: Al-Bron
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+066 1600
+L
+160
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+100
+1285.25
+007 1600
+L
+160
+135
+1285.25
+70534
+L
+160
+160
+1008.99

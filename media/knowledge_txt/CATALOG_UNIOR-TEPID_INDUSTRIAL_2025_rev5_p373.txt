@@ -1,0 +1,327 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:373]
+INDUSTRY PZ
+1300 Z
+Bit hexagonal 1/4" DIN 3126 - 
+Forma C 6,3 - profil Pozidriv
+• design de torsiune
+• duritate in conformitate cu norma DIN
+• sablat
+• protectie optima impotriva coroziunii
+Bit hexagonal 1/4" DIN/ISO 1173
+Forma C 6,3 - profil Pozidriv
+• DIN 5260, ISO 8764
+• standard
+DIN 5260
+GERMANY
+TORSIONFLEX
+Long
+Life
+D
+L
+1000013002
+1000013005
+1000013011
+Dimensiune       L          D
+4,6
+6,0
+6,0
+PZ 1
+PZ 2
+PZ 3
+25
+25
+25
+D
+L
+vrac
+vrac
+vrac
+2.63
+2.63
+2.63
+Bit hexagonal 1/4" de IMPACT
+BLUE SHOCK DIN/ISO 1173
+Forma E 6,3 - profil Pozidrive
+• bitul dispune o zona de torsiune studiata si alungita pentru a 
+rezista la cupluri ridicate si socuri violente in timpul utilizarii pe o 
+masina de
+insurubat cu impact
+• duritate proiectata special pentru utilizarea pe masini de 
+insurubat cu impact de mare putere
+• varf ranforsat cu inel de sprijin pentru o durata de utilizare 
+prelungita
+• zona de torsiune este ranforsata din partea superioara si cea 
+inferioara pentru o legatura mai puternica intre varf si corp si 
+pentru a preveni ruperea bitului.
+Dimensiune         L
+25
+25
+25
+25
+25
+PZ 0
+PZ 1
+PZ 2
+PZ 3
+PZ 4
+UUSG0012053
+UUSG0012360¹
+UUSG0012361¹
+UUSG0012362¹
+UUSG0012063
+( ¹ ) profil de torsiune
+10 (A*)
+10 (A*)
+10 (A*)
+10 (A*)
+10 (A*)
+42.76
+42.76
+42.76
+42.76
+42.76
+Bit TORSION 1/4" DIN/ISO 1173
+Forma C 6,3 - profil Pozidriv
+• TORSION - versiune frezata pentru a se potrivi perfect la 
+aplicatii usoare (ex. lemn de esenta moale)
+• cuplu foarte bun, de aproximativ 90% peste standardul DIN
+• fara acoperire
+• DIN 5264-C, ISO 2380
+Dimensiune         L  
+25
+25
+25
+PZ 1
+PZ 2
+PZ 3
+vrac
+vrac
+vrac
+PZ 1
+PZ 2
+PZ 3
+25
+25
+25
+10 (PP*)
+10 (PP*)
+10 (PP*)
+01927
+01928
+01929
+01177
+01178
+01179
+L
+2.18
+2.18
+2.18
+30.41
+30.41
+30.41
+Bit TORSION 1/4" DIN/ISO 1173
+Forma C 6,3 - profil Pozidriv
+• TORSION - versiune forjata pentru a se potrivi perfect la 
+aplicatii grele (ex. lemn dur, metal)
+• cuplu foarte bun, de aproximativ 110% peste standardul DIN
+• fara acoperire
+• DIN 5264-C, ISO 2380
+Cupluri de testare pentru biti profil PH si PZ
+0 
+1 
+2 
+3 
+4 
+Nm* 
+1,0 
+3,9 
+10,3 
+32,0 
+88,7 
+* Profile PH si PZ: Fabricate conform DIN 5260, IOS 8764 si SMS-SS 1687. 
+Valori de cuplu verificate in calibru de testare, conform DIN 5261, ISO 8764, 
+pe echipamentul de testare cuplu.
+Bit IMPACT TORSION 1/4" 
+DIN/ISO 1173 - Forma C 6,3
+profil Pozidriv
+• IMPACT TORSION – versiune forjata pentru toate masinile 
+de insurubat cu impact, impuls sau percutie
+• fara acoperire
+• material special
+• tratament special
+• cuplu maxim cu aproximativ 130% peste norma DIN
+GERMANY
+UUSE0062461
+UUSE0062462
+Dimensiune       L  
+30
+30
+PZ 2
+PZ 3
+D
+L
+5 (A*)
+5 (A*)
+53.71
+53.71
+UUSG0062461
+PZ 2
+UUSL0062461
+PZ 2
+30
+30
+10 (A*)
+106.36
+25 (A*)
+214.65
+16099 IMP
+NOU
+Bit hexagonal 1/4" DIN/ISO 1173
+Forma C 6,3 - profil Pozidriv
+• DIN 5260, ISO 8764
+• IMPACT
+1000035996
+1000035997
+L
+Dimensiune       L          D
+6,0
+6,0
+PZ 2
+PZ 3
+25
+25
+D
+L
+vrac
+vrac
+8.41
+8.41
+Dimensiune         L 
+30
+30
+30
+PZ 1
+PZ 2
+PZ 3
+vrac
+vrac
+vrac
+PZ 1
+PZ 2
+PZ 3
+30
+30
+30
+10 (SYS**)
+10 (SYS**)
+10 (SYS**)
+10103
+10104
+10105
+02503
+02504
+02505
+1300 CR
+Bit hexagonal 1/4" DIN/ISO 1173
+Forma C 6,3 - profil Pozidriv
+• DIN 5260, ISO 8764
+• cu inel identificare
+3.73
+3.73
+3.73
+45.90
+45.90
+45.90
+Bit TiN CVD 1/4" DIN/ISO 1173 - 
+Forma C 6,3 - profil Pozidriv
+• Titan TiN - versiune frezata pentru a se potrivi perfect la 
+aplicatii usoare (ex. lemn de esenta moale)
+• acoperire Titan CVD pentru rezistenta mare la uzura 
+• duritatea suprafetei aproximativ 92-95 HRc
+• cuplu maxim cu aproximativ 115% peste norma DIN
+• DIN 5264-C, ISO 2380
+Dimensiune         L
+25
+25
+25
+PZ 1
+PZ 2
+PZ 3
+vrac
+vrac
+vrac
+PZ 1
+PZ 2
+PZ 3
+25
+25
+25
+10 (PP*)
+10 (PP*)
+10 (PP*)
+60086
+60087
+60088
+02535
+02536
+02537
+L
+3.15
+3.15
+3.15
+40.16
+40.16
+40.16
+1000013071
+1000013072
+1000013073
+D
+L
+vrac
+vrac
+vrac
+4.56
+4.56
+4.56
+Dimensiune         L
+25
+25
+25
+PZ 1
+PZ 2
+PZ 3
+PZ 1
+PZ 2
+PZ 3
+25
+25
+25
+03005
+03006
+03007
+02618
+02619
+02620
+L
+vrac
+vrac
+vrac
+10 (PP*)
+10 (PP*)
+10 (PP*)
+4.30
+4.30
+4.30
+51.64
+51.64
+51.64
+Dimensiune       L          D
+4,6
+6,0
+6,0
+PZ 1
+PZ 2
+PZ 3
+25
+25
+25

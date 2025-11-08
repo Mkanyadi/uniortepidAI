@@ -1,0 +1,293 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:71]
+236/2HX
+Capete chei tubulare cu profil hexagonal 
+exterior 3/8"
+•  material capete chei tubulare: crom-vanadiu, acoperire cromare
+•  bit: otel special de scule
+•  capul cheii este tratat in intregime
+•  conform cu standardul DIN 7422 (doar pentru dimensiunile in mm)
+236/2PH
+Capete chei tubulare cu profil Phillips 3/8"
+•  material capete chei tubulare: crom-vanadiu, acoperire cromare
+•  bit: otel special de scule
+•  capul cheii este tratat in intregime
+L
+48
+48
+48
+48
+48
+48
+48
+48
+48
+48
+48
+48
+48
+L1
+D
+22
+22
+22
+22
+22
+22
+22
+22
+22
+22
+22
+22
+22
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+18
+39
+39
+41
+45
+56
+39
+39
+39
+39
+41
+41
+45
+56
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+36.39
+36.39
+36.39
+36.39
+38.20
+35.25
+35.25
+35.25
+35.25
+35.25
+35.25
+35.25
+37.05
+612082
+612083
+612084
+612085
+612086
+617662
+4
+5
+6
+8
+10
+1/8"
+617663 9/64"
+617664 5/32"
+617665 3/16"
+617666 7/32"
+617667
+1/4"
+617668 5/16"
+617669
+3/8"
+236/2HXL
+Capete chei tubulare cu profil hexagonal
+exterior lungi 3/8"
+•  material capete chei tubulare: crom-vanadiu, acoperire cromare
+•  bit: otel special de scule
+•  capul cheii este tratat in intregime
+•  conform cu standardul DIN 7422 (doar pentru dimensiunile in mm)
+D
+18
+18
+L
+48
+48
+L1
+22
+22
+39
+39
+ 4B 
+ 4B 
+10
+10
+49.18
+49.18
+612093
+612094
+PH 2
+PH 3
+236/2SL
+Capete chei tubulare cu profil de surubelnita
+exterior 3/8"
+•  material capete chei tubulare: crom-vanadiu, acoperire cromare
+•  bit: otel special de scule
+•  capul cheii este tratat in intregime
+D
+18
+18
+L
+48
+48
+L1
+22
+22
+42
+45
+ 4B 
+ 4B 
+10
+10
+56.39
+56.39
+612098
+612099
+5.5
+8
+236/2TX
+Capete chei tubulare cu profil TORX exterior 3/8"
+•  material: capete chei tubulare: crom-vanadiu, acoperire cromare
+•  bit:otel special de scule
+•  capul cheii este tratat in intregime
+612087
+612088
+612089
+612090
+4
+5
+6
+8
+612091
+10
+L
+92
+92
+92
+92
+92
+L1
+D
+66
+66
+66
+66
+66
+18
+18
+18
+18
+18
+65
+65
+65
+65
+65
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+10
+10
+612101
+612102
+612103
+612104
+612105
+612106
+TX 15
+TX 20
+TX 25
+TX 27
+TX 30
+TX 40
+42.95
+42.95
+42.95
+42.95
+45.25
+D
+18
+18
+18
+18
+18
+18
+L
+48
+48
+48
+48
+48
+48
+L1
+22
+22
+22
+22
+22
+22
+39
+39
+39
+39
+39
+40
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+10
+10
+10
+48.52
+48.52
+48.52
+50.66
+50.66
+53.11

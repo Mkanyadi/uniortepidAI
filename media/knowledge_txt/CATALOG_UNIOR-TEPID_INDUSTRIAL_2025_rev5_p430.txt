@@ -1,0 +1,295 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:430]
+11109720001
+NOU
+1600
+1760
+Set 3 limitatoare reglabile de
+adancime 3-4,5/5-7,5/8-12 mm
+• set de 3 limitatoare de gaurire cu sistem de prindere rapida (nu
+necesita unelte suplimentare)
+• accesoriu ideal pentru burghiu, va permite sa gauriti intotdeauna
+la adancimea potrivita, pentru instalarea diblurilor
+• se adapteaza la o gama larga de diametre de burghie: opritor
+nr. 1 pentru burghie de la 3 la 4,5 mm, nr. 2 pentru burghie de la
+5 la 7,5 mm, nr. 3 pentru burghie de la Ø8 la 12 mm
+• fixare excelenta pe burghiu, prindere puternica, datorita suprafetei
+mari de contact
+• dimensiuni 13.2 x 4.7 x 4.2 cm
+Burghiu de centruire DIN 333 A HSS
+• burghiu de centruire DIN 333, forma A, HSS,
+• tratat complet, suprafete rectificate
+• unghi de centrare: 60º, pentru gauri de centrare conform DIN 332
+• unghiul la varf: 120º
+• taiere pe dreapta
+• destinate pentru gaurire in oteluri ne aliate si aliate, sau piese 
+turnate din oteluri, cu σr ≤ 800 N / mm², gaurire in materiale 
+neferoase ( aliaje de aluminiu, cupru si bronzuri ) si in mase 
+plastice
+• se pot folosi pe masini de gaurit, utilaje stationare
+Burghiu in trepte cu canale drepte
+• burghiu in trepte cu canale drepte, norma BOHRCRAFT
+• material: HSS, taiere pe dreapta, coada cilindrica
+• ascutire suplimentara pe fata de asezare si micsorarea 
+taisului transversal, conform DIN 1412 C, pentru o aschiere 
+mai usoara / micsorarea fortei de aschiere si o gaurire mai rapida
+• pentru executarea gaurilor mari in table de otel cu grosimi de
+pana la 2 mm si in neferoase sau nemetale cu grosimi pana 
+la 4 mm
+• destinate pentru gaurire in oteluri ne aliate si slab aliate 
+cu σr ≤ 800 N / mm², gaurire in materiale neferoase ( aliaje de
+aluminiu, cupru si bronzuri ) si in mase plastice
+• se pot folosi pe masini de gaurit, utilaje stationare , cat si pe
+masini de gaurit portabile
+DIN
+333
+HSS
+G
+FORM
+A /60°
+800
+N/mm²
+Ø
+1,00
+1,20
+1,60
+2,00
+2,50
+3,15
+4,00
+5,00
+6,30
+16000300100
+16000300125
+16000300160
+16000300200
+16000300250
+16000300315
+16000300400
+16000300500
+16000300630
+1761
+d2
+L
+Lu
+Amb
+3,15
+3,15
+4,00
+5,00
+6,30
+8,00
+10,00
+12,50
+16,00
+1
+1
+1
+1
+1
+1
+1
+1
+1
+16.23
+16.23
+16.72
+19.34
+22.46
+28.20
+43.77
+60.00
+100.98
+Burghiu in trepte cu canale drepte,
+titanizate
+• burghiu in trepte cu canale drepte, norma BOHRCRAFT
+• material: HSS, acoperire TiN, taiere pe dreapta, coada
+cilindrica
+• ascutire suplimentara pe fata de asezare si micsorarea 
+taisului transversal, conform DIN 1412 C, pentru o aschiere 
+mai usoara / micsorarea fortei de aschiere si o gaurire mai rapida
+• pentru executarea gaurilor mari in table de otel cu grosimi de 
+pana la 2 mm si in neferoase sau nemetale cu grosimi pana 
+la 4 mm
+• destinate pentru gaurire in oteluri ne aliate si slab aliate cu 
+σr ≤ 800 N / mm², oteluri pentru tratament termic cu 
+σr≤1100 N/mm², gaurire in oteluri inoxidabile sau aliate cu 
+Titan, gaurire in materiale neferoase ( aliaje de cupru ) si in 
+mase plastice
+• se pot folosi pe masini de gaurit, utilaje stationare , cat si 
+pe masini de gaurit portabile
+TiN
+d2
+8
+357.87
+10
+522.46
+17610300022
+Tip
+2A
+4,0-20,0
+d
+Trepte
+17610300033
+3A
+4,0-30,0
+4, 6, 8, 10, 12,
+14, 16, 18, 20
+9 / trepte
+4, 6, 8, 10, 12, 
+14, 16, 18, 20, 
+22, 24, 26, 28, 
+30 / 14 trepte
+11109720001
+3-12 mm / 3 piese
+1270
+49,34
+(3-4,5/5-7,5/8-12)
+119007
+NOU
+Burghiu si freza 2in1 pentru lemn
+si metal cu limitator de adancime
+• burghiu si freza de inalta performanta care permite gaurirea si
+taierea intr-o singura operatie, cu reglarea adancimii de taiere fara
+unelte suplimentare
+• unelte 2 in 1 pentru lemn de esenta tare si metal
+• ajustabil la intervale milimetrice
+• gaurire si frezare combinate
+• gurire incredibil de rapida
+• durata de viata maxima
+• tija cu schimbare rapida
+• caneluri tip N la 30° 
+• otel HSS
+• opritorul nu lasa urme in material
+• opritor reglabil
+11900720300
+11900720400
+11900720500
+Ø
+3,0
+4,0
+5,0
+L
+80
+94
+L
+80
+94
+105
+105
+37
+42
+49
+88.36
+89.84
+92.30
+17600300001
+17600300003
+17600300022
+Tip
+1
+3
+2A
+4,0-12,0
+20,0-30,0
+4,0-20,0
+17600300033
+3A
+4,0-30,0
+HSS
+G
+CBN
+NORM
+d
+Trepte
+9 / 1 mm
+11 / 1 mm
+4, 6, 8, 10, 12,
+14, 16, 18, 20
+9 / trepte
+4, 6, 8, 10, 12, 
+14, 16, 18, 20, 
+22, 24, 26, 28, 
+30 / 14 trepte
+C
+2
+1
+4
+1
+N
+I
+D
+SPLIT POINT
+d2
+6
+10
+8
+191.97
+423.93
+247.87
+10
+369.02
+1763
+Burghiu in trepte cu canale elicoidale
+• burghiu in trepte cu canale elicoidale, norma BOHRCRAFT
+• material: HSS, taiere pe dreapta, coada cilindrica
+• ascutire suplimentara pe fata de asezare si micsorarea 
+taisului transversal, conform DIN 1412 C, pentru o aschiere 
+mai usoara / micsorarea fortei de aschiere si o gaurire 
+mai rapida
+• pentru executarea gaurilor mari in table de otel cu grosimi de 
+pana la 2 mm si in neferoase sau nemetale cu grosimi pana 
+la 4 mm
+• destinate pentru gaurire in oteluri ne aliate si slab aliate cu 
+σr ≤ 800 N / mm², gaurire in materiale neferoase ( aliaje de 
+aluminiu, cupru si bronzuri ) si in mase plastice
+• se pot folosi pe masini de gaurit, utilaje stationare, cat si pe 
+masini de gaurit portabile
+HSS
+G
+CBN
+NORM
+Tip
+d
+Trepte
+17630300001
+17630300022
+1-S
+2A-S
+4,0-12,0
+4,0-20,0
+17630300033
+3A-S
+4,0-30,0
+17630300066
+6-S
+4,0-39,0
+9 / 1 mm
+4, 6, 8, 10, 12,
+14, 16, 18, 20
+/ 9 trepte
+4, 6, 8,10, 12,
+14, 16, 18, 20,
+22, 24, 26, 28,
+30 / 14 trepte 
+4, 6, 9, 12, 15,
+18, 21, 24, 27,
+30, 33, 36, 39
+/ 13 trepte
+C
+2
+1
+4
+1
+N
+I
+D
+SPLIT POINT
+d2
+6
+10
+247.38
+326.39
+8
+510.82
+10
+787.05

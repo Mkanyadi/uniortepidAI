@@ -1,0 +1,275 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1105]
+Cod
+Brand
+Produs
+605418
+UNIOR
+63199
+EGAMASTER
+609405
+UNIOR
+63200
+EGAMASTER
+63205
+EGAMASTER
+63204
+EGAMASTER
+63202
+EGAMASTER
+63933
+EGAMASTER
+63847
+EGAMASTER
+626181
+UNIOR
+63168
+EGAMASTER
+63105
+EGAMASTER
+63170
+EGAMASTER
+63172
+EGAMASTER
+626187
+UNIOR
+63119
+EGAMASTER
+63363
+EGAMASTER
+626190
+UNIOR
+626188
+UNIOR
+63174
+EGAMASTER
+63175
+EGAMASTER
+63355
+EGAMASTER
+63356
+EGAMASTER
+63357
+EGAMASTER
+63358
+EGAMASTER
+63076
+EGAMASTER
+63169
+EGAMASTER
+63118
+EGAMASTER
+63121
+EGAMASTER
+63364
+EGAMASTER
+63359
+EGAMASTER
+63360
+EGAMASTER
+63361
+EGAMASTER
+63362
+EGAMASTER
+Capacitate
+(mm / inch)
+max. Ø 25 mm
+max. Ø 1" 
+max. Ø 35 mm
+max. Ø1.3/8" 
+max. Ø 38 mm
+max. Ø 1.1/2" 
+max. Ø 42 mm
+max. Ø 1.5/8" 
+max. Ø 42 mm
+max. Ø1.5/8" 
+max. Ø 42 mm
+max. Ø 1.5/8" 
+max. Ø 42 mm
+max. Ø1.5/8" 
+max. Ø 63 mm
+max. Ø 2.1/2" 
+max. Ø 64 mm
+max. Ø 2.1/2" 
+Ø 3 - 16 mm
+Ø 1/8" - 5/8"
+Ø 3 - 30 mm
+Ø 1/8" - 1.1/8"
+Ø 6 - 32 mm
+Ø 1/4" - 1.1/8"
+Ø 3 - 32 mm
+Ø 1/8" - 1.1/8"
+Ø 3-50 mm
+Ø 1/8" - 2"
+Ø 3 - 35 mm
+Ø 1/8" - 1.3/8"
+Ø 6 - 42 mm
+Ø 1/4" - 1.5/8"
+Ø 6 -50 mm
+Ø 1/4" - 2"
+Ø 10 - 60 mm
+Ø 1/8" - 2"
+Ø 6 - 76 mm
+Ø 1/4" - 3"
+Ø 50-127 mm
+Ø 2" - 5"
+Ø 50 - 100 mm
+Ø 2"-4"
+Ø 50 - 100 mm
+Ø 2"-4"
+Ø 100 - 150 mm
+Ø 4"-6"
+Ø 150 - 200 mm
+Ø 6"-8"
+Ø 200-300 mm
+Ø 8"-12"
+Ø 3 - 22 mm
+Ø 1/8" - 7/8"
+Ø 3 - 30 mm
+Ø 1/8" - 1.1/8"
+Ø 6 - 32 mm
+Ø 1/4" - 1.1/8"
+Ø 6 - 42 mm
+Ø 1/4" - 1.5/8"
+Ø 6 - 50 mm
+Ø 1/4" - 2"
+Ø 50 - 100 mm
+Ø 2"-4"
+Ø 100 - 150 mm
+Ø 4"-6"
+Ø 150 - 200 mm
+Ø 6"-8"
+Ø 200-300 mm
+Ø 8"-12"
+0
+5
+10
+25
+30
+35
+40
+50
+60
+75
+100
+125
+150
+175
+200
+225
+250
+300
+Materiale
+Cod
+rezarva
+max. Ø 25 mm
+max. Ø 35 mm
+max. Ø 38 mm
+max. Ø 42 mm
+max. Ø 42 mm
+max. Ø 42 mm
+max. Ø 42 mm
+max. Ø 63 mm
+max. Ø 64 mm
+Ø 3 - 16 mm
+Ø 3 - 30 mm
+Ø 6 - 32 mm
+Ø 3 - 32 mm
+Ø 3-50 mm
+Ø 3 - 35 mm
+Ø 6 - 42 mm
+Ø 6 -50 mm
+Ø 10 - 60 mm
+Ø 6 - 76 mm
+Ø 3 - 22 mm
+Ø 3 - 30 mm
+Ø 6 - 32 mm
+Ø 6 - 42 mm
+Ø 6 - 50 mm
+PVC
+605419
+PB, PEX, MULTISTAT
+64688
+PVC
+609406
+PE, PP, PB, VPE, PVDF, MLP, PPR, PEX,
+MULTISTRAT
+64003
+KEVLAR, PVC, PE, PP, PB, VPE, PVDF, 
+MLP, HTA, PPR, PEX, MULTILAYER
+64045
+PVC, PE, PP, PB, VPE, PVDF, MLP, HTA,
+PPR, PEX, MULTILAYER
+64039
+KEVLAR, PVC, PE, PP, PB, VPE, PVDF, 
+MLP, HTA, PPR, PEX, MULTILAYER
+64034
+PE, PP, PB, VPE, PVDF, MLP, PPR, PEX,
+MULTILAYER
+63940
+KEVLAR, PVC, PE, PP, PB, VPE, PVDF, 
+MLP, HTA, PPR, PEX, MULTILAYER
+64752
+aluminiu, aluminiu, inox și oțel cu grosime 
+maximă de până la 2 mm 
+626191
+Cu
+Cu
+Cu
+63086
+63110
+63110
+Otel
+63101
+aluminiu, aluminiu, inox și oțel cu grosime 
+maximă de până la 2 mm 
+626191
+Cu
+Cu
+63111
+63720
+aluminiu, aluminiu, inox și oțel cu grosime 
+maximă de până la 2 mm 
+626193
+aluminiu, aluminiu, inox și oțel cu grosime 
+maximă de până la 2 mm 
+626191
+Cu
+Otel
+Otel
+Otel
+Otel
+Otel
+64106
+63185
+64173
+64174
+64175
+64176
+Otel inoxidabil
+63113
+Otel inoxidabil
+63087
+Otel inoxidabil
+63113
+Otel inoxidabil
+63114
+Otel inoxidabil
+63721
+Ø 50-127 mm
+Ø 50 - 100 mm
+Ø 50 - 100 mm
+Ø 100 - 150 mm
+Ø 150 - 200 mm
+Ø 200-300 mm
+Ø 50 - 100 mm
+Otel inoxidabil
+64196
+Ø 100 - 150 mm
+Otel inoxidabil
+64197
+Ø 150 - 200 mm
+Otel inoxidabil
+64198
+Ø 200-300 mm
+Otel inoxidabil
+64199

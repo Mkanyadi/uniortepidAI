@@ -1,0 +1,123 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:597]
+OSZ SORT
+23998 00000
+23997 00000
+Set lame universale pentru masini
+oscilante
+OSZ 221 - pentru toate tipurile de lemn cu reziduuri de metal 
+si caramida, materiale plastice, placi de ghips.
+OSZ 222 - pentru toate tipurile de lemn, materiale plastice, 
+placi de gips, tabla subtire, aluminiu, metale neferoase.
+OSZ 223 - pentru toate tipurile de lemn, materiale plastice, 
+placi de gips, tabla subtire, aluminiu, metale neferoase 
+Expozitor lame pentru masini oscilante
+multifunctionale
+Expozitor lame pentru masini oscilante
+multifunctionale
+model           material     Ambalare
+23157 00001
+5 x OSZ 157
+BiMetall
+23157 00005
+3 x OSZ 157
+BiMetall
+23133 00001
+5 x OSZ 133
+HCS/CV
+23133 00005
+3 x OSZ 133
+HCS/CV
+23184 00001
+5 x OSZ 184
+BiMetall
+23184 00005
+3 x OSZ 184
+BiMetall
+23160 00001
+5 x OSZ 160
+BiMetall
+23160 00005
+3 x OSZ 160
+BiMetall
+23221 00001
+5 x OSZ 221
+BiMetall
+23221 00005
+3 x OSZ 221
+BiMetall
+23222 00001
+5 x OSZ 222
+BiMetall
+928.55
+23222 00005
+3 x OSZ 222
+BiMetall
+23223 00001
+5 x OSZ 223
+BiMetall
+1
+5
+1
+5
+1
+5
+1
+5
+1
+5
+1
+5
+1
+17688.50
+model           material     Ambalare
+8622.29
+23223 00005
+3 x OSZ 223
+BiMetall
+23205 00001
+5 x OSZ 205
+BiMetall
+23113 00001
+2 x OSZ 113
+HCS/CV
+23106 00001
+2 x OSZ 106
+HSS
+23174 00001
+2 x OSZ 174
+BiMetall
+23118 00001
+2 x OSZ 118
+HM-Grit
+23001 00001
+2 x OSZ 001
+HM-Grit
+23165 00001
+2 x OSZ 165
+HCS/CV
+23136 00002
+2 x OSZ 136
+Kunststoff
+23205 00005
+3 x OSZ 205
+BiMetall
+23112 00005
+2 x OSZ 112
+-
+5
+1
+1
+1
+1
+1
+1
+1
+2
+5
+5
+Adancime      Dimensiuni        Ambalare
+23999 00006
+-
+1
+2 x OSZ 221, 2 x OSZ 222, 2 x OSZ 223
+6

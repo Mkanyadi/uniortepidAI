@@ -1,0 +1,212 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:512]
+Trusa reconditionat filete cu insertii metric pas fin
+• burghiu DIN 338 (art. 1121) pana la M12
+• tarod STI
+• scula montaj
+• pin rupere pana la M12
+• insertii 1,5xD
+GR-MF810 – GR-MF1215
+GR-MF1410 – GR-MF2420
+Set                        Filet                      Pas                       Burghiu                      Tarod                           Scula montaj                Pin rupere                    Insertii
+GR-MF810
+GR-MF1010
+GR-MF1012
+GR-MF1210
+GR-MF1212
+GR-MF1215
+GR-MF1410
+GR-MF1412
+GR-MF1415
+GR-MF1615
+GR-MF1815
+GR-MF1820
+GR-MF2015
+GR-MF2020
+GR-MF2215
+GR-MF2220
+GR-MF2415
+GR-MF2420
+MF 8
+MF 10
+MF 10
+MF 12
+MF 12
+MF 12
+MF 14
+MF 14
+MF 14
+MF 16
+MF 18
+MF 18
+MF 20
+MF 20
+MF 22
+MF 22
+MF 24
+MF 24
+1,00
+1,00
+1,25
+1,00
+1,25
+1,50
+1,00
+1,25
+1,50
+1,50
+1,50
+2,00
+1,50
+2,00
+1,50
+2,00
+1,50
+2,00
+8,30
+10,30
+10,30
+12,30
+12,30
+12,40
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+M8 x 1,00
+M10 x 1,00
+M10 x 1,25
+M12 x 1,00
+M12 x 1,25
+M12 x 1,50
+M14 x 1,00
+M14 x 1,25
+M14 x 1,50
+M16 x 1,50
+M18 x 1,50
+M18 x 2,00
+M20 x 1,50
+M20 x 2,00
+M22 x 1,50
+M22 x 2,00
+M24 x 1,50
+M24 x 2,00
+No. 11
+No. 13
+No. 13
+No. 15
+No. 15
+No. 15
+No. 16
+No. 16
+No. 16
+No. 18
+No. 20
+No. 20
+No. 21
+No. 21
+No. 22
+No. 22
+No. 23
+No. 23
+No. 11
+No. 13
+No. 13
+No. 15
+No. 15
+No. 15
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+20
+15
+15
+10
+10
+10
+10
+10
+10
+10
+3
+3
+3
+3
+3
+3
+3
+3
+46111330810
+46111331010
+46111331012
+46111331210
+46111331212
+46111331215
+46111331410
+46111331412
+46111331415
+46111331615
+46111331815
+46111331820
+46111332015
+46111332020
+46111332215
+46111332220
+46111332415
+46111332420
+GRZK-14
+Trusa reconditionat filete bujii
+• tarod STI MF14 x 1,25
+• scula montaj Nr. 16
+• 5 insertii (8,4 / 12,4 / 16,4 mm)
+MF
+HSS
+G
+315.74
+340.82
+340.82
+413.28
+413.28
+413.28
+428.03
+428.03
+428.03
+471.48
+562.13
+562.13
+616.39
+616.39
+721.80
+721.80
+797.87
+797.87
+MF
+HSS
+G
+46151331412
+GRZK-14
+MF 14
+1,25
+-
+MF14 x 1,25
+No. 16
+-
+5
+507.70
+Set                        Filet                      Pas                       Burghiu                      Tarod                           Scula montaj                Pin rupere                    Insertii

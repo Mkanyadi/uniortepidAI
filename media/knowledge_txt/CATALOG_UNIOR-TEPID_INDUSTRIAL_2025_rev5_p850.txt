@@ -1,0 +1,137 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:850]
+23-
+38-
+Freza profilata sinusoidal, cu rulment copier superior, 
+placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se pot utiliza atat pe CNC, cat si pe masini portabile de frezat cu sau fara masa
+Freza profilata sinusoidal, cu tesire jos, 
+cu rulment copier inferior, placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv
+• se pot utiliza pe masini portabile de frezat cu sau fara masa
+A
+D
+R
+R
+H
+h
+R
+R
+D               h              H              A              C            R             Z       rpm max.
+23-10008P
+39,5
+11,5
+54,6
+8
+19
+4
+2
+24000
+254.43
+23-
+Freza profilata concav 1/4 C, cu rulment copier 
+superior, placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv
+• se pot utiliza atat pe CNC, cat si pe masini portabile de frezat cu sau fara masa
+A
+D
+R
+H
+h
+A
+C
+D
+R
+R
+H
+h
+R 4,8
+R 6,4
+D               h              H              A              C            R             Z       rpm max.
+38-20208P
+38-20408P
+31,8
+38,1
+12,7
+15,7
+54,2
+57,4
+8
+8
+9,5
+9,5
+4,8
+6,4
+2
+2
+24000
+24000
+189.02
+235.57
+38-
+Freza profilata sinusoidal, cu tesire sus, 
+cu rulment copier inferior, placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv
+• se pot utiliza pe masini portabile de frezat cu sau fara masa
+A
+C
+D
+R
+R
+H
+h
+R
+R 4
+R 6,4
+D               h              H              A              C            R             Z       rpm max.
+23-20008P
+23-20208P
+23-20408P
+38
+35
+38
+12,5
+13,2
+14,5
+55,6
+56,3
+57,6
+8
+8
+8
+19
+19
+19
+6,35
+8
+9,5
+2
+2
+2
+24000
+24000
+24000
+253.61
+245.90
+261.48
+D               h              H              A              C            R             Z       rpm max.
+38-10008P
+38-10208P
+27
+35
+13,3
+18,5
+54,7
+60,5
+8
+8
+9,5
+9,5
+4
+6,4
+2
+2
+24000
+24000
+167.05
+189.18

@@ -1,0 +1,253 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:138]
+Prelungitor lung de impact 3/4"
+•  material:crom molibden
+•  forjata, calire si revenire totala
+•  acoperire prin brunare dupa standardul DIN 12476
+NOU
+AN12 3/4”
+Adaptor de impact mama-mama 3/4"
+• patrat de antrenare 3/4” DIN 3121 - forma H20
+60834
+60835
+3/4"
+3/4"
+L
+175
+250
+D1
+25.5
+25.5
+D2
+44
+44
+882
+1245
+ 1B 
+ 1B 
+1
+1
+138.62
+176.78
+NOU
+Adaptor de impact 3/4"
+•  material:crom molibden
+•  forjata, calire si revenire totala
+•  acoperire prin brunare dupa standardul DIN 12476
+D
+44
+44
+L
+56
+63
+323
+443
+ 1B 
+ 1B 
+1
+1
+96.85
+129.61
+60995
+3/4" - 1/2"
+60996
+3/4" - 1"
+440
+Adaptor patrat interior 3/4”- patrat exterior 1/2” si 1”
+• material: crom molibden
+• actionare: patrat 3/4”
+• conform DIN 3121 - H 20
+• deschidere: patrat, DIN 3121
+E
+3/4”
+3/4”
+A
+1/2”
+1”
+D2
+44
+44
+L
+57
+63
+314
+436
+ 1C 
+ 1C 
+1
+1
+178.69
+195.08
+1000004401
+1000004402
+440-1
+440-2
+A12 3/4”
+Adaptor de impact mama-tata 3/4"
+• patrat de antrenare 3/4” DIN 3121 - forma H20
+Patrat 
+interior          interior 
+                 D 
+mm 
+                 L                      Greutate
+mm 
+    gr
+AN1208
+AN1210
+AN1212
+AN1612
+3/4"
+3/4"
+3/4"
+1"
+1/2"
+5/8"
+3/4"
+3/4"
+44
+44
+44
+54
+49
+50
+49
+63
+320
+370
+390
+680
+178.45
+203.90
+178.45
+433.25
+Z12 3/4”
+Adaptor de impact tata-tata 3/4"
+Patrat 
+exterior          exterior 
+                 D 
+mm 
+Z1202
+Z1203
+Z1204
+Z1205
+Z1207
+Z1210
+Z1213
+Z1215
+Z1216
+3/4"
+3/4"
+3/4"
+3/4"
+3/4"
+3/4"
+3/4"
+3/4"
+3/4"
+QCAD12 3/4”
+3/4"
+3/4"
+3/4"
+3/4"
+3/4"
+3/4"
+3/4"
+3/4"
+3/4"
+25.4
+25.4
+25.4
+25.4
+25.4
+25.4
+25.4
+25.4
+25.4
+                 L                      Greutate
+mm 
+51
+78
+101
+127
+177
+254
+330
+381
+406
+    gr
+140
+280
+360
+460
+640
+820
+1240
+1350
+1510
+Adaptor de impact cu prindere rapida 3/4"
+• patrat de antrenare 3/4” DIN 3121 - forma H20
+76.43
+76.43
+127.48
+127.48
+305.85
+382.28
+407.80
+424.84
+458.78
+Patrat 
+                 D 
+                 L                      Greutate
+interior          exterior 
+QCAD12
+3/4"
+3/4"
+mm 
+44
+mm 
+78
+    gr
+500
+703.03
+232.6/4
+Intermediar cardanic de impact 3/4"
+•  material:crom molibden
+•  forjata, calire si revenire totala
+•  acoperire prin brunare dupa standardul DIN 12476
+Patrat 
+interior          exterior 
+                 D 
+mm 
+A1208
+A1210
+A1216
+3/4"
+3/4"
+3/4"
+1/2"
+5/8"
+1"
+44
+44
+44
+                 L                      Greutate
+mm 
+55
+57
+59
+    gr
+340
+350
+400
+136.03
+144.44
+195.42
+603994
+3/4"
+D
+44
+L
+90
+539
+ 1B 
+1
+354.75

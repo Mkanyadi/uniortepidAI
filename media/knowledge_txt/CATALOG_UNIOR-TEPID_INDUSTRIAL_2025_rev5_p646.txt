@@ -1,0 +1,229 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:646]
+NOU
+NOU
+NOU
+Masina de insurubat pneumatica 
+compacta la 90º cu mandrina 3 mm 1/8”
+4000 rpm
+AVANTAJELE PRODUSULUI
+• carcasa metalica, rezistenta la zgarieturi
+• maner din plastic moale si robust
+• reversibila inversand parghia de langă tragaci
+• vibratii reduse, prevenind oboseala mainii in timpul operatiunilor lungi
+Masina de insurubat pneumatica 
+compacta la 45º cu mandrina 3 mm 1/8”
+4000 rpm
+AVANTAJELE PRODUSULUI
+• carcasa metalica, rezistenta la zgarieturi
+• maner din plastic moale si robust
+• reversibila inversand parghia de langă tragaci
+• vibratii reduse, prevenind oboseala mainii in timpul operatiunilor lungi
+Masina de insurubat pneumatica 
+compacta la 90º cu bucsa 9/32”
+capacitate 5,9 mm - 3/16” 4000 rpm
+AVANTAJELE PRODUSULUI
+• carcasa metalica, rezistenta la zgarieturi
+• maner din plastic moale si robust
+• reversibila inversand parghia de langă tragaci
+• vibratii reduse, prevenind oboseala mainii in timpul operatiunilor lungi
+59006
+59008
+RPM
+4000
+4000
+L
+mm
+240
+104x69x16.5
+750
+6636.28
+7593.79
+310
+172x63x16.5
+Putere
+Tutatii
+Consumul de aer
+Racord aer
+Vibratii
+Presiune de lucru
+Nivel de zgomot
+850
+0.22 kW
+4000 rpm
+238 LPM (10 CFM)
+1/4"
+2,5 m/s² 
+6,3 bari / 90 PSI
+81,5 dBA
+58998
+59000
+RPM
+4000
+4000
+59007
+59009
+RPM
+4000
+4000
+L
+mm
+260
+144x55x16
+750
+6020.65
+330
+221x55x16
+Putere
+Tutatii
+Consumul de aer
+Racord aer
+Vibratii
+Presiune de lucru
+Nivel de zgomot
+6978.09
+850
+0.22 kW
+4000 rpm
+283 LPM (10 CFM)
+1/4"
+2,5 m/s² 
+6,3 bari / 90 PSI
+81,5 dBA
+L
+mm
+240
+104x31x16.5
+650
+6225.89
+7183.40
+310
+172x31x16.5
+Putere
+Tutatii
+Consumul de aer
+Racord aer
+Vibratii
+Presiune de lucru
+Nivel de zgomot
+750
+0.22 kW
+4000 rpm
+238 LPM (10 CFM)
+1/4"
+2,5 m/s² 
+6,3 bari / 90 PSI
+81,5 dBA
+NOU
+NOU
+NOU
+Masina de insurubat pneumatica 
+compacta la 90º cu mandrina 3 mm 1/8”
+3600 rpm
+AVANTAJELE PRODUSULUI
+• carcasa metalica, rezistenta la zgarieturi
+• maner din plastic moale si robust
+• reversibila inversand parghia de langă tragaci
+• vibratii reduse, prevenind oboseala mainii in timpul operatiunilor lungi
+Masina de insurubat pneumatica 
+compacta la 45º cu mandrina 3 mm 1/8”
+3600 rpm
+AVANTAJELE PRODUSULUI
+• carcasa metalica, rezistenta la zgarieturi
+• maner din plastic moale si robust
+• reversibila inversand parghia de langă tragaci
+• vibratii reduse, prevenind oboseala mainii in timpul operatiunilor lungi
+Masina de insurubat pneumatica 
+compacta la 90º cu bucsa 9/32”
+capacitate 5,9 mm - 3/16” 3600 rpm
+AVANTAJELE PRODUSULUI
+• carcasa metalica, rezistenta la zgarieturi
+• maner din plastic moale si robust
+• reversibila inversand parghia de langă tragaci
+• vibratii reduse, prevenind oboseala mainii in timpul operatiunilor lungi
+59010
+59012
+RPM
+3600
+3600
+L
+mm
+260
+104x69x16.5
+950
+7935.52
+9099.27
+330
+172x63x16.5
+Putere
+Tutatii
+Consumul de aer
+Racord aer
+Vibratii
+Presiune de lucru
+Nivel de zgomot
+1050
+0.37 kW
+3600 rpm
+368 LPM (13 CFM)
+1/4"
+2,5 m/s² 
+6,3 bari / 90 PSI
+80 dBA
+59002
+59004
+RPM
+3600
+3600
+59011
+59013
+RPM
+3600
+3600
+L
+mm
+270
+144x55x16
+950
+7935.52
+350
+221x55x16
+Putere
+Tutatii
+Consumul de aer
+Racord aer
+Vibratii
+Presiune de lucru
+Nivel de zgomot
+8894.03
+1050
+0.37 kW
+3600 rpm
+368 LPM (13 CFM)
+1/4"
+2,5 m/s² 
+6,3 bari / 90 PSI
+80 dBA
+L
+mm
+260
+104x31x16.5
+850
+7525.13
+8483.39
+330
+172x31x16.5
+Putere
+Tutatii
+Consumul de aer
+Racord aer
+Vibratii
+Presiune de lucru
+Nivel de zgomot
+950
+0.37 kW
+3600 rpm
+368 LPM (13 CFM)
+1/4"
+2,5 m/s² 
+6,3 bari / 90 PSI
+80 dBA

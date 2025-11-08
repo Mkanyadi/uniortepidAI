@@ -1,0 +1,215 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:90]
+199/1 6p
+Capete chei tubulare 1"
+•  material: crom vanadiu
+•  forjata, calire si revenire totala
+•  acoperire cromare conform EN12540
+•  polizate
+•  executie in concordanta cu standardul ISO 2725-1
+199.1/1
+Antrenor cu clichet reversibil 1"
+•  material:compozitie speciala pentru calire revenire
+•  corp forjat
+•  tratament termic total
+•  suprafata:cromata in concordanta cu standardul EN 12540
+•  executie in concordanta cu standardul ISO 3315
+D1
+D2
+65
+70
+76
+82
+88
+94
+100
+105
+50
+55
+57
+57
+57
+68
+68
+68
+L
+75
+75
+80
+84
+87
+93
+97
+103
+T
+34
+34
+40
+42
+44
+48
+52
+54
+849
+1039
+1222
+1383
+1607
+2039
+2243
+2479
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+1
+1
+1
+1
+1
+1
+1
+1
+180.16
+190.66
+234.26
+266.72
+340.00
+370.16
+447.87
+506.39
+603096
+603097
+603098
+603099
+603100
+603101
+603102
+603103
+46
+50
+55
+60
+65
+70
+75
+80
+199/1 12p
+Capete chei tubulare 1" cu 12 laturi
+•  material: crom vanadiu
+•  forjata, calire si revenire totala
+•  acoperire cromare conform EN12540
+•  polizate
+•  executie in concordanta cu standardul ISO 2725-1
+A
+71
+B
+71.5
+L
+665
+4655
+ 1C 
+1
+1144.43
+603104
+1"
+199.11
+Piese de schimb pentru 199.1
+616807
+11
+835
+ 1E 
+1
+339.27
+199.3/1
+Antrenor cu parghie glisanta 1"
+•  material: crom vanadiu
+•  tratament termic total
+•  acoperire cromare conform EN12540
+•  capete polizate
+•  executie in concordanta cu standardul ISO 3315
+D1
+82
+D2
+56.9
+L
+84
+T
+42
+1444
+ 1C 
+1
+455.08
+603105
+1"
+A
+80
+D1
+28
+D2
+49
+L
+560
+3330
+ 1C 
+1
+508.36
+618699
+65
+5014
+Capete chei tubulare 1" cu 12 laturi
+•  material: crom vanadiu
+•  forjata, calire si revenire totala
+•  acoperire cromare conform EN12540
+•  polizate
+•  executie in concordanta cu standardul ISO 2725-1
+199.4/1
+Prelungitor lung 1"
+•  material: crom vanadiu
+•  forjata, calire si revenire totala
+•  acoperire cromare conform EN12540
+•  capete polizate
+•  conform cu standardul ISO 3316
+603107
+603106
+1"
+1"
+L
+200
+400
+D1
+33.6
+33.6
+D2
+48
+48
+1125
+1900
+ 1C 
+ 1C 
+1
+1
+306.07
+498.03
+9249083 70
+9249093 75
+9249103 80
+L
+96
+100
+107
+1775
+2200
+2556
+ 1C 
+ 1C 
+ 1C 
+1
+1
+1
+848.25
+962.34
+1032.36

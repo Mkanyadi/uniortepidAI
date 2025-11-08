@@ -1,0 +1,265 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:657]
+MASTEREX 79602
+NOU
+MASTEREX 36808
+NOU
+MASTEREX 79605
+NOU
+Masina de gaurit pneumatica
+mandrina max. 10mm 1550 rpm 
+• EGA Master ofera o gama larga de unelte si instrumente intrinsec 
+sigure pentru utilizare in zone periculoase. Printre acestea compania
+produce masini de gaurit pneumatice, ideal pentru foraj in zone explozive
+• masina de gaurit este perfecta pentru majoritatea lucrarilor de foraj in 
+zone periculoase
+• universala
+• cu reducerea optima a zgomotului.
+• putere: 500 W
+• maner ergonomic
+Masina de gaurit pneumatica
+mandrina max. 13 mm
+• EGA Master ofera o gama larga de unelte si instrumente intrinsec 
+sigure pentru utilizare in zone periculoase. Printre acestea compania
+produce masini de gaurit pneumatice, ideal pentru foraj in zone explozive
+• masina de gaurit este perfecta pentru majoritatea lucrarilor de foraj in 
+zone periculoase
+• universala
+• cu reducerea optima a zgomotului.
+• putere: 1 kW
+• maner ergonomic
+Masina de gaurit pneumatica
+mandrina rapida, cuplu max. 9 Nm
+• EGA Master ofera o gama larga de unelte si instrumente intrinsec 
+sigure pentru utilizare in zone periculoase. Printre acestea compania
+produce masini de gaurit pneumatice, ideal pentru foraj in zone explozive
+• masina de gaurit este perfecta pentru majoritatea lucrarilor de foraj in 
+zone periculoase
+• universala
+• cu reducerea optima a zgomotului.
+• putere: 650 W
+• maner tip D
+ZONE M2 MINIERE
+ZONE M2 MINIERE
+ZONE 1, 2 GAZ
+79602
+RPM
+1550
+Presiune de lucru
+Capacitate mandrina
+Capacitate maxima gaurire in otel
+Turatie mers in gol
+Putere motor
+Racorduri
+Diamentru interior recomandat furtun
+Nivel zgomot
+Nivel vibratii
+Lungime
+Marcaje ATEX
+Greutate
+20127.86
+2100
+6 bar
+10 mm
+10 mm
+1550 rpm
+0.500 kW
+1/4”
+10 mm
+84 dB
+<2,5 m/s²
+230 mm
+EX I M2 Ex h I Mb T6
+2100 kg
+RPM
+36808
+450/650/850/1000
+Presiune de lucru
+Capacitate mandrina
+Capacitate maxima gaurire in otel
+Turatie mers in gol
+Putere motor
+Consum aer
+Racorduri
+Diamentru interior recomandat furtun
+Nivel zgomot
+Nivel vibratii
+Lungime
+Marcaje ATEX
+Greutate
+30516.39
+3700
+6 bar
+13 mm
+30 mm
+450/650/850/1000 rpm
+1 kW
+1.15 m³/min 
+1/4”
+10 mm
+84 dB
+<2,5 m/s²
+230 mm
+EX II 2G Ex h IIB T5 Gb
+3700 kg
+79605
+RPM
+650
+Presiune de lucru
+Madrina
+Capacitate maxima gaurire in otel
+Turatie mers in gol
+Putere motor
+Consum aer
+Racorduri
+Diamentru interior recomandat furtun
+Nivel zgomot
+Nivel vibratii
+Marcaje ATEX
+Greutate
+30083.45
+5700
+6 bar
+Actionare Rapida
+13 mm
+650 rpm
+0.65 kW
+0,68 m³/min 
+R 3/8"f 
+13 mm
+89 dB
+<2,5 m/s²
+EX I M2 Ex h I Mb T6 
+5700 kg
+MASTEREX 79603
+NOU
+MASTEREX 79904
+NOU
+MASTEREX 79249 
+NOU
+Masina de gaurit pneumatica
+mandrina max. 13mm 850 rpm 
+• EGA Master ofera o gama larga de unelte si instrumente intrinsec 
+sigure pentru utilizare in zone periculoase. Printre acestea compania
+produce masini de gaurit pneumatice, ideal pentru foraj in zone explozive
+• masina de gaurit este perfecta pentru majoritatea lucrarilor de foraj in 
+zone periculoase
+• universala
+• cu reducerea optima a zgomotului.
+• putere: 500 W
+• maner ergonomic
+Masina de gaurit pneumatica
+mandrina max. 13 mm
+• EGA Master ofera o gama larga de unelte si instrumente intrinsec 
+sigure pentru utilizare in zone periculoase. Printre acestea compania
+produce masini de gaurit pneumatice, ideal pentru foraj in zone explozive
+• masina de gaurit este perfecta pentru majoritatea lucrarilor de foraj in 
+zone periculoase
+• universala
+• cu reducerea optima a zgomotului.
+• putere: 0.5 kW
+• maner ergonomic
+Masina de gaurit pneumatica
+unghiulara cu mandrina MT2
+• EGA Master ofera o gama larga de unelte si instrumente intrinsec 
+sigure pentru utilizare in zone periculoase. Printre acestea compania
+produce masini de gaurit pneumatice, ideal pentru foraj in zone explozive
+• masina de gaurit este perfecta pentru majoritatea lucrarilor de foraj in 
+zone periculoase
+• universala
+• cu reducerea optima a zgomotului.
+• putere: 1.33  kW
+• maner ergonomic
+ZONE M2 MINIERE
+ZONE 1, 2 GAZ
+ZONE M2 MINIERE
+79603
+RPM
+850
+Presiune de lucru
+Capacitate mandrina
+Capacitate maxima gaurire in otel
+Turatie mers in gol
+Putere motor
+Racorduri
+Diamentru interior recomandat furtun
+Nivel zgomot
+Nivel vibratii
+Lungime
+Marcaje ATEX
+Greutate
+26981.37
+2100
+6 bar
+13 mm
+13 mm
+850 rpm
+0.500 kW
+1/4”
+10 mm
+84 dB
+<2,5 m/s²
+230 mm
+EX I M2 Ex h I Mb T6
+2100 kg
+79904
+RPM
+1550
+Presiune de lucru
+Capacitate mandrina
+Capacitate maxima gaurire in otel
+Turatie mers in gol
+Putere motor
+Consum aer
+Racorduri (interior / exterior)
+Diamentru interior recomandat furtun
+Nivel zgomot
+Nivel vibratii
+Lungime
+Marcaje ATEX
+Greutate
+22566.25
+2100
+6 bar
+10 mm
+10 mm
+1550 rpm
+0.5 kW
+0.6 m³/min 
+R 1/4"f - R 3/8"f
+≥ 10 mm
+84 dB
+<2,5 m/s²
+235 mm
+EX  II 2G Ex h IIB T6 Gb
+2100 kg
+79249 
+RPM
+270
+Presiune de lucru
+Madrina
+Capacitate maxima gaurire in otel
+Turatie mers in gol
+Putere motor
+Cuplu maxim
+Consum aer
+Racorduri
+Diamentru interior recomandat furtun
+Nivel zgomot
+Nivel vibratii
+Marcaje ATEX
+Greutate
+50860.66
+8500
+6 bar
+MT2
+23 mm
+270 rpm
+1.33 kW
+48 Nm
+1.40 m³/min 
+R 3/4"a
+15 mm
+92 dB
+<3.3 m/s²
+EX I M2 c T6 
+8500 kg

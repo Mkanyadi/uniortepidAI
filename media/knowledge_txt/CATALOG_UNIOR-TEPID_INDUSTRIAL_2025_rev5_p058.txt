@@ -1,0 +1,225 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:58]
+10810
+10914
+NOU
+193HX
+Set chei cu profil TORX in husa
+de plastic TX10-TX55 / 10 piese
+Set chei cu profil TORX lungi 
+in husa de plastic TX6-TX55 / 
+14 piese
+Chei hexagonale cu maner in T
+•  material:tija-crom vanadiu tratata complet
+•  maner-polipropilena
+•  lama cromata, varful brunat
+10810
+TX 10 - TX 55 / 10
+687
+130.66
+(T10, T15, T20, T25, T27, T30, T40, T45, T50, T55)
+10714
+NOU
+Set chei cu profil TORX lungi 
+in husa de plastic TX6-TX55 / 
+14 piese
+10914
+TX 6 - TX 55 / 14
+1000
+290,33
+(T6, T7, T8, T9, T10, T15, T20, T25, T27, T30, T40,
+T45, T50, T55)
+25575
+Set chei cu profil TORX Plus
+10IP-40IP / 7 piese in briceag
+10714
+TX 6 - TX 55 / 14
+Lorem ipsum
+1000
+391.85
+(10IP, 15IP, 20IP, 25IP, 27IP, 30IP, 40IP)
+25575
+ 10IP - 40IP / 7
+450
+91.64
+(T6, T7, T8, T9, T10, T15, T20, T25, T27, T30, T40,
+T45, T50, T55)
+25585
+25565
+Set chei cu profil TORX Plus 
+27IP-50IP / 5 piese in briceag
+Set chei cu profil TORX Plus
+6IP-25IP / 8 piese in briceag
+25565
+ 27IP - 50IP / 5
+800
+101.48
+25585
+ 6IP - 25IP / 8
+250
+91.64
+(27IP, 30IP, 40IP, 45IP, 50IP)
+(6IP, 7IP, 8IP, 9IP, 10IP, 15IP, 20IP, 25IP)
+623238
+607161
+607162
+607163
+607164
+607165
+607166
+607167
+607168
+607169
+2
+2.5
+3
+3.5
+4
+4.5
+5
+6
+7
+8
+607170
+10
+L1
+155
+155
+155
+155
+155
+188
+188
+188
+223
+223
+248
+C1 C2
+L2
+125
+125
+125
+125
+125
+150
+150
+150
+175
+175
+200
+15
+15
+15
+15
+15
+20
+20
+20
+25
+25
+25
+61
+61
+61
+61
+61
+88
+88
+88
+12
+13
+16
+20
+24
+57
+56
+74
+113
+113
+113
+128
+155
+233
+22.95
+22.95
+23.44
+23.93
+30.00
+30.33
+33.61
+36.56
+49.34
+51.80
+67.54
+Power-T™ Hex 6"
+Cheie cu maner in T si profil
+hexagonal, varianta scurta
+• instrumente profesionale de inalta calitate industriala
+• fabricat din otel aliat Eklind®.
+• tratat termic pentru rezistenta si ductilitate optime.
+• finisat cu Eklind® Black Finish pentru a rezista la rugina
+• cheile hexagonale Eklind® cu maner in T ofera o raza suplimentara
+si o parghie suplimentara
+• cheile hexagonale cu maner in T Eklind® Power-T™ au un maner
+moale si texturat pentru un plus de confort, rezistenta la alunecare
+si siguranta
+64620
+64625
+64630
+64640
+64650
+64660
+64670
+64680
+64685
+64690
+L1             L2
+76
+76
+76
+76
+102
+102
+127
+127
+127
+127
+152
+152
+152
+152
+152
+152
+152
+152
+152
+152
+113
+113
+125
+138
+310
+345
+625
+655
+700
+740
+15.57
+15.90
+17.70
+20.33
+21.97
+27.87
+45.57
+43.93
+50.49
+50.49
+2,0
+2,5
+3,0
+4,0
+5,0
+6,0
+7,0
+8,0
+9,0
+10,0

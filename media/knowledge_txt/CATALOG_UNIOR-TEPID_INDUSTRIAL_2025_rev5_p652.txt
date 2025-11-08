@@ -1,0 +1,121 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:652]
+1514PB
+Pistol pneumatic daltuitor
+cu set de dalti
+•  Dimensiunea cutiei : 307 x 260 x 70
+Dalta lata 1514 A1
+dentru a forma si curati sudurile, a taia buloanele si
+cuiele, prodce sloturi sau pentru curatarea si nivelarea
+suprafetelor denivelate
+Dalta ascutita 1514 A2 
+inlaturarea stifturilor si a niturilor, 
+executarea de gauri
+Dalta pentru nituri si sudura 1514 A3
+pentru a inlatura niturile si zgura 
+de sudura
+Dalta in pentru taiat tabla 1514 A4 
+pentru taierea tablelor.
+Dalta in “v” pentru taiat tabla 1514 A5
+pentru taierea tablelor.
+619964
+7
+3210
+ 1G 
+1
+1200.49
+ 1514A1  (182), 
+ 1514  (170), 
+ 1514A3  (180), 
+1514A2  (180), 
+ 1514A5  (190), 
+1514A4  (180), 
+1514A6  (178), 981PBM2  (307 x 260 x 74)
+1514
+Pistol pneumatic daltuitor
+•  utilizat pentru taierea tablelor, bolturilor si 
+curatirea suprafetelor sudate, nituri,ipsos si tigle
+•  cu arc, inlocuire rapida ca parte de schimb
+•  piston percutor lungime: 70 - 67mm, 225 - 
+92mm
+•  diametrul interior 9,1mm
+•  lovituri pe minut: 170 - 3000, 225 - 2100
+•  consum de aer comprimat 250 l/min
+•  Racord de aer 1/4"
+Avantaje:
+•  scula usoara si compacta, folosita de asemenea 
+in camere mici
+•  o diversitate de utilizari
+•  sistem de retinere
+Utilizare
+•  industria auto
+•  taierea bucatilor de metal si a suruburilor
+•  inlaturarea cordoanelor de sudura
+•  lucrul la pereti,beton,piatra,caramida,otel,met
+ale usoare
+1514.1
+Arc pentru 1514
+Dalta cu varf sapa 1514 A6
+pentru a fasona sau curata sudurile, taierea
+suruburilor si a cuielor, producerea de crestaturi sau
+curatarea si nivelarea suprafetelor neregulate
+1514A3
+Dalta pentru nituri si curatat 
+sudura
+Utilizare
+•  pentru a inlatura niturile si zgura de sudura
+617716
+69
+ 1E 
+1
+58.52
+1514.2
+Dispozitiv de schimbare rapida
+pentru 1514
+•  pentru fixarea/demontarea simpla si rapida a daltii
+•  schimbare rapida cu actionarea inelului de 
+deblocare superior
+•  inel de deblocare striat pentru o priza maximala la 
+schimbarea sculei
+L
+617720 180
+B
+20
+D
+19
+179
+ 1E 
+1
+55.90
+1514A4
+Dalta pentru taiat tabla
+Utilizare
+•  pentra taierea tablelor
+617717
+351
+ 1F 
+1
+161.97
+617721 180 16.7
+L
+B
+D
+19
+178
+ 1E 
+1
+55.90
+L
+617714 170
+617715 225
+A
+150
+150
+D
+19
+19
+1810  1F 
+2160  1F 
+1
+1
+678.69
+799.34

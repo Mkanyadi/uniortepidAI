@@ -1,0 +1,277 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:830]
+Panze circulare
+1   Forma normala de dinte, inclinatie pozitiva (fata de degajare)
+2   Forma dintelui cu ceafa, inclinatie pozitiva si gol rotund de dinte
+3   Dinte cu limitarea grosimii de aschiere
+4   Dinte cu inclinatie negativa (fata de degajare)
+5   Dinte cu inclinatie 0˚ (fata de degajare)
+6   Goluri pentru sistemul de franare
+7   Element racire 
+8   Dinte geluitor intern
+9   Dinte geluitor de periferie
+10   Locas pana
+11  Locas de dilatare 
+12  Locas de dilatare cu pastila de Cu 
+13  Locas de dilatare 
+Panze circula monometalice
+Panze circulare multilama
+833
+834
+Panze circulare placate pentru lemn
+835
+Incizoare
+838
+Panze circulare placate pentru neferoase
+839
+Burghie pentru lemn
+Viteze de taiere recomandate (in m/s) pentru diferite materiale, cu panze circulare cu dinti 
+placati CMS 
+Freze din carbura pentru lemn
+Material 
+Lemn moale 
+Lemn tare 
+Lemn furniruit 
+Panouri compozite (pentru mobila) 
+Panouri din fibre de lemn dure 
+Panouri din fibre de lemn de densitate scazuta 
+Panouri aschii lemn 
+Panouri din particule din lemn acoperite cu PVC 
+Panouri gips-carton 
+Panouri pentru constructii 
+Plastic dur 
+Plastic suplu 
+Panouri placate 
+Panouri cu suprafete minelare (vata de sticla/vata minerala) 
+Tip 
+Brad, molid, plop 
+Fag, stejar, salcam, specii exotice 
+Multiplex 
+ST/STAE; lemn stratificat 
+HDF 
+MDF 
+PAL 
+KF 
+Carton 
+Cu lianti - ciment 
+Duromère 
+Plastomère 
+Lemn stratificat, melaminat, texturat 
+Rockwool 
+m/s 
+60 – 100 
+60 – 100 
+50 – 80 
+50 – 90 
+50 – 80 
+60 – 80 
+60 – 80 
+60 – 80 
+40 – 65 
+40 – 60 
+15 – 50 
+30 – 70 
+50 – 70 
+2 – 8 
+Burghie precizie pentru lemn
+Freze cu coada
+Freze cu alezaj
+Determinarea diametrului optim al panzei circulare in functie de turatia motorului si a vitezei 
+de taiere optime 
+Cutite abric
+D/n 
+100 
+120 
+140 
+1500 
+2000 
+2500 
+3000 
+4000 
+4500 
+5000 
+6000 
+8000 
+9000 
+10000 
+12000 rpm 
+8 
+10 
+13 
+16 
+21 
+24 
+26 
+31 
+42 
+47 
+52 
+63 
+9 
+13 
+16 
+19 
+25 
+28 
+31 
+38 
+50 
+57 
+63 
+75 
+11 
+15 
+18 
+22 
+29 
+33 
+37 
+44 
+59 
+66 
+73 
+88 
+160 
+13 
+17 
+21 
+25 
+33 
+38 
+42 
+50 
+67 
+75 
+75 
+100 
+180 
+14 
+19 
+24 
+28 
+38 
+42 
+47 
+57 
+75 
+85 
+94 
+113 
+200 
+16 
+21 
+26 
+31 
+42 
+47 
+52 
+63 
+84 
+94 
+105 
+126 
+250 
+20 
+26 
+33 
+39 
+52 
+59 
+65 
+79 
+105 
+118 
+300 
+24 
+31 
+39 
+47 
+63 
+71 
+79 
+94 
+126 
+350 
+27 
+37 
+46 
+55 
+73 
+82 
+92 
+110 
+147 
+400 
+31 
+42 
+52 
+63 
+84 
+94 
+105 
+126 
+450 
+35 
+47 
+59 
+71 
+94 
+106 
+118 
+500 
+600 mm 
+39 
+52 
+65 
+79 
+105 
+118 
+47 
+63 
+79 
+94 
+126 
+Viteza de taiere in m/s. 
+Exemplu: la turatia de 5.000 rpm cu viteza de taiere 79 m/s rezulta o panza cu diametrul de 300 mm 
+Determinarea numarului de dinti taietori ai panzei in functie de avansul pe dinte, turatie si 
+viteza de avans 
+Scule manuale pentru tamplarie
+Bancuri tamplarie
+840
+840
+842
+844
+867
+870
+871
+873
+ATENTIE: 
+la  aceelasi 
+diametru  al  panzei  circulare 
+numarul  mic  de  dinti  se 
+utilizeaza  pentru  taierea  in 
+lungul 
+lem nului 
+(spintecare,  tivire) iar  numa-
+rul mai mare de dinti taietori 
+pentru  taiere  transversal  pe 
+fibre 
+lungime, 
+retezare) 
+(taierea 
+fibrei 
+la 
+Modalitati de ascutire a fetei de asezare la dintii taietori ai panzelor circulare placate CMS
+Ascutire dreapta 
+Ascutire alternativa 
+pentru taieri normale 
+Ascutire trapez drept 
+Ascutire alternativa 
+pentru taieri fine 
+Ascutire trapez concav 
+Ascutire conica 
+P 
+BA 
+TPP 
+BAC 
+GC 
+C 

@@ -1,0 +1,131 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:690]
+2087
+Recuperator magnetic flexibil
+•  Recuperatorul magnetic flexibil este destinat 
+recuperarii obiectelor mici metalice din locuri 
+greu accesibile
+Avantaje:
+•  Este prevazut cu un brat flexibil si un magnet 
+puternic
+•  Magnetul este capabil de a ridica obiecte de 
+pana la 1 kg
+•  Scula este prevazuta cu un maner ergonomic 
+care asigura eficienta operatiilor de executat
+2083
+Recuperator magnetic
+telescopic cu lumina
+•  pentru recuperarea suruburilor, piulitelor si 
+saibelor
+Avantaje:
+•  bateriile protejate contra umiditatii
+•  include set de 3 baterii 3 LR41
+•  Cu iluminare pentru zonele intunecoase ale 
+masinii
+Cum sa utilizați scula:
+•  Scula este destinata recuperarii pieselor mici 
+cazute in spatii greu accesibile.Este prevazuta 
+cu lumina care se activeaza in mod automat la 
+deschiderea telescopului.Se foloseste in spatii 
+inguste si greu accesibile ale motorului.Cand 
+partea telescopica nu este necesara rotiti capul si 
+aceasta se stinge. Scula are un clips de agatare.
+2085
+Scula de agatare obiecte mici
+Avantaje:
+•  Aceasta scula reglabila permite accesul in zone 
+greu accesibile.Ea asigura apucarea obiectelor, 
+are trei brate care realizeaza prinderea sau 
+destinderea prin presarea butonului de capat.
+Cum sa utilizați scula:
+•  pentru agatarea si recuperarea obiectelor mici 
+nemetalice, bolturi, suruburi, piulite.
+L
+L1
+L
+L1
+kg
+619741 170
+660
+0.5
+55
+ 1F 
+1
+108.69
+kg
+L
+619929 1
+500
+D
+15
+127
+ 4B 
+1
+112.62
+L
+D
+15
+150
+ 4A 
+1
+179.67
+x
+a
+m
+D
+L
+619883 510
+2091
+Lanterna cu LED
+• 7 SMD LED (6 frontal si 1 pe cap)
+• 1 SMD LED: 1500 lux la 0,5 m - 80 lumen
+• 6 SMD LED: 500 lux la 0,5 m - 350 lumen
+• timp functionare 1 SMD LED din cap: 7 ore
+• timp functionare 6 SMD LED frontale: 3 ore
+• 2 carlige ajustabile
+• 2 magneti laterali
+• 1 baza megnetica
+• unghi de ajustare de la 0 la 180º
+• carcasa realizata din plastic rezistent la soc
+• baterie Li-Ion 3.7 V 2100 mAH
+• timp de incarcare acumulator 5.0 ore
+• buton ON/OFF
+• cu 2 adaptoare (12/24V in 100-240 V)
+• cablu incarcare USB
+• lungime: 291 mm
+• latime: 55 mm
+• greutate: 291 g
+A
+L
+2091A
+Lanterna cu LED
+• lungime: 170 mm
+• diametru: Ø 22 mm
+• intensitate luminoasa: 100-130 lm
+• LED: frontal 7 bucati x 1,5 W + pe cap 1 bucata x 1,0 W
+• buton pornit / oprit in partea de sus
+• clips magnetic
+• carcasa rezistenta la soc
+• acumulator Li-ion cu capacitate de 800 mAh
+• LED indicator nivel de incarcare
+• timp de functionare: mai mult de 5 ore
+• port USB pentru incarcare cu adaptor AC / DC tensiune de 
+intrare:
+100V - 240 V, 50 - 60Hz; tensiune de iesire: 5V DC 1000 mA
+1 SMD LED
+6 SMD LED
+L
+620237 250
+A
+55
+512
+ 1G 
+1
+308.69
+627201 170
+L
+D
+22
+155
+ 1G 
+1
+181.64

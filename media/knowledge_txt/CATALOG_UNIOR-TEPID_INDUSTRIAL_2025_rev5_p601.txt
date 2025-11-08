@@ -1,0 +1,256 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:601]
+PBL 50 BRUSHLESS L20
+NOU
+PBL 80 P - L20
+NOU
+IS 230 L20
+NOU
+Masina de insurubat/gaurit cu percutie 
+acumulatori Li-ion 18 V
+3 Functii: Gaurire, Insurubare si Gaurire cu percutie
+AVATAJELE PRODUSULUI
+• mandrina automata cu blocare de siguranta.
+• ambreiaj cu 20+1+1+1+1 de puncte de reglare pentru strangere
+controlata
+• lumina LED de ghidare.
+• 2 viteze mecanice
+• reversibila si electronica cu microprocesor
+ROTATION
+SCREWDRIVER
+Motor
+BRUSHLESS
+REVERSIBLE
+DRILL
+DRILL
+ELECTRONIC
+LIGHT
+SPEEDS
+NO
+IMPACTS
+WITH
+IMPACTS
+SPEED
+CONTROLLER
+L.E.D
+MECHANICAL
+2
+Masina de insurubat/gaurit cu percutie 
+acumulatori Li-ion 18 V
+3 Functii: Gaurire, Insurubare si Gaurire cu percutie
+AVATAJELE PRODUSULUI
+• cuplu mare de 80 Nm si un motor puternic BRUSHLESS, fara perii.
+• mandrina metalica automata cu blocare de siguranta de 13 mm..
+• ambreiaj cu 20 de setari + 3 functii de reglare pentru control limita 
+de strangere. Ambreiaj limitator de cuplu, conceput pentru a elibera 
+angrenajele în cazul in care burghiul se blocheaza, protejand astfel 
+unealta si operatorul.
+• 2 viteze mecanice.
+Vitez 1: cuplu maxim de pana la 500 rpm pentru insurubare, gaurire 
+in metal si gaurire in lemn de esenta tare cu burghiede diametru 
+mare.
+Viteza / Setarea 2: cuplu minim si turatie maxima pana la 2000 rpm 
+pentru materiale de gaurit si lemn moale, cu burghie de diametru 
+mic si pentru gaurit cu percutie materiale de constructii.
+• motor puternic fara perii pentru o eficienta sporita, reducand in 
+mod semnificativ acumularea de caldura si marind considerabil 
+durata de viata a motorului si a acumulatorului.
+• acumulator STAYER Li-ion HIGH-TECH, L20 cu protectie la 
+supraincarcare, descarcare a bateriei, supraincalzire si protectie la 
+scurtcircuit. LED indicator de incarcare.
+• clema oentru curea.
+• lumina de ghidare LED
+Masina de insurubat 1/4" cu impact 
+230 Nm cu acumulator Li-ion 18 V
+AVATAJELE PRODUSULUI
+• surubelnita cu impact ¼" alimentata cu acumulator 18 V cu motor 
+Brushless, cuplu 230 Nm, 9 moduri de lucru, compatibil cu GAMA L20.
+• 4 setari care combina viteza, impactul si cuplul (culoarea verde)
+• MOD 1: 0 - 1400 rpm / 0 – 1400 bpm / 90 Nm
+• MOD 2: 0 - 2000 rpm / 0 – 2300 bpm / 150 Nm
+• MOD 3: 0 - 2700 rpm / 0 – 3100 bpm / 180 Nm
+• MOD 4: 0 - 3400 rpm / 0 – 4000 bpm / 230 Nm
+• 3 functii de strangere (culoare rosie)
+• FUNCTIA 1 LEMN: Gaurire-Insurubare in lemn - Incepe incet pentru 
+ca surubul sa nu alunece, iar cand detecteaza ca varful pătrunde in 
+lemn, creste viteza.
+• FUNCTIA 2 METAL SUBTIRE: Suruburi autofiletante in table subtiri 
+de metal - Incepe sa functioneze la viteza maxima, iar cand 
+detecteaza ca surubul a intrat complet, masina se opreste automat.
+• FUNCTIA 3 METAL GROS: Suruburi autofiletante in metal gros 
+(5 mm) - incepe sa lucreze la viteza maxima pentru a facilita gaurirea, 
+iar cand detecteaza ca surubul a intrat aproape complet, viteza 
+masinii va incetini automat pana ce terminati strangerea incet. In 
+acest fel impiedicam surubul să nu fie strans corespunzator si sa 
+alunece la început
+- 2 Functii de slăbire
+• Mod continuu (niciun LED activ)
+• Mod oprire automata (LED rosu aprins)
+• comutator de reglare a vitezei variabile. Reversibila in ambele directii.
+• suport pentru biți cu eliberare automată: Permite o schimbare mult 
+mai confortabila a bitilor
+• lumina de ghidare LED in zona de lucru. Motor puternic fara perii 
+pentru o eficienta sporita, reducand in mod semnificativ acumularea 
+de căldura si marind considerabil durata de viata a motorului si a 
+acumulatorului
+• acumulator STAYER Li-ion HIGH-TECH, L20 cu protectie impotriva
+suprasarcinii, descarcare a bateriei, supraincalzire, scurtcircuit.
+- LED indicator de incarcare
+X
+1.3059
+PBL 50
+PBL 50 L2022 PK 1.2964 2 x 2.0Ah
+PBL 50 L2024 PK 1.2965 2 x 4.0Ah
+2 x 5.0Ah
+PBL 50 L2025 PK
+1.2966
+2 x 6.0Ah
+PBL 50 L2026 PK
+1.3475
+Tensiune acumulator Li-ion
+Capacitate acumulator
+Turatii in gol treapta 1 / treapta 2
+Percutii treapta 1 / treapta 2
+Capacitate mandrina
+Cuplu de strangere
+Reglarea momentului
+Capacitate maxima de gaurire lemn
+Capacitate maxima de gaurire otel
+Capacitate maxima de gaurire zidarie
+Greutate
+X
+X
+573.77
+1196.72
+1590.16
+2245.90
+2508.20
+18 V
+2,0 / 4,0 / 5,0 Ah
+0 - 500 / 0 - 2000 rpm
+0 - 7500 / 30000 ipm
+Φ 2 - 13 mm
+60 Nm
+21 + 3 pozitii
+45 mm
+13 mm
+13 mm
+1,2 kg
+ROTATION
+SCREWDRIVER
+Motor
+BRUSHLESS
+REVERSIBLE
+DRILL
+DRILL
+ELECTRONIC
+LIGHT
+SPEEDS
+Motor
+BRUSHLESS
+NO
+IMPACTS
+WITH
+IMPACTS
+SPEED
+CONTROLLER
+L.E.D
+MECHANICAL
+2
+COMPONENTS
+LIGHT
+ROTATION
+ELECTRONIC
+MADE OF
+ALUMINUM
+L.E.D
+REVERSIBLE
+SPEED
+CONTROLLER
+X
+X
+PBL 80 L20
+PBL 80 L2022 PK
+PBL 80 L2024 PK
+PBL 80 L2025 PK
+PBL 80 L2026 PK
+1.2903
+1.3263
+1.3264
+1.3265
+1.3478
+X
+2 x 2.0Ah
+2 x 4.0Ah
+2 x 5.0Ah
+2 x 6.0Ah
+950.82
+1557.38
+1950.82
+2606.56
+2868.85
+Tensiune acumulator Li-ion
+Capacitate acumulator
+Turatii in gol treapta 1 / treapta 2
+Percutii treapta 1 / treapta 2
+Capacitate mandrina
+Cuplu de strangere
+Reglarea momentului
+Capacitate maxima de gaurire lemn
+Capacitate maxima de gaurire otel
+Capacitate maxima de gaurire zidarie
+Greutate
+18 V
+2,0 / 4,0 / 5,0 / 6,0 Ah
+0 - 500 / 0 - 2000 rpm
+0 - 7500 / 30000 ipm
+Φ 1.5 - 13 mm
+80 Nm
+20 + 3 pozitii
+50 mm
+14 mm
+16 mm
+1,2 kg
+IS 230 L20
+1.2905
+IS 230 L2012
+1.2996
+IS 230 L2022
+1.2997
+IS 230 L2014
+1.2998
+IS 230 L2024
+1.2999
+IS 230 L2025
+1.3000
+IS 230 L2026
+1.3479
+Tensiune acumulator Li-ion
+Capacitate acumulator
+Turatii in gol
+Rata de impact
+Prindere patrat
+Cuplu de strangere
+Greutate
+X
+X
+X
+1 x 2.0Ah
+2 x 2.0Ah
+1 x 4.0Ah
+2 x 4.0Ah
+2 x 5.0Ah
+2 x 6.0Ah
+770.49
+1098.36
+1377.05
+1327.87
+1770.49
+2426.23
+2688.52
+18 V
+2,0 / 4,0 / 5,0 Ah / 6,0 Ah
+0-1400 / 0-2000 / 0-2700 / 0-3400 rpm
+0-1400 / 0-2300 / 0-3100 / 0-4000 ipm
+1/4”
+90 / 150 / 180 / 230 Nm
+0,9 kg

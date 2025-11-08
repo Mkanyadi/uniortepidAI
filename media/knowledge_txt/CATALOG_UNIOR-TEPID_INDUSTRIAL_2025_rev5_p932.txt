@@ -1,0 +1,531 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:932]
+FR414
+Manusi din cauciuc natural 
+izolate
+• certificate conform ISO 9003
+• grad ridicat de flexibilitate
+• testate individual pe toata lungimea manusii 
+• conform EN-60 903
+• 360 mm ± 15 mm
+Manusi din material 
+compozit, izolate la 1000 V
+• certificate conform IEC-EN 60903
+• grad ridicat de flexibilitate
+• testate individual pe toata lungimea manusii 
+• conform EN-60 903
+• 360 mm ± 15 mm
+NOU
+NOU
+Covor izolat IEC-EN 61111
+1 Nu folosiți niciodată unelte sub tensiune dacă prezintă pori, 
+fisuri, elemente încrustate sau dacă stratul izolator alb este
+vizibil.
+2 Pardoselile izolante și încălțămintea de siguranță sunt 
+recomandate pentru a lucra sub tensiune.
+3 Evitați contactul cu apa în timp ce lucrați sub tensiune.
+4 Nu atingeți niciodată direct niciun element care ar putea 
+fi sub tensiune. Utilizați un tester de tensiune pentru a verifica
+mai întâi.
+500V clasa 00
+       Marime
+FR414098
+FR414104
+1000V clasa 0
+9
+10
+       Marime
+FR415095
+FR415101
+FR415118
+17kV clasa 1
+9
+10
+11
+       Marime
+FR417099
+FR417105
+9
+10
+436.56
+436.56
+497.54
+497.54
+497.54
+795.25
+795.25
+NOU
+Covor izolat IEC-EN 60243-1
+1 Nu folosiți niciodată unelte sub tensiune dacă prezintă pori, 
+fisuri, elemente încrustate sau dacă stratul izolator alb este
+vizibil.
+2 Pardoselile izolante și încălțămintea de siguranță sunt 
+recomandate pentru a lucra sub tensiune.
+3 Evitați contactul cu apa în timp ce lucrați sub tensiune.
+4 Nu atingeți niciodată direct niciun element care ar putea 
+fi sub tensiune. Utilizați un tester de tensiune pentru a verifica
+mai întâi.
+Grosime
+Dimensiuni
+Rezistenta
+dielectrica (kV)
+73505
+73506
+73507
+73508
+73514
+73515
+73516
+73517
+73518
+73519
+73520
+73521
+73522
+3
+3
+3
+3
+3
+3
+3
+3
+4,5
+4,6
+4,7
+4,8
+4,9
+600x600
+1000x600
+5000x600
+10000x600
+1000x1200
+2000x1200
+5000x1200
+10000x1200
+1000x600
+5000x600
+10000x600
+1000x1200
+5000x1200
+73524
+4,10
+10000x1200
+30
+30
+30
+30
+30
+30
+30
+30
+50
+50
+50
+50
+50
+50
+IEC-EN 60243-1
+1,4
+2,3
+12
+23
+4,7
+9,5
+23
+47
+3,1
+15
+31
+5,0
+26
+60
+1121.43
+1791.87
+8959.94
+17920.69
+3584.11
+7167.85
+17920.69
+37272.54
+2397.24
+11985.45
+23971.05
+4794.25
+21288.34
+44754.70
+IEC-EN 60903
+Grosime
+Dimensiuni
+Rezistenta
+dielectrica (kV)
+79899
+79927
+79944
+79945
+79948
+79949
+79958
+79959
+79970
+79975
+79976
+79977
+79978
+79979
+3,2
+3,2
+3,2
+3,2
+3,2
+3,2
+3,2
+3,2
+5
+5
+5
+5
+5
+5
+600x600
+1000x600
+5000x600
+10000x600
+1000x1200
+2000x1200
+5000x1200
+10000x1200
+1000x600
+5000x600
+10000x600
+1000x1200
+5000x1200
+10000x1200
+26,5
+26,5
+26,5
+26,5
+26,5
+26,5
+26,5
+26,5
+36
+36
+36
+36
+36
+36
+IEC-EN 61111
+1,8
+3
+15
+30
+6
+12
+30
+60
+4,5
+23
+47
+9,5
+47
+94
+1906.31
+3177.43
+15886.34
+31772.52
+6354.49
+12708.98
+31772.52
+63545.05
+3937.40
+19687.28
+39374.49
+7875.02
+39374.49
+78748.75
+NOU
+Patura izolata IEC-EN 61112
+1 Nu folosiți niciodată unelte sub tensiune dacă prezintă pori, 
+fisuri, elemente încrustate sau dacă stratul izolator alb este
+vizibil.
+2 Pardoselile izolante și încălțămintea de siguranță sunt 
+recomandate pentru a lucra sub tensiune.
+3 Evitați contactul cu apa în timp ce lucrați sub tensiune.
+4 Nu atingeți niciodată direct niciun element care ar putea 
+fi sub tensiune. Utilizați un tester de tensiune pentru a verifica
+mai întâi.
+Clasa Voltaj
+testare (V)
+Voltaj
+utilizare (V) Marimea L
+Cat.
+79734
+79735
+79736
+79737
+79738
+79739
+79740
+79741
+79742
+79743
+79744
+79745
+79746
+79747
+79748
+79749
+79750
+79751
+79752
+79753
+79754
+79755
+79756
+79757
+79758
+79759
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+3
+3
+3
+3
+3
+4
+4
+4
+4
+4
+5
+5
+5
+5
+5
+5
+10
+10
+10
+10
+10
+20
+20
+20
+20
+20
+30
+30
+30
+30
+30
+40
+40
+40
+40
+40
+1
+1
+1
+1
+1
+1
+7.5
+7.5
+7.5
+7.5
+7.5
+17
+17
+17
+17
+17
+26.5
+26.5
+26.5
+26.5
+26.5
+36
+36
+36
+36
+36
+7
+8
+9
+10
+11
+12
+8
+9
+10
+11
+12
+8
+9
+10
+11
+12
+8
+9
+10
+11
+12
+8
+9
+10
+11
+12
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+410
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+RC
+847.27
+847.27
+847.27
+847.27
+847.27
+847.27
+998.66
+998.66
+998.66
+998.66
+998.66
+1202.63
+1202.63
+1202.63
+1202.63
+1202.63
+1516.21
+1516.21
+1516.21
+1516.21
+1516.21
+2101.73
+2101.73
+2101.73
+2101.73
+2101.73
+NOU
+Tester pneumatic pentru manusi
+izolante
+• testerul pneumatic poate fi utilizat numai pentru mănușile
+de joasă tensiune (clasa 00 și clasa 0)
+Grosime
+Dimensiuni
+Rezistenta
+dielectrica (kV)
+79801
+79799
+79800
+79802
+79803
+79804
+79805
+79806
+0,3
+0,3
+0,3
+0,3
+0,3
+0,3
+0,3
+0,3
+470x350
+600x460
+600x600
+1000x600
+1000x1200
+2000x1200
+5000x1200
+10000x1200
+1
+1
+1
+1
+1
+1
+1
+1
+IEC-EN 61112
+125
+150
+175
+220
+295
+460
+900
+60.68
+90.94
+121.36
+202.26
+404.45
+809.04
+2022.24
+1600
+4044.40
+73490
+600
+10
+2793.36

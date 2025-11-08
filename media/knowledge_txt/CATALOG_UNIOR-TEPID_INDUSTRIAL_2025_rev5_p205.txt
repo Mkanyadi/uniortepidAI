@@ -1,0 +1,154 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:205]
+585.1/7P
+Falci de schimb pentru 
+art. 585 P
+618622
+765
+643
+ 1E 
+1
+504.43
+Un procedeu special pentru fabricarea clestilor
+de buloane
+596/6A
+Cleste de buloane drept
+•  material: cutite-otel special, forjat, tratate
+•  partea de taiere tratata prin inductie
+•  manere din teava, vopsie, manere din plastic 
+pentru conditii grele
+Avantaje:
+•  Sistemul de absortie socuri din articulatie 
+asigura absortia socurilor in manere, aceasta 
+la taierea fierului beton.
+•  Protectia suruburilor excentrice pentru 
+reglarea lamelor prin locasuri forjate asigura 
+protectia 100% impotriva desurubarii
+FALCI
+1. Decupare: Bara de otel este decupata de o masina la forma ceruta;
+precizia decuparii asigura un surplus minim de materie prima
+2. Forjare: Piesele forjate sunt facute folosind turnarea la cald. Aceasta
+permite forme variate si ergonomice ale produselor. Orientarea potrivita
+a fibrelor (aceeasi ca in barele de otel) este mentinuta folosind procesele
+corespunzatoare de forjare.
+3. Debavurare: eliminarea bavurilor dupa forjare
+4. Tratament termic (calire si revenire): Tratamentul termic de durizare
+si calire este folosit pentru imbunatatirea structurii otelului, ca sa
+furnizeze o mai buna rezisenta si duritate produsului si alte caracteristici
+necesare pentru a depasi tensiunile pe care le cere lucrul cu acest produs
+ARTICULATII
+5. Piesa forjata: Forjata la cald
+6. Operare pe masini CNC: Intreaga productie a falcilor este facuta pe
+masini CNC. Dispozitivele de prindere furnizeaza precizia ceruta pentru
+calitatea cea mai ridicata a operatiilor de taiere.
+ASAMBLAREA MANERELOR SI ARTICULATIILOR
+7. Montarea falcilor pe articulatii si presarea: Manerul este apoi ferm
+presat pe articulatie, ceea ce asigura ca manerul montat sa nu iasa 
+ulterior nici sub cele mai mari sarcini.
+8. Indoireaa manerului: Manerul este indoit la unghiul cerut cu un
+dispozitiv special de indoit, care va furniza utilizatorului ergonomie
+superioara
+9. Acoperire cu vopsea: Utilizand o tehnologie de vopsire pulverizata, 
+se aplica un strat de vopsea protectoare, ceea ce confera produsului 
+un aspect profesional si serveste de asemenea ca protectie a suprafetei.
+10. Insertia manerelor: Acoperirea de PVC este inserata pe maner, 
+pentru a oferi operatorului confort si aderenta optime
+11. Fabricarea suruburilor si piulitelor: Sunt fabricate pe masini CNC 
+care, pe langa tratamentele termice si calitatea materialelor folosite, 
+aduc o precizie de uzinaj optima, permitand o legatura solida intre 
+elementele produsului
+12. Asamblare: Competenta si meticulozitatea lucratorilor maresc
+calitatatile de asamblare finala a sculelor de taiere si in consecinta, cresc
+performantele in utilizare ale acestora.
+L
+A B C
+610964 350 26 55 24
+805
+610965 450 34 70 36
+1500
+610966 600 38 84 40
+2600
+610967 750 43 96 46
+3950
+610968 900 47 109 50
+6300
+612984 1050 48 120 46
+6900
+capacitatea de taiere (10N=1kg)
+ 1D 
+ 1D 
+ 1D 
+ 1D 
+ 1D 
+ 1D 
+1
+1
+1
+1
+1
+1
+254.75
+401.80
+525.41
+688.69
+933.77
+1073.77
+L
+max 1600 N/mm²
+max 650 N/mm²
+5
+8
+10
+13
+16
+19
+3,5
+5
+7
+8
+9
+10
+610964 350
+610965 450
+610966 600
+610967 750
+610968 900
+612984 1050
+596.1/7A
+Elemente de shimb pentru 
+art. 596/6A
+•  falca+suruburi+2 piulite
+610970
+610971
+610972
+610973
+610974
+350
+450
+600
+750
+900
+613078 1050
+265
+547
+877
+1391
+1887
+2144
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+1
+1
+1
+1
+1
+1
+152.95
+232.79
+318.69
+357.87
+525.08
+603.77

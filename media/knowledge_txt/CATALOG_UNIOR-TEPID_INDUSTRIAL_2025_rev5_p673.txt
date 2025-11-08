@@ -1,0 +1,167 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:673]
+HYSC-24
+HYSC-45
+Cleste hidraulic pentru taiat cabluri max Ø24 mm
+• cap rotativ de 180° pentru o operare convenabila.
+• taiere superioara de tip ghilotina pentru mai putina presare decat alte taietoare de acest tip
+• pompa cu o singura etapa
+• lamele sunt usor de inlocuit.
+• zavor rabatabil pentru inserarea usoara a materialului de taiat
+• actiune pompa cu un singur stadiu cu revenire cu arc.
+• nu este necesar un timp de configurare.
+• instrument usor, autonom, poate fi utilizat oriunde.
+Cleste hidraulic pentru taiat cabluri max Ø45 mm
+• cap rotativ de 180° pentru o operare convenabila.
+• taiere superioara de tip ghilotina pentru mai putina presare decat alte taietoare de acest tip
+• pompa cu o singura etapa
+• lamele sunt usor de inlocuit.
+• zavor rabatabil pentru inserarea usoara a materialului de taiat
+• actiune pompa cu un singur stadiu cu revenire cu arc.
+• nu este necesar un timp de configurare.
+• instrument usor, autonom, poate fi utilizat oriunde.
+■ Capacitate de taiere:
+sarma 6x7: 24 mm
+sarma 6x12: 24 mm
+sarma 6x19: 24 mm
+bara de cupru moale: 23 mm 
+bara din aluminiu moale: 24 mm
+bara din otel moale: 16 mm
+toroane Cu: 24 mm
+toroane Al: 24 mm 
+ACSR: 24 mm
+■ Capacitate de taiere:
+sarma 6x7: 40 mm
+sarma 6x12: 40 mm
+sarma 6x19: 40 mm
+bara de cupru moale: 40 mm 
+bara din aluminiu moale: 40 mm
+bara din otel moale: 20 mm
+toroane Cu: 40 mm
+toroane Al: 40 mm 
+ACSR: 40 mm
+Ø
+1
+1
+Ø
+1
+1
+HYSC-24
+Φ 24 mm
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+2700
+Φ 24 mm
+6,7 tone (66 kN)
+56 cc
+700 bar
+360 mm
+2,7 kg
+6843.44
+HYSC-45
+Φ 45 mm
+9331.97
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+6700
+Φ 45 mm
+10,73 tone (95.5 kN)
+70 cc
+700 bar
+683 mm
+6,7 kg
+HYSC-24#11
+Φ 24 mm
+Cutit de schimb
+808.77
+HYSC-32
+Cleste hidraulic pentru taiat cabluri max Ø32 mm
+• cap rotativ de 180° pentru o operare convenabila.
+• taiere superioara de tip ghilotina pentru mai putina presare decat alte taietoare de acest tip
+• pompa cu o singura etapa
+• lamele sunt usor de inlocuit.
+• zavor rabatabil pentru inserarea usoara a materialului de taiat
+• actiune pompa cu un singur stadiu cu revenire cu arc.
+• nu este necesar un timp de configurare.
+• instrument usor, autonom, poate fi utilizat oriunde.
+HYCC-050
+Cleste hidraulic pentru taiat cabluri max Ø50 mm
+• cap rotativ de 180° pentru o operare convenabila.
+• taiere superioara de tip ghilotina pentru mai putina presare decat alte taietoare de acest tip
+• pompa cu o singura etapa
+• lamele sunt usor de inlocuit.
+• zavor rabatabil pentru inserarea usoara a materialului de taiat
+• actiune pompa cu un singur stadiu cu revenire cu arc.
+• nu este necesar un timp de configurare.
+• instrument usor, autonom, poate fi utilizat oriunde.
+■ Capacitate de taiere:
+sarma 6x7: 32 mm
+sarma 6x12: 32 mm
+sarma 6x19: 32 mm
+bara din otel moale: 25 mm
+tija de armare: 25 mm
+toroane Cu: 32 mm
+toroane Al: 32 mm
+ACSR: 32 mm
+sarma tip lx7: 32 mm
+sarma tip 1X19: 32 mm
+cablu subteran: 32 mm
+* Taierea firului de pian este interzisa.
+Ø
+1
+1
+HYSC-32
+Φ 32 mm
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+9100
+Φ 32 mm
+14,3 tone (141 kN)
+165 cc
+700 bar
+580 mm
+9,1 kg
+HYSC-32#56
+Φ 32 mm
+Cutit de schimb
+1036.89
+■ Capacitate de taiere:
+toroane Cu: 50 mm
+toroane Al: 50 mm 
+CCP: 50 mm
+* Taierea firului de pian este interzisa.
+10067.21
+Ø
+1
+1
+HYCC-050
+Φ 50 mm
+7050.82
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+6700
+Φ 50 mm
+5 tone (49 kN)
+89 cc
+700 bar
+486 mm
+3,9 kg

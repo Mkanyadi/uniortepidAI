@@ -1,0 +1,228 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1075]
+PIESE DE SCHIMB
+Produs
+Cod
+Art
+Denumire
+Dimensiuni Greutate
+S
+U
+L
+P
+0
+2
+9
+E
+0
+4
+9
+V
+E
+0
+4
+9
+O
+C
+E
+0
+4
+9
+M
+0
+4
+9
+H
+0
+4
+9
+4
+9
+9
+6
+4
+9
+P
+3
+4
+9
+9
+4
+9
+M
+8
+3
+9
+V
+E
+9
+3
+9
+Pret
+613099
+D11
+Sertar mic pentru 946A
+585x612x75
+4.400
+x
+x
+616000
+D15
+Sertar mic, lateral 940H1
+415x365x75
+2.041
+616001
+D16
+Sertar mare 940H1
+415x365x153
+4.054
+x
+x
+619520
+D18
+Sertar mare 920
+585x412x155
+4.054
+x
+620564
+D20
+Sertar mic EuroVision
+585x413x75
+2.100
+620563
+D19
+Sertar mare EuroVision
+585x413x153
+3.923
+x
+x
+620247
+D20ECO Sertar mic 940ECO
+520x313x75
+3.265
+x
+621663
+D939EV1
+Sertar mic pentru cutie de scule 
+Eurovision
+585x323x75
+3.796
+621664
+D939EV2
+Sertar mare pentru cutie de scule 
+Eurovision
+585x323x153
+4.375
+x
+x
+610165
+K1
+Cheie cu butuc 940E1-9, H1, H2, H3, 
+M1, M2, M3, 940/2, 44,26 940/3, 946A
+180°
+0.061
+x
+x
+x
+x
+x
+x
+x
+610174
+R4
+Maner 940H1, H2, H3
+490x66x90
+0.590
+616002
+R5
+Maner 940M1, M2, M3
+390x70x25
+0.372
+x
+616003
+T7
+Material sintetic pentru sertare
+391x341
+0.068
+616004
+T8
+Material sintetic pentru sertare
+391x359
+0.085
+616005
+T9
+Material sintetic pentru sertare 946A
+560x591
+0.126
+616006
+T10
+Material sintetic pentru sertare 946A
+560x608
+0.127
+620566
+T12
+Covor sintetic pentru EuroVision
+694x434
+0.154
+620568
+T13
+Husa sinetica pentru sertarul mic de la 
+EuroVision
+560x380
+0.057
+621665
+T939EV1
+Invelis pentru sertar mic din material 
+sintetic pentru dulap de scule Eurovision
+560x294
+0.043
+610181
+V1
+Glisiere pe rulmenti 940E1-9
+400
+1.180
+x
+x
+x
+610182
+V2
+Glisiere pe rulmenti pentru 940H1
+350
+0.975
+x
+x
+x
+x
+x
+x
+603664
+V3
+Glisiere pe rulmenti pentru 940 H1, H2, 
+H3, 940 M1, M2, M3
+400
+1.180
+x
+x
+x
+445.65
+444.44
+471.98
+593.85
+541.35
+600.22
+509.85
+520.52
+571.65
+88.13
+209.31
+118.43
+59.04
+59.04
+81.93
+91.92
+102.93
+69.20
+x
+59.04
+205.70
+198.47
+205.70

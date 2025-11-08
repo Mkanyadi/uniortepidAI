@@ -1,0 +1,154 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:291]
+4835-1
+Subler sudura
+• material: otel inoxidabil
+4836-1
+Set lere sudura
+• masurarea cordonului de sudura, convex si concav
+• material: otel inoxidabil
+• 7 lere incluse
+1
+5
+1
+5 
+1
+5
+fata
+spate
+            Dimensiune 
+          Acuratete
+4836-1
+3-25 mm
+±0.05 mm
+252.00
+1
+5
+1
+5 
+1
+5
+5
+1
+5
+1
+5 
+1
+5
+5
+6832-1
+Sablon sudura
+• material: otel inoxidabil
+inaltime cordon sudura
+inaltime picior sudat 
+(inaltimea cordonuli de colt)
+1
+5
+1
+5 
+1
+5
+5
+1
+5
+1
+5 
+1
+5
+5
+nealiniere (jos - sus)
+adancimea sub cota
+fata
+5
+1
+5 
+1
+5
+1
+grosime cordon sudura 
+de colt
+1
+lungime
+1
+5
+1
+5 
+1
+5
+5
+α
+unghiul de pregatire
+1
+α
+unghi  45°
+Acuratete
+Masuratori 
+inaltime cordon sudura
+4835-1
+                   Domeniu           Scala 
+0-25 mm ( 0-1" )
+1 mm ( 1/16" )
+± 0,5 mm
+333.90
+inaltime picior sudat 
+0-25 mm ( 0-1" )
+1 mm ( 1/16" )
+± 0,5 mm
+(inaltimea cordonuli de colt)
+nealiniere (jos - sus)
+0-25 mm ( 0-1" )
+1 mm ( 1/16" )
+± 0,5 mm
+adancimea sub cota
+0-2 mm ( 0-1/8" )
+1 mm ( 1/16" )
+± 0,5 mm
+grosime cordon sudura 
+0-20 mm ( 0-3/4" )
+1 mm ( 1/16" )
+± 0,5 mm
+de colt
+unghiul de pregatire
+0º-60º
+5º
+± 1º
+lungime
+unghi  45°
+0-60 mm ( 0-2" )
+1 mm ( 1/16" )
+± 0,5 mm
+-
+-
+± 1º
+spate
+397.95
+Acuratete
+± 0,1 mm
+± 0,5 mm
+± 0,1 mm
+± 0,1 mm
+± 1º
+± 0,5 mm
+± 0,5 mm
+Masuratori 
+6832-1 lungime picior 
+inaltime picior 
+                   Domeniu           Scala 
+0.1 mm
+0-10 mm
+inaltime coroana 
+dimensiune cordon 
+unghi 
+deschidere 
+lungime
+0-20 mm
+0-10 mm
+0-10 mm
+0º-60º
+1-3.5 mm
+0-40 mm
+1 mm
+0.1 mm
+0.1 mm
+5º
+0.5 mm
+1 mm

@@ -1,0 +1,181 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:528]
+PENTRU DETERMINAREA PASULUI CORECT AL DINTILOR LA 
+TAIEREA TEVILOR SI PROFILELOR
+D
+Panza rectilinie Bi-Metal
+• utilizare: diverse materiale, oteluri aliate, oteluri inoxidabile etc., 
+in special otel cu rezistenta la rupere < 1100 N/mm²
+S
+S
+D (mm)
+20 
+40 
+60 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+14 
+10/14 
+10/14 
+10/14 
+10/14 
+8/12 
+6/10
+6/10
+10/14 
+10/14 
+10/14 
+8/12 
+6/10
+6/10
+5/8 
+S (mm)
+2 
+3 
+4 
+5 
+6 
+8 
+10 
+12 
+15 
+20 
+30 
+50 
+75 
+100 
+150
+150 
+80 
+100 
+Tooth pitch (TPI)
+14 
+10/14 
+10/14 
+10/14 
+10/14 
+8/12 
+8/12 
+8/12 
+8/12 
+6/10
+5/8 
+4/6 
+4/6 
+4/6 
+3/4 
+8/12 
+8/12 
+6/10
+6/10
+6/10
+5/8 
+4/6 
+4/6 
+4/6 
+3/4 
+8/12 
+6/10
+6/10
+5/8 
+5/8 
+4/6 
+4/6 
+3/4 
+3/4 
+3/4 
+2/3
+6/10
+6/10
+5/8 
+5/8 
+5/8 
+4/6 
+4/6 
+3/4 
+3/4 
+2/3
+2/3
+2/3
+6/10
+5/8 
+4/6 
+4/6 
+4/6 
+4/6 
+3/4 
+3/4 
+3/4 
+2/3
+8/12 
+6/10
+4/6 
+4/6 
+4/6 
+4/6 
+3/4 
+3/4 
+2/3
+2/3
+2/3
+L                     H                    l                    Pas
+4003201606B
+6004502256B
+7005002506B
+400
+600
+700
+32
+45
+50
+1,60
+2,25
+2,50
+6 TPI
+6 TPI
+6 TPI
+47.66
+163.78
+208.89
+200 
+300 
+500
+Panza rectilinie HSS
+• utilizare: diverse materiale, bare, tevi, diverse profile etc., 
+in special otel cu rezistenta la rupere < 700 N/mm²
+2/3
+1.4/2 
+1.4/2 
+1.4/2 
+1.4/2 
+0.75/1.25
+0.75/1.25
+4003201606
+6004502256
+7505002506
+9005002506
+L                     H                    l                    Pas
+400
+600
+750
+900
+32
+45
+50
+50
+1,60
+2,25
+2,50
+2,50
+6 TPI
+6 TPI
+6 TPI
+6 TPI
+62.18
+187.52
+285.58
+343.07

@@ -1,0 +1,558 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:435]
+41091100800
+41091101000
+41091101200
+41091101400
+41091101600
+41091101800
+41091102000
+41091102200
+41091102400
+          M filet   Pas (mm)   Gaura (mm)
+1,25
+1,50
+1,75
+2,00
+2,00
+2,50
+2,50
+2,50
+3,00
+6,80
+8,50
+10,20
+12,00
+14,00
+15,50
+17,50
+19,50
+21,00
+M   8
+M 10
+M 12
+M 14
+M 16
+M 18
+M 20
+M 22
+M 24
+106.56
+137.05
+174.10
+208.85
+250.16
+352.30
+386.72
+517.05
+587.70
+1050051
+Tarozi pentru filetare manuala, pas 
+normal, DIN 352, Forma C, HSS-G,
+3 buc/set
+• tarozi pentru filetare manuala, filet metric, pas normal, 
+DIN 352, HSS-G,  3 buc/set, forma C
+• material: HSS, profil filet rectificat detalonat 
+• parametri filet conform DIN ISO 13
+• tolerant 6H, conform ISO 2
+• unghiul flancurilor filetului 60°
+• destinate pentru filetare in oteluri ne aliate si aliate de 
+tratament termic, cu σr ≤ 700 N / mm² 
+• pentru gauri strapunse
+2
+d
+L
+Ø
+l1
+P
+Ø         P         L        l       d2
+40
+45
+50
+50
+50
+56
+70
+75
+80
+80
+95
+90
+100
+110
+110
+125
+0,5
+0,7
+0,8
+1
+1
+1,25
+1,5
+1,75
+2
+2
+2,5
+2,5
+2,5
+3
+3
+3,5
+M3
+M4
+M5
+M6
+M7
+M8
+M10
+M12
+M14
+M16
+M18
+M20
+M22
+M24
+M27
+M30
+3,5
+4,5
+6
+6
+6
+6
+7
+9
+11
+12
+16
+16
+18
+18
+20
+22
+11
+13
+15
+16
+19
+22
+24
+29
+30
+32
+40
+40
+40
+45
+50
+56
+73.61
+73.61
+73.61
+76.77
+82.45
+88.42
+105.86
+128.64
+180.34
+228.59
+264.62
+338.58
+398.37
+490.98
+601.89
+787.33
+1501511
+Tarozi pentru filetare manuala, pas 
+normal, DIN 352, Forma A, HSS-G,
+3 buc/set
+• tarozi pentru filetare manuala, filet metric, pas normal, 
+DIN 352, HSS-G,  3 buc/set, forma A
+• material: HSS, profil filet rectificat detalonat 
+• parametri filet conform DIN ISO 13
+• toleranta 6H, conform ISO 2
+• unghiul flancurilor filetului 60°
+• destinate pentru filetare in oteluri ne aliate si aliate de 
+tratament termic, cu σr ≤ 950 N / mm² 
+• pentru gauri strapunse 
+2
+d
+L
+Ø
+l1
+P
+150151100200040
+150151100250045
+150151100300050
+150151100350060
+150151100400070
+150151100500080
+150151100600100
+150151100700100
+150151100800125
+150151100900125
+150151101000150
+150151101100150
+150151101200175
+150151101400200
+150151101600200
+150151101800250
+150151102000250
+150151102200250
+150151102400300
+150151102700300
+150151103000350
+150151103300350
+150151103600400
+150151103900400
+150151104200450
+150151104500450
+150151105200500
+Ø         P         L        l       d2
+M2
+M2,5
+M3
+M3,5
+M4
+M5
+M6
+M7
+M8
+M9
+M10
+M11
+M12
+M14
+M16
+M18
+M20
+M22
+M24
+M27
+M30
+M33
+M36
+M39
+M42
+M45
+M52
+0,4
+0,45
+0,5
+0,6
+0,7
+0,8
+1,0
+1,0
+1,25
+1,25
+1,5
+1,5
+1,75
+2,0
+2,0
+2,5
+2,5
+2,5
+3,0
+3,0
+3,5
+3,5
+4,0
+4,0
+4,5
+4,5
+5,0
+36
+40
+40
+45
+45
+45
+50
+50
+56
+63
+70
+70
+75
+80
+80
+95
+95
+100
+110
+110
+125
+125
+150
+150
+150
+160
+160
+9
+10
+11
+13
+13
+15
+16
+19
+22
+22
+24
+24
+29
+30
+32
+40
+40
+40
+45
+50
+56
+56
+63
+63
+63
+70
+75
+2,8
+2,8
+3,5
+4,0
+4,5
+6,0
+6,0
+6,0
+6,0
+6,0
+7,0
+8,0
+9,0
+11,0
+12,0
+14,0
+16,0
+18,0
+18,0
+20,0
+22,0
+25,0
+28,0
+32,0
+32,0
+36,0
+40,0
+157.90
+153.83
+94.21
+113.15
+94.21
+98.06
+98.06
+121.52
+113.72
+194.74
+146.48
+245.46
+209.71
+247.64
+339.16
+463.43
+514.44
+678.37
+795.93
+1013.74
+1295.80
+1646.09
+2102.12
+2342.88
+2945.85
+3268.54
+4607.49
+4100
+Tarozi pentru filetare manuala, pas
+normal, DIN 352, HSS-G,  3 buc/set
+• tarozi pentru filetare manuala, filet metric, pas normal, DIN 352, 
+HSS-G,  3 buc/set
+• material: HSS, profil filet rectificat detalonat 
+• parametri filet conform DIN ISO 13
+• tolerant 6H, conform ISO 2
+• unghiul flancurilor filetului 60°
+• destinate pentru filetare in oteluri ne aliate si aliate, σr ≤ 800 N/mm² 
+• conul de atac :
+- Nr. 1,  6-8 spire
+- Nr. 2,  4-5 spire
+- Nr. 3,  2-3 spire
+• pentru gauri strapunse sau infundate
+HSS
+G
+ISO2
+6H
+60°
+M
+41001100300
+41001100400
+41001100500
+41001100600
+41001100700
+41001100800
+41001100900
+41001101000
+41001101200
+41001101400
+41001101600
+41001101800
+41001102000
+41001102200
+41001102400
+41001102700
+41001103000
+41001103300
+41001103600
+          M filet   Pas (mm)   Gaura (mm)
+0,50
+0,70
+0,80
+1,00
+1,00
+1,25
+1,25
+1,50
+1,75
+2,00
+2,00
+2,50
+2,50
+2,50
+3,00
+3,00
+3,50
+3,50
+4,00
+2,50
+3,30
+4,20
+5,00
+6,00
+6,80
+7,80
+8,50
+10,20
+12,00
+14,00
+15,50
+17,50
+19,50
+21,00
+24,00
+26,50
+29,50
+32,00
+M   3
+M   4
+M   5
+M   6
+M   7
+M   8
+M   9
+M 10
+M 12
+M 14
+M 16
+M 18
+M 20
+M 22
+M 24
+M 27
+M 30
+M 33
+M 36
+800
+N/mm²
+DIN
+352
+48.52
+48.52
+50.82
+58.52
+72.30
+70.16
+116.56
+82.79
+103.44
+157.87
+190.33
+276.72
+296.07
+363.61
+417.54
+545.74
+694.75
+1043.44
+1305.74
+4109
+Tarozi pentru filetare manuala, pas 
+normal, pe stanga, DIN 352, HSS-G, 
+3 buc/set
+• tarozi pentru filetare manuala, filet metric, pas normal, 
+pe stanga, DIN 352, HSS-G,  3 buc/set
+• material: HSS, profil filet rectificat detalonat 
+• parametri filet conform DIN ISO 13
+• toleranta 6H, conform ISO 2
+• unghiul flancurilor filetului 60°
+• destinate pentru filetare in oteluri nealiate si aliate, σr ≤ 800 N/mm²  
+• conul de atac :
+- Nr1.,  6-8 spire
+- Nr2.,  4-5 spire
+- Nr3.,  2-3 spire
+• pentru gauri strapunse sau infundate
+1050051030050
+1050051040070
+1050051050080
+1050051060100
+1050051070100
+1050051080125
+1050051100150
+1050051120175
+1050051140200
+1050051160200
+1050051180250
+1050051200250
+1050051220250
+1050051240300
+1050051270300
+1050051300350
+ISO2
+6H
+DIN
+352
+60°
+HSS
+G
+800
+N/mm²
+LINKS
+LEFT
+M
+41091100300
+41091100400
+41091100500
+41091100600
+          M filet   Pas (mm)   Gaura (mm)
+0,50
+0,70
+0,80
+1,00
+M   3
+M   4
+M   5
+M   6
+2,50
+3,30
+4,20
+5,00
+85.57
+85.57
+87.87
+90.33

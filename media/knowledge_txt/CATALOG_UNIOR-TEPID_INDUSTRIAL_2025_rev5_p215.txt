@@ -1,0 +1,115 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:215]
+SL0 
+265
+Cheie dinamometrica mecanica cu capete 
+interschimbabile acuratete ±3%
+16 mm
+• cheie dinamometrica fara scala
+• cuplu presetat reglabil doar cu ajutorul unui aparat de masurare a momentului de torsiune, 
+sau un dispozitiv similar
+• toate cheile dinamometrice NORBAR sunt proiectate si fabricate pentru a depasi standardele 
+internationale: BS6703: 1988, ISO 6789: 1992 si USAGGG-W-00686-C (GSA-FSS)
+• certificat de calibrare in conformitate cu ISO 9000
+• versiunea tip "P" este menita sa descurajeze modificari neautorizate
+Cheie dinamometrica industriala 3/4"
+• constructia robusta ii confera o acuratete in rezultate, de +/-4% , chia in conditii
+grele de lucru
+• fiecare cheie este livrata cu un certificat de calibrare in conformitate cu ISO 9000:2000
+• unghiul mare de frangere imbunatateste acuratetea reducand posibilitate de
+suprasarcina a momentului
+• cama de control a mecanismului confera o frangere controlata care nu va permite balansul 
+operatorului
+• aplicarea momentului:in ambele sensuri, dar intotdeauna in directia indicata pe manerul cheii
+• scala dubla N.m si lbf.ft
+• in conformitate cu standardul ISO 6789
+Utilizare
+• echipament agricol
+• sectorul de constructii
+• industria grea
+• constructia de masini
+• industria de constructii navale
+• industria aerospatiala
+• nu folositi cheia dinamometria pentru desurubare!
+Important
+• scula trebuie folosita cu o forta constanta si respectand instructiunile de utilizare
+• aplicati momentul de torsiune numai in directia indicata pe stiker.Stikerul va indica sensul corect
+de strangere.
+• intervalul dintre doua calibrari ale cheii este de 12 luni sau 5000 de strangeri de la data cumpararii.
+• INTOTDEAUNA aduceti mecanismul de reglare la punctul de start cand terminati lucrul.
+• cand momentul reglat este atins va rugam sa opriti actionarea cheii.
+• cheia dinamometrica poate fi deteriorata daca instructiunile din manualul deutilizare nu sunt
+espectate
+11090
+16
+1.0 - 20.0 10 - 180
+A
+210
+B
+199
+C
+143
+ØD
+16
+400
+1511.25
+THP
+16 mm
+Cheie dinamometrica mecanica cu capete 
+interschimbabile acuratete ±3%
+• cheie dinamometrica fara scala, proiectata pentru liniile de productie unde vor 
+fi setate pentru o anumita aplicatie
+• cuplu presetat reglabil doar cu ajutorul unui aparat de masurare a momentului de torsiune, sau un 
+dispozitiv similar
+• toate cheile dinamometrice NORBAR sunt proiectate si fabricate pentru a depasi standardele 
+internationale: BS6703: 1988, ISO 6789: 1992 si USAGGG-W-00686-C (GSA-FSS)
+• certificat de calibrare in conformitate ISO 9000
+• semnal inconfundabil atunci cand se ajunge la cuplul setatversiunea de tip "P" este menita sa 
+descurajeze modificari
+11167
+11143
+11144
+16
+8.0 - 60.0
+5 - 45
+16 20.0 - 100.0 15 - 80
+16 40.0 - 200.0 40 - 200
+A
+288
+315
+405
+B
+277
+317
+399
+C
+212
+252
+334
+ØD
+16
+16
+16
+550
+600
+780
+1379.01
+1447.87
+1529.62
+616802
+616803
+3/4"
+3/4"
+200 - 800
+150 - 600
+300 - 1000 200 - 750
+L
+1140
+1470
+9000
+11000
+ 1S 
+ 1S 
+1
+1
+6008.36
+5889.51

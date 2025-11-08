@@ -1,0 +1,284 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:452]
+5115
+1031652
+1031852
+Freza din carbura de tungsten forma C
+cilindrica cu cap rotunjit, ascutire 
+dubla tip D
+• material: carbura HM
+• forma C - cilindrica cu cap rotunjit
+• pentru oteluri cu duritate pana la 700 N/mm², fonta, aliaj cupru
+Freza din carbura de tungsten forma D
+sferica, ascutire dubla tip D
+• material: carbura HM
+• forma D - sferica
+• pentru oteluri cu duritate pana la 700 N/mm², fonta, aliaj cupru
+2
+d
+L
+Ø
+l1
+l2
+2
+d
+L
+Ø
+l1
+l2
+Ø          d2         L            l2
+2,5
+3
+5
+6
+6
+8
+9
+10
+10
+12
+14
+16
+38
+50
+52
+54
+56
+59
+3
+6
+6
+6
+6
+6
+10316520600
+10316520800
+10316521000
+10316521200
+1031792
+46.07
+85.74
+104.10
+122.95
+135.41
+203.93
+Ø          d2         L            l2
+16
+6
+20
+8
+20
+10
+25
+12
+50
+65
+65
+70
+6
+6
+6
+6
+181.48
+226.98
+260.49
+371.34
+10318520600
+10318520800
+10318521000
+10318521200
+10316070002
+Ø          d2         L            l2
+6
+18
+8
+18
+10
+20
+12
+25
+50
+63
+70
+75
+6
+6
+6
+6
+181.48
+189.98
+220.10
+265.66
+Freza din carbura de tungsten forma G
+arcuita cu cap ascutit, ascutire dubla 
+tip D
+• material: carbura HM
+• forma G - arcuita cu cap ascutit
+• pentru oteluri cu duritate pana la 700 N/mm², fonta, aliaj cupru
+Set 5 freze din carbura pentru 
+metal dur prindere 6 mm
+• material: carbura HM
+• diametru freze: Ø12 mm
+• prindere: Ø 6 mm
+Freze biax din carbura metalica
+sinterizata - CMS sferica, Forma D
+( KUD )
+• freze biax din carbura metalica sinterizata - CMS - sferica, 
+forma D ( KUD )
+• in conformitate cu DIN 8033
+• pentru a debavura, rotunjire muchii, curatire / finisare 
+ornamente, curatire cordoane de sudura si operatii de prelucrare
+suprafete pentru piese din fonta, otel si otel inoxidabil.
+• se foloseste pe masini portabile pneumatice sau electrice
+DIN
+8033
+VHM
+D
+KUD
+Z-KR
+51150300303
+51150300600
+51150300800
+51150301000
+51150301200
+51150301600
+1036691
+Freza din carbura de tungsten forma D
+sferica, tais simplu tip A
+• material: carbura HM
+• forma D - sferica
+• pentru aluminiu
+2
+d
+L
+Ø
+l1
+l2
+2
+d
+L
+Ø
+l1
+l2
+Ø          d2         L            l2
+18
+6
+18
+8
+20
+10
+25
+12
+50
+63
+65
+70
+6
+6
+6
+6
+206.67
+211.84
+250.39
+294.29
+10316070002  5 freze din carbura Ø 12 mm Ø 6 mm 1359.95
+10316070005
+Set 10 freze din carbura pentru 
+metal dur prindere 6 mm
+• material: carbura HM
+• diametru freze: Ø6 mm si Ø12 mm
+• prindere: Ø 6 mm
+Ø          d2         L            l2
+10
+20
+25
+12
+65
+70
+6
+6
+220.21
+265.66
+10317920600
+10317920800
+10317921000
+10317921200
+1031832
+10366911000
+10366911200
+1031632
+Freza din carbura de tungsten forma A
+cilindrica cu cap taietor, ascutire dubla
+tip D
+• material: carbura HM
+• forma A - cilindrica cu cap taietor
+• pentru oteluri cu duritate pana la 700 N/mm², fonta, aliaj cupru
+Freza din carbura de tungsten forma F
+arcuita cu cap rotunjit, ascutire dubla 
+tip D
+• material: carbura HM
+• forma F - arcuita cu cap rotunjit
+• pentru oteluri cu duritate pana la 700 N/mm², fonta, aliaj cupru
+2
+d
+L
+Ø
+l1
+l2
+2
+d
+L
+Ø
+l1
+l2
+10316320600
+10316320800
+10316321000
+10316321200
+Ø          d2         L            l2
+6
+16
+8
+20
+10
+20
+12
+25
+50
+65
+65
+70
+6
+6
+6
+6
+Ø          d2         L            l2
+183.26
+220.10
+248.73
+332.67
+10318320600
+10318320800
+10318321000
+10318321200
+6
+8
+10
+12
+6
+6
+6
+6
+50
+63
+65
+70
+18
+18
+20
+25
+215.05
+223.54
+265.66
+317.64
+10316070005       10 freze din carbura Ø 6 mm        1793.15
+                               si Ø 12 mm prindere Ø 6 mm

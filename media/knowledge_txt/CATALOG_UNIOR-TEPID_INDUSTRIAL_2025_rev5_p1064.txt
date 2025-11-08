@@ -1,0 +1,80 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1064]
+vl990ND3
+vl990ND4
+vl990WD
+Modul SOS compartimentat 
+pentru bancuri de lucru cu 
+dulapuri inguste
+• dimensiuni compartimente: 4 x dimensiune 95x70 mm,  6 x 
+dimensiune 95x200 mm
+Modul SOS compartimentat 
+pentru bancuri de lucru cu 
+dulapuri inguste
+• dimensiuni compartimente: 8 x dimensiune 95x70 mm, 
+20 x dimensiune 60x60 mm
+Modul SOS compartimentat 
+pentru bancuri de lucru cu 
+dulapuri late
+• dimensiuni compartimente: 6 x dimensiune 95x70 mm
+2 x dimensiune 150x70 mm
+B              L             H
+B              L             H
+625591
+374
+570
+40
+134
+128.85
+625592
+374
+570
+40
+127
+128.85
+B              L             H
+625618
+562
+205
+40
+57
+85.08
+vl990ND
+Modul SOS compartimentat 
+pentru bancuri de lucru cu 
+dulapuri inguste
+B              L             H
+625619
+374
+205
+40
+50
+45.74
+ 990MA17
+ 990MA18
+Banc de lucru modular- model A17
+Banc de lucru modular- model A18
+• modulul include cutii de plastic: 60x60x50mm 2 buc, 90x60x50mm 5 buc, 120x60x50mm 3 buc, 
+• modulul include cutii de plastic: 60x60x50mm 2 buc, 90x60x50mm 5 buc, 120x60x50mm 3 buc, 
+90x90x50mm 1 buc, 120x120x50mm 1 buc, 180x90x50mm 1 buc
+90x90x50mm 1 buc, 120x120x50mm 1 buc, 180x90x50mm 1 buc
+Art.
+Denumire
+Art.
+Denumire
+627655
+2000 x 750 x 2025 mm
+990MA17
+22401.48
+627656
+1500 x 750 x 2025 mm
+990MA18
+25676.56
+990WD6LC100 (663x650x870), 990LA (100x650x690x1110), 990TW (2000x750x40), 990SL 
+990ND6LC100 (475x650x870), 900PNE (475x650x870), 990TW (1500x750x40), 990B 
+(32x45x1155), 990SM (32x45x1155), 990SR (32x45x1155), 990HPC (983x53x131 (2x)),
+(1436x1018), 990BIN (475x650x870), 990HL (1499), 990HPB (1500), 990HPC (1467x53x131),
+990B (952x1018), 990CAU (1000x350x510 (2x)), 990LIGHT (900 (2x)), 990.MD (460x226), 
+990LIGHT (1200), 990SHELF (1500), 990SL (32x45x1155), 990SR (32x45x1155), PB.990HPB 
+BASE.990MOD (450x210), H.990.BAT (35x84x22), H.990.HAM (2x), H.990.PAP, H.990.PLI
+(235x155x125 (3x))
+(50x22 (5x)), H.990SCR (2x), H.990.TAB, H.990.WRE

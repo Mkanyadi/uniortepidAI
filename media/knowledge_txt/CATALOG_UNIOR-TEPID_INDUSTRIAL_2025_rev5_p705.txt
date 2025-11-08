@@ -1,0 +1,90 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:705]
+UK-6
+Extractor hidraulic
+Actionare cu levier
+Inaltime: 322 mm (fara brate)
+Greutate: 5,9 kg
+■ Specificatii:
+presiune maxima: 700 bar
+necesar ulei: 92 cc
+forta exercitata: 7,03 tone / 62,5 kN
+cursa piston: 82 mm
+UK-6HE
+Extractor hidraulic
+Actionare cu pompa hidraulica
+Inaltime: 261 mm (fara brate)
+Greutate: 5,9 kg
+■ Specificatii:
+presiune maxima: 700 bar
+necesar ulei: 92 cc
+forta exercitata: 7,03 tone / 62,5 kN
+cursa piston: 82 mm
+■ nu necesita un dispozitiv hidraulic de actionare separata, pompa de mana suplimentara, furtun 
+hidraulic si cuplaj
+■ usor de utilizat si permite actionarea de catre o singura persoana.
+■ capul de tractiune combinat pentru 2/3 brate pe care pot fi instalate 2 sau 3 brate interschimbabile 
+in functie limitele perimse de spatiul in care este utilizat.
+■ brate realizate din parti forjate si sunt supuse la un tratament special de calire si revenire pentru a 
+oferi cea mai buna rezistenta si o perioada de utilizare prelungita.
+■ manerul pivotant cu maner rotativ 360˚ permite pomparea in toate directiile.
+■ supapa de siguranta unica, conceputa pentru a reduce riscul supraincarcarii prin limitarea fortei 
+aplicate.
+■ extractorul hidraulic complet permite generarea de forta si demontarea fara efort.
+■ punctul central cu arc al axului hidraulic permite centrarea usoara a extractorului pe arbore.
+■ usor de utilizat si permite actionarea de catre o singura persoana.
+■ capul de tractiune combinat pentru 2/3 brate pe care pot fi instalate 2 sau 3 brate interschimbabile 
+in functie limitele perimse de spatiul in care este utilizat.
+■ brate realizate din parti forjate si sunt supuse la un tratament special de calire si revenire pentru a 
+oferi cea mai buna rezistenta si o perioada de utilizare prelungita.
+■ manerul pivotant cu maner rotativ 360˚ permite pomparea in toate directiile.
+■ supapa de siguranta unica, conceputa pentru a reduce riscul supraincarcarii prin limitarea fortei 
+aplicate.
+■ extractorul hidraulic complet permite generarea de forta si demontarea fara efort.
+■ punctul central cu arc al axului hidraulic permite centrarea usoara a extractorului pe arbore.
+■ functioneaza cu orice pompa hidraulica cu presiunea nominala a uleiului de 700 bar (10.000 psi).
+■ Accesorii:
+cutie pentru depozitare si transport
+Rotire stanga
+(retragere)
+Rotire dreapta
+(avans)
+■ Accesorii:
+cutie pentru depozitare si transport
+Adancime
+Deschidere
+Cursa piston
+Brate - varfuri
+Adancime
+Deschidere
+Cursa piston
+Brate - varfuri
+Unitate masura: mm
+Unitate masura: mm
+165
+30 - 200
+82
+11.3 7.3
+23
+165
+30 - 200
+82
+11.3 7.3
+23
+UK-6
+Adancime
+165
+Deschidere   Cursa piston
+30-200
+82
+5900
+-
+4181.93
+UK-6HE
+Adancime
+165
+Deschidere   Cursa piston
+30-200
+82
+5200
+-
+3830.35

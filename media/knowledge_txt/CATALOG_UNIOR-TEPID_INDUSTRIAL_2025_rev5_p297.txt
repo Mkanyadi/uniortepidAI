@@ -1,0 +1,229 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:297]
+9723-400
+NOU
+9223-120
+NOU
+0320-K230
+NOU
+Detector faza si voltaj non-contact
+Tahometru non-contact
+• masurare cu precizie viteza de rotatie fara contact, salvare 
+automata valoarea maxima, valoarea minima si ultima valoare, 
+500 de date pot fi stocate in timpul masurarii continue
+• detectarea secventei fazelor fara contact, tensiune inalta si 
+joasă, distingere cabluri
+• indicator baterie descarcată
+• oprire automata
+• alimentare: 2 baterii AAA de 1,5 V
+• dimensiuni: 157 x 27 x 23 mm
+• greutate: 32 g
+• separarea cablurilor
+   - lumina verde: cablu neutru
+   - lumina rosie: cablu cu alimentare
+Temometru cu termocuplu tip K
+(model economic)
+• acuratetea temperaturii ±3,6°F/±2,0°C
+• termocuplu de contact de tip K
+• unitate masura °F/°C
+• functia de pastrare a datelor
+• afisaj baterie descarcata
+dimensiuni
+9723-400
+157 x 27 x 23 mm
+.
+32
+0110-1125
+Anemometru
+194.25
+NOU
+9223-120
+Gama masurare
+Rezolutie
+dimensiuni
+.
+180 x 71 x 29.9 mm
+145
+469.35
+2.5~99999 rpm
+0.1 rpm (gama 2.5~999.9rpm
+1 rpm (gama 1000-99999 rpm)
+dimensiuni
+.
+• masurare viteza, debitul, temperatura ai umiditatea relativa
+• unitate de viteza: m/s, km/h, mil/h, ft/m, ft/s, noduri
+• unitate de debit: CMS (metru cub pe secunda), CMM 
+(metru cub pe minut), CFM (picior cub pe minut)
+• tip de temperatura: ambientala, punct de roua, bulb umed
+• moduri maxime si minime
+• oprire automata
+dimensiuni
+0100-1125
+215 x 54 x 36 mm
+.
+172
+000.00
+UM
+m/s
+Gama
+Rezolutie
+Acuratete
+1.1-25.0
+0.01
+±(3%+0.3)
+0.1
+1
+0.1
+0.1
+0.1
+0.1
+±(3%+1)
+±(3%+40)
+±(3%+0.4)
+±(3%+0.4)
+±2
+±4
+km/h
+4.0-90.0
+Viteza vantului
+ft/min
+220-4920
+MPH
+2.5-56.0
+noduri
+2.2-48.0
+0-50
+32-122
+°C
+°F
+0.5 d
+Temperatura aerului
+Timp masurare
+Altitudine masurare
+maxim 2000 m
+Mediu masurare
+0-50°C, 0-80% RH
+Mediu depozitare
+-10-60°C, 0-80% RH
+Oprire automata
+10 minute
+Port date
+Alimentare
+Dimensiuni
+Greutate
+Bluetooth 4.0
+9 V
+215x54x36 mm
+172 g
+Acuratete
+± (0.05%n+1d) rpm
+n este viteza de rotatie, d este rezolutia
+Putere laser
+Clasa 3R 3mW~4mW
+Timp masurare
+0.6 s (peste 100 rpm)
+Distanta masurare
+50-500 m
+Temperatura operare
+0-40 °C
+Alimentare
+3 x AA 
+0310-H26
+Termohigrometru
+• masoara umiditatea, temperatura ambientala
+• functii: min. / max., data hold
+• Bluetooth 4.0
+•  auto oprire
+• livrat cu APP pentru Apple si Android
+0320-K230
+Gama temperatura
+259 x 76 x 34 mm
+220
+-50°C-200°C/-58°-392°F
+387.45
+Acuratete temperatura
+2.0°C / 3.6°F
+Rezolutie temperatura
+0.1°C(la -50°C-199°C),1°C (la -50°C-200°C)
+0.1°F(la -58°F-199.9°F), 1°F (la 58°-392°F)
+Timp masurare
+2.5 ori/secunda
+Alimentare
+3x3V baterii CR2450 (300 ore utilizare)
+Tensiune utilizare
+6.8 V - 10 V
+NOU
+0131-A120
+Luxmetru
+NOU
+• fotosenzorul se poate roti 90° in sensul acelor de ceasornic 
+si 180° in sens invesr acelor de ceasornic
+• functie data hold
+• buton schimbare Lux/FC
+• atenstionare nivel scazut al bateriei
+dimensiuni
+0131-A120
+185 x 68 x 38 mm
+.
+130
+746.55
+dimensiuni
+204 x 54 x 36 mm
+.
+172
+Acuratete
+1155.00
+0310-H26
+Temp. ambientala
+0°C~50°C / 32°F~122°F
+±(4%+10d), gama < 20000Lux / 2000FC
+±(5%+10d), gama ≥ 20000Lux / 2000FC
+(d este rezolutia, calibrata cu lampa 
+incandescenta la culoarea temperaturii 2856K)
+Temp. punct roua
+0°C~50°C / 32°F~122°F
+Gama masurare
+0.1-199.9Lux
+1-1999Lux
+10-19990Lux
+100-199900Lux
+Rezolutie
+Acuratete
+Umiditate
+Rezolutie
+Acuratete
+Oprire automata
+Port date
+Alimentare
+0.1°C/0.1°F
+± 0.1°C / ± 1.8°C
+0% RH ~ 80% RH
+0.1% RH
+±5.0% RH
+30 minute
+Bluetooth 4.0
+baterie 9 V
+Rezolutie
+Gama masurare
+Rezolutie
+Repetabilitate
+Timp masurare
+0.1 Lux
+1 Lux
+10Lux
+100Lux
+0.01-19.99FC
+0.1-199.9FC
+1-1999FC
+10-19990FC
+0.1FC
+0.1FC
+1FC
+10FC
+±2%
+0.5 s
+Temperatura operare
+0-40°C, 0-70%RH
+Temperatura depozitare
+-10-50°C, 0.80%RH
+Alimentare
+9°C

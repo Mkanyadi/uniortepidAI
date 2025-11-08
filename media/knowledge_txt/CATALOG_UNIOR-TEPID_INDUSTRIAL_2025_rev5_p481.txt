@@ -1,0 +1,105 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:481]
+353HD11
+Sistem recuperare apa
+• pentru suportul de gaurire D 150 cu baza de cauciuc
+Adaptoare pentru masini de carotat
+Accesorii
+383H
+384H
+392H
+441
+393H
+397H
+Descriere
+383H
+1/2" mama Prelungitor 200 mm pentru 
+carota 1/2" tata
+384H
+1-1/4" mama Prelungitor 300 mm pentru 
+carota 1-1/4" tata
+245.25
+438.20
+393H
+Bloc despartitor pentru cadru 354H / 355H
+1188.20
+397H
+Inel de eliberare rapida 1-1/4" pentru a facilita 
+dezasamblare
+63.11
+353HD11
+2006.23
+354HD21
+Sistem recuperare apa
+• pentru suportul de gaurire D 250 cu baza de cauciuc
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+354HD21
+2191.97
+355HD31
+Sistem recuperare apa
+• pentru suportul de gaurire D 350 cu baza de cauciuc
+369H
+381H
+1
+2
+1-1/4" tata
+1/2" tata
+1/2" mama
+1-1/4" tata
+Compatibil
+cu masinile HILTI
+DD80/100/110/120/130
+237.70
+631.80
+382H
+1/2" mama
+1-1/4" male
+Compatibil
+cu masinile HILTI
+DD160/250/400/750
+1054.75
+385H
+1/2" mama
+1-1/4" tata
+Compatibil cu masinile
+HILTI DD200/350/500
+1857.70
+390H
+1/2" mama
+1-1/4" mama
+237.70
+355HD31
+2823.61
+Baza de cauciuc
+• pentru sistemul de recuperare apa
+Sisteme de fixare
+353HD12
+354HD22
+355HD32
+Ø maxim
+D 150
+D 250
+D 350
+370H
+Ax de tensiomare
+223.11
+311.80
+431.15
+F71
+F71OF
+373H
+370H
+288.69
+373H
+Ancora cu un suport (max. 300mm)
+2675.08

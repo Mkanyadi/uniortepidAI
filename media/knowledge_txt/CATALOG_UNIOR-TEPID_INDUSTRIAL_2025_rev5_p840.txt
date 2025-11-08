@@ -1,0 +1,440 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:840]
+SCH2DF
+3250
+Freza din carbura solida Z-2 
+cu eliminarea aschiei in jos
+• conceput pentru: masini de frezat CNC pentru aplicatii general
+si finisaj perfect
+• potrivit pentru: formatizat si gaurit
+• SCH2D: spirala elicoidala, eliminare aschiei in sus pentru o
+finisare optima a panoului pe partea superioara
+Burghiu de precizie gauri mari,
+cu coada cilindrica
+• cu varf de centrare, doua muchii de taiere si o lama de taiere
+pe circumferinta
+• taiere pe dreapta
+• varianta forjata
+• pentru gauri de precizie in lemn si distrugerea nodurilor
+3650
+Burghiu pentru dopuri
+cu coada cilindrica
+• taiere pe dreapta
+• varianta forjata
+• pentru dopuri de lemn
+A
+D
+h
+H
+D
+A
+30
+  D          h           H          A           Z
+H
+A
+.
+t
+n
+i
+H
+ int.          A            H           Z
+8,0
+10,0
+12,0
+15,0
+16,0
+20,0
+22,0
+25,0
+26,0
+30,0
+35,0
+40,0
+11
+11
+13
+13
+13
+13
+13
+13
+13
+13
+16
+16
+140
+140
+140
+140
+140
+140
+140
+140
+140
+140
+160
+160
+4
+4
+4
+4
+4
+5
+5
+5
+5
+5
+5
+6
+206.72
+210.82
+225.74
+268.69
+288.85
+328.69
+360.66
+372.62
+405.41
+432.46
+481.31
+605.90
+36500500800
+36500501000
+36500501200
+36500501500
+36500501600
+36500502000
+36500502200
+36500502500
+36500502600
+36500503000
+36500503500
+36500504000
+P6
+Trusa burghie DIN 338, HSS, laminate,
+2,0-8,0 mm / 6 piese
+• burghie elicoidale cilindrice scurte pentru lemn, forma B, cu
+doua taisuri si varf de centrare conform DIN 1412 E, executie
+din otel crom-vanadiu, laminate si tratate termic, brunate, 
+cu suprafata cilindrica / fatete rectificate. 
+• taiere pe dreapta. Unghiul spirei 20-30° .  
+• destinate pentru gaurire in lemn de esenta moale si tare,
+lemn stratificat si panouri din lemn fara strat de acoperire, PAL .
+• se pot folosi atat pe masini de gaurit / utilaje stationare / fixe,
+cat si pe masini de gaurit portabile, electrice sau pneumatice 
+  D           A        H           Z
+8,0
+10,0
+12,0
+14,0
+15,0
+16,0
+18,0
+20,0
+22,0
+24,0
+25,0
+26,0
+28,0
+30,0
+32,0
+35,0
+38,0
+40,0
+45,0
+50,0
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+8
+10
+10
+10
+10
+10
+10
+90
+90
+90
+90
+90
+90
+90
+90
+90
+90
+90
+90
+90
+90
+90
+90
+90
+90
+90
+90
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+32500500800
+32500501000
+32500501200
+32500501400
+32500501500
+32500501600
+32500501800
+32500502000
+32500502200
+32500502400
+32500502500
+32500502600
+32500502800
+32500503000
+32500503200
+32500503500
+32500503800
+32500504000
+32500504500
+32500505000
+FB 5
+43.77
+46.07
+48.85
+50.82
+53.77
+55.08
+59.51
+62.13
+65.90
+68.85
+72.46
+73.93
+78.85
+82.13
+86.56
+96.39
+108.20
+112.30
+130.16
+153.93
+Set burghie de precizie gauri mari,
+cu coada cilindrica
+• cu varf de centrare, doua muchii de taiere
+• taiere pe dreapta
+• varianta forjata
+• pentru gauri de precizie in lemn
+13
+16
+17
+25
+32
+32
+42
+42
+52
+32
+42
+52
+52
+52
+52
+52
+72
+50
+50
+50
+60
+80
+80
+90
+90
+100
+80
+90
+100
+100
+100
+110
+120
+130
+8
+8
+8
+8
+8
+8
+8
+10
+10
+12
+12
+12
+14
+16
+18
+20
+20
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+229.18
+235.41
+255.41
+255.41
+287.87
+294.59
+348.85
+392.46
+420.49
+473.44
+498.36
+510.82
+735.08
+825.41
+1034.10
+1258.36
+1414.10
+3
+4
+5
+6
+7
+8
+8
+10
+10
+12
+12
+12
+14
+16
+18
+20
+20
+SCH2DFN135R
+SCH2DFN140R
+SCH2DFN145R
+SCH2DFN150R
+SCH2DFN155R
+SCH2DFN228R
+SCH2DFN232R
+SCH2DFN244R
+SCH2DFN248R
+SCH2DFN256R
+SCH2DFN260R
+SCH2DFN264R
+SCH2DFN276R
+SCH2DFN280R
+SCH2DFN284R
+SCH2DFN288R
+SCH2DFN292R
+SCH2XFN
+Freza din carbura solida Z-2 
+cu eliminarea aschiei in jos, coada
+cilindrica 8 mm
+• conceput pentru: masini de frezat CNC pentru aplicatii general
+si finisaj perfect
+• potrivit pentru: formatizat, gaurit si nesting
+• SCH2D: spirala elicoidala, eliminarea aschiei in sus pentru o
+finisare optima a panoului pe partea inferioara si superioara
+A
+D
+h
+H
+  D       h        H          A       hUP       Z
+SCH2XFN410R
+SCH2XFN350R
+SCH2XFN370R
+SCH2XFN444R
+SCH2XFN450R
+SCH2XFN455R
+8
+10
+12
+16
+18
+20
+32
+32
+42
+35
+55
+55
+70
+80
+100
+90
+110
+110
+8
+10
+12
+16
+20
+20
+10
+5
+5
+14
+24
+30
+2+2
+2+2
+2+2
+2+2
+2+2
+2+2
+342.62
+420.49
+563.77
+865.90
+1217.87
+1270.82
+32501450005
+15,0-30,0 / 5 piese
+506.89
+11001430006
+3052  (15 / 20 / 25 / 30 / 35 mm)
+6 piese
+2,0-8,0 mm / 6 piese
+39.02

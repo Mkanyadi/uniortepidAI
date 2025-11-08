@@ -1,0 +1,213 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:667]
+79914
+NOU
+NOU
+NOU
+Fierastrau sabie hidraulic pentru 
+mediu subacvatic 1,5 kW
+• EGA Master ofera o gama larga de scule pentru utilizare subacvatica
+printre care puteti gasi fierastraul sabie hidraulic, ideal pentru
+operatiuni subacvatice care necesita taierea tevilor, rezervoarelor,
+structurilor din otel, profilelor si a altor materiale.
+• acesta este un instrument ideal pentru taierea rapida a tevilor, 
+structurilor de otel, suruburilor, cuielor si a altor materiale in medii 
+subacvatice
+• esential pentru lucrari de imersie precum intretinerea si repararea 
+navelor, aparate plutitoare si instalatii scufundate, platforme petroliere 
+offshore, centrale hidraulice etc.
+• dimensiunea sa compacta permite taierea in spatii inguste
+• ofera cel mai bun raport putere-greutate
+• este capabil sa taie lemn de pana la 152 mm si metal pana la 19 mm
+79914
+ZONE 1, 2 GAZ
+6000
+42852.68
+Ex  II 2G Ex h IIB T5 Gb 
+140 bar
+trigger
+28 mm
+1500 rpm
+22-50 l/min
+1/2”FF
+1,5 kW
+89,4 db
+<2,5 m/s²
+12 mm
+6,1 kg
+RPM
+1500
+Categoria Atex
+Presiune de lucru
+Tip supapa
+Cursa
+Numar de lovituri
+Debit ulei
+Conexiune
+Putere
+Nivel de sunet
+Nivel de vibratii
+Furtun (Øint)
+Greutate
+79980
+NOU
+Fierastrau hidraulic cu lant pentru 
+mediu subacvatic 7,7 kW
+• EGA Master ofera o gama larga de scule pentru utilizare subacvatica
+printre care puteti gasi fierastraul cu lant hidraulic, ideal pentru
+operatiuni subacvatice
+• esential pentru lucrari de imersie precum intretinerea si repararea 
+navelor, aparate plutitoare si instalatii scufundate, platforme petroliere 
+offshore, centrale hidraulice etc.
+• dimensiunea sa compacta permite taierea in spatii inguste
+• ofera cel mai bun raport putere-greutate
+79980
+ZONE 1, 2 GAZ
+79789.92
+RPM
+5000
+Categoria Atex
+Presiune de lucru
+Turatie mars in gol
+Debit ulei
+Conexiune
+Putere
+Nivel de sunet
+Nivel de vibratii
+Furtun (Øint)
+Greutate
+10500
+Ex II 2G c IIB T5 
+140-200 bar
+5000 rpm
+40-50 l/min
+1/2”FF
+7,7 kW
+85 db
+<3,6 m/s²
+12 mm
+10,5 kg
+Bara lant
+• esential pentru lucrari de imersie precum intretinerea si repararea 
+navelor, aparate plutitoare si instalatii scufundate, platforme petroliere 
+offshore, centrale hidraulice etc.
+Protectie lant
+• esential pentru lucrari de imersie precum intretinerea si repararea 
+navelor, aparate plutitoare si instalatii scufundate, platforme petroliere 
+offshore, centrale hidraulice etc.
+74752
+79981
+79983
+74755
+74770
+Produs
+Sina 27 mm
+Sina 43 mm
+Sina 63 mm
+Sina 73 mm
+Sina 103 mm
+4734.22
+4103.13
+6961.78
+12444.56
+14825.25
+NOU
+Lant
+• esential pentru lucrari de imersie precum intretinerea si repararea 
+navelor, aparate plutitoare si instalatii scufundate, platforme petroliere 
+offshore, centrale hidraulice etc.
+74785
+79984
+79920
+Produs
+43 mm
+63 / 73 mm
+813.21
+1331.02
+NOU
+Masina de carotat hidraulica pentru 
+mediu subacvatic 2,8 kW
+• EGA Master produce o gama larga de unelte subacuatice (subacvatice)
+masina de carotat hidraulica este una dintre ele
+• permite realizarea de foraje subacvatice rapide si precise, pe multe 
+suprafete de materiale diferite: piatra, caramida, beton
+• 3 viteze de gaurire
+• echipata cu un ambreiaj de siguranta care protejeaza impotriva
+supraincarcarilor si blocajelor
+• manerul lateral reglabil la 360º permite lucrul in diferite pozitii
+• control auto-reglabil al debitului de ule
+ZONE 1, 2 GAZ
+RPM
+79920
+380 / 900 / 1800
+8500
+57533.85
+Presiune de lucru
+Trepte turatie
+Cuplu
+Carote standard
+Debit ulei
+Conexiune
+Putere
+Lungime
+Greutate
+140 bar
+380/900/1800 rpm
+60/38/17 Nm
+160 mm
+22-45 l/min
+1/2”FF
+2,8 kW
+480 mm
+8,5 kg
+74354
+74359
+79986
+74362
+74369
+Produs
+27 mm
+43 mm
+63 mm
+73 mm
+103 mm
+3263.58
+2930.27
+3462.84
+3787.52
+5004.83
+NOU
+Lant cu dinti diamantati
+• esential pentru lucrari de imersie precum intretinerea si repararea 
+navelor, aparate plutitoare si instalatii scufundate, platforme petroliere 
+offshore, centrale hidraulice etc.
+Produs
+Lant cu dinti Diamont 43 cm
+Lant cu dinti Diamont 43cm Universal
+Lant cu dinti Diamont 43cm Durata mare
+79982
+74405
+74624 
+27443.16
+29434.25
+28135.56
+NOU
+Lant cu dinti din carbura
+• esential pentru lucrari de imersie precum intretinerea si repararea 
+navelor, aparate plutitoare si instalatii scufundate, platforme petroliere 
+offshore, centrale hidraulice etc.
+74372
+74375
+79985
+74393
+74996
+Produs
+27 mm
+43 mm
+63 mm
+73 mm
+103 mm
+9126.07
+10244.31
+17855.30
+20549.80
+21816.02

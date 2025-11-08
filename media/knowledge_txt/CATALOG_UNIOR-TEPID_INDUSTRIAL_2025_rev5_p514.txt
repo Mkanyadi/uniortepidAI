@@ -1,0 +1,402 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:514]
+4802
+Tarod combinat STI HSS-G special pentru bujii
+• pentru repararea firelor de bujie
+• pentru utilizare manuala si pe masini
+• cu varf de ghidaj
+• nu este nevoie de pre-gaurire
+• diametru varf: 14 mm
+• diametru corp: 15,6 mm
+• diametru coada: 12 mm
+• lungime varf: 10 mm
+4700
+Instrument de montat insertii
+• pentru montarea insertiilor din otel inoxidabil
+M
+MF
+UNC
+UNF
+BSW
+M
+HSS
+G
+48021101412
+          M filet           Pas    Diam gaura      Lungime    L filet          Patrat
+9,2
+MF 14
+1,25
+45
+90
+-
+249.84
+1121
+Burghie cilindrice scurte pentru metal DIN 338, 
+tip N, 118°, HSS-G rectificate
+• burghie cilindrice scurte pentru metal, conform DIN 338, tip N, unghi de ascutire 118°
+• material HSS-G, tratate, rectificate
+• taiere pe dreapta
+• unghiul spirei 20-30°
+• toleranta diametrului h8
+• de la Ø 2 mm cu ascutire suplimentara pe fata de asezare si micsorarea taisului transversal,
+conform DIN 1412 C, pentru o aschiere mai usoara / micsorarea fortei de aschiere si o gaurire
+mai rapida
+• destinate pentru gaurire in oteluri ne aliate si slab aliate, cu σr≤800 N/mm², gaurire in
+fonte si materiale neferoase (aliaje de aluminiu, cupru si bronzuri), mase plastice, materiale 
+sinterizate diverse (nu in piese sinterizate din pulberi de oteluri sau din carburi metalice)
+• recomandabil a se pot folosi pe masini de gaurit, utilaje stationare si fixe si numai ocazional
+pe masini de gaurit portabile, electrice sau pneumatice
+4
+M 3 x 0.50
+Nr.          M / MF               UNC                UNF          BSW
+Nr. 4 x 40
+Nr. 5 x 40
+Nr. 8 x 32
+Nr. 12 x 24
+1/4" x 20
+-
+Nr. 8 x 36
+Nr. 10 x 32
+1/4" x 28
+5/16" x 24
+-
+-
+1/4" x 20
+-
+Nr. 4 x 48
+1/8" x 40
+6
+8
+9
+11
+-
+3/4" x 24
+-
+54.59
+54.59
+54.59
+54.59
+55.74
+60.00
+1/2" x 13
+1/2" x 20
+1/2" x 12
+78.85
+9/16" x 12
+9/16" x 18
+9/16" x 12
+94.10
+5/8" x 11
+5/8" x 18
+5/8" x 11
+103.61
+3/4" x 10
+-
+3/4" x 10
+103.61
+-
+3/4" x 16
+-
+103.61
+7/8" x 9
+7/8" x 14
+7/8" x 9
+130.49
+1" x 8
+1" x 12
+1" x 8
+130.49
+47001500004
+47001500006
+47001500008
+47001500009
+47001500011
+47001500013
+47001500015
+13
+15
+47001500016
+16
+18
+20
+21
+22
+23
+47001500018
+47001500020
+47001500021
+47001500022
+47001500023
+4701
+M 4 x 0,70
+M 5 x 0,80
+M 6 x 1,00
+M 8 x 1,25
+M 8 x 1,00
+M 10 x 1,00
+M 10 x 1.25
+M 10 x 1,50
+M 12 x 1,00
+M 12 x 1,25
+M 12 x 1,50
+M 12 x 1,75
+M 14 x 1,00
+M 14 x 1,25
+M 14 x 1,50
+M 14 x 2,00
+M 16 x 1,50
+M 16 x 2,00
+M 18 x 1,50
+M 18 x 2,00
+M 18 x 2,50
+M 20 x 1,50
+M 20 x 2,00
+M 20 x 2,50
+M 22 x 1,50
+M 22 x 2,00
+M 22 x 2,50
+M 24 x 1,50
+M 24 x 2,00
+M 24 x 3,00
+Pin rupere terminal insertii
+• pentru inlaturarea terminatiei sarmei de insertie (numai pana la M12)
+• pentru dimensiuni mai mari de M12 precum si pentru filetele de bujii, folositi 
+un cleste de varf lung pentru a indeparta coada insertiei
+11210100320
+11210100420
+11210100520
+11210100630
+11210100830
+11210101030
+11210101040
+11210101230
+11210101240
+11210111430
+11210111440
+11210111450
+11210111640
+11210111650
+11210111850
+11210111860
+11210112050
+11210112060
+11210112250
+11210112260
+11210112450
+11210112475
+Ø        L            l           Ø x L                   pentru filet                Amb
+10
+10
+10
+10
+10
+5
+5
+5
+5
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+M 3 x 0,50
+M 4 x 0,70
+M 5 x 0,80
+M 6 x 1,00
+M 8 x 1,00 / M 8 x 1,25
+M 10 x 1,00 / M 10 x 1,25
+M 10 x 1,50
+M 12 x 1,00 / M 12 x 1,25
+M 12 x 1,75 / M 12 x 1,50
+M 14 x 1,00
+M 14 x 1,25 / M 14 x 1,50
+M 14 x 2,00
+M 16 x 1,50
+M 16 x 2,00
+M 18 x 1,50 / M 18 x 2,00
+M 18 x 2,50
+M 20 x 1,50 / M 20 x 2,00
+M 20 x 2,50
+M 22 x 1,50 / M 22 x 2,00
+M 22 x 2,50
+M 24 x 1,50 / M 24 x 2,00
+M 24 x 3,00
+cil.
+cil.
+cil.
+cil.
+cil.
+cil.
+cil.
+cil.
+cil.
+13 x 30
+13 x 30
+13 x 30
+13 x 35
+13 x 35
+13 x 35
+13 x 35
+13 x 40
+13 x 40
+13 x 40
+13 x 40
+13 x 40
+13 x 40
+65
+75
+86
+101
+117
+133
+133
+151
+151
+169
+169
+169
+184
+184
+198
+198
+225
+225
+230
+230
+250
+250
+36
+43
+52
+63
+75
+87
+87
+101
+101
+114
+114
+114
+125
+125
+135
+135
+145
+145
+155
+155
+160
+160
+3,20
+4,20
+5,20
+6,30
+8,30
+10,30
+10,40
+12,30
+12,40
+14,30
+14,40
+14,50
+16,40
+16,50
+18,50
+18,60
+20,50
+20,60
+22,50
+22,60
+24,50
+24,75
+6.39
+9.34
+13.28
+16.56
+28.85
+48.20
+48.20
+73.61
+73.61
+149.51
+149.51
+149.51
+190.00
+190.00
+232.46
+236.23
+238.85
+245.74
+262.46
+267.70
+282.13
+289.34
+47011500004
+47011500006
+47011500008
+47011500009
+47011500011
+47011500013
+47011500015
+M
+MF
+UNC
+UNF
+BSW
+4
+M 3 x 0.50
+Nr.          M / MF               UNC                UNF          BSW
+Nr. 4 x 40
+Nr. 5 x 40
+Nr. 8 x 32
+Nr. 12 x 24
+1/4" x 20
+-
+Nr. 8 x 36
+Nr. 10 x 32
+1/4" x 28
+5/16" x 24
+-
+-
+1/4" x 20
+-
+Nr. 4 x 48
+1/8" x 40
+6
+8
+9
+11
+-
+3/4" x 24
+-
+22.95
+22.95
+22.95
+22.95
+26.07
+26.07
+1/2" x 13
+1/2" x 20
+1/2" x 12
+31.48
+M 4 x 0,70
+M 5 x 0,80
+M 6 x 1,00
+M 8 x 1,25
+M 8 x 1,00
+M 10 x 1,00
+M 10 x 1.25
+M 10 x 1,50
+M 12 x 1,00
+M 12 x 1,25
+M 12 x 1,50
+M 12 x 1,75
+13
+15

@@ -1,0 +1,176 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:206]
+596.2PLUS/7
+Cutite de schimb pentru 
+art. 596PLUS/6G
+•  elemente de schimb incluzand:2 cutite, 4 saibe plate, 
+4 suruburi, 4 piulite
+596/6B
+Cleste de buloane indoit
+•  material: cutite-otel special, forjat, tratate
+•  partea de taiere tratata prin inductie
+•  manere din teava, vopsie, manere din plastic 
+pentru conditii grele
+Avantaje:
+•  Sistemul de absortie socuri din articulatie asigura 
+absortia socurilor in manere, aceasta la taierea 
+fierului beton.
+•  Protectia suruburilor excentrice pentru reglarea 
+lamelor prin locasuri forjate asigura protectia 
+100% impotriva desurubarii
+615260
+615261
+750
+900
+116
+126
+ 1E 
+ 1E 
+1
+1
+172.13
+232.46
+CLESTI DE BULOANE CU FALCI DE TAIERE
+TRIUNGHIULARE INTERSCHIMBABILE
+3
+Falca triunghiulara. Durata de viata de 3 ori mai lunga.
+L
+A
+B C
+610975 450 34
+610976 600 36
+70
+84
+29
+32
+1500
+2600
+ 1D 
+ 1D 
+1
+1
+393.11
+509.51
+MODIFICARILE PRODUSULUI
+capacitatea de taiere (10N=1kg)
+Geometria taisului a fost modificata, ceea ce imbunatateste forta 
+de taiere si reduce tendinta ca taisurile sa se incruciseze in timpul 
+taierii. Modificarea reduce uzura muchiilor de taiere si permite mai 
+multe taieturi, prelungind durata de functionare a sculei. Datorita 
+geometriei modificate, este necesara mai putina forta si efort in 
+timpul taierii.
+L
+max 1600 N/mm²
+max 650 N/mm²
+610975 450
+610976 600
+5
+7
+8
+10
+596.1/7B
+Elemente de shimb pentru 
+art. 595/6B
+•  falca+suruburi+2 piulite
+596PLUS/6G
+Cleste de buloane cu cutite 
+triunghiulare ascutite 
+interschimbabile
+•  material: cutite-otel special, forjat, tratate
+•  falci interschimbabile cu reglare in trei pozitii
+•  manere din teava, vopsie, manere din plastic 
+pentru conditii grele
+Avantaje:
+•  strangere extrema si greutate minima
+•  rezistenta importanta la forte maxime generata 
+in timpul taierii.
+•  rezistenta completa anticoroziune
+•  ghidare simpla si manuire buna
+•  absorbant de soc pentru prevenirea incidentelor
+•  lama triunghiulara-durata de viata de 3 ori mai 
+mare
+Cum se regleaza partea taietoare?
+•  Deblocati piulita de siguranta.
+•  Scoateti surubul din locas si rotiti-l pana nu mai 
+exista spatiu intre partile taietoare.
+•  Asigurati piulita.
+L
+615256 750
+615257 900
+A
+43
+47
+B C
+96
+46 4060
+109 50 6300
+ 1D 
+ 1D 
+1
+1
+766.07
+1034.26
+capacitatea de taiere (10N=1kg)
+L
+max 1600 N/mm²
+max 650 N/mm²
+615256 750
+615257 900
+8
+9
+13
+16
+596.1PLUS/7
+Falci de schimb pentru 
+art. 596PLUS/6G
+•  falca+suruburi+2 piulite
+610977
+610978
+450
+600
+542
+858
+ 1E 
+ 1E 
+1
+1
+244.75
+338.52
+615258
+615259
+750
+900
+1468
+1956
+ 1E 
+ 1E 
+1
+1
+421.48
+535.41
+596.3PLUS/7
+Cutit de schimb pentru 
+art. 596 PLUS/6G
+•  parti de schimb incluzand 1 cutit de taiere
+GEOMETRIE
+ANTERIOARA
+GEOMETRIE
+ACTUALA
+Modificarea securizarii piulitei - acum piulita este presata, inainte 
+fiind asigurata numai cu o saiba. Fixarea este controlata, ceea ce 
+inseamna ca piulita este mai bine fixata chiar si in conditii de 
+utilizare extreme.
+616521
+616522
+750
+900
+22
+28
+ 1E 
+ 1E 
+1
+1
+80.66
+106.56
+Modificarea miscarii falcilor de taiere - fixarea imbunatatita a 
+suruburilor permite un control mai bun al miscarii falcilor - forta 
+necesara pentru a deschide / inchide clestele este redusa.

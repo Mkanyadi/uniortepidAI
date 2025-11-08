@@ -1,0 +1,93 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:293]
+ISR-C002
+Rugozimetru digital
+• masoara 21 parametri de rugozitate
+• conectare la imprimanta prin USB
+• afisare valoare rugozitate, profil si curba
+• software pentru PC (pentru prelucrarea datelor la calculator)
+• memorie pentru 100 valori masurate
+• inchidere automata
+Caracteritici tehnice:
+• parametrii: Ra, Rz, Rq, Rv, Rp, RS, R3z, R3y, Rt, Rz (JIS), Rk, Rk, Rsm, Rpc, Rkk, 
+Rvk, Rsk, M1, M2, Ry (JIS), Rmax
+• interval: 160 μm
+• acuratete: ± 10%
+• rezolutie (Ra): 0,001 μm
+• tip sonda: inductiv
+• raza / unghi sonda: 5 μm / 90°
+• material sonda: diamant
+• forta de masurare: 4 Nm
+• unitati de masura: μm / μin
+• decupare: 0.25 / 0.8 / 2.5 mm
+• numar de intreruperi: de la 1 la 5
+• viteza de traversare: 0.5 mm/s, 1mm/s
+• memorie: 100 de rezultate de masurare
+• iesire: USB
+• alimentare: baterie incorporata
+• dimensiuni: 141x55x40 mm
+• greutate: 400 g
+Set de livrare:
+•  manual de utilizare
+•  surubelnita
+•  sonda standard
+•  bloc de calibrare si suport
+•  stand ajustabil
+• cablu USB si Software pentru PC
+• incarcator AC/DC
+• rugozimetru
+• certificat de inspectie de la producator
+ISR-C002-STAND1
+Stand pentru rugozimetru digital C002
+• inaltime maxima piesa: 220 mm
+ISR-C002-STAND1 
+                    Inaltime maxima piesa
+                          220 mm  
+                    4986.30
+7513-4
+Lupa, marire 4X, cu LED
+• rama si maner din plastic
+• butoane: ON/ OFF pentru aprindere / stingere LED-uri
+• functioneaza cu 3 baterie  AAA
+rezultat masurare
+analiza Rmr
+profil rugozitate
+          interval           acuratete             dimensiuni           greutate
+ISR-C002
+160 μm
+ ± 10%
+141x55x40 mm
+400 g
+10974.74
+ISQ-DRM31
+Refractometru digital pentru lichid racire 0-50%
+• pentru masurarea rapida a concentratiei lichidului de racirei
+• două moduri de masurare: masurare simpla si masurare automata medie multipla
+• respectati factorul de refractie al lichidului de racire (exemplu: factorul de refractie al 
+lichidului de racire este 2,1, valoarea de citire este de 6%, deci concentratia reala este 
+(2,1 × 6%) = 12,6%)
+•  oprire automata
+•  alimentare: 1 x baterie AAA
+•  acuretete: ±0.2% (±0.0003RI)
+•  pipeta iclusa
+                    Marire   
+7513-4 
+  4x   
+Diametru
+                           Ø50 mm 
+                        63.42
+7515-10
+Lupa pliabila cu LED
+• lantile din sticla
+• prevazuta cu LED
+• baterii 3 x LR927
+Gama de masurare             Citire             Dimensiune      Greutate
+ISQ-DRM31 0 - 50% (1.3330-1.4200RI)
+0.1% (0.0001RI)
+121 x 58 x 25
+90
+3006.44
+            Marire                                 Diametru
+7515-10
+10X
+21 mm
+75.71

@@ -1,0 +1,173 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:656]
+58670
+NOU
+58671
+NOU
+58672
+NOU
+Cuplaj rapid de siguranta 1/4” mama
+tip olandez
+• conexiune: 1/4" mama
+• greutate: 70 g
+• debit maxim: 1558 L/Min
+• presiune maxima de lucru: 10 bar
+• temperatura de lucru: -20 ~ 80ºC 
+Cuplaj rapid de siguranta 1/4” tata
+tip olandez
+• conexiune: 1/4" tata
+• greutate: 60 g
+• debit maxim: 1558 L/Min
+• presiune maxima de lucru: 10 bar
+• temperatura de lucru: -20 ~ 80ºC 
+Cuplaj rapid de siguranta 10 mm
+tip olandez
+• conexiune: 10 mm
+• greutate: 60 g
+• debit maxim: 1558 L/Min
+• presiune maxima de lucru: 10 bar
+• temperatura de lucru: -20 ~ 80ºC 
+Debit maxim Presiune max.
+Debit maxim Presiune max.
+Debit maxim Presiune max.
+58670
+F1/4" 1558 l/min
+10 bar
+70
+199.37
+58671 M1/4" 1558 l/min
+12 bar
+60
+196.31
+58672 M1/4" 1558 l/min
+12 bar
+65
+202.84
+58673
+NOU
+58674
+NOU
+58675
+NOU
+Cuplaj rapid de siguranta 1/4” mama
+tip spaniol si nord american
+• conexiune: 1/4" mama
+• greutate: 70 g
+• debit maxim: 1558 L/Min
+• presiune maxima de lucru: 10 bar
+• temperatura de lucru: -20 ~ 80ºC 
+Cuplaj rapid de siguranta 1/4” tata
+tip spaniol si nord american
+• conexiune: 1/4" tata
+• greutate: 60 g
+• debit maxim: 1558 L/Min
+• presiune maxima de lucru: 10 bar
+• temperatura de lucru: -20 ~ 80ºC 
+Cuplaj rapid de siguranta 10 mm
+tip spaniol si nord american
+• conexiune: 10 mm
+• greutate: 60 g
+• debit maxim: 1558 L/Min
+• presiune maxima de lucru: 10 bar
+• temperatura de lucru: -20 ~ 80ºC 
+Debit maxim Presiune max.
+Debit maxim Presiune max.
+Debit maxim Presiune max.
+58673
+F1/4" 1558 l/min
+10 bar
+70
+199.37
+58674 M1/4" 1558 l/min
+12 bar
+60
+196.31
+58675 M1/4" 1558 l/min
+12 bar
+65
+202.84
+58676
+NOU
+58677
+NOU
+58678
+NOU
+Cuplaj rapid de siguranta 1/4” mama
+tip german
+• conexiune: 1/4" mama
+• greutate: 70 g
+• debit maxim: 1558 L/Min
+• presiune maxima de lucru: 10 bar
+• temperatura de lucru: -20 ~ 80ºC 
+Cuplaj rapid de siguranta 1/4” tata
+tip german
+• conexiune: 1/4" tata
+• greutate: 60 g
+• debit maxim: 1558 L/Min
+• presiune maxima de lucru: 10 bar
+• temperatura de lucru: -20 ~ 80ºC 
+Cuplaj rapid de siguranta 10 mm
+tip german
+• conexiune: 10 mm
+• greutate: 60 g
+• debit maxim: 1558 L/Min
+• presiune maxima de lucru: 10 bar
+• temperatura de lucru: -20 ~ 80ºC 
+Debit maxim Presiune max.
+Debit maxim Presiune max.
+Debit maxim Presiune max.
+58676
+F1/4" 1558 l/min
+10 bar
+70
+199.37
+58677 M1/4" 1558 l/min
+12 bar
+60
+196.31
+58678 M1/4" 1558 l/min
+12 bar
+65
+202.84
+58679
+NOU
+58680
+NOU
+58681
+NOU
+Cuplaj rapid de siguranta 1/4” mama
+tip japonez
+• conexiune: 1/4" mama
+• greutate: 70 g
+• debit maxim: 1558 L/Min
+• presiune maxima de lucru: 10 bar
+• temperatura de lucru: -20 ~ 80ºC 
+Cuplaj rapid de siguranta 1/4” tata
+tip japonez
+• conexiune: 1/4" tata
+• greutate: 60 g
+• debit maxim: 1558 L/Min
+• presiune maxima de lucru: 10 bar
+• temperatura de lucru: -20 ~ 80ºC 
+Cuplaj rapid de siguranta 10 mm
+tip japonez
+• conexiune: 10 mm
+• greutate: 60 g
+• debit maxim: 1558 L/Min
+• presiune maxima de lucru: 10 bar
+• temperatura de lucru: -20 ~ 80ºC 
+Debit maxim Presiune max.
+Debit maxim Presiune max.
+Debit maxim Presiune max.
+58679
+F1/4" 1558 l/min
+10 bar
+70
+206.47
+58680 M1/4" 1558 l/min
+12 bar
+60
+203.91
+58681 M1/4" 1558 l/min
+12 bar
+65
+216.47

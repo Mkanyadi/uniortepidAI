@@ -1,0 +1,510 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:929]
+621VDETBI
+Surubelnite profil TORX®
+cu lama izolata la 1000 V
+•  lama: otel crom vanadium molibden tratata 
+integral
+•  capat brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul EN 60900:2004
+Surubelnite profil TORX®
+cu lama izolata la 1000 V
+Surubelnite profil hexagonal
+cu lama izolata la 1000 V
+NOU
+NOU
+•  lama: otel crom vanadium molibden tratata  integral
+•  capat brunat
+•  maner: forma ergonomica
+•  conform DIN 7437
+•  cap rotitor
+•  in concordanta cu standardul EN 60900
+•  lama: otel crom vanadium molibden tratata  integral
+•  capat brunat
+•  maner: forma ergonomica
+•  conform DIN 7437
+•  cap rotitor
+•  in concordanta cu standardul EN 60900
+C
+L
+C
+L
+616454 TX 10 60
+616455 TX 15 80
+616456 TX 20 80
+616457 TX 25 80
+140
+180
+180
+180
+616458 TX 27 100 210
+616459 TX 30 100 210
+35
+37
+43
+63
+76
+98
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+10
+10
+10
+33.61
+36.89
+39.02
+47.54
+52.30
+61.80
+Suprafata maximala de contact a mainii = 
+valoare de cuplu superioara
+Conceptia ergonomica a manerului = 
+protejarea mainii
+630VDE
+Surubelnita detectoare 
+220-250 V
+•  dimensiune 140 cu agatatoare
+C
+L
+a x b
+C
+L
+617659 0.5 x 3.0 60
+617660 0.6 x 3.5 90
+140
+180
+13
+24
+ 4A 
+ 4A 
+10
+10
+13.93
+18.85
+71.39
+71.39
+71.39
+71.39
+71.39
+71.39
+81.50
+85.66
+86.70
+91.76
+111.47
+133.92
+144.41
+NOU
+A
+Ø1
+Ø2
+Ø3
+L1
+L2
+L
+76638
+76639
+76640
+76641
+T-6
+T-7
+T-8
+T-9
+4,4
+4,4
+4,4
+4,4
+76642
+T-10
+4,4
+76643
+T-15
+5,8
+76644
+T-20
+5,8
+76645
+T-25
+6,4
+8
+8
+5
+5
+5
+8
+8
+8
+76646
+T-27
+6,4
+9,6
+76647
+T-30
+7,4
+9,6
+76648
+T-40
+8,7
+12,3
+76649
+T-45
+9,4
+12,3
+76650
+T-50
+11,4
+15
+26
+26
+26
+26
+26
+34
+34
+34
+34
+36
+40
+40
+40
+50
+50
+50
+75
+75
+75
+85
+85
+85
+85
+85
+105
+100
+105
+100
+105
+115
+105
+125
+115
+125
+128
+150
+128
+175
+128
+135
+135
+135
+160
+160
+180
+205
+205
+220
+240
+255
+280
+305
+Surubelnite profil TORX®
+TEMPER cu lama izolata
+la 1000 V
+•  lama: otel crom vanadium molibden tratata  integral
+•  capat brunat
+•  maner: forma ergonomica
+•  conform DIN 7437
+•  cap rotitor
+•  in concordanta cu standardul EN 60900
+A
+Ø1
+Ø2
+Ø3
+L1
+L2
+L
+75037
+TT-6
+75038
+TT-7
+75039
+TT-8
+75040
+TT-9
+4,4
+4,4
+4,4
+4,4
+75041
+TT-10
+4,4
+75042
+TT-15
+5,8
+75043
+TT-20
+5,8
+75044
+TT-25
+6,4
+8
+8
+5
+5
+5
+8
+8
+8
+75045
+TT-27
+6,4
+9,6
+75046
+TT-30
+7,4
+9,6
+75047
+TT-40
+8,7
+12,3
+75048
+TT-45
+9,4
+12,3
+75049
+TT-50
+11,4
+15
+26
+26
+26
+26
+26
+34
+34
+34
+34
+36
+40
+40
+40
+50
+50
+50
+75
+75
+75
+85
+85
+85
+85
+85
+105
+100
+105
+100
+105
+115
+105
+125
+115
+125
+128
+150
+128
+175
+128
+135
+135
+135
+160
+160
+180
+205
+205
+220
+240
+255
+280
+305
+71.39
+71.39
+71.39
+71.39
+71.39
+71.39
+81.50
+85.66
+86.70
+91.76
+111.47
+133.92
+144.41
+74710
+2,5
+74711
+74712
+74713
+74714
+74715
+3
+4
+5
+6
+8
+Ø1
+Ø2
+Ø3
+4,4
+4,4
+5,8
+6,4
+7,8
+9,8
+6
+6
+8
+8
+11,2
+13,4
+26
+26
+26
+34
+34
+40
+L1
+75
+75
+100
+100
+125
+150
+L2
+85
+85
+85
+105
+105
+130
+L
+160
+160
+185
+205
+230
+280
+68.56
+72.72
+83.43
+89.68
+101.50
+124.48
+Surubelnita profil lat 
+cu lama izolata la 1000 V
+pentru electronisti
+•  lama: otel crom vanadium molibden tratata  integral
+•  capat brunat
+•  maner: forma ergonomica
+•  conform DIN 7437
+•  cap rotitor
+•  in concordanta cu standardul EN 60900
+A
+B
+Ø1
+Ø2
+L1
+L2
+L
+Ø3
+75156
+1.5
+0.23
+1.5
+75157
+1.8
+0.3
+75158
+2.0
+0.4
+75159
+2.5
+0.4
+75201
+3.0
+0.5
+1.8
+2.0
+2.5
+3.0
+3.1
+3.4
+3.6
+4.1
+4.6
+40
+100
+140
+60
+100
+160
+60
+100
+160
+75
+100
+175
+75
+100
+175
+19
+19
+19
+19
+19
+45.51
+45.51
+45.51
+45.51
+45.51
+Surubelnita profil Phillips
+cu lama izolata la 1000 V
+pentru electronisti
+•  lama: otel crom vanadium molibden tratata  integral
+•  capat brunat
+•  maner: forma ergonomica
+•  conform DIN 7437
+•  cap rotitor
+•  in concordanta cu standardul EN 60900
+Ø1
+Ø2
+L1
+L2
+L
+Ø3
+75202
+PH 00
+75203
+PH 0
+2.5
+3.0
+4.1
+4.6
+75
+100
+175
+75
+100
+175
+19
+19
+42.98
+42.98

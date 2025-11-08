@@ -1,0 +1,237 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:660]
+MASTEREX 76739
+NOU
+MASTEREX 79607 1"
+NOU
+MASTEREX 79609 1.1/2"
+NOU
+Masina pneumatica de insurubat cu
+impact 3/4”, 1350 Nm 
+• este esentiala pentru lucrul in zone periculoase precum minerit, lucru 
+in spatii restranse, lucrari subterane etc.
+• ideal pentru aplicarea unui cuplu ridicat la toate tipurile de elemente de
+fixare filetate cu o actiune simpla de declansare
+• chiar si elementele de fixare cu niveluri foarte ridicate de rugina pot fi
+stranse si slabite.
+Cheie dinamometrica pneumatica 1”
+4 bar: 650 Nm / 6 bar: 750 Nm
+• cheile dinamometrice EGA Master ATEX sunt folosite pentru a regla 
+cuplul elementelor filetate
+• au un mecanism care evita transferul unui cuplu suplimentar dupa 
+atingerea valorii dorite a cuplului.
+Cheie dinamometrica pneumatica 1”
+4 bar: 2800 Nm / 6 bar: 3600 Nm
+• cheile dinamometrice EGA Master ATEX sunt folosite pentru a regla 
+cuplul elementelor filetate
+• au un mecanism care evita transferul unui cuplu suplimentar dupa 
+atingerea valorii dorite a cuplului.
+ZONE M2 MINIERE
+76739
+Cuplu
+1350 Nm
+Presiune de lucru
+Patrat antrenare
+Cuplu maxim
+Pentru suruburi si piulite
+Racorduri
+Diamentru interior recomandat furtun
+Nivel zgomot
+Nivel vibratii
+Lungime
+Marcaje ATEX
+Greutate
+48047.02
+6400
+6 bar
+3/4” 
+1350 Nm
+M30 (46 mm AF)
+R 1/4"f
+13 mm
+96 dB
+<4,5 m/s²
+280 mm
+EX  I M2 c T6 
+6.4 kg
+MASTEREX 79725
+NOU
+Masina pneumatica de insurubat cu
+impact 3/4”, 1350 Nm 
+• este esentiala pentru lucrul in zone periculoase precum minerit, lucru 
+in spatii restranse, lucrari subterane etc.
+• ideal pentru aplicarea unui cuplu ridicat la toate tipurile de elemente de
+fixare filetate cu o actiune simpla de declansare
+• chiar si elementele de fixare cu niveluri foarte ridicate de rugina pot fi
+stranse si slabite.
+ZONE M2 MINIERE
+ZONE M2 MINIERE
+Cuplu
+Cuplu
+79607
+650 / 750 Nm
+7800
+87491.06
+79609
+2800 / 3600 Nm
+14900
+125076.39
+Presiune de lucru
+Patrat antrenare
+Acuratete
+Cuplu
+Consum aer
+Pentru suruburi si piulite
+Reversibila
+Racorduri
+Diamentru interior furtun
+Nivel zgomot
+Nivel vibratii
+Marcaje ATEX
+Greutate
+4/6 bar
+1” 
+±5-10% 
+4 bar: 650 Nm / 6 bar: 750 Nm
+4 bar: 0,55 m³/min / 6 bar: 0,75 m³/min
+M30 (46 mm AF)
+da
+Rd 32 x 1/8"
+10 mm
+86.4 dB
+<2,5 m/s²
+EX  I M2 c T6 
+7,8 kg
+Presiune de lucru
+Patrat antrenare
+Acuratete
+Cuplu
+Consum aer
+Pentru suruburi si piulite
+Reversibila
+Racorduri
+Diamentru interior furtun
+Nivel zgomot
+Nivel vibratii
+Marcaje ATEX
+Greutate
+4/6 bar
+1.1/2” 
+±5-10% 
+4 bar: 2800 Nm / 6 bar: 3600 Nm
+4 bar: 1,30 m³/min / 6 bar: 1,70 m³/min
+M48 (75 mm AF)
+da
+Rd 32 x 1/8"
+10 mm
+93 dB
+<2,5 m/s²
+EX  I M2 c T6 
+14,9 kg
+MASTEREX 79608 1"
+NOU
+MASTEREX 79616
+NOU
+Cheie dinamometrica pneumatica 1”
+4 bar: 1500 Nm / 6 bar: 1800 Nm
+• cheile dinamometrice EGA Master ATEX sunt folosite pentru a regla 
+cuplul elementelor filetate
+• au un mecanism care evita transferul unui cuplu suplimentar dupa 
+atingerea valorii dorite a cuplului.
+Fierastrau pneumatic cu banda 1 kW
+• proiectat pentru aplicatii miniere generale, este ideal pentru cea mai 
+grea utilizare in lucrari subterane, maritime, demolari in mare liber etc.
+• in medii umede nu prezinta risc de soc electric sau scurtcircuit.
+• este mai sigur de utilizat decat fierastraul electric in atmosfere cu risc 
+de explozie
+• are o capacitate de taiere de pana la 7”
+• carcasa din otel inoxidabil
+ZONE 1, 2 GAZ
+79725
+Cuplu
+610 Nm
+Presiune de lucru
+Patrat antrenare
+Cuplu maxim
+Pentru suruburi si piulite
+Racorduri
+Diamentru interior recomandat furtun
+Nivel zgomot
+Nivel vibratii
+Lungime
+Marcaje ATEX
+Greutate
+9306.39
+2500
+6 bar
+1/2” 
+610 Nm
+M20 (30 mm AF)
+R 1/4"f
+10 mm
+90 dB
+<2,6 m/s²
+- mm
+EX II 2G Ex h IIB T6 Gb
+2.5 kg
+ZONE M2 MINIERE
+ZONE M2 MINIERE
+Cuplu
+79608
+1500 / 1800 Nm
+8600
+90894.82
+Presiune de lucru
+Patrat antrenare
+Acuratete
+Cuplu
+Consum aer
+Pentru suruburi si piulite
+Reversibila
+Racorduri
+Diamentru interior furtun
+Nivel zgomot
+Nivel vibratii
+Marcaje ATEX
+Greutate
+4/6 bar
+1” 
+±5-10% 
+4 bar: 1500 Nm / 6 bar: 1800 Nm
+4 bar: 0,55 m³/min / 6 bar: 0,65 m³/min
+M30 (46 mm AF)
+da
+Rd 32 x 1/8"
+10 mm
+86.4 dB
+<2,5 m/s²
+EX  I M2 c T6 
+8,6 kg
+Putere
+79616
+1 kW
+Presiune de lucru
+Capacitate taiere
+Putere
+Material carcasa
+Consum aer
+Racorduri
+Diamentru interior furtun
+Nivel zgomot
+Nivel vibratii
+Dimensiuni
+Marcaje ATEX
+Greutate
+13000
+71132.74
+6 bar
+Ø180 mm/AxB=180x180 mm/AxB=7x7"
+1 kW 
+INOX
+1,2 m³/min 
+R 1/2"i
+13 mm
+81,7 dB
+<2,5 m/s²
+730 x 285 x 290 mm
+EX  I M2 c T6 
+13 kg

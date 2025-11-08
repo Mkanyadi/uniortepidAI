@@ -1,0 +1,260 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:219]
+730N
+Cheie dinamometrica cu capete interschimbabile
+MANOSKOP®
+• dreptunghi de antrenare 9x12 mm sau 14x18 mm
+• capetele interschimbabile (usor ajustabile, nu necesita dezasamblarea 
+  dispozitivului) pot si folosite si la aplicarea cuplului de forta in sens antiorar
+• cheie electronica cu capete intershimbabile cu masurare rapida, presetare 
+  exacta datorita optiunii de selectare rapida (QuikSelect)
+• semnal de oprire prin dubla avertizare sonora
+• scala dubla cu marcaje colorate diferit pentru N m/ft.lb si ft.lb/inch.lb.
+• se livreaza cu certificat de verificare emis de producator
+• precizie de masurare ±3%
+IST-SD
+Surubelnita dinamometrica digitala
+• functionare in sensul acelor de ceasornic si invers acelor de ceasornic
+• unitati: cN.m, in.lb, kg.cm
+• valoarea cuplului tinta poate fi setata, cu alarma sonora si vizuala:
+     - lumina LED verde aprinsa si sunet cand valoarea este de 90% -100% din cuplul tinta
+     - LED-ul rosu aprins si sunet atunci cand se atinge valoarea cuplului tinta
+• oprire automata in 5 minute fara nicio operatie
+• alimentare: 1 x AAA
+varf in cruce
+adaptor cu 
+eliberare rapida
+prindere 
+hexagonala 1/4”
+port
+calibrare
+butoane
+display LCD
+LED rosu
+alarma
+sonora
+LED verde
+SW 50181102
+SW 50181005
+SW 50181010
+SW 50181012
+SW 50181020
+SW 50181040
+-
+-
+-
+-
+-
+-
+4 - 20
+40-180 in·lb
+10 - 50
+7-37 ft·lb
+20 - 100
+15 - 75 ft·lb
+25 - 130
+20 - 95 ft·lb
+40 - 200
+30 - 150 ft·lb
+80 - 400
+60 - 300 ft·lb
+SW 50181065
+- 130 - 650
+100 - 480 ft·lb
+L
+275
+330
+386
+421
+467
+607
+890
+SW 50181080
+- 160 - 800
+120 - 600 ft·lb 1178
+SW 50181100
+- 200 - 1000
+150 - 750 ft·lb
+1363
+Antrenare
+9x12
+9x12
+9x12
+14x18
+14x18
+14x18
+14x18
+22x28
+22x28
+1
+1
+1
+1
+1
+1
+1
+1
+1
+737
+831
+988
+1128
+1264
+1655
+3231
+4825
+5000
+2646.81
+2715.13
+3030.95
+3210.20
+3457.92
+5037.38
+7513.31
+NOU
+9741.74
+NOU
+12166.55
+IST-11WM
+Cheie dinamometrica cu capete interschimbabile
+• functionare numai in sensul acelor de ceasornic
+• in conformitate cu DIN ISO 6789, ASME B107.300
+• constructie integral metalica, robusta si durabila
+cN.m
+IST-SD50
+10-50
+IST-SD200
+40-200
+IST-SD400
+80-400
+1/4”
+1/4”
+1/4”
+±3%
+±4%
+±2.5%
+±3.5%
+±2.5%
+±3.5%
+0.1
+0.1
+0.1
+L
+193
+203
+203
+190
+200
+200
+3727.50
+3727.50
+3727.50
+IST-WP
+Cheie dinamometrica digitala
+• functionare in sensul acelor de ceasornic si invers acelor de ceasornic
+• unitati: cN.m, in.lb, kg.cm
+• mod de lucru Peak si Track
+• valoarea cuplului tinta poate fi setata, cu alarma sonora si vizuala:
+     - lumina LED verde aprinsa si sunet cand valoarea este de 90% -100% din cuplul tinta
+     - LED-ul rosu aprins si sunet atunci cand se atinge valoarea cuplului tinta
+• oprire automata in 5 minute fara nicio operatie
+• maner antialunecare
+• protectie la suprasarcina (la atingerea de 110% din cuplul maxim)
+• alimentare: 1 x AAA
+cap
+antrenare
+inel reglare cuplu
+buton 
+schimbare sens
+valori cuplu
+prindere 
+patrat 1/4”
+port
+calibrare
+butoane
+display LCD
+LED rosu
+alarma
+sonora
+LED verde
+IST-11WM12
+IST-11WM30
+IST-11WM60
+IST-11WM125
+IST-11WM200
+IST-11WM335
+-
+-
+-
+-
+-
+-
+2.5 - 12
+±4%
+0.05
+6 - 30
+10 - 60
+25 - 125
+40 - 200
+±4%
+±4%
+±4%
+±4%
+65 - 335
+±4%
+0.1
+0.5
+0.5
+1
+1
+L
+284
+303
+372
+427
+460
+580
+720
+860
+940
+1060
+520
+1200
+Antrenare
+9x12
+9x12
+9x12
+9x12
+14x18
+14x18
+1
+1
+1
+1
+1
+1
+1312.50
+1344.00
+1375.50
+1144.50
+N.m
+1522.50
+IST-WP6
+1.2 - 6
+1659.00
+IST-WP20
+4 - 20
+1/4”
+1/4”
+±3%
+±4%
+0.001
+±3%
+±4%
+0.01
+L
+260
+260
+430
+430
+4567.50
+3087.00

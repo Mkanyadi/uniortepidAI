@@ -1,0 +1,285 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:603]
+IWB 550 L20
+NOU
+IWB 750 L20
+NOU
+ IWB 1000 L20
+NOU
+Masina de insurubat 1/2" cu impact 
+550 Nm cu acumulator Li-ion 18 V
+AVATAJELE PRODUSULUI
+• masina de insurubat de impact cu acumulator de 18 V cu motor 
+puternic fara perii si cuplu mare reglabil pana la 750 Nm.
+• 3 setari pentru viteza, impact si cuplu.
+• 0 – 1800 rpm / 300 Nm / 0 – 1800 ipm.
+• 0 – 2300 rpm / 450 Nm / 0 – 2200 ipm.
+• 0 – 2800 rpm / 550 Nm / 0 – 3000 ipm.
+• 2 moduri de slabire la 750 Nm: Mod continuu si slabire timp 
+de 1 secunda
+• motor puternic fara perii care permite cresterea eficientei, reducand
+semnificativ incalzirea si marind considerabil durata de viata a 
+motorului si durata bateriei.
+• baterie STAYER Li-ion HIGH-TECH, L20 cu protectie impotriva 
+suprasarcinii, descarcarea bateriei, supraincalzire, scurtcircuit. 
+LED indicator de incarcare.
+• ideal pentru montarea rotilor pe vehicule, precum si pentru constructa 
+de schele si structuri care trebuie insurubate direct in beton sau lemn.
+ • invelis de cauciuc anti-vibrati pe mâner, cap si corpul instrumentului 
+pentru o manevrare sigura si confortabila
+• frana electronica si ambreiaj de siguranta
+• clema convenabila pentru agatarea unealta pe centura intre lucrari.
+• lumina LED în zona de lucru.
+Masina de insurubat 1/2" cu impact 
+750 Nm cu acumulator Li-ion 18 V
+AVATAJELE PRODUSULUI
+• masina de insurubat de impact cu acumulator de 18 V cu motor 
+puternic fara perii si cuplu mare reglabil pana la 750 Nm.
+• 3 setari pentru viteza, impact si cuplu.
+• 0 – 1400 rpm / 300 Nm / 0 – 1600 ipm.
+• 0 – 1900 rpm / 500 Nm / 0 – 2000 ipm.
+•  0 – 2400 rpm / 750 Nm / 0 – 2400 ipm.
+• 2 moduri de slabire la 1000 Nm: Mod continuu si slabire timp 
+de 1 secunda
+• motor puternic fara perii care permite cresterea eficientei, reducand
+semnificativ incalzirea si marind considerabil durata de viata a 
+motorului si durata bateriei.
+• baterie STAYER Li-ion HIGH-TECH, L20 cu protectie impotriva 
+suprasarcinii, descarcarea bateriei, supraincalzire, scurtcircuit. 
+LED indicator de incarcare.
+• ideal pentru montarea rotilor pe vehicule, precum si pentru constructa 
+de schele si structuri care trebuie insurubate direct in beton sau lemn.
+ • invelis de cauciuc anti-vibrati pe mâner, cap si corpul instrumentului 
+pentru o manevrare sigura si confortabila
+• frana electronica si ambreiaj de siguranta
+• clema convenabila pentru agatarea unealta pe centura intre lucrari.
+• lumina LED în zona de lucru.
+Masina de insurubat 1/2" cu impact 
+1000 Nm cu acumulator Li-ion 18 V
+AVATAJELE PRODUSULUI
+• masina de insurubat de impact cu acumulator de 18 V cu motor 
+puternic fara perii si cuplu mare reglabil pana la 750 Nm.
+• 3 setari pentru viteza, impact si cuplu.
+• 0 – 1000 rpm / 650 Nm / 0 – 1200 ipm.
+• 0 – 1200 rpm / 800 Nm / 0 – 1500 ipm.
+• 0 – 1700 rpm / 1000 Nm / 0 – 2100 ipm
+• 2 moduri de slabire la 1300 Nm: Mod continuu si slabire timp 
+de 1 secunda
+• motor puternic fara perii care permite cresterea eficientei, reducand
+semnificativ incalzirea si marind considerabil durata de viata a 
+motorului si durata bateriei.
+• baterie STAYER Li-ion HIGH-TECH, L20 cu protectie impotriva 
+suprasarcinii, descarcarea bateriei, supraincalzire, scurtcircuit. 
+LED indicator de incarcare.
+• ideal pentru montarea rotilor pe vehicule, precum si pentru constructa 
+de schele si structuri care trebuie insurubate direct in beton sau lemn.
+ • invelis de cauciuc anti-vibrati pe mâner, cap si corpul instrumentului 
+pentru o manevrare sigura si confortabila
+• frana electronica si ambreiaj de siguranta
+• clema convenabila pentru agatarea unealta pe centura intre lucrari.
+• lumina LED în zona de lucru.
+Motor
+BRUSHLESS
+Motor
+BRUSHLESS
+Motor
+BRUSHLESS
+TORQUE
+WORK
+MODES
+LIGHT
+ROTATION
+ELECTRONIC
+TORQUE
+WORK
+MODES
+LIGHT
+ROTATION
+ELECTRONIC
+550 Nm
+3
+L.E.D
+REVERSIBLE
+SPEED
+CONTROLLER
+750 Nm
+3
+L.E.D
+REVERSIBLE
+SPEED
+CONTROLLER
+TORQUE
+WORK
+MODES
+LIGHT
+ROTATION
+ELECTRONIC
+1000 Nm
+3
+L.E.D
+REVERSIBLE
+SPEED
+CONTROLLER
+IWBL 1000 L20
+IWBL 1000 2014
+IWBL 1000 2024
+IWBL 1000 2025
+IWBL 1000 2026
+X
+1.2791
+1 x 4.0Ah
+1.2801
+2 x 4.0Ah
+1.2586
+2 x 5.0Ah
+1.2995
+2 x 6.0Ah
+1.3483
+Tensiune acumulator Li-ion
+Capacitate acumulator
+Turatii in gol
+Rata de impact
+Prindere patrat
+Cuplu de strangere
+Greutate
+X
+X
+2868.85
+3426.23
+3868.85
+4524.59
+4786.89
+18 V
+2.0 / 4.0 / 5.0 / 6.0 Ah
+0-1000 / 0-1200 / 0-1700 rpm
+0-1200 / 0-1500 / 0-2100 ipm
+1/2”F UNF
+650 / 800 / 1000 Nm
+5,5 kg
+IWBL 550 L20
+IWBL 550 2014
+IWBL 550 2024
+IWBL 550 2025
+IWBL 550 2026 
+X
+1.2853
+1 x 4.0Ah
+1.2973
+2 x 4.0Ah
+1.2974
+2 x 5.0Ah
+1.2975
+2 x 6.0Ah
+1.3481
+Tensiune acumulator Li-ion
+Capacitate acumulator
+Turatii in gol
+Rata de impact
+Prindere patrat
+Cuplu de strangere
+Greutate
+X
+X
+1311.48
+1868.85
+2377.05
+3016.39
+3262.30
+18 V
+2.0 / 4.0 / 5.0 / 6.0 Ah
+0-1800 / 0-2300 / 0-2800 rpm
+0-1800 / 0-2200 / 0-3000 ipm
+1/2”F UNF
+300 / 450 / 550 Nm
+1,47 kg
+RW L20
+Clichet 3/8" 60 Nm cu acumulator 
+Li-ion 18 V
+RW L20
+RW L2012 Set
+RW L2022 Set
+RW L2014 Set
+RW L2024 Set
+X
+1.3082
+1 x 4.0Ah
+1.3267
+2 x 4.0Ah
+1.3268
+1 x 4.0Ah
+1.3269
+2 x 4.0Ah
+1.3270
+Tensiune acumulator Li-ion
+Capacitate acumulator
+Turatii in gol
+Prindere patrat
+Cuplu de strangere
+Greutate
+X
+X
+672.13
+1000.00
+1278.69
+1229.51
+1672.13
+18 V
+2,0 / 4,0 / 5,0 Ah
+0 - 250 rpm
+3/8” UNF
+60 Nm
+1,31 kg
+IWB 750 L20
+IWB 750 L2014
+IWB 750 L2024
+IWB 750 L2025
+IWB 750 L2026
+X
+1 x 4.0Ah
+2 x 4.0Ah
+2 x 5.0Ah
+2 x 6.0Ah
+1.2845
+1.2978
+1.2979
+1.2980
+1.3272
+Tensiune acumulator Li-ion
+Capacitate acumulator
+Turatii in gol
+Rata de impact
+Prindere patrat
+Cuplu de strangere
+Greutate
+X
+X
+1721.31
+2278.69
+2721.31
+3377.05
+3639.34
+18 V
+2.0 / 4.0 / 5.0 / 6.0 Ah
+0-1400 / 0-1900 / 0-2400 rpm
+0-1600 / 0-2000 / 0-2400 ipm
+1/2”F UNF
+300 / 500 / 750 Nm
+2,0 kg
+NOU
+AVATAJELE PRODUSULUI
+• ideal pentru lucrari de mecanica si/sau auto.
+• adaptor cheie.
+• maneta de blocare.
+• acces facil la locuri mici.
+• declansator cu reglare pentru manevrarea usoara a sculei.
+• lumina LED care lumineaza zona de lucru.
+• acoperire din cauciuc pentru o mai bună aderenta
+NO LOAD
+SPEED
+MAX TORQUE
+INSERTION
+WEIGHT
+0-250 min-1
+60 Nm
+3/8”-1/4”
+1,3 kg
+Ø

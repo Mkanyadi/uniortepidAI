@@ -1,0 +1,399 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:388]
+Bit STANDARD 1/4"  DIN/ISO 1173 
+Forma C 6,3 profil ASSY® / AW
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+Bit STANDARD profil Phillips 
+cu prindere pe filet M4
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+Bit STANDARD profil Torx®
+cu prindere pe filet M5
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+Dimensiune         L
+25
+25
+25
+25
+25
+AW 10
+AW 20
+AW 25
+AW 30
+AW 40
+60293
+60294
+60295
+60296
+60297
+L
+vrac
+vrac
+vrac
+vrac
+vrac
+2.93
+2.93
+2.93
+2.93
+2.93
+60516
+60517
+Dimensiune         L 
+33
+33
+PH 1
+PH 2
+vrac
+vrac
+15.55
+15.55
+Bit STANDARD 1/4" DIN/ISO 1173 
+Forma C 6,3 profil Phillips cu coada 
+redusa pentru gips-carton
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+Bit STANDARD profil Phillips 
+cu prindere pe filet M5
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+Dimensiune         L 
+25
+PH 2
+01680
+vrac
+2.41
+L
+Bit STANDARD 1/4" DIN/ISO 1173 
+Forma C 6,3 profil Clutch
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+60518
+60519
+Dimensiune         L
+45
+45
+PH 1
+PH 2
+vrac
+vrac
+16.12
+16.12
+Bit STANDARD profil Pozidrive 
+cu prindere pe filet M4
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+Dimensiune         L
+25
+25
+25
+25
+25
+CG 3/32"
+CG 1/8"
+CG 5/32"
+CG 3/16"
+CG 1/4"
+60325
+60326
+60327
+60328
+60329
+L
+vrac
+vrac
+vrac
+vrac
+vrac
+2.93
+2.93
+2.93
+2.93
+2.93
+Bit STANDARD 1/4" DIN/ISO 1173
+Forma C 6,3 - profil Phillips cu
+limitator pentru gips-carton
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+60520
+60521
+Dimensiune         L  
+33
+33
+PZ 1
+PZ 2
+vrac
+vrac
+15.55
+15.55
+Bit STANDARD profil Pozidrive 
+cu prindere pe filet M5
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+Dimensiune         L 
+25
+PH 2
+60159
+vrac
+4.88
+60522
+60523
+Dimensiune         L 
+45
+45
+PZ 1
+PZ 2
+vrac
+vrac
+16.12
+16.12
+L
+Dimensiune         L
+45
+45
+45
+45
+45
+TX 08
+TX 10
+TX 15
+TX 20
+TX 25
+vrac
+vrac
+vrac
+vrac
+vrac
+17.44
+17.44
+17.44
+17.44
+17.44
+60524
+60525
+60526
+60527
+60528
+6614
+Bit cu profil TORX® prindere 
+hexagonala 10 mm
+Forma C10
+10 mm
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+12.62
+12.62
+12.62
+12.62
+12.62
+12.62
+12.62
+12.62
+14.92
+17.05
+19.02
+19.02
+19.02
+19.02
+19.02
+19.02
+19.02
+19.02
+21.48
+25.08
+TORX®                  L
+30
+TX 10
+30
+TX 15
+30
+TX 20
+30
+TX 25
+30
+TX 27
+30
+TX 30
+30
+TX 40
+30
+TX 45
+30
+TX 50
+30
+TX 55
+75
+TX 10
+75
+TX 15
+75
+TX 20
+75
+TX 25
+75
+TX 27
+75
+TX 30
+75
+TX 40
+75
+TX 45
+75
+TX 50
+75
+TX 55
+66141501030
+66141501530
+66141502030
+66141502530
+66141502730
+66141503030
+66141504030
+66141504530
+66141505030
+66141505530
+66141501075
+66141501575
+66141502075
+66141502575
+66141502775
+66141503075
+66141504075
+66141504575
+66141505075
+66141505575
+6615
+Bit cu profil TORX® cu gaura 
+(pentru pin de siguranta) 
+prindere  hexagonala 10 mm
+Forma C10
+66151501030
+66151501530
+66151502030
+66151502530
+66151502730
+66151503030
+66151504030
+66151504530
+66151505030
+66151505530
+66151501075
+66151501575
+66151502075
+66151502575
+66151502775
+66151503075
+66151504075
+66151504575
+66151505075
+66151505575
+TORX®                  L 
+TR 10
+30
+TR 15
+30
+TR 20
+30
+TR 25
+30
+TR 27
+30
+TR 30
+30
+TR 40
+30
+TR 45
+30
+TR 50
+30
+TR 55
+30
+TX 10
+75
+TX 15
+75
+TX 20
+75
+TX 25
+75
+TX 27
+75
+TX 30
+75
+TX 40
+75
+TX 45
+75
+TX 50
+75
+TX 55
+75
+10 mm
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+22.30
+22.30
+22.30
+22.30
+22.30
+22.30
+22.30
+22.30
+24.26
+25.90
+28.52
+28.52
+28.52
+28.52
+28.52
+28.52
+28.52
+28.52
+30.33
+33.44

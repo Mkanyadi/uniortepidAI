@@ -1,0 +1,159 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:933]
+603CS6AVT
+603CS6VDE
+Set de surubelnite izolate
+•  lama: otel crom vanadium molibden tratata integral 
+•  capat brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2 si 60900
+Set de surubelnite izolate
+•  lama: otel crom vanadium molibden tratata integral 
+•  capat brunat
+•  maner: forma ergonomica
+•  monomaterial
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2 si 60900
+620CS6VDETBI
+Set de surubelnite izolate
+profil hexagonal
+•  lama: otel crom vanadium molibden tratata integral 
+•  capat brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul 60900
+617653
+6
+457
+ 1G 
+1
+200.33
+ 603VDETBI  (0.4 x 2.5 x 75, 0.5 x 3.0 x 100, 
+617044
+6
+485
+ 1G 
+1
+162.30
+617048 2.5 - 8 / 6
+580
+ 1G 
+1
+416.23
+0.8 x 4.0 x 100, 1.0 x 5.5 x 125), 
+ 613VDETBI  (PH1 x 80, PH2 x 100)
+603CS6ATVT
+Set de surubelnite izolate si 
+tester de tensiune
+•  lama: otel crom vanadium molibden tratata integral 
+•  capat brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2 si 60900
+ 603VDE  (0.4 x 2.5 x 75, 0.8 x 4.0 x 100, 
+1.0 x 5.5 x 125, 1.2 x 6.5 x 150), 
+ 613VDE  (PH1 x 80, PH2 x 100)
+603CS6TVDE
+Set de surubelnite izolate si 
+tester de tensiune
+•  lama: otel crom vanadium molibden tratata integral 
+•  capat brunat
+•  maner: forma ergonomica
+•  monomaterial
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2 si 60900
+ 620VDETBI  (2.5, 3, 4, 5, 6, 8)
+621CS6VDETBI
+Set de surubelnite izolate
+profil TORX®
+•  lama: otel crom vanadium molibden tratata integral 
+•  capat brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul 60900
+617654
+6
+430
+ 1G 
+1
+187.87
+ 603VDETBI  (0.5 x 3.0 x 100, 0.8 x 4.0 x 100, 
+1.0 x 5.5 x 125), 
+PH2 x 100), 
+ 613VDETBI  (PH1 x 80, 
+ 630VDE  (0.5 x 3.0 x 140)
+603CS6VDETBI
+Set de surubelnite izolate
+•  lama: otel crom vanadium molibden tratata integral 
+•  capat brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2 si 60900
+617045
+6
+460
+ 1G 
+1
+158.03
+ 603VDE  (0.8 x 4.0 x100, 1.0 x 5.5 x 125, 
+1.2 x 6.5 x 150), 
+PH2 x 100), 
+ 613VDE  (PH1 x 80, 
+ 630VDE  (0.5 x 3.0 x 140)
+603CS6TVDETBI
+Set de surubelnite izolate si 
+tester de tensiune
+•  lama: otel crom vanadium molibden tratata integral 
+•  capat brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2 si 60900
+617049 TX 10 - TX 30 / 6 511
+ 1G 
+1
+271.15
+ 621VDETBI  (TX 10, TX 15, TX 20,         
+TX 25, TX 27, TX 30)
+603CS6AVDE
+Set de surubelnite izolate
+•  lama: otel crom vanadium molibden tratata integral 
+•  capat brunat
+•  maner: forma ergonomica
+•  monomaterial
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2 si 60900
+617042
+6
+530
+ 1G 
+1
+221.31
+ 603VDETBI  (0.4 x 2.5 x 75, 0.8 x 4.0 x 100, 
+1.0 x 5.5 x 125, 1.2 x 6.5 x 150), 
+ 613VDETBI  (PH1 x 80, PH2 x 100)
+617655
+6
+400
+ 1G 
+1
+147.87
+ 603VDE  (0.4 x 2.5 x 75, 0.5 x 3.0 x 100, 
+0.8 x 4.0 x 100, 1.0 x 5.5 x 125), 
+ 613VDE  (PH1 x 80, PH2 x 100)
+617043
+6
+505
+ 1G 
+1
+208.85
+ 603VDETBI  (0.8 x 4.0 x 100, 1.0 x 5.5 x 125, 
+1.2 x 6.5 x 150), 
+PH2 x 100), 
+ 613VDETBI  (PH1 x 80, 
+ 630VDE  (0.5 x 3.0 x 140)

@@ -1,0 +1,193 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:653]
+1514A1
+Dalta lata
+Utilizare
+•  Pentru a forma si curati sudurile, a taia buloanele si 
+cuiele, prodce sloturi sau pentru curatarea si nivelarea 
+suprafetelor denivelate.
+57082
+NOU
+57084
+NOU
+Daltuitor pneumatic 3500 rpm
+• declansator sensibil pentru performanta si acuratete
+• nivel de zgomot redus
+• consum redus de aer
+• arc de retentie dalti
+• regulator putere
+Scula pneumatica pentru indepartat 
+parbrize 20000 rpm
+• reglare aparatorii lamelor pentru ajustarea adancimii de taiere
+• nivel de zgomot redus
+• consum redus de aer
+• lama oscilatorie
+L
+617718 182
+B
+18
+D
+19
+181
+ 1E 
+1
+55.90
+1514A2
+Dalta ascutita
+Utilizare
+•  Inlaturarea stifturilor si a niturilor, darea de gauri
+830.53
+57082
+RPM
+3500
+Presiune de lucru
+Racord aer
+Nivel vibratii
+Nivel de zgomot
+Consum aer
+Gaura
+Coada hexagonala
+Turatie mers in gol
+Cursa piston
+Diametru furtun aer compreimat
+Lungime
+Greutate
+2000
+ 6,3 bar / 90 PSI 
+1/4" 
+15 m/s² 
+103 dBA
+56 LPM (2 CFM) 
+19 mm
+10 mm 
+3500 rpm
+66 mm
+3/8”
+170mm
+2,0 kg
+57082
+NOU
+2255.52
+57084
+RPM
+20000
+Presiune de lucru
+Racord aer
+Nivel vibratii
+Nivel de zgomot
+Consum aer
+Putere
+Turatie mers in gol
+Diametru furtun aer compreimat
+Lungime
+Greutate
+1000
+ 6,3 bar / 90 PSI 
+1/4" 
+7,9 m/s² 
+95,5 dBA
+110LPM (3.9CFM
+0,37 kW
+20000 rpm
+3/8”
+205 mm
+1,0 kg
+154
+ 1E 
+1
+55.90
+Dalti pentu daltuitor pneumatic
+• material: otel 50-55 HRc
+L
+617719 180
+B
+2
+D
+19
+1514A5
+Dalta cu varf in V
+Utilizare
+•  pentru taierea tablelor
+Tip
+87953
+NOU
+Lama pentru indepartat parbrize
+87946
+87948
+87950
+87947
+87949
+Dalta lata 7”  hex. 10 mm
+Dalta ascutita 7”  hex. 10 mm
+Dalta sudura si imbinati 7” hex. 10 mm
+Datla cu 2 taisuri 7” hex. 10 mm
+Dalta tip V 7” hex. 10 mm
+57083
+103.61
+103.61
+103.61
+103.61
+103.61
+NOU
+Fierastrau sabie pneumatic 10000 rpm
+• reglare aparatorii lamelor pentru ajustarea adancimii de taiere
+• nivel de zgomot redus
+• consum redus de aer
+• regulator putere
+87953
+RPM
+20000
+350
+146.66
+L
+B
+617722 190
+19.2
+D
+19
+187
+ 1E 
+1
+55.90
+1514A6
+Dalta cu varf sapa
+Utilizare
+•  Pentru a fasona sau curata sudurile, taierea 
+suruburilor si a cuielor, producerea de crestaturi sau 
+curatarea si nivelarea suprafetelor neregulate
+1587.77
+57083
+RPM
+10000
+Presiune de lucru
+Racord aer
+Nivel vibratii
+Nivel de zgomot
+Consum aer
+Panze incluse
+Turatie mers in gol
+Cursa
+Diametru furtun aer compreimat
+Lungime
+Greutate
+1000
+ 6,3 bar / 90 PSI 
+1/4" 
+19,7 m/s² 
+85,7 dBA
+113 LPM (4 CFM)
+1pc-24T / 1pc-32T 
+10000 rpm
+10 mm
+3/8”
+235 mm
+1,0 kg
+L
+B
+617723 178
+32.8
+D
+19
+207
+ 1E 
+1
+55.90

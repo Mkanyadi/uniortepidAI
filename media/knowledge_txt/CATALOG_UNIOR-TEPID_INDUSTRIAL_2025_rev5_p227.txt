@@ -1,0 +1,179 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:227]
+1820
+NOU
+7380N
+Maner pentru capete interschimbabile 9x12 mm
+• pentru prinderea capetele interschimbabile pentru cheile dinamometrice 
+(fara functie de cuplu) 
+L
+18200001
+382,5
+Antrenare
+9x12
+1821
+490
+ 4B 
+1
+NOU
+536.84
+NOU
+Maner pentru capete interschimbabile 14x18 mm
+• pentru prinderea capetele interschimbabile pentru cheile dinamometrice 
+(fara functie de cuplu) 
+Dispozitiv de strangere unghiulara ± 360°
+• pentru strangerea boltului / surubului in  unghi controlat, cu punct de citire static
+• citire posibila din orice unghi datorita celor doua scale inclinate
+• magnet detasabil pentru atasarea prizelor cu unitate patrata interna de 1/2"
+• pentru utilizare impreuna cu instrumente de strangere, cum ar fi MANOSKOP® nr. 730N
+• deoarece aceasta metoda de strangere necesita aplicarea unui cuplu strans predeterminat, 
+este esential sa alegeti o cheie dinamometrica care sa acopere atat cuplul strans, cat si cuplul 
+maxim necesar pentru a atinge unghiul de strangere recomandat
+• daca se foloseste unghiul de cuplu cu actionare patrata de 1/2" sau 3/4" depinde de actionarea 
+patrata a cheii dinamometrice corespunzatoare folosita
+L
+575
+Antrenare
+14x18
+720
+ 4B 
+1
+NOU
+693.92
+18210001
+1822
+Maner pentru capete interschimbabile 24,5x28 mm
+• pentru prinderea capetele interschimbabile pentru cheile dinamometrice 
+(fara functie de cuplu) 
+NOU
+SW 54010001
+SW 54010002
+1/2”
+3/4”
+b
+78
+78
+h
+43
+76
+L
+416
+416
+505
+720
+1
+1
+1246.52
+NOU
+1613.70
+18220003
+L
+1000
+Antrenare
+24,5x28
+2057
+ 4B 
+1
+NOU
+2476.01
+2213/2BI
+Dispozitiv de strangere unghiulara ± 360°
+•  acesta este folosit pentru suruburile din capul motorului cat si a celorlalte elemente de 
+ansamblare ce necesita a fi stranse la moment, strangerea la unghi este de asemenea 
+posibila.
+•  daca spatiul de manevra este limitat, se poate folosi un prelungitor pentru obtinerea 
+1/2”
+lungimii dorite
+•  scala este de 360°, cu diviziuni de 2°
+Cum sa utilizati scula:
+•  opriti scara de unghi cu manerul acesteia penru a evita rotatia in timpul insurubarii, 
+setati indicatorul la zero si apoi strangeti surubul la unghiul prescris cu o alta scula cu 
+antrenare de 1/2"( ex cu un prelungitor cu cardan care este mai lung, tinand cont ca 
+fortele de strangere sunt considerabile)
+IST-5W
+Adaptor dinamometric digital
+• functionare in sensul acelor de ceasornic si invers acelor de ceasornic
+• setati mai intai cuplul dorit. Dupa atingerea cuplului dorit, setati unghiul si rotiti cheia in acest 
+unghi pentru a aplica un cuplu suplimentar
+• unitati: N.m, in.lb, ft.lb, kg.cm, grad
+• modul de lucru : Peck si Mode
+• cuplul tinta sau valoarea unghiului pot fi setate, cu alarma sonora si vizuala
+- lumina LED verde aprinsa si semnalul sonor cand valoarea cuplului sau a unghiului este de 
+80% -100% din cuplul sau unghiul tinta
+- atat lumina LED verde, cat si cea rosie aprinsa semnalul sonor atunci cand este atinsa valoarea 
+cuplului sau a unghiului
+• oprire automata in 2 minute
+• capacitate de memorare 50 valori de masurare
+• cu protectie la suprasarcina (odata ce cuplul atinge 110% din domeniul maxim)
+patrat de antrenare
+LED-uri rosii
+display LCD
+alarma
+sonora
+LED-uri verzi
+butoane
+port
+calibrare
+L
+270
+B
+75
+A
+80
+C
+63
+622815
+IST-5W30A
+N.m
+6 - 30
+º
+ 0 -999º
+1/4”
+±3%
+±4%
+±2º
+0.01
+IST-5W135A
+27 - 135
+ 0 -999º 
+3/8”
+±3%
+±4%
+±2º
+0.01
+IST-5W200A
+40 - 200
+0 -999º
+1/2”
+±3%
+±4%
+±2º
+0.01
+428
+ 4B 
+1
+209.84
+IST-5W340A
+68 - 340
+ 0 -999º
+1/2”
+±3%
+±4%
+±2º
+0.01
+L
+1º
+1º
+1º
+1º
+85x60
+150
+3139.50
+85x75
+220
+3297.00
+85x90
+240
+3496.50
+85x80
+240
+3517.50

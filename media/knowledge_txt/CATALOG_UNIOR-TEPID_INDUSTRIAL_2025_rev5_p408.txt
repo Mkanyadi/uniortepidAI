@@ -1,0 +1,236 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:408]
+F3513A
+Mandrina cu cheie 1,5-13 mm 
+1/2”-20UNF
+• recomandata pentru masini electrice portabile
+• deschiderea mandrinei 1,5-13,0 mm
+• prindere pe filet 1/2”-20 UNF
+• otel calit
+• elemente active rectificate
+• cheie de strangere inclusa 
+124K
+CSAY
+Mandrina rapida 1,5-13 mm
+• recomandata pentru utilizare pe polizoare electrice unghiulare
+• capacitate: Ø1,5-13,0 mm
+• filet: M14
+• 2 mansoane metalice
+• sistem de blocare
+Prelungitor Con Morse
+• material: otel aliat de scule, tratat termic
+• in conformitate cu normele DIN 2187
+• con exterior rectificat, con interior alezat
+Capacitate                  Ambalare
+124K 
+    1,5-13,0                            1                450.16
+DRDM
+Mandrina automata cu prindere 
+pe con
+• recomandata pentru utilaje stationare
+• forta mare de strangere
+• nu necesita cheie de strangere
+ Dimensiune              Dorn            Lungime
+145,0
+160,0
+181,0
+196,0
+221,0
+240,0
+275,0
+300,0
+MT1xMT1
+MT1xMT2
+MT1xMT3
+MT2xMT3
+MT2xMT4
+MT3xMT4
+MT3xMT5
+MT4xMT5
+222.50
+235.59
+282.77
+329.92
+412.34
+530.17
+706.91
+765.85
+MT1*1
+MT1*2
+MT1*3
+MT2*3
+MT2*4
+MT3*4
+MT3*5
+MT4*5
+CSAX
+Reductie Con Morse
+• material: otel aliat de scule, tratat termic
+• in conformitate cu normele DIN 2185
+• con exterior rectificat si con interior alezat
+Capacitate                  Ambalare
+F3513A 
+    1,5-13,0                            1                 38.20
+20UNF
+Dorn pentru mandrina SDS-plus 
+1/2”-20UNF
+Dimensiune              Dorn            Lungime
+J0106-B12
+J0108-B12
+J0110-B12
+J0113-B12
+J0113-B16
+J0116-B18
+J0120-B22
+0,5-6,0 mm
+0,0-8,0 mm
+1,0-10,0 mm
+1,0-13,0 mm
+1,0-13,0 mm
+3,0-16,0 mm
+5,0-20,0 mm
+B12
+B12
+B12
+B12
+B16
+B18
+B22
+71,0
+81,0
+91,0
+101,0
+101,0
+113,0
+132,0
+289.61
+281.30
+281.30
+286.86
+286.86
+345.46
+521.92
+MT2*1
+MT3*1
+MT3*2
+MT4*2
+MT4*3
+MT5*2
+MT5*3
+CSBD
+ Dimensiune                          Lungime
+105,0
+124,0
+131,0
+139,0
+156,0
+164,0
+172,0
+MT2-MT1
+MT3-MT1
+MT3-MT2
+MT4-MT2
+MT4-MT3
+MT5-MT2
+MT5-MT3
+95.32
+123.37
+123.37
+169.67
+169.67
+276.01
+249.39
+ Dimensiune                              Ambalare
+20UNF     SDS-plus - 1/2”-UNF                    1                  8.76
+DRDH
+73513A
+Mandrina cu cheie 1,5-13 mm 
+1/2”-20UNF cu dorn adaptor SDS Plus
+• recomandata pentru masini electrice portabile
+• deschiderea mandrinei 1,5-13,0 mm
+• prindere pe filet 1/2”-20 UNF
+• otel calit
+• elemente active rectificate
+• cheie de strangere inclusa 
+Mandrina cu cheie cu prindere 
+pe con
+• recomandata pentru utilaje stationare
+• cheie de strangere inclusa
+• otel calit
+• elemente active rectificate
+• cheie de strangere inclusa 
+Dorn pentru mandrina
+• in conformitate cu normele DIN 238
+• calit si rectificat in intregime 
+Capacitate                  Ambalare
+73513A 
+    1,5-13,0                            1                 41.59
+ Dimensiune              Dorn            Lungime
+J2110-B12
+J2113-B16
+J2116-B18
+J2120-B22
+1,0-10,0 mm
+1,0-13,0 mm
+3,0-16,0 mm
+5,0-20,0 mm
+B12
+B16
+B18
+B22
+71,0
+81,0
+91,0
+101,0
+133.19
+172.38
+219.39
+420.39
+ Dimensiune                     Lungime
+MT1-B12
+MT1-B16
+MT2-B12
+MT2-B16
+MT2-B18
+MT3-B12
+MT3-B16
+MT3-B18
+MT3-B22
+MT4-B16
+MT4-B18
+MT4-B22
+MT1-B12
+MT1-B16
+MT2-B12
+MT2-B16
+MT2-B18
+MT3-B12
+MT3-B16
+MT3-B18
+MT3-B22
+MT4-B16
+MT4-B18
+MT4-B22
+88,0
+94,0
+105,0
+107,0
+115,0
+120,0
+126,0
+134,0
+143,0
+151,0
+159,0
+167,0
+74.39
+74.39
+78.33
+87.57
+87.57
+105.50
+105.50
+105.50
+123.08
+129.89
+129.89
+129.56

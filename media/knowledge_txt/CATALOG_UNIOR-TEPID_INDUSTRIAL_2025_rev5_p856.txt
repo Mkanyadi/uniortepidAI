@@ -1,0 +1,118 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:856]
+99-
+99-
+Freza pentru profil maner sertare mobilier, 
+placata CMS Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+Freza profilata pentru mana curenta, 
+placata CMS Z2, cu coada si rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+A
+D
+R1
+R2
+Ghidaj
+Banc
+R 3,2
+R 6,35
+TIP A
+H
+h
+Sablon 20°
+TIP B
+Sablon
+Freza
+R 3,2
+H
+h
+99-07212P
+F03FR02456
+A
+99-07212P
+F03FR02456
+R1
+α
+C
+D
+Clema
+99-07212P
+35
+38,5
+86,6
+12
+12,7
+25°
+2
+24000
+382.79
+D               h              H              A              C                            Z       rpm max.
+α
+99-
+Freza pentru tablii, profil drept, placata CMS Z2, 
+cu coada si rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+D               h              H              A                                            Z       rpm max.
+99-00712P
+47
+28,7
+66,7
+12
+2
+24000
+405.25
+99-
+Freza cu profil concav pentru rotunjit, 
+placata CMS Z2, cu coada si rulment copier inferior
+• material prelucrat: materiale pe baza de lemn, lemn masiv. 
+• se pot utiliza doar pe masini portabile de frezat cu masa
+A
+α
+R 30
+R 8
+99-02712P
+F03FR02421
+99-02712P
+F03FR02421
+H
+h
+R1
+α
+R2
+C
+D
+A
+C
+D
+9
+1
+H
+h
+99-22312P
+F03FR02460
+D               h              H              A              C                            Z       rpm max.
+α
+D               h              H              A              C                            Z       rpm max.
+α
+99-02712P
+63,5
+19
+66,2
+12
+12,7
+15°
+2
+22000
+456.72
+99-22312P
+76,2
+16
+64,7
+12
+12,7
+18°
+2
+18000
+550.16

@@ -1,0 +1,158 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:837]
+LG3D
+Panza circulara placata CMS pentru taierea 
+transversala a placilor melaminate pe una sau doua fete
+• pentru debitarea transversala pe fibra a panourilor bilaminate
+• utilizare pe circulare cu masa pentru formatizat masini orizontale de dimensionare a panourilor
+• ascutire trapez drept cu unghi de taiere pozitiv
+THYCO
+Panza incizor conic
+• panza incizor cu dinti conici pentru circulare de formatizat PAL
+• utilizata pentru formatizarea PAL-ului si MDF-ului melaminat pe ambele fete, 
+pe circular de formatizat cu masa orizontala ce permite ajustarea pe verticala a inaltimii de taiere
+°
+8
+1
+  0,8x45°
+2 
+,
+0
+5 °
+LG3D 0600
+    300x3,2/2,2x30 Z96 HW
+n max 6500 RPM
+00000000 - 00/13  
+2
+0
+,
+B
+b
+HW  H00XA
+°
+8
+1
+5°
+°
+5
+1
+10°
+12 °12 °
+BB
+BB
+5 °5 °
+5 °5 °
+αα
+6 °6 °
+6 °6 °
+A
+B (>A)
+LC1002010
+LC1202410
+LC1252420
+LI25M
+D                   B/b                     Z                                        d
+α
+100
+120
+125
+3,1/4,3
+3,1/4,3
+3,1/4,3
+20
+24
+24
+10°
+10°
+10°
+20
+20
+20
+390.62
+411.55
+411.55
+Latimea taierii panzei 
+circulare de baza
+D                   B/b                     Z                                        d
+α
+LG3D 0600
+300
+3,2/2,2
+96
+5º
+30
+524.59
+CRESTEREA FORTEI DE IMPACT
+CRESTEREA DURITATII
+TF30
+K10S
+H01K
+H00K
+H00XA
+H00XF
+1515
+9,8 11,75
+1620 8,94 14,35
+1870 8,22 14,36
+1930 7,68 14,71
+2070 7,71 14,73
+2200 7,73 14,63
+Duritate in Vickers
+(HV10)
+Rezistenta la rupere (K1c)
+Densitate (gr/cm3)
+TiCo Carbide
+Productie proprie de placute din carbura de tungsten Carbide (HW) 
+• TiCo Carbide reprezinta o formula speciala, carbura foarte compacta de titan cu cobalt, proiectata 
+si fabricata „in-house” de catre Freud.
+• Clasele speciale HW sunt amestecate pe baza nevoilor de aplicare si verificate in conformitate cu 
+criterii stricte de calitate.
+• Geometriile speciale ale dintilor sunt dezvoltate pentru taieri perfecte.
+Panza incizor conic
+• utilizata pentru formatizarea PAL-ului melaminat pe ambele fete 
+• utilaje: circular de formatizat cu masa orizontala ce permite ajustarea pe verticala a inaltimii 
+de taiere
+• ascutire: trapez, cu unghi de taiere pozitiv
+• material: PAL sau MDF melaminat pe ambele fete
+°
+5
+1
+°
+6
+0 °
+LI25M31DA3
+    115x3,1/2,2x20 Z24 HW
+n max 18000 RPM
+00000000 - 00/13 
+°
+6
+B
+°
+6
+B1
+b
+HW   H00 XA
+15°
+α
+LI25M31BC3
+LI25M31EA3
+LI25M31FA3
+D                   B/b                     Z                                        d
+α
+100
+120
+125
+3,1/4,3
+3,1/4,3
+3,1/4,3
+20
+24
+24
+10°
+10°
+10°
+20
+20
+20
+315.41
+303.28
+315.41

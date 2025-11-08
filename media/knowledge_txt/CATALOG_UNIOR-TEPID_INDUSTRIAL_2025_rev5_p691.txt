@@ -1,0 +1,180 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:691]
+175/2
+Cheie schimbat ulei la 
+cutia de viteze
+•  material: crom vanadiu
+•  capul cheii este tratat in intregime
+•  acoperire cromare conform EN12540
+206/2
+Cheie cu lant
+•  material: crom vanadiu
+•  forjata, calire si revenire totala
+•  acoperire cromare conform EN12540
+300/6B
+Levier pentru dulgher
+•  material: otel carbon de scule
+•  vopsite
+L
+608815 500
+608816 600
+608817 800
+L1
+120
+120
+120
+608821 1000 120
+300/2
+18
+18
+18
+20
+1180  1C 
+1385  1C 
+2190  1C 
+2715  1C 
+1
+1
+1
+1
+100.49
+112.46
+134.43
+189.51
+Levier
+•  material: crom vanadiu
+•  forjata, calire si revenire totala
+•  acoperire cromare conform EN12540
+L
+200
+300
+400
+500
+617661
+601755
+601756
+601757
+300CCB
+111
+253
+452
+648
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+10
+10
+10
+10
+50.16
+69.67
+84.43
+99.84
+Set leviere cu maner bimaterial
+•  material: otel special de scule
+•  acoperire cromare conform EN12540
+•  maner ergonomic rezistent bimaterial
+L1 L2 D
+605112 8 x 10 203 169 10
+305
+ 4A 
+10
+47.21
+L
+601025 220
+60
+140
+330
+ 1E 
+10
+183.44
+206.1
+Lant pentru art. 206
+205/2
+Cheie filtru de ulei
+•  material:crom vanadiu
+•  banda din invelis de cauciuc
+•  forjata, calire si revenire totala
+•  acoperire cromare conform EN12540
+P
+P 
+2
+h
+c
+L
+T
+T
+c
+L
+Pt
+T
+1
+b
+L
+T
+d2
+d1
+1
+b
+P = 12,7 mm ( ½” ) ( pasul lantului )
+h2 = 9,5 mm ( latimea eclisei )
+L = 9,5¯0’¹  (latilmea lantului )
+T = t = 1,0 mm ( grosimea ecliselor)
+d2 = 3,6 mm   ( diametrul boltului )
+d1 = 7,7 mm  ( diametrul rolei )
+b1 = 3,2 mm ( lungimea rolei 
+d2
+d1
+L
+L
+601024 220
+60
+140
+225
+ 1E 
+10
+95.08
+205.1
+Curea pentru 205/2
+•  banda din invelis de cauciuc
+602841
+62
+ 1E 
+10
+61.48
+L
+620938
+500
+150
+ 1E 
+5
+35.90
+613106
+3
+878
+ 1F 
+1
+254.10
+ 300/2C  (320, 410, 610)
+300/2C
+Levier cu maner bimaterial
+•  material: otel special de scule
+•  acoperire cromare conform EN12540
+•  maner ergonomic rezistent bimaterial
+L
+a x b
+613103 320
+1.1 x 13
+252  4B 
+613104 410
+1.5 x 15
+499  4B 
+613105 610
+1.5 x 21
+837  1C 
+10
+10
+5
+49.18
+60.00
+87.70

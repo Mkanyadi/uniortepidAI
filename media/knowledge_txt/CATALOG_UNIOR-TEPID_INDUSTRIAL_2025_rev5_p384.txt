@@ -1,0 +1,639 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:384]
+1607 TT
+NOU
+Bit STANDARD 1/4" DIN/ISO 1173 
+Forma C 6,3, profil Torx® cu gaura
+• duritate in conformitate cu norma DIN
+• protectie optima impotriva coroziunii
+Bit STANDARD 1/4" DIN/ISO 1173 
+Forma C 6,3, profil Torx® Ball
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+76469C6,3
+Bit hexagonal 1/4”
+Forma C 6,3 - profil hexagon
+• material: aliaj special S2 (1.2381 / 73 Mo V 5 2)
+• duritate material: 58 +/- 2 HRc
+• in conformitate cu standardele DIN 3126 ISO 1173
+• durabilitate ridicata
+• protectie anticoroziva
+• pentru lucrul manual si cu masina
+• pentru prindere magnetica sau non-magnetica
+Dimensiune       L           D
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+TT 07
+TT 08
+TT 09
+TT 10
+TT 15
+TT 20
+TT 25
+TT 27
+TT 30
+TT 40
+TT 45
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+35
+1000027468
+1000027469
+1000027475
+1000012899
+1000012908
+1000012917
+1000012926
+1000012935
+1000012944
+1000012953
+1000029339
+1617 TT
+L
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+7.51
+7.51
+7.51
+7.51
+7.51
+7.51
+7.51
+7.51
+7.51
+7.51
+35.89
+NOU
+Bit 1/4″ DIN/ISO 1173 - E6,3
+cu profil TORX®, lung cu gaura
+• material: aliaj special S2 (1.2381 / 73 Mo V 5 2)
+• duritate material: 58 +/- 2 HRc
+• in conformitate cu standardele DIN 3126 ISO 1173
+• durabilitate ridicata
+• protectie anticoroziva
+• pentru lucrul manual si cu masina
+• pentru prindere magnetica sau non-magnetica
+1000027584
+1000031416
+1000027597
+1000027611
+1000027625
+1000027635
+1000027639
+1000027645
+1000027652
+1000027586
+1000029917
+1000013161
+1000027613
+1000013162
+1000013163
+1000027640
+1000013164
+1000013165
+1000029898
+1000029918
+1000027602
+1000027615
+1000027628
+1000028459
+1000031840
+1000027647
+1000027654
+1000036511
+1000027609
+1000027622
+1000027634
+1000027644
+Dimensiune      L            D
+3,0
+3,0
+3,0
+4,0
+4,5
+6,0
+6,0
+6,0
+-
+3,0
+3,0
+3,0
+4,0
+4,5
+6,0
+6,0
+6,0
+-
+3,0
+3,0
+3,0
+4,0
+4,5
+6,0
+6,0
+6,0
+-
+3,0
+4,0
+4,5
+6,0
+6,0
+TT 08
+TT 09
+TT 10
+TT 15
+TT 20
+TT 25
+TT 27
+TT 30
+TT 40
+TT 08
+TT 09
+TT 10
+TT 15
+TT 20
+TT 25
+TT 27
+TT 30
+TT 40
+TT 08
+TT 09
+TT 10
+TT 15
+TT 20
+TT 25
+TT 27
+TT 30
+TT 40
+TT 10
+TT 15
+TT 20
+TT 25
+TT 30
+50
+50
+50
+50
+50
+50
+50
+50
+50
+70
+70
+70
+70
+70
+70
+70
+70
+70
+90
+90
+90
+90
+90
+90
+90
+90
+90
+152
+152
+152
+152
+152
+L
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vraC
+27.61
+27.61
+27.61
+27.61
+27.61
+27.61
+27.61
+27.61
+27.61
+37.82
+36.79
+36.79
+36.79
+36.79
+36.79
+36.79
+36.79
+36.79
+45.14
+45.14
+45.14
+45.14
+45.14
+45.14
+45.14
+45.14
+45.14
+66.52
+66.52
+66.52
+66.52
+66.52
+Dimensiune         L
+25
+TX Ball 10
+25
+TX Ball 15
+25
+TX Ball 20
+25
+TX Ball 25
+25
+TX Ball 30
+25
+TX Ball 40
+60070
+60071
+60072
+60073
+60074
+60075
+1807
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+L
+5.45
+5.45
+5.45
+5.45
+5.45
+5.45
+NOU
+Bit hexagonal 5/16" DIN 3126 - 
+Forma C 8 - profil TORX®
+• duritate in conformitate cu norma DIN
+• protectie optima impotriva coroziunii
+1000027688
+1000011530
+1000011539
+1000011548
+1000011557
+1000011566
+1000011575
+1000011584
+1000011593
+Dimensiune       L           D
+4,0
+4,5
+6,0
+6,0
+6,0
+-
+-
+-
+12,0
+TX 15
+TX 20
+TX 25
+TX 27
+TX 30
+TX 40
+TX 45
+TX 50
+TX 55
+35
+35
+35
+35
+35
+35
+35
+35
+35
+L
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+23.88
+23.88
+23.82
+23.82
+23.82
+23.82
+23.82
+28.19
+29.98
+QUALITY INDUSTRY TX
+Bit hexagonal 5/16" DIN 3126 - 
+Forma C 8 - profil TORX®
+• duritate in conformitate cu norma DIN
+• protectie optima impotriva coroziunii
+GERMANY
+L
+UUSE0012596
+UUSE0012598
+UUSE0012599
+UUSE0012600
+UUSE0012601
+UUSE0012602
+Dimensiune       L
+35
+35
+35
+35
+35
+35
+TX 25
+TX 30
+TX 40
+TX 45
+TX 50
+TX 55
+5 (A*)
+5 (A*)
+5 (A*)
+5 (A*)
+5 (A*)
+5 (A*)
+199.82
+199.82
+199.82
+199.82
+221.30
+238.49
+®
+Professional Quality
+70104901
+70105001
+70105101
+70105201
+900529
+900530
+900531
+900532
+70104905
+70105005
+70105105
+70105205
+70104910
+70105010
+70105110
+70105210
+70104925
+70105025
+70105125
+70105225
+Dimensiune     L             D
+4.0
+4.0
+6.0
+6.0
+4.0
+4.0
+6.0
+6.0
+4.0
+4.0
+6.0
+6.0
+4.0
+4.0
+6.0
+6.0
+4.0
+4.0
+6.0
+6.0
+HX 3
+HX 4
+HX 5
+HX 6
+HX 3
+HX 4
+HX 5
+HX 6
+HX 3
+HX 4
+HX 5
+HX 6
+HX 3
+HX 4
+HX 5
+HX 6
+HX 3
+HX 4
+HX 5
+HX 6
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+L
+vrac
+vrac
+vrac
+vrac
+3 (PP*)
+3 (PP*)
+3 (PP*)
+3 (PP*)
+5 (PP*)
+5 (PP*)
+5 (PP*)
+5 (PP*)
+10 (PP*)
+10 (PP*)
+10 (PP*)
+10 (PP*)
+25 (PP*)
+25 (PP*)
+25 (PP*)
+25 (PP*)
+1.83
+1.83
+1.83
+1.83
+6.88
+6.88
+6.88
+6.88
+12.60
+12.60
+12.60
+12.60
+25.19
+25.19
+25.19
+25.19
+62.99
+62.99
+62.99
+62.99
+Bit STANDARD 1/4" DIN/ISO 
+1173 Forma C 6,3 - 
+profil hexagon
+• STANDARD - versiune frezata
+• DIN / ISO 2936
+• fara acoperire
+Dimensiune         L   
+L
+60241
+60242
+60243
+60244
+60245
+60246
+60247
+60248
+01047
+01048
+01049
+01050
+01051
+01052
+01053
+01054
+HEX  2,0
+HEX  2,5
+HEX  3,0
+HEX  4,0
+HEX  5,0
+HEX  6,0
+HEX  7,0
+HEX  8,0
+HEX  2,0
+HEX  2,5
+HEX  3,0
+HEX  4,0
+HEX  5,0
+HEX  6,0
+HEX  7,0
+HEX  8,0
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+10 (PP*)
+10 (PP*)
+10 (PP*)
+10 (PP*)
+10 (PP*)
+10 (PP*)
+10 (PP*)
+10 (PP*)
+2.01
+2.01
+2.01
+2.01
+2.01
+2.01
+4.30
+4.30
+28.69
+28.69
+28.69
+28.69
+28.69
+28.69
+51.64
+51.64

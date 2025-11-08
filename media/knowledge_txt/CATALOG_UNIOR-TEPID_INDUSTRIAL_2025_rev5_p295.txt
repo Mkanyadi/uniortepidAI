@@ -1,0 +1,141 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:295]
+ISH-R150
+Durimetru manual ROCKWELL
+• durimetru manual ROCKWELL
+• afisarea valorii citite - ceas analogic 
+ISH-RD200
+Durimetru manual ROCKWELL, cu afisare 
+digitala
+• setati timpii de masurare prin (2-9) pentru a avea o valoare medie, si diferenta de 
+maxim si minim valoare
+• convertire automat la HV sau HB 
+• memorie pentru 1000 valorilori măsurate - navigare si de iesire de date
+• valoarea de masurare pot fi trimise la imprimantă fara fir in mod automat
+• functia de calibrare compenseaza valoarea masurata pentru precizia inalta
+• pentru materialele moi valoarea de duritate nu este stabila
+• functia de blocare se poate obtine in mod automat la o valoare
+• inchidere automata
+mufa incarcare
+port USB
+panou de operare
+penetrator
+platforma
+penetrator
+platforma
+reglaj
+forta de incercare
+manivela incarcare / 
+descarcare
+reglaj
+forta de incercare
+manivela incarcare / 
+descarcare
+HRA, HRB, HRC, HRD, HRE, 
+HRF, HRG, HRH
+HRK, HRL, HRM, HRP, 
+HRR, HRS, HRV
+10 kgf (98,07 N) 
+60kgf (588.4N), 100 kgf  (980.7N), 150 kgf (1471 N)
+reglabil 1~60s
+0.1HR 
+ecran tactil color de 5,2", rezolutie: 640x480
+incarcare automata/incarcare/incsrcare
+HRC, HV, HBS, HBW, HK, HRA, HRD, HR15N, 
+HR30N,HR45N,HS,HRF,HR15T,HR30T,
+HR45T,HRB
+ASTM, DIN
+chineza, engleza, germana, portugheza,
+turca, ceha, coreeana 
+de la -3,0HR la +3,0HR, pas de 0,1HR
+2000 de rezultate de masurare unica, analiza 
+curba, revizuirea si analiza rezultatelor
+mini-imprimanta optionala Blue Tooth
+AC220V/50Hz, AC110V/60Hz
+175 mm
+165 mm
+546x182x755mm
+620x460x870mm
+120 kg/90 kg
+GB/T230.2, EN-ISO6508, ASTM E-18
+Ø 60 mm nicovala plata
+(inclusa)
+Ø 4-60 mm nicovala V
+(inclusa)
+Ø 60 mm nicovala plata
+(inclusa)
+Ø 4-60 mm nicovala V
+(inclusa)
+Ø 150 mm nicovala plata
+(inclusa)
+ISH-R150*
+22352.78
+                              Specificatii tehnice
+caracteristica
+valoare
+scale de duritate
+forta de incercare preliminara
+forta de incercare
+afisaj
+reglajul pe inaltime
+controlul incarcarii
+citirea, min. 
+inaltime maxima piesa
+adancime maxima piesa
+dimensiune
+greutate
+HRA, HRB, HRC, HRD, HRF, HRG
+98 N
+588N, 980 N, 1471N
+analogic
+manual
+manual
+0,5 HR
+170 mm
+165 mm de la centrul penetratorului
+520 x 160 x 700 mm
+60 kg
+Ø 150 mm nicovala plata
+(inclusa)
+Scale de duritate                           Specificatii tehnice
+cu penetrator
+standard
+cu penetrator
+optional
+caracteristica
+valoare
+ISH-
+RD200*
+HRA, HRB, 
+HRC, HRD, 
+HRF, HRG
+HRE, HRH, 
+HRK
+forta incercare preliminara
+forta incercare
+reglajul pe inaltime
+controlul incarcarii
+rezolutie
+iesire date
+memorie
+inaltime maxima piesa
+adancime maxima piesa
+alimentare electrica
+dimensiune
+greutate
+26740.23
+98 N
+588N, 980 N, 
+1471N
+manual
+manual
+0,1 HR
+wireless si USB
+1000
+170 mm
+165 mm de centrul 
+penetratorului
+cu acumulator 
+520x160x700 mm
+60 kg
+* livrat cu certificat de inspectie de la producator
+* livrat cu certificat de inspectie de la producator

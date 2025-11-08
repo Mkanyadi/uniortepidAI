@@ -1,0 +1,191 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:298]
+9351-130
+Sonometru
+9341-50
+Umidometru
+NOU
+9651
+Lasermetru
+NOU
+• potrivit pentru lemn, ciment moale, gips dur, mortar amestecat
+caramida ect.
+• masoara umiditatea, temperatura su umiditatea relativa
+• mod minim / maxim
+• oprire automata
+• unitati: m, rt, in, ft+in
+• masoare: distanta, aria, volumul si inaltimea
+• memorie: 30 rezultate
+• inchidere automata: laser 30s, unitate: 180s
+• selectateaza automat cel mai bun interval: 30~80dB, 40~90dB, 
+50~100dB, 60~110dB, 
+70-120dB, 80-130dB
+• indicator peste raza de actiune
+• moduri: timp real, medie, maxim
+• memorie: 16.000 masuratori
+• AC Iesire semnal: 0,707 Vrms la FS, impedanta aprox. 600 Ω
+• DC Iesire semnal: 10mV / dB, impedanta aprox.100Ω
+• oprire automata
+• interval masurare: 30 - 130 dB
+• acuratete: ±2 dB
+• timp raspuns: rapid: 125 ms, lent: 1 s
+• frecventa: 30 Hz - 8 KHz
+• microfon: electret
+9341-50
+Adancime masurare
+Gama umiditate
+dimensiuni
+130 x 56 x 29 mm
+0-50 mm
+0-60%
+.
+206
+870.45
+Masurare distanta
+Masurare arie
+Gama temperatura
+-10-50°C / 14-122°F
+Gama umiditate relativa
+0-100%RH
+2068.50
+Precizie umiditate
+Precizie temperatura
+±2%
+±2%
+Precizie umiditate relativa
+±5%RH
+Rezolutie umiditate
+0.1%
+Rezolutie temperatura
+0.1°C/0.1°F
+Rezolutie umiditate relativa
+0.1%RH
+Timp masurare
+0.5s pentru umiditate
+Masurare volum
+Masurare inaltime
+gama
+dimensiuni
+9561-50B
+9561-70B
+0.5 ~ 50 m
+115x50x28 mm
+0.5 ~ 70 m
+115x50x28 mm
+.
+106
+106
+298.20
+344.40
+Rezolutie
+Acuratete
+Tip laser
+0.001 m, .001 ft, 1/16”
+±(3+D/20)mm, D este distanta masurata
+laser rosu, 630-670nm, clasa II, <1mW
+Alimentare
+2 baterii AAA
+1s pentru temperatura si umiditate relativa
+0210-G260
+NOU
+Alimentare
+2 baterii AAA
+NOU
+DSW-A010
+Cronometru
+NOU
+Termometru cu infrarosu
+• display temperatura MIN/MAX
+• conversie °C / °F
+• mentinere data si inchidere automata
+dimensiuni
+265 x 80 x 69 mm
+.
+317
+30-130 dB
+±2 dB
+0.1 dB
+0.5s digitala, 0.05s analog
+rapid: 125 ms, lent: 1s
+30Hz-8kHz
+tip condensator electret
+RS232, AC/DC
+6 baterii AAA 
+9351-130
+Gama de masurare
+Acuratete
+Rezolutie
+Timp masurare
+Timp raspuns
+Frezventa
+Microfon
+Iesire
+Alimentare
+0120-IM24
+Umidometru inductiv
+• potrivit pentru lemn, ciment moale, gips dur, mortar amestecat
+caramida ect.
+• functie alarma
+• mod minim / maxim
+• oprire automata
+• impartire timp, timp total si timp continuu
+• 10 grupuri de rezultate pot fi citite din memorie dupa resetare
+dimensiuni
+.
+185 x 55 x 38 mm
+193
+1239.00
+DSW-A010
+Gama
+Rezolutie
+Acuratete
+dimensiuni
+76 x 63 x 16 mm
+.
+106
+429.45
+0~9 ore, 59 minute, 59.99 secunde
+0.01s
+±0.5s
+dimensiuni
+.
+82 x 42 x 160 mm
+180
+421.05
+-30°C~260°C
+0.1°C
+±4°C (≤0°C) si ±2°C (>0°C)
+0210-G260
+Gama
+Rezolutie
+Acuratete
+Distanta la dimens. spot
+8:1 (D:S)
+Dioda laser
+<1mW, 630~670nm, clasa 2
+Functie memorie
+10 grupuri
+Functie temporizator
+pana la 10 ore
+Functie timp
+Alimentare
+baterie LR44
+Dimensiuni ecran
+33.6 x 13.6 mm
+12 ore sau 24 ore timp display, alarma
+Raspuns spectral
+6~14 μm
+Timp raspuns
+Alimentare
+mai puten de 1 s
+baterie 9V
+0120-IM24
+Gama masurare
+Rezolutie
+Acuratete
+0-100%
+1%
+±4%
+Adancime detectare
+Alimentare
+20-40 mm
+baterie 9 V

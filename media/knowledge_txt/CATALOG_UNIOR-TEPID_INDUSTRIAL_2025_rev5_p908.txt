@@ -1,0 +1,499 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:908]
+NOU
+180/2VDEDP
+NOU
+Cheie inelara dreapta
+izolata la 1000 V
+•  material:crom vanadium
+•  capul cheii este tratat in intregime
+•  cap:cromat in concordanta cu EN12540
+•  in concordanta cu standardul EN 60900
+Avantaje:
+•  dublu strat-dubla protectie, doua straturi de culori diferite 
+•  100% control - fiecare piesa este testata
+Important
+Cheie inelara simpla izolata la 
+1000 V
+•  material: crom vanadium
+•  cap:cromat in concordanta cu EN12540
+•  in concordanta cu standardul 
+EN 60900
+Avantaje:
+•  dublu strat-dubla protectie, doua straturi de 
+culori diferite
+•  daca al doilea strat devine vizibil inlocuiti scula VDE cu una noua 
+•  controlul se face prin testare electrica
+Cheie tubulara cotita
+izolata la 1000 V
+•  material:crom vanadium
+•  capul cheii este tratat in intregime
+•  cap:cromat in concordanta cu EN12540
+•  in concordanta cu standardul EN 60900
+Avantaje:
+•  dublu strat-dubla protectie, doua straturi de culori diferite 
+•  100% control - fiecare piesa este testata
+Important
+•  daca al doilea strat devine vizibil inlocuiti scula VDE cu una noua 
+Important
+•  daca al doilea strat devine vizibil inlocuiti 
+scula VDE cu una noua
+L
+B
+A
+621580 6
+155 13.5 8.5
+621581 7
+155
+15
+9
+621582 8
+160 16.5 9.5
+621583 9
+160 17.5
+612185 10
+162 19.5
+10
+11
+612186 11
+175
+20
+11.5
+51
+57
+62
+72
+81
+97
+612187 12
+185 21.5 11.5 112
+612188 13
+185
+23
+12.5 113
+612189 14
+190 25.5
+13
+136
+612190 15
+195
+27
+13.5 146
+621584 16
+190 27.5 14.5 175
+612191 17
+208 30.5 15.5 185
+612192 19
+227
+33
+15.5 233
+621586 20
+245 34.5 16.2 273
+619202 21
+244 36.4 13.2 307
+612193 22
+250 37.5 17.5 300
+612194 24
+621588 26
+255
+265
+42
+44
+621589 27
+270 44.8
+18.5 428
+18
+18
+450
+411
+621590 28
+280 36.5 18.5 488
+621591 30
+310
+47
+19
+574
+621592 32
+325 51.5 19.5 647
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+5
+5
+5
+5
+5
+5
+5
+5
+5
+180/2VDEDPCB
+Set de chei inelare izolate la
+1000 V in cutie de carton
+73203
+73204
+73205
+73206
+73207
+73208
+73209
+73210
+73211
+73212
+73213
+73214
+73215
+73216
+73217
+73218
+73219
+73220
+73221
+73222
+73223
+73224
+73225
+73226
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+32
+68.36
+68.36
+71.80
+71.80
+75.08
+75.08
+77.38
+77.38
+82.79
+82.79
+92.13
+92.13
+102.46
+113.11
+121.31
+113.11
+128.36
+128.36
+128.36
+141.80
+159.02
+159.02
+L
+110
+110
+125
+135
+145
+155
+165
+170
+175
+180
+190
+195
+210
+220
+240
+260
+270
+290
+290
+300
+320
+330
+350
+350
+45
+60
+85
+100
+130
+160
+185
+220
+230
+280
+330
+430
+460
+500
+650
+700
+750
+800
+1000
+1100
+1150
+1300
+1150
+1150
+222.49
+232.60
+242.64
+252.83
+262.79
+273.05
+303.32
+323.54
+343.69
+364.00
+384.30
+404.45
+434.79
+465.13
+505.65
+545.96
+586.48
+626.71
+667.39
+707.84
+758.26
+809.04
+859.46
+910.10
+612677
+10 - 24 / 10
+1820
+ 1F 
+1
+906.89
+ 180/2VDEDP  (10, 11, 12, 13, 14, 15, 
+17, 19, 22, 24)
+364.00
+374.03
+394.26
+424.82
+434.79
+444.97
+515.62
+566.18
+545.96
+586.48
+NOU
+L A
+136
+140
+147
+152
+160
+165
+170
+190
+190
+210
+25
+26
+29
+31
+32
+34
+36
+38
+38
+39
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+B
+13
+14
+15
+15
+16
+17
+17
+17
+18
+18
+60
+65
+75
+95
+95
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+ 1E 
+120
+ 1E 
+135
+ 1E 
+150
+ 1E 
+175
+ 1E 
+190
+ 1E 
+10
+10
+10
+10
+10
+10
+10
+5
+5
+5
+73145
+79423
+79424
+73147
+79425
+79426
+79427
+73150
+79428
+73152
+Cheie inelara inclinata
+izolata la 1000 V
+•  material:crom vanadium
+•  capul cheii este tratat in intregime
+•  cap:cromat in concordanta cu EN12540
+•  in concordanta cu standardul EN 60900
+Avantaje:
+•  dublu strat-dubla protectie, doua straturi de culori diferite 
+•  100% control - fiecare piesa este testata
+Important
+•  daca al doilea strat devine vizibil inlocuiti scula VDE cu una noua 
+73120
+73121
+73122
+73123
+73124
+73125
+73126
+73127
+73128
+73129
+73130
+73131
+73133
+73134
+73135
+73136
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+21
+22
+23
+24
+L
+90
+100
+110
+115
+125
+135
+140
+145
+150
+160
+170
+175
+185
+195
+210
+230
+25
+30
+40
+50
+60
+80
+95
+110
+125
+135
+145
+175
+210
+240
+250
+275
+195.42
+206.05
+216.91
+238.85
+260.41
+282.20
+303.84
+325.48
+347.34
+368.98
+390.62
+412.33
+434.04
+455.61
+477.47
+499.11

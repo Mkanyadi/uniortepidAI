@@ -1,0 +1,159 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:634]
+MIG 200 MULTI
+iMIG 165
+LA COMANDA
+NOU
+iMIG 210 multi
+LA COMANDA
+NOU
+Invertor de sudura MIG MULTI LINE / 
+MIG - MAG 200 A
+AVANTAJELE PRODUSULUI
+• sudura continua MIG/MAG, TIG si electrod
+• capacitate rola pana la 15 kg
+• mecanism puternic de alimentare cu sarma
+• buton special pentru alimentare initiala usoara
+• inversarea polaritatii usoara
+• factor  de putere 40% (dutty cycle %)
+• pregatit pentru alimentare la generator
+• pregatit pentru sudura cu orice electrozi: bazic, rutilic, INOX, 
+celulozic si fonta
+• toate bobinajele si cablurile sunt din cupru 100%
+Invertor sudura MIG 25% @ 160 A
+suport bobina de 5 kg, 230 V, comenzi manuale
+• cel mai mic invertor ISKRA-VARJENJE, bazat pe sudare MIG, are
+o greutate redusa si este usor de operat.
+• destinate reparatiilor la domiciliu si lucrarilor usoare pe teren, 
+acestea dispun de sudare fara gaz FCW
+• nu numai mobilitate, ci si performanta imbunatatita a sudarii in aer 
+liber in conditii de vant este un beneficiu al sudarii cu sarma fara gaz
+• alimentator de sarma de inalta calitate
+• schimbarea polaritatii pentru sudarea fara gaz
+• operare simpla
+• suport pentru butelie de gaz de unica folosinta
+• suport pentru bobina de 5 kg
+Set livrare:
+• torta MG 150, 3 m
+• regulator de gaz cu 2 manometre
+• cablu de retur, 3m
+• furtun de gaz
+Invertor sudura MIG/TIG/MMA
+20% @ 200 A
+compact, 230 V, PFC, MIG/TIG/MMA, comenzi manuale
+• multifunctional MIG/TIG/MMA
+• MIG 2-trepte-4-trepte
+• alimentator de sarma de calitate 2 role
+• schimbarea polaritatii pentru sudarea fara gaz
+• conector central UE
+• economie de energie PFC
+• functia de trecere a firului
+• potrivit pentru bobina de 15 kg
+Set livrare:
+• torta MG 150, 3 m
+• regulator de gaz cu 2 manometre
+• cablu de retur, 3m
+• furtun de gaz
+Curent sudare
+iMIG 165
+10 - 165 A 
+12000
+3967.21
+Curent sudare
+Tensiune de alimentare
+Siguranta
+Curent sudare
+Ciclu de functionare
+Diametru sarma sudura
+Dimansiuni
+Greutate
+230 V, 50/60 Hz
+16 A
+20 - 165 A
+100% - 80 A
+60% - 100 A
+20% - 160 A
+0,6 - 0,8 mm (otel)
+400 x 290 x 310 mm
+12 kg
+iMIG 210 multi
+20 - 200 A 
+25000
+7032.79
+Tensiune de alimentare
+Siguranta
+Curent sudare MIG
+Curent sudare TIG
+Curent sudare MMA
+Tensiune mer in gol MIG
+Tensiune mer in gol TIG
+Tensiune mer in gol MMA
+Ciclu functionare MIG
+Ciclu functionare TIG
+Ciclu functionare MMA
+Diametru sarma sudura
+Clasa protectie
+Izolare
+Sistem racire
+Dimansiuni
+Greutate
+230 V, 50/60 Hz
+16 A
+20 - 200 A
+10 - 200 A
+20 - 185 A
+33 V
+5 V
+75 V
+100% - 110 A
+60% - 160 A
+35% - 200 A
+100% - 110 A
+60% - 160 A
+40% - 200 A
+100% - 100 A
+60% - 140 A
+25% - 185 A
+0,6 - 0,8 mm (otel)
+IP 21
+H
+AF
+795 x 540 x 700 mm
+25 kg
+FLUX
+SYNERGIC
+MIG 200 MULTI
+1.739
+22000
+8852.46
+Putere de iesire
+200 A
+Tensiune de alimentare
+230 V
+Ciclu de functionare
+60 %
+Electrozi acoperiti
+1.6 - 5.0 mm
+Grosimea firului
+0.8 - 1.0 mm
+Greutatea bobinei
+5 - 15 kg
+Generator recomandat
+7 - 9 KVA / 230V ±17%
+Dimensiuni
+51 x 42 x 32 cm
+Greutate
+22 kg
+Conector DINSE
+1/2” (35 - 50) ø
+Cablu de alimentare
+3.5m x 2.5 mm²
+Cablu + cleste de impamantare
+3m - 25 mm²
+Cablu + cleste electrod
+3m - 25 mm²
+Torta MIG
+15 AK
+Varfuri de contact incluse
+0.8 mm
+Role incluse
+0.8 - 1.0 mm

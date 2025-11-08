@@ -1,0 +1,209 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:666]
+79912
+NOU
+79916
+NOU
+79913
+NOU
+Masina de gaurit hidraulica pentru
+mediu subacvatic CM3 60 Nm
+• masinile de gaurit EGA Master pentru utilizare subacvatica sunt solide, 
+puternice si foarte usor de gestionat
+• proiectate pentru gauri in mai multe tipuri de materiale in medii
+subacvatice: precum beton, carbune, piatra si de asemenea metal cu 
+duritate medie.
+• pot fi actionate cu ambele maini, oferind mai multa siguranta si confort 
+la gaurire
+Masina de gaurit hidraulica pentru
+mediu subacvatic SDS-max1,2 kW
+• ciocanele hidraulice EGA Master sunt proiectate pentru a gauri 
+suprafete foarte rezistente si dure in medii subacvatice.
+• esentiale pentru gaurirea materialelor precum beton, caramida, piatra
+pe care burghiile conventionale nu le-ar putea gauri
+• echipat cu un ambreiaj de siguranta care protejeaza impotriva
+supraincarcarilor si blocajelor
+• sistem SDS-max
+• un maner lateral reglabil si un indicator de adancime ofera un confort 
+sporit
+Fierastrau pendular orizontal 
+hidraulic pentru mediu subacvatic 
+2,8 kW
+• EGA Master ofera o gama larga de scule pentru utilizare subacvatica
+printre care puteti găsi fierastraul portabil hidraulic, ideal pentru
+operatiuni subacvatice care necesita taierea tevilor, rezervoarelor,
+structurilor din otel, profilelor si a altor materiale.
+• poate fi folosit atat în medii subacvatice, cat si in zonele Atex
+• este potrivit pentru cea mai dificila utilizare in rafinarii, uzine chimice, in
+industria constructiilor , pe langa industria petrolului in larg, precum si in
+lucrari de demolare.
+• este esential pentru lucrarile de imersie precum: intretinerea si
+repararea navelor, aparate plutitoare si instalații scufundate, demolarea
+obstacolelor subacvatice; diguri, poduri, constructii subacvatice etc.
+• este instrumentul ideal pentru taierea in spatii restranse
+• proiectat pentru taierea tuburilor cu diametrul exterior de pana la 24”
+• accepta panze de pana la 37” 
+79916
+RPM
+270
+Presiune de lucru
+Mandrina
+Impacturi pe minut
+Capacitate de gaurire
+Debit ulei
+Conexiune
+Turatie mars in gol
+Putere
+Nivel de sunet
+Nivel de vibratii
+Lungime
+Greutate
+ZONE 1, 2 GAZ
+14000
+89889.87
+80 bar
+SDS max
+2300 bpm
+50 mm (beton) / 80 mm (zidărie)
+15-45 l/min
+3/4"-16UNF 
+500rpm
+1,2 kW
+92 db
+9 m/s²
+640
+14,0 kg
+79432
+NOU
+Masina de gaurit cu talpa magnetica 
+hidraulica pentru mediu subacvatic 
+CM3, 2,5 kW
+ZONE 1, 2 GAZ
+49345.43
+79913
+RPM
+500
+Categoria Atex
+Presiune de lucru
+Tip supapa
+Cursa
+Numar de lovituri
+Debit ulei
+Conexiune
+Putere
+Nivel de sunet
+Nivel de vibratii
+Furtun (Øint)
+Greutate
+6100
+Ex II2GcT5
+140 bar
+rasucire
+60 mm
+500 rpm
+10-50 l/min
+3/4"-16UNF 
+2,8 kW
+86 db
+<2,5 m/s²
+12 mm
+6,1 kg
+79912
+Nm
+60
+8500
+47289.54
+Presiune de lucru
+Mandrina
+Cuplu maxim
+Debit ulei
+Conexiune
+Turatie mars in gol
+Putere
+Nivel de sunet
+Nivel de vibratii
+Diametru recomandat furtun
+Greutate
+140 bar
+CM3
+60 Nm
+10 l/min
+1/2"FF 
+280 rpm
+1,6 kW
+85,2 db
+<15,8 m/s²
+12 mm Øint.
+10,7 kg
+79915
+NOU
+Masina de gaurit hidraulica pentru
+mediu subacvatic SDS-plus® 1,2 kW
+• ciocanele hidraulice EGA Master sunt proiectate pentru a gauri 
+suprafete foarte rezistente si dure in medii subacvatice.
+• esentiale pentru gaurirea materialelor precum beton, caramida, piatra
+pe care burghiile conventionale nu le-ar putea gauri
+• echipat cu un ambreiaj de siguranta care protejeaza impotriva
+supraincarcarilor si blocajelor
+• sistem SDS-Plus
+• un maner lateral reglabil si un indicator de adancime ofera un confort 
+sporit
+ZONE 1, 2 GAZ
+ZONE 1, 2 GAZ
+79915
+RPM
+500
+8200
+55990.89
+79432
+RPM
+40-250
+22500
+140678.20
+Presiune de lucru
+Mandrina
+Impacturi pe minut
+Capacitate de gaurire
+Debit ulei
+Conexiune
+Turatie mars in gol
+Putere
+Nivel de sunet
+Nivel de vibratii
+Lungime
+Greutate
+80 bar
+SDS Plus
+4460 bpm
+28 mm (beton) / 50 mm (zidărie)
+10-45 l/min
+3/4”-16UNF 
+500rpm
+1,2 kW
+92 db
+4,5 m/s²
+460
+8,2 kg
+Presiune de lucru
+Mandrina
+Diametru maxim de gaurire
+Forta magnetica
+Debit ulei
+Conexiune
+Turatie mars in gol
+Putere
+Nivel de sunet
+Nivel de vibratii
+Cursa
+Greutate
+140 bar
+CM3
+100 mm
+850 kg 
+20-23 l/min
+3/4"-16UNF 
+40-250 rpm
+2,5 kW
+79,8 db
+<2,5 m/s²
+300 mm
+14,0 kg

@@ -1,0 +1,532 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:432]
+1700
+1704
+Tesitor conic DIN 335 forma C 90º HSS
+• tesitor conic DIN 335 forma C 90º 
+• material : HSS, tratat termic 
+• cu 3 muchii taietoare ; unghiul la varf 90º
+• suprafetele zencuite rezulta netede si fara arsuri.
+• pentru o viteza de aschiere mai mare si cresterea duratei de 
+viata a sculei se recomanda utilizarea cu lichid de racire
+• destinate pentru zencuire in oteluri ne aliate si slab aliate, cu 
+σr≤800 N/mm², in  materiale neferoase (aliaje de aluminiu, 
+cupru si bronzuri), materiale  sinterizate diverse (nu in piese 
+sinterizate din pulberi de oteluri sau din carburi metalice) 
+• se pot folosi atat pe masini / utilaje stationare si fixe, cat si pe 
+masini portabile, electrice sau pneumatice
+Tesitor conic DIN 335 forma D, cu
+coada conica, 90º HSS
+• tesitor conic DIN 335 forma D, cu coada conica, 90º
+• material : HSS, tratat termic
+• cu 3 muchii taietoare ; unghiul la varf 90º
+• suprafetele zencuite rezulta netede si fara arsuri.
+• pentru o viteza de aschiere mai mare si cresterea duratei de 
+viata a sculei se recomanda utilizarea cu lichid de racire
+• destinate pentru zencuire in oteluri ne aliate si slab aliate, cu 
+σr≤800 N/mm², in materiale neferoase (aliaje de aluminiu, cupru 
+si bronzuri), materiale sinterizate diverse (nu in piese sinterizate 
+din pulberi de oteluri sau din carburi metalice)
+• se pot folosi atat pe masini / utilaje stationare si fixe
+1715
+NOU
+Tesitor conic cu trei muchii din 
+carbura monobloc
+• tesitor premium din carbura solida
+• duritatea ridicata si rezistenta la temperatura, precum si rezistenta 
+la uzura in comparatie cu sculele HSS normale, permit o durata de 
+viata excelenta a sculei chiar si in otelurile de inalta rezistenta 
+≤ 55 HRC.
+• canalele optimizate asigura eliminarea ideala a aschiilor si a caldurii
+• reducerea fortei de avans
+DIN
+335C
+HSS
+G
+90°
+CBN
+d2
+DIN 74 AF
+BF
+  4
+  4
+  5
+  5
+  6
+  6
+  6
+  6
+  6
+  6
+  6
+  8
+  8
+  8
+10
+10
+10
+10
+10
+10
+12
+13
+15
+M 2,5
+M 3
+M 3,5
+M 4
+M 5
+M 6
+M 8
+M 10
+M 12
+45.08
+45.08
+46.23
+36.89
+49.02
+40.66
+45.57
+42.13
+46.23
+55.08
+49.51
+66.39
+67.21
+64.43
+85.57
+86.89
+117.70
+119.18
+143.44
+149.51
+185.74
+379.51
+523.93
+M 3
+M 4
+M 5
+M 6
+M 8
+M 10
+M 12
+M 16
+Ø
+4,3
+5,0
+6,0
+6,3
+7,0
+7,3
+8,0
+8,3
+9,4
+10,0
+10,4
+11,5
+12,0
+12,4
+15,0
+16,5
+19,0
+20,5
+23,0
+25,0
+31,0
+40,0
+50,0
+17000304390
+17000305090
+17000306090
+17000306390
+17000307090
+17000307390
+17000308090
+17000308390
+17000309490
+17000310090
+17000310490
+17000311590
+17000312090
+17000312490
+17000315090
+17000316590
+17000319090
+17000320590
+17000323090
+17000325090
+17000331090
+17000340090
+17000350090
+1710
+Tesitor conic DIN 335 forma C 90º
+HSS-E ( Co 5% )
+• tesitor conic DIN 335 forma C 90º 
+• material : HSS-E ( Co 5% ), tratat termic 
+• cu 3 muchii taietoare; unghiul la varf 90º
+• suprafetele zencuite rezulta netede si fara arsuri.
+• pentru o viteza de aschiere mai mare si cresterea duratei de
+viata a sculei se recomanda utilizarea cu lichid de racire
+• destinate pentru zencuire in oteluri ne aliate si slab aliate cu 
+σr≤800 N/mm², oteluri pentru tratament termic cu 
+σr≤1100 N/mm², oteluri inoxidabile si materiale neferoase (aliaje de 
+aluminiu, cupru si bronzuri), materiale plastice
+• se pot folosi atat pe masini / utilaje stationare si fixe, cat si pe 
+masini portabile, electrice sau pneumatice
+DIN
+335C
+HSS-E
+Co5
+90°
+CBN
+VA  
+INOX
+17100306390
+17100308390
+17100310490
+17100312490
+17100316590
+17100320590
+17100325090
+17100331090
+Ø
+6,3
+8,3
+10,4
+12,4
+16,5
+20,5
+25,0
+31,0
+d2
+Varf
+BF
+  5
+  6
+  6
+  8
+10
+10
+10
+12
+1,5
+2,0
+2,5
+2,8
+3,2
+3,5
+3,8
+4,2
+M 3
+M 4
+M 5
+M 6
+M 8
+M 10
+M 12
+M 16
+LT
+45
+50
+50
+56
+60
+63
+67
+71
+46.39
+56.72
+65.74
+77.05
+102.13
+135.90
+188.85
+283.28
+DIN
+335C
+VHM
+SC
+90°
+Z3
+CBN
+Ø       d1      d3
+L1
+DIN74BF
+Amb
+17150306390
+17150308390
+17150310490
+17150312490
+17150316590
+17150320590
+17150325090
+17150331090
+6,3
+8,3
+10,4
+12,4
+16,5
+20,5
+25,0
+31,0
+1,5
+2,0
+2,5
+2,8
+3,2
+3,5
+3,8
+4,2
+5
+6
+6
+8
+10
+10
+10
+12
+45
+50
+50
+56
+60
+63
+67
+71
+M3
+M4
+M5
+M6
+M8
+M10
+M12
+M16
+1719
+1
+1
+1
+1
+1
+1
+1
+1
+537.38
+591.15
+640.00
+776.39
+908.85
+1211.31
+1594.26
+2036.23
+NOU
+Tesitor conic cu trei muchii din 
+carbura monobloc
+• tesitor premium din carbura solida
+• duritatea ridicata si rezistenta la temperatura, precum si rezistenta 
+la uzura in comparatie cu sculele HSS normale, permit o durata de 
+viata excelenta a sculei chiar si in otelurile de inalta rezistenta 
+≤ 55 HRC.
+• canalele optimizate asigura eliminarea ideala a aschiilor si a caldurii
+• reducerea fortei de avans
+• acoperire multistrat albastru+ pentru o durata de viata optimizata 
+a sculei
+blue+
+DIN
+335C
+VHM
+SC
+90°
+Z3
+CBN
+Ø       d1      d3
+L1
+DIN74BF
+Amb
+17190306390
+17190308390
+17190310490
+17190312490
+17190316590
+17190320590
+17190325090
+17190331090
+6,3
+8,3
+10,4
+12,4
+16,5
+20,5
+25,0
+31,0
+1,5
+2,0
+2,5
+2,8
+3,2
+3,5
+3,8
+4,2
+5
+6
+6
+8
+10
+10
+10
+12
+45
+50
+50
+56
+60
+63
+67
+71
+M3
+M4
+M5
+M6
+M8
+M10
+M12
+M16
+1
+1
+1
+1
+1
+1
+1
+1
+610.33
+672.46
+721.80
+875.57
+1024.43
+1355.08
+1773.93
+2244.26
+DIN
+335D
+HSS
+G
+90°
+CBN
+Ø
+d2
+LT
+DIN 74 AF DIN 74 BF
+17040323090
+17040325090
+17040326090
+17040328090
+17040330090
+17040331090
+17040334090
+17040337090
+17040340090
+17040350090
+17040363090
+23.0
+25.0
+26.0
+28.0
+30.0
+31.0
+34.0
+37.0
+40.0
+50.0
+63.0
+MK 2
+MK 2
+MK 2
+MK 2
+MK 2
+MK 2
+MK 2
+MK 2
+MK 3
+MK 3
+MK 4
+106
+106
+106
+112
+112
+112
+118
+118
+140
+150
+180
+M 12
+M 14
+M 16
+M 18
+M 20
+M 12
+M 14
+M 16
+M 18
+M 20
+292.95
+292.95
+301.31
+301.31
+316.23
+331.97
+373.61
+420.33
+501.31
+720.49
+1323.11
+1705
+Tesitor conic, Norma BOHRCRAFT, 
+90º HSS, coada hexagonala 1/4"
+• tesitor conic, Norma BOHRCRAFT, 90º HSS, coada hex 1/4"
+• material : HSS, tratat termic
+• cu 3 muchii taietoare ; unghiul la varf 90º
+• suprafetele zencuite rezulta netede si fara arsuri.
+• pentru o viteza de aschiere mai mare si cresterea duratei de 
+viata a sculei se recomanda utilizarea cu lichid de racire
+• destinate pentru zencuire in oteluri ne aliate si slab aliate, 
+cu σr≤800 N/mm², in materiale neferoase (aliaje de aluminiu, 
+cupru si bronzuri), materiale sinterizate diverse (nu in piese 
+sinterizate din pulberi de oteluri sau din carburi metalice)
+• se pot folosi pe masini portabile, electrice sau pneumatice
+HSS
+G
+90°
+NORM
+CBN ¼"
+17050306390
+17050308390
+17050310490
+17050312490
+17050316590
+17050320590
+          DIM.  COADA         L
+31
+31
+34
+35
+40
+41
+1/4"
+1/4"
+1/4"
+1/4"
+1/4"
+1/4"
+1.5
+2.0
+2.5
+2.8
+3.2
+3.5
+47.87
+55.90
+63.28
+82.79
+110.98
+149.51

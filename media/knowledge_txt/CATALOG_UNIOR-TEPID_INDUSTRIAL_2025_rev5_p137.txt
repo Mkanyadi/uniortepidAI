@@ -1,0 +1,378 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:137]
+12HL4 3/4”
+Cap cheie tubulara de impact 3/4" cu profil 
+hexagon exterior, o piesa, lung 100 mm
+• patrat de antrenare 1/2” DIN 3121 - H20
+• profil hexagon exterior DIN/ISO 2963
+232.4/4
+Prelungitor lung de impact 3/4"
+•  material:crom molibden
+•  forjata, calire si revenire totala
+•  acoperire prin brunare dupa standardul DIN 12476
+Dimensiune                    D2                 L               t min             Greutate
+MM/inch                     mm               mm             mm                   gr
+12M10HL4
+12M12HL4
+12M14HL4
+12M17HL4
+12M19HL4
+12M22HL4
+12M24HL4
+1206HL4
+1207HL4
+1208HL4
+1209HL4
+1210HL4
+1212HL4
+1213HL4
+1214HL4
+1216HL4
+10
+12
+14
+17
+19
+22
+24
+3/8"
+7/16"
+1/2"
+9/16"
+5/8"
+3/4"
+13/16"
+7/8"
+1"
+38
+38
+38
+38
+44
+44
+44
+38
+38
+38
+38
+38
+44
+44
+44
+44
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+10
+12
+14
+17
+19
+22
+24
+10
+11
+13
+14
+16
+19
+21
+22
+25
+350
+350
+350
+350
+550
+550
+550
+350
+350
+350
+350
+350
+550
+550
+550
+550
+198.15
+198.15
+224.85
+224.85
+251.04
+281.07
+281.07
+198.15
+198.15
+198.15
+224.85
+224.85
+251.04
+251.04
+281.07
+281.07
+12HL6 3/4”
+Cap cheie tubulara de impact 3/4" cu profil 
+hexagon exterior, o piesa, lung 150 mm
+• patrat de antrenare 1/2” DIN 3121 - H20
+• profil hexagon exterior DIN/ISO 2963
+Dimensiune                    D2                 L               t min             Greutate
+MM/inch                     mm               mm             mm                   gr
+12M10HL6
+12M12HL6
+12M14HL6
+12M17HL6
+12M19HL6
+12M22HL6
+12M24HL6
+1206HL6
+1207HL6
+1208HL6
+1209HL6
+1210HL6
+1212HL6
+1213HL6
+1214HL6
+1216HL6
+10
+12
+14
+17
+19
+22
+24
+3/8"
+7/16"
+1/2"
+9/16"
+5/8"
+3/4"
+13/16"
+7/8"
+1"
+38
+38
+38
+38
+44
+44
+44
+38
+38
+38
+38
+38
+44
+44
+44
+44
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+150
+10
+12
+14
+17
+19
+22
+24
+10
+11
+13
+14
+16
+19
+21
+22
+25
+390
+390
+390
+390
+600
+600
+600
+390
+390
+390
+390
+390
+600
+600
+600
+600
+281.07
+281.07
+281.07
+281.07
+303.93
+347.24
+347.24
+281.07
+281.07
+281.07
+281.07
+281.07
+303.93
+303.93
+347.24
+125.93
+L
+175
+250
+D1
+25.5
+25.5
+D2
+44
+44
+882
+1245
+ 1B 
+ 1B 
+1
+1
+232.62
+275.90
+603993
+603992
+3/4"
+3/4"
+540
+Prelungitor de impact 3/4"
+• material: crom molibden
+• actionare: patrat 3/4”
+• conform DIN 3121 - H 20
+• deschidere: hexagon DIN / ISO 691 
+E
+A
+D2
+L
+3/4”
+3/4”
+3/4”
+3/4”
+3/4”
+3/4”
+44
+44
+44
+175
+250
+330
+867
+1168
+1483
+ 1C 
+ 1C 
+ 1C 
+1
+1
+1
+244.26
+309.84
+520.57
+1000005401
+1000005402
+1000005403
+540-1
+540-2
+540-3
+E12 3/4”
+Prelungitor de impact 3/4"
+• patrat de antrenare 3/4” DIN 3121 - forma H20
+Patrat 
+interior          exterior 
+3/4"
+3/4"
+3/4"
+3/4"
+3/4"
+3/4"
+E1203
+E1204
+E1205
+E1207
+E1210
+E1213
+232.7/4
+3/4"
+3/4"
+3/4"
+3/4"
+3/4"
+3/4"
+                 D 
+                 L                      Greutate
+mm 
+44
+44
+44
+44
+44
+44
+mm 
+75
+100
+125
+175
+250
+325
+    gr
+470
+550
+690
+900
+1200
+1460
+Adaptor de impact 3/4"
+•  material:crom molibden
+•  forjata, calire si revenire totala
+•  acoperire prin brunare dupa standardul DIN 12476
+237.91
+255.02
+271.92
+305.85
+382.28
+399.32
+603995 3/4" - 1/2"
+618708 3/4" - 1"
+D
+44
+44
+L
+56
+63
+323
+443
+ 1B 
+ 1B 
+1
+1
+144.26
+150.33

@@ -1,0 +1,78 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:757]
+1693EL.1
+Placa fixa pentru 1693EL
+1693ES
+Pompa exterior din otel inoxidabil pentru 
+standurile 1693E si 1693ES
+• pompa este destinata utilizarii in exterior pe standurile 1693E si 1693ES si functioneaza pe toate 
+versiunile standurilor.
+• carcasa este din aluminiu
+• manerul si tubul cartusului sunt fabricate din otel inoxidabil.
+• manere de cauciuc
+• manometrul creste pana la 10 bar - umplut cu silicon lichid si fabricat din otel inoxidabil
+• SKS Cap multivalva 
+628743
+L
+740
+B
+740
+H
+20
+52000
+ 1K 
+1
+3934.26
+1693ES
+Stand pentru reparare biciclete Fix it yourself
+cu pompa din otel inoxidabil
+• standul de reparatii pentru biciclete fix-it-yourself este utilizat in locuri publice: de-a 
+lungul traseelor de biciclete, parcurilor de biciclete, campingurilor, in fata hotelurilor, centrul 
+orasului si a altor destinatii turistice, deosebit de populare printre biciclisti.
+standurile sunt echipate cu scule pentru reparatii de baza si o pompa de otel specifica pentru 
+exterior de inalta calitate. Pe suport, putet gasi o cheie reglabila, unealta cu lant, unealta Schrader
+& Presta, un set de chei hexagonale (2,5 - 8), cheie spite 3.3, 3.45 si DT, chei TX 10, 25, PH si 
+surubelnita plana, chei de dimensiuni 13, 14, 15, 17 si set de parghii pentru anvelope.
+• bicicleta poate fi agatata pe suporturi special concepute, protejate cu cauciuc.
+• toate instrumentele sunt atasate la un fir puternic si, atunci cand nu sunt utilizate, sunt pastrate 
+cu grija in cadrul suportului.
+• suportul trebuie sa fie insurubat la sol; suruburile nu sunt incluse
+629021
+1693R.2
+1800
+ 1F 
+1
+4915.82
+Adaptor ax pentru 1693R
+• adaptorul axial este compatibil cu standurile din seria 1693R.
+• permite fixarea bicicletelor cu axele de 12 mm sau 15 mm
+• pentru a monta bicicleta pe adaptor, pur și simplu scoateti roata din bicicleta și instalati bicicleta 
+prin ax inapoi in furca sau cadru; adaptorul fixeaza apoi axul traversant și fixeaza bicicleta in pozitie 
+H1
+H
+628425 1400
+1500
+L
+400
+B
+330
+23200
+ 1F 
+1
+16469.81
+628710
+1693.3
+476
+ 1K 
+1
+543.69
+Suport SOS pentru 1693
+•  Noul modul de aranjare scule 1693.3 este fabricat din tabla de otel subtire si rezistenta, 
+cu doua sine si un modul de spuma SOS
+•  Modulul de spuma este intersanjabil, cod 1693.6
+•  Modulul de aranjare se potriveste in noua generatie de suport 1693
+•  Verificati compatibilitatea cu distribuitorul local.
+623820
+822
+ 1K 
+1
+280.98

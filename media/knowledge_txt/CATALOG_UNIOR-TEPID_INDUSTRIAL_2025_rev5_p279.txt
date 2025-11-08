@@ -1,0 +1,193 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:279]
+217
+NOU
+3240
+Micrometru digital de exterior IP65
+• rezolutie: 0.001mm/0.00005""
+• acuratetea in conformitate cu DIN 863.
+• un LED verde se aprinde cand citirea este in limitele de toleranta prestabilite
+• clasa protectie IP54, rezistent la apa si praf
+• ramă vopsită, cu opritor cu clichet cu frictiune.
+• fata de mssurare din carbura
+• cu functii de mm/inch, setare zero la orice pozitie, pornire/oprire si setare de toleranta
+• de la dimensiunea 25-50mm inclusiv se livreaza cu cala de reglare
+• ieșire de date cu interfata mini USB
+• livrarea in cutie de plastic, cu baterie 3V CR2032
+• livrare cu raportul de inspectie
+Micrometru mecanic de adancime, cu talpa
+• gradatie : 0.01mm
+• acuratetea capului micrometric : ± 3 µm
+• acuratetea extensiilor : ± ( 2 + L / 75 ) µm ( L = lungimea maxima de masurat )
+• extensiile cu capete plate
+• clichet de oprire
+Instalare prelungitor
+217-5981
+Scala 
+0-25 mm / 0-1"
+217-5998
+25-50 mm / 1-2"
+217-6001
+50-75 mm / 2-3"
+217-6018
+75-100 mm / 3-4"
+217-6025
+100-125 mm / 4-5"
+217-6032
+125-150 mm / 5-6"
+217
+   Acuratete         L                a             b
+32
+± 3 µm
+156
+25
+± 3 µm
+± 4 µm
+± 4 µm
+± 5 µm
+± 5 µm
+185
+212
+240
+269
+296
+31
+44
+56
+68
+81
+57
+82
+107
+132
+157
+h
+63
+80
+95
+113
+128
+146
+648.97
+746.07
+858.63
+955.73
+1139.93
+1307.40
+NOU
+Micrometru digital de exterior IP54
+• rezolutie: 0.001mm/0.00005"
+• acuratetea in conformitate cu DIN 863.
+• un LED verde se aprinde cand citirea este în limitele de toleranta prestabilite
+• clasa protectie IP54, rezistent la apa si praf
+• ramă vopsita, cu opritor cu clichet cu frictiune.
+• fata de masurare din carbura
+• cu functii de mm/inch, setare zero la orice pozitie, pornire/oprire si setare de toleranta
+• de la dimensiunea 25-50mm inclusiv se livreaza cu cala de reglare
+• iesire de date cu interfata mini USB
+• livrarea in cutie de plastic, cu baterie 3V CR2032
+• livrare cu raportu de inspectie
+Scala 
+                                    Extensii
+0-25 mm
+0-50 mm
+0-75 mm
+0-100 mm
+0-150 mm
+0-200 mm
+0-300 mm
+3240-25
+3240-50
+3240-75
+3240-100
+3240-150
+3240-200
+3240-300
+3240
+1 pcs
+2 pcs
+3 pcs
+4 pcs
+6 pcs
+8 pcs
+12 pcs
+572.25
+651.00
+789.60
+834.75
+1081.50
+1512.00
+1974.00
+NOU
+Micrometru mecanic de adancime, cu talpa
+• gradatie : 0.01 mm
+• dimensiuni baza 63x16 mm,
+• scala cromată
+• insertii de masurare φ4.5mm cu fata de mssurare sferica
+• insertii usor de înlocuit
+• cu opritor cu clichet cu frictiune
+• se livreaza cu raport de inspectie
+217-5868
+Scala 
+0-25 mm / 0-1"
+217-5875
+25-50 mm / 1-2"
+217-5882
+50-75 mm / 2-3"
+217-5899
+75-100 mm / 3-4"
+217-5905
+100-125 mm / 4-5"
+217-5912
+125-150 mm / 5-6"
+   Acuratete         L                a             b
+32
+± 3 µm
+156
+25
+± 3 µm
+± 4 µm
+± 4 µm
+± 5 µm
+± 5 µm
+185
+212
+240
+269
+296
+31
+44
+56
+68
+81
+57
+82
+107
+132
+157
+h
+63
+80
+95
+113
+128
+146
+568.60
+665.70
+778.08
+875.36
+1059.56
+1227.03
+217-6193
+217-6209
+217-6216
+Scala
+0-150 mm
+0-200 mm
+0-300 mm
+Acuratete
+± 5 µm
+± 6 µm
+± 7 µm
+869.18
+1219.39
+1690.71

@@ -1,0 +1,90 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:22]
+Rezistenta la torsiune
+110/1 Chei fixe duble drepte
+Rezistenta la torsiune
+180/1 Chei inelare dublu cotite
+700
+600
+500
+400
+300
+200
+100
+)
+m
+N
+l
+(
+u
+p
+u
+C
+1000
+800
+600
+400
+200
+)
+m
+N
+l
+(
+u
+p
+u
+C
+10
+13
+17
+19
+22
+24
+27
+10
+13
+17
+19
+22
+24
+27
+Dimensiune
+Dimensiune
+ISO 1711-1 (A) cap cheie inelara
+UNIOR cap cheie fixa
+ISO 1711-1 (C) cap cheie fixa
+UNIOR cap cheie inelara
+ISO si UNIOR in Nm
+Rezistenta la torsiune
+120/1 Chei combinate, varianta lunga
+1000
+800
+600
+400
+200
+)
+m
+N
+(
+)
+m
+N
+l
+(
+u
+p
+u
+C
+10
+13
+17
+19
+22
+24
+27
+Dimensiune
+LIFE proﬁle
+Princhpalele avantaje ale profilului LIFE
+• o actionare mai rapida pe piulita
+• protectia surubului si a varfurilor acestuia
+• pozitionare rapida si operare confortabila
+• utilizare chiar si pentru suruburi si piulite deformate

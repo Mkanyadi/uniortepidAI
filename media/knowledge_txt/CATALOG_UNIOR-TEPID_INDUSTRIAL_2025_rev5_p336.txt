@@ -1,0 +1,171 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:336]
+765HS
+Pila patrata fina
+ cu maner bimaterial
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+762/5B
+762/5 1/2S
+Set de pile bastard 150 mm
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+Set de pile semifine 200 mm
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+DIN
+7261
+Forma
+D
+LU
+150
+200
+250
+LT
+270
+325
+375
+A
+5.5
+8
+10
+106
+158
+252
+35.57
+41.31
+51.64
+619348
+613035
+613036
+Q/045
+619467
+5 piese
+500
+196.72
+612931
+5 piese
+1020
+232.30
+ 760HB  (150), 
+ 760H1/2S  (200), 
+761HB  (150), 
+ 763HB  (150), 
+ 764HB  (150), 
+  765HB  (150)
+761H1/2S  (200), 
+ 763H1/2S  (200), 
+ 764H1/2S (200), 
+ 765H1/2S (200)
+Pila patrata fara maner
+• pila rotunda cu dantura incrucisata in spirala
+•  1 - bastard; 2 - semifina; 3 - fina
+•  duritate: 60-66 HRc
+762/5B
+Set de pile bastard 200 mm
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+762/5S
+Set de pile fine 150 mm
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+D
+DIN
+7261
+Forma
+F
+L
+Taiere
+b
+1
+2
+3
+1
+2
+3
+14.5
+14.5
+14.5
+17.5
+17.5
+17.5
+960
+960
+960
+1700
+1700
+1700
+97.51
+101.22
+107.11
+177.02
+189.29
+201.63
+Q045350BA
+Q045350SF
+Q045350FI
+Q045400BA
+Q045400SF
+Q045400FI
+350
+350
+350
+400
+400
+400
+762/5B
+Set de pile bastard 250 mm
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+612929
+5 piese
+1020
+209.84
+619469
+5 piese
+500
+201.64
+ 760HB  (200), 
+ 760HS (150), 
+761HB  (200), 
+ 763HB  (200), 
+761HS  (150), 
+ 763HS (150), 
+ 764HB  (200), 
+  765HB  (200)
+ 764HS (150), 
+  765HS  (150)
+762/5 1/2S
+Set de pile semifine 150 mm
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+762/5S
+Set de pile fine 250 mm
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+612930
+5 piese
+1430
+263.11
+619468
+5 piese
+500
+197.05
+612934
+5 piese
+1560
+285.57
+ 760HB  (250), 
+761HB  (250), 
+ 763HB  (250), 
+ 764HB  (250), 
+  765HB  (250)
+ 760H1/2S  (150), 
+ 760HS  (250), 
+761H1/2S  (150), 
+ 763H1/2S  (150), 
+761HS  (250), 
+ 763HS (250), 
+ 764H1/2S (150), 
+ 765H1/2S (150)
+ 764HS  (250), 
+  765HS  (250)

@@ -1,0 +1,105 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:364]
+607CS7TBI
+Set surubelnite combinate,
+maner trimaterial TBI, cromate
+608CS5TBI
+609CS7CR
+Set surubelnite combinate,
+maner trimaterial TBI, cromate
+Set surubelnite combinate,
+maner polipropilena, cromate
+611986
+7
+650
+ 1G 
+239.51
+ 605TBI  (0.5 x 3.0 x 80, 0.8 x 4.0 x 100, 
+1.0 x 5.5 x 125, 1.2 x 6.5 x 150, 1.2 x 8.0 x 175)
+ 615TBI  (PH 1 x 80, PH 2 x 100)
+612326
+5
+546
+ 1G 
+1
+175.90
+ 615TBI  (PH0x60, PH1 x 80, PH2 x 100, 
+PH3 x 150), 
+ 625TBI  (PZ2 x 100)
+617030
+7
+681
+ 1G 
+1
+176.89
+ 605CR (0.8x4.0x100, 1.0x5.5x125, 
+1.2 x 6.5 x 150, 1.2 x 8.0 x 175), 
+625CR (PZ 1 x 80, PZ 2 x 100, PZ 3 x 150)
+608CS5CR
+607CS7CR
+Set surubelnite profil Phillips 
+(PH), maner polipropilena, 
+cromate
+Set surubelnite combinate,
+maner polipropilena, cromate
+621CS7TBI
+Set surubelnite TORX®,
+maner trimaterial TBI, cromate
+IN LIMITA STOCULUI
+617028
+5
+630
+ 1G 
+1
+149.67
+ 615CR (PH 0 x 60, PH 1 x 80, PH 2 x 100, 
+PH 3 x 150, PH 4 x 200)
+617026
+7
+700
+ 1G 
+1
+178.20
+ 605CR (0.8 x 4.0 x 100, 1.0 x 5.5 x 
+125, 1.2 x 6.5 x 150, 1.2 x 8.0 x 175), 
+ 615CR (PH1x80, PH2x100, PH3x150)
+612300 TX 10-TX 40 / 7
+580
+ 1G 
+1
+242.30
+ 621TBI  (TX 10, TX 15, TX 20, TX 25,    
+TX 27, TX 30, TX 40)
+608CS5NI
+609CS5TBI
+621CS7CR
+Set surubelnite combinate,
+maner polipropilena, nichelate
+Set surubelnite combinate,
+maner trimaterial TBI, cromate
+Set surubelnite TORX®,
+maner polipropilena, cromate
+IN LIMITA STOCULUI
+617041
+5
+485
+ 1G 
+1
+103.44
+615NI  (PH 0x60, PH 1 x 80, PH 2 x 100, PH 3 x 150),  
+625NI  (PZ 2 x 100)
+611987
+5
+475
+ 1G 
+1
+164.92
+ 605TBI  (0.8x4.0x100, 1.0x5.5x 125, 
+1.2x6.5x150), 
+PZ2x100)
+ 625TBI  (PZ1x80, 
+617031 TX 10 - TX 40 / 7 535
+ 1G 
+1
+168.85
+ 621CR  (TX 10, TX 15, TX 20, TX 25, 
+TX 27, TX 30, TX 40)

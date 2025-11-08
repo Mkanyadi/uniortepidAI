@@ -1,0 +1,185 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:184]
+427/4DG
+62494
+NOU
+62592
+NOU
+Cleste de sertizat modular
+•  confectionat din tabla
+•  acoperire: fosfatare conform standardului DIN 12476
+•  manere bimaterial pentru conditii grele
+Avantaje:
+•  pozitionarea exacta se face datorita pozitionarii 
+paralele a falcilor
+Utilizare
+•  pentru fixarea prizelor Western cu 4-, 6- si 8- poli de 
+tip RJ 10 (grosime 7.65 mm) tip RJ 11/12 (grosime 
+9.65 mm) si tip RJ 45 (grosime 11.68 mm)
+•  scula pentru taierea si sertizarea firelor de telefon neizolate 
+•  cu un dispozitiv special pentru dezvelirea cablurilor rotunde 
+•  cu cutter de lungime si cutit de dezizolare pentru 
+cabluri tip panglica de la 6 la 12 mm grosime
+Cleste de sertizat pentru cabluri
+izolate si neizolate
+• ideal pentru functii de bază pentru conexiuni.
+• multifunctionalitatea sa ii permite sa fie folosit pentru a 
+decupa si imbina cabluri, sertizare terminale, sertizare 
+conectori etc.
+• manere ergonomice 
+Utilizare
+• AWG: 10-12-14-16-18-20-22
+• mm: 2,59-2,05-1,63-1,29-1,02-0,812-0,644 
+• CAP. (mm²): 5,26-3,31-2,08-1,31-0,82-0,52-0,324
+• DIN (mm²): 6-4-2,5-1,5-1-0,75-0,5
+Cleste de sertizat pentru terminale
+neizolate
+• ideal pentru functii de baza pentru conexiuni.
+• multifunctionalitatea sa ii permite sa fie folosit pentru a 
+decupa si imbina cabluri, sertizare terminale, sertizare 
+conectori etc.
+• manere ergonomice 
+Utilizare
+• AWG: 22-20-18-16-14
+• mm: 0,644-0,812-1,02-1,29-1,63 
+• CAP.: 0,324-0,52-0,82-1,31-2,08 mm² 
+• DIN: 0,5-0,75-1-1,5-2,5 mm² 
+621553
+401
+ 1G 
+1
+244.10
+62493
+NOU
+Cleste de sertizat pentru terminale
+izolate
+• ideal pentru functii de bază pentru conexiuni.
+• multifunctionalitatea sa ii permite sa fie folosit pentru a 
+decupa si imbina cabluri, sertizare terminale, sertizare 
+conectori etc.
+• manere ergonomice 
+Utilizare
+• AWG: 10-12-14-16-18-20-22
+• mm: 2,59-2,05-1,63-1,29-1,02-0,812-0,644
+• CAP. (mm²): 5,26-3,31-2,08-1,31-0,82-0,52-0,324
+• DIN (mm²): 6-4-2,5-1,5-1-0,75-0,5  
+L
+220
+62494
+62594
+190
+ 1G 
+6
+100.24
+L
+NOU
+62592
+7.1/2”
+350
+ 1G 
+6
+519.86
+Cleste de sertizat pentru cabluri
+izolate si neizolate
+• ideal pentru functii de bază pentru conexiuni.
+• multifunctionalitatea sa ii permite sa fie folosit pentru a 
+decupa si imbina cabluri, sertizare terminale, sertizare 
+conectori etc.
+• manere ergonomice 
+Utilizare
+• AWG: 26-14 
+• mm: 0,405-1,63 
+• CAP.: 0,129-2,08 mm² 
+• DIN: 0,5-2,5 mm² 
+62597
+NOU
+Cleste cu clichet pentru conectori
+COAX -BNC-TNC
+• ideal pentru functii de baza pentru conexiuni.
+• multifunctionalitatea sa ii permite sa fie folosit pentru a 
+decupa si imbina cabluri, sertizare terminale, sertizare 
+conectori etc.
+• manere ergonomice 
+Utilizare
+CAP.: 58, 59,62, 8X | 140, 141, 174 | 210, 223, 303, 400 | 
+FIBER OPTIC BELDEN 8279  mm² 
+L
+62594
+7.1/2”
+360
+ 1G 
+6
+519.86
+L
+401
+ 1G 
+6
+96.30
+62593
+NOU
+62597
+7.1/2”
+550
+ 1G 
+6
+495.17
+Cleste de sertizat pentru terminale
+neizolate
+• ideal pentru functii de baza pentru conexiuni.
+• multifunctionalitatea sa ii permite sa fie folosit pentru a 
+decupa si imbina cabluri, sertizare terminale, sertizare 
+conectori etc.
+• manere ergonomice 
+Utilizare
+• AWG: 22-20-18-16-14
+• mm: 0,644-0,812-1,02-1,29-1,63 
+• CAP.: 0,324-0,52-0,82-1,31-2,08  mm² 
+• DIN: 0,5-0,76-1-1,5-2,5 mm² 
+62595
+NOU
+Cleste pentru terminale telefon
+• ideal pentru functii de baza pentru conexiuni.
+• multifunctionalitatea sa ii permite sa fie folosit pentru a 
+decupa si imbina cabluri, sertizare terminale, sertizare 
+conectori etc.
+• manere ergonomice 
+Utilizare
+CAP.: 4P2C, 4P4C, 6P4C (RJ-11), 6P6C (RJ-12), 8P8C, 
+10P6C, 10P8C (RJ-45) 
+L
+200
+62493
+62591
+NOU
+Cleste de sertizat pentru terminale
+izolate
+• ideal pentru functii de bază pentru conexiuni.
+• multifunctionalitatea sa ii permite sa fie folosit pentru a 
+decupa si imbina cabluri, sertizare terminale, sertizare 
+conectori etc.
+• manere ergonomice 
+Utilizare
+• AWG: 22-10
+• mm: 0,644-2,59 
+• CAP.: 0,324-5,26 mm² 
+• DIN: 0,5-6 mm² 
+62591
+L
+175
+550
+ 1G 
+6
+470.33
+62593
+L
+7.1/2”
+350
+ 1G 
+6
+519.86
+62595
+L
+8”
+500
+ 1G 
+6
+866.38

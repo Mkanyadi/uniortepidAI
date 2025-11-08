@@ -1,0 +1,163 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1029]
+vl964/9DSOS
+Modul SOS pentru set 964/9DSOS
+964/13ASOS
+Set de surubelnite cu profil 
+hexagonal si cap sferic cu
+maner in T in modul SOS
+964/15SOS
+Set de scule VDE BI in 
+modul SOS
+B
+L
+621505 188
+364
+H
+30
+964/10SOS
+49
+ 1V 
+1
+58.01
+Set de ciocane si punctatoare
+in modul SOS
+621068
+3 - 10 / 6
+775
+ 1F 
+1
+287.38
+ 193HX  (3, 4, 5, 6, 8, 10), 
+vl964/13ASOS  (188 x 364 x 30)
+621070
+9
+1140
+ 1F 
+1
+621.97
+ 406/1VDEBI  (180), 
+ 461/1VDEBI 
+ 478/1VDEBI  (160), 
+(160), 
+603VDETBI  (0.4 x 2.5 x 75, 0.6 x 3.5 x 100, 
+1.0x5.5x125), 
+PH2 x 100), 
+vl964/15SOS  (188 x 364 x 30)
+ 613VDETBI  (PH1 x 80, 
+ 630VDE  (0.5 x 3.0 x 140), 
+vl964/13ASOS
+Modul SOS pentru set 964/13ASOS
+vl964/15SOS
+Modul SOS pentru set 964/15SOS
+621064
+5
+1240
+ 1F 
+1
+282.13
+ 640/6  (5), 
+ 642/6  (5), 
+ 660/6  (150), 
+ 812 (300), 
+ 820 (32), vl964/10SOS  (188 x 364 x 30)
+vl964/10SOS
+B
+L
+Modul SOS pentru set 964/10SOS
+621222 188
+364
+H
+30
+49
+ 1V 
+1
+58.01
+B
+L
+620895 188
+364
+H
+30
+41
+ 1V 
+1
+58.01
+B
+L
+620893 188
+364
+H
+30
+57
+ 1V 
+1
+58.01
+964/13SOS
+Set de surubelnite hexagonale
+cu maner in T in modul SOS
+964/14SOS
+Set de surubelnite cu profil TX
+cu maner in T in modul SOS
+621069 TX 15 - TX 40 / 6 530
+ 1F 
+1
+392.62
+ 193TX  (TX 15, TX 20, TX 25, TX 27, TX 30,       
+TX 40), vl964/14SOS  (188 x 364 x 30)
+vl964/14SOS
+Modul SOS pentru set 946/14SOS
+964/16SOS
+Set capete chei tubulare
+cu profil TX in modul SOS
+621067 3 - 10 / 6
+755
+ 1F 
+1
+297.70
+ 193HXS  (3, 4, 5, 6, 8, 10), vl964/13SOS  (188 
+x 364 x 30)
+vl964/13SOS
+Modul SOS pentru set 964/13SOS
+621071
+18
+1540
+ 1F 
+1
+803.61
+ 192/2TX  (TX 20, TX 25, TX 27, TX 30, TX 40, 
+ 191/1  (E 10, E 11,  
+TX 45, TX 50, TX 55, TX 60), 
+E 12, E 14, E 16, E 18, E 20, E 22, E 24),
+vl964/16SOS  (188 x 364 x 30)
+B
+L
+621223 188
+364
+H
+30
+52
+ 1V 
+1
+58.01
+vl964/16SOS
+Modul SOS pentru set 964/16SOS
+B
+L
+620894 188
+364
+H
+30
+25
+ 1V 
+1
+58.01
+B
+L
+621224 188
+364
+H
+30
+43
+ 1V 
+1
+58.01

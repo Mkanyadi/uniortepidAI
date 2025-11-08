@@ -1,0 +1,110 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:851]
+38-
+99-
+Freza profilata concav convex, cu rulment copier 
+inferior, placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se pot utiliza pe masini portabile de frezat cu sau fara masa
+Freza profilat pentru blat masa, cu rulment copier 
+inferior, placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se pot utiliza pe masini portabile de frezat cu sau fara masa
+A
+C
+D
+R
+H
+h
+R 3,2
+R 4,8
+A
+C
+D
+R 2
+R 1
+H
+h
+R2
+R1
+D               h              H              A              C            R             Z       rpm max.
+D               h              H              A              C           R1           R2       rpm max.
+38-40208P
+31,8
+15
+56,7
+8
+12,7
+3,2
+2
+24000
+196.56
+99-01108P
+41,3
+15,9
+63,5
+8
+12,7
+9,9
+4,4
+24000
+234.10
+38-
+38-
+Freza profilata concav convex, cu tesire intre ele, 
+cu rulment copier inferior, placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se pot utiliza pe masini portabile de frezat cu sau fara masa
+Freza profilata concav concav, cu rulment copier 
+inferior, placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv
+• se pot utiliza pe masini portabile de frezat cu sau fara masa
+A
+C
+D
+R 1
+R 2
+H
+h
+A
+C
+D
+R
+R
+H
+h
+R1
+R2
+R 5
+R 5
+D               h              H              A              C           R1           R2      rpm max.
+D               h              H              A              C            R             Z       rpm max.
+38-60208P
+38-60408P
+28,6
+34,9
+12,7
+18,3
+54,7
+60,3
+8
+8
+12,7
+12,7
+4
+6,4
+4
+4,8
+24000
+24000
+184.10
+233.77
+38-90008P
+32,7
+15
+57,2
+8
+12,7
+5
+2
+24000
+229.51

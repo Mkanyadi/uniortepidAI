@@ -1,0 +1,125 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:677]
+HYCP-185
+PH-300
+Cleste hidraulic pentru sertizat maxim 185 mm²
+• include bacuri HYCP 185 (AHE dies) AHE 1016/2535/5070/95120/150/185
+• pentru bacuri tip BEKU
+• greutate redusa, design compact in ingust
+• cap totativ pentru reglare usoara
+• cilindru cu simpla actiune cu arc de revenire
+• cursa reglabila, 10-15 mm pentru a minimiza actiune pompei
+• valva de siguranta bypass incorporata
+• cutie plastic
+Cleste hidraulic pentru sertizat maxim 300 mm²
+• include bacuri PH 300 T 16/25/35/50/70/95/120/150/185/240/300
+• pentru bacuri tip BEKU
+• greutate redusa, design compact in ingust
+• pentru bacuri Alcoa, Burndy, T&B, Klauke, Cembreand Blackburn
+• sistem hidraulic in doua etape pentrureducerea numarului de pompari
+• cap rotativ la 180º pentru operare facila
+• valva de siguranta pentru protectie la suprasarcina
+• pentru bacuri semirotunde
+• cutie plastic
+Ø
+1
+1
+HYCP-185
+185 mm²
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+2400
+185 mm²
+5.85 tone (52.0 kN)
+16 cc
+550 bar
+373 mm
+2.4 kg
+6522.95
+PH-300
+Ø
+300 mm²
+1
+1
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+3200
+300 mm²
+6.90 tone (61.4 kN)
+18 cc
+550 bar
+427 mm
+3.2 kg
+10368.85
+HYCP-240R
+UCP-240
+Cleste hidraulic pentru sertizat max 240 mm²
+• include bacuri HYCP 240 (AHE dies) AHE 1016/2535/5070/95120/150/185/240
+• pentru bacuri tip BEKU
+• greutate redusa, design compact in ingust
+• cap rotativ pentru reglare usoara
+• cilindru cu simpla actiune cu arc de revenire
+• cursa reglabila, 10-15 mm pentru a minimiza actiune pompei
+• valva de siguranta bypass incorporata
+• cutie plastic
+Cleste hidraulic pentru sertizat maxim 240 mm²
+• pentru bacuri tip BEKU (nu sint incluse in setul de livrare)
+• pentru sertizare hexagonala: 10-240 mm²
+• mansoane cupru si conectori NFC 20.130: 10-240 mm²
+• bara Cu sau Al sau mansoane izolate: E54 pana la E230
+• mansoane Cu sau Al si conectori DIN 48083: KZ6 pana la kz25
+• greutate redusa, design compact in ingust
+• sistem hidraulic in doua etape pentrureducerea numarului de pompari
+• cap rotativ la 180º pentru operare facila
+• valva de siguranta pentru protectie la suprasarcina
+• pentru bacuri semirotunde
+• cutie plastic
+Ø
+1
+1
+Ø
+1
+1
+HYCP-240R
+240 mm²
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+2400
+240 mm²
+5.85 tone (52.0 kN)
+23 cc
+550 bar
+377 mm
+2.4 kg
+7852.05
+UCP-240
+240 mm²
+7050.82
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Lungime
+Greutate
+4600
+240 mm²
+9.73 tone (86.6 kN)
+42 cc
+700 bar
+630 mm
+4.6 kg

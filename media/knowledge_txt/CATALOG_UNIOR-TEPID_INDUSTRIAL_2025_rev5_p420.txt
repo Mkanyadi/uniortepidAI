@@ -1,0 +1,530 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:420]
+1204
+NOU
+Ø d         L1           L2       Amb
+KE 10 T-STEP INOX
+Burghiu DIN 1897 HSS-G, cu varf in trepte
+· perfect pentru utilizare cu masini de gaurit fara fir/cu fir
+· semnificativ mai rapid decat burghiile elicoidale normale
+· simplifica forarea gaurilor deja existente
+· potrivit in special pentru otel < 1.000 N/mm² (31 HRC), 
+materiale turnate, aluminiu, materiale plastice, lemn de esenta 
+tare si moale.
+DIN
+1897
+HSS
+G
+TURBO 
+STEP
+3
+3xD
+SPLIT POINT
+Ø d1     L1      L2       Ø d2      L3
+12040301350
+12040301400
+12040301450
+12040301500
+12040301550
+12040301600
+13,5
+14,0
+14,5
+15,0
+15,5
+16,0
+107
+107
+111
+111
+115
+115
+61
+61
+65
+65
+69
+69
+61
+61
+65
+65
+69
+69
+1203
+61
+61
+65
+65
+69
+69
+302.30
+317.87
+331.80
+348.52
+359.67
+371.80
+NOU
+Burghiu DIN 338 HSS-E, cu varf in trepte
+· perfect pentru utilizare cu masini de gaurit fara fir/cu fir
+· semnificativ mai rapid decat burghiile elicoidale normale
+· simplifica forarea gaurilor deja existente
+· potrivit in special pentru otel si otel inoxidabil de pana la 
+1.200 N/mm² (38 HRC), materiale turnate, aluminiu, materiale 
+plastice (de exemplu, sticla acrilica), lemn de esenta tare si 
+moale
+AKKU
+VA 
+INOX
+HSS-E
+Co5
+TURBO
+STEP
+INOX
+Ø>2,5mm SPLIT POINT
+3
+Ø d       L1         L2        Amb
+12030300100
+12030300150
+12030300200
+12030300250
+12030300300
+12030300320
+12030300330
+12030300350
+12030300400
+12030300420
+12030300450
+12030300490
+12030300500
+12030300520
+12030300550
+12030300600
+12030300650
+12030300680
+12030300700
+12030300750
+12030300800
+12030300850
+12030300900
+12030300950
+1,0
+1,5
+2,0
+2,5
+3,0
+3,2
+3,3
+3,5
+4,0
+4,2
+4,5
+4,9
+5,0
+5,2
+5,5
+6,0
+6,5
+6,8
+7,0
+7,5
+8,0
+8,5
+9,0
+9,5
+34
+40
+49
+57
+61
+65
+65
+70
+75
+75
+80
+86
+86
+86
+93
+93
+101
+109
+109
+109
+117
+117
+125
+125
+12
+18
+24
+30
+33
+36
+36
+39
+43
+43
+47
+52
+52
+52
+57
+57
+63
+69
+69
+69
+75
+75
+81
+81
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+DIN
+338
+5xD
+31.64
+33.61
+35.90
+37.70
+40.33
+45.41
+45.57
+46.72
+48.52
+59.51
+61.48
+63.44
+63.44
+75.41
+75.41
+77.21
+87.21
+94.10
+95.90
+101.97
+118.85
+134.26
+154.43
+172.30
+Set burghie Turbo Steps HSS-E 19 piese
+Ø 1,0 - 10,0 mm x 0,5 mm
+• perfect pentru masinile de gaurit cu / fara fir
+• semnificativ mai rapid decat burghiile elicoidale obisnuite
+• curatarea simplificata a gaurilor existente
+• ideal pentru gaurirea suruburilor sau a niturilor
+12030301000
+12030301020
+12030301050
+12030301100
+12030301150
+12030301200
+12030301250
+12030301300
+1203
+10,0
+10,2
+10,5
+11,0
+11,5
+12,0
+12,5
+13,0
+133
+133
+133
+142
+142
+151
+151
+151
+87
+87
+87
+94
+94
+101
+101
+101
+10
+177.05
+5
+5
+5
+5
+5
+5
+5
+213.93
+217.87
+227.87
+237.70
+247.70
+258.20
+270.33
+NOU
+Burghiu DIN 338 HSS-E, cu varf in trepte 
+ambalare individuala
+· perfect pentru utilizare cu masini de gaurit fara fir/cu fir
+· semnificativ mai rapid decat burghiile elicoidale normale
+· simplifica forarea gaurilor deja existente
+· potrivit in special pentru otel si otel inoxidabil de pana la 
+1.200 N/mm² (38 HRC), materiale 
+turnate, aluminiu, materiale plastice (de exemplu, sticla acrilica), 
+lemn de esenta tare si moale
+AKKU
+12031330019
+Ø1,0-10,0 mm x 0,5 mm
+730
+1622.62
+KE 13 T-STEP INOX
+Set burghie Turbo Steps HSS-E 25 piese
+Ø 1,0 - 13,0 mm x 0,5 mm
+• perfect pentru masinile de gaurit cu / fara fir
+• semnificativ mai rapid decat burghiile elicoidale obisnuite
+• curatarea simplificata a gaurilor existente
+• ideal pentru gaurirea suruburilor sau a niturilor
+AKKU
+VA 
+INOX
+HSS-E
+Co5
+TURBO
+STEP
+INOX
+Ø>2,5mm SPLIT POINT
+3
+Ø d         L1         L2        Amb
+DIN
+338
+5xD
+12030700100
+12030700150
+12030700200
+12030700250
+12030700300
+12030700320
+12030700330
+12030700350
+12030700400
+12030700420
+12030700450
+12030700490
+12030700500
+12030700520
+12030700550
+12030700600
+12030700650
+12030700680
+12030700700
+12030700750
+12030700800
+12030700850
+12030700900
+12030700950
+12030701000
+12030701020
+12030701050
+12030701100
+12030701150
+12030701200
+12030701250
+12030701300
+1,0
+1,5
+2,0
+2,5
+3,0
+3,2
+3,3
+3,5
+4,0
+4,2
+4,5
+4,9
+5,0
+5,2
+5,5
+6,0
+6,5
+6,8
+7,0
+7,5
+8,0
+8,5
+9,0
+9,5
+10,0
+10,2
+10,5
+11,0
+11,5
+12,0
+12,5
+13,0
+34
+40
+49
+57
+61
+65
+65
+70
+75
+75
+80
+86
+86
+86
+93
+93
+101
+109
+109
+109
+117
+117
+125
+125
+133
+133
+133
+142
+142
+151
+151
+151
+12
+18
+24
+30
+33
+36
+36
+39
+43
+43
+47
+52
+52
+52
+57
+57
+63
+69
+69
+69
+75
+75
+81
+81
+87
+87
+87
+94
+94
+101
+101
+101
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+34.59
+36.56
+38.85
+40.66
+43.44
+48.36
+48.52
+49.67
+51.48
+62.46
+64.43
+66.39
+66.39
+78.36
+78.69
+80.49
+90.49
+97.38
+99.18
+105.25
+122.13
+137.54
+157.70
+175.57
+180.66
+217.54
+221.48
+231.48
+241.31
+251.31
+261.80
+273.93
+12031330025
+Ø1,0-13,0 mm x 0,5 mm
+1930
+3106.72
+ME 5 T-STEP INOX
+Set burghie Turbo Steps HSS-E 5 piese
+Ø 4 - 5 - 6 - 8- 10 mm
+• perfect pentru masinile de gaurit cu / fara fir
+• semnificativ mai rapid decat burghiile elicoidale obisnuite
+• curatarea simplificata a gaurilor existente
+• ideal pentru gaurirea suruburilor sau a niturilor
+12031330005
+Ø 4 - 5 - 6 - 8 - 10 mm
+730
+582.30

@@ -1,0 +1,176 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:897]
+6575
+Cleste pentru infasurat sarma
+• pentru legarea cu sarma a elementelor de fixare din metal
+• cu taietor lateral
+• falci dintate pentru prindere ferma
+• falci unghi de 40°
+• potrivit pentru infasurarea sarmei de pana la diametru de 1,6 mm (0,06”)
+• pentru utilizare in sens orar si in sens antiorar
+• cu actiune automata de revenire
+• crom vanadiu
+501
+Coarba 1/2"
+• raza de lucru 105 mm
+• DIN 3122/ISO 3315
+SW 65751220
+SW 65751280
+11069
+L
+230
+280
+330
+440
+1
+1
+1536.85
+1656.30
+Cleste pentru segmenti
+• pentru montarea si demontarea segmentilor
+• acoperire: nichelare
+L
+456
+5
+5.5
+6
+7
+7
+8
+9
+10
+SW 13100010
+109
+Punctator cu ghidaj
+• cu bucsa ghidare
+0.9
+1.4
+1.8
+2.4
+2.8
+3.4
+3.9
+5.9
+Dimensiune
+SW 70090001
+SW 70090002
+SW 70090003
+SW 70090004
+SW 70090005
+SW 70090006
+SW 70090007
+1
+2
+3
+4
+5
+6
+7
+SW 70090008
+8*
+diametru varf
+diametru maner
+* fara bucsa ghidare
+1570/2
+1/2”
+620
+5
+443.94
+L
+80
+82
+86
+95
+97
+100
+100
+103
+7
+12
+12
+18
+19
+25
+27
+47
+10
+10
+10
+10
+10
+10
+10
+10
+100.90
+101.73
+96.68
+96.68
+96.68
+96.68
+96.68
+78.43
+Dimensiune
+pentru inele piston
+SW 74152001
+SW 74152002
+SW 74152003
+SW 74152005
+1*
+2
+3
+5**
+50 - 100
+80 - 120
+110 - 160
+60 - 160
+L
+200
+240
+240
+220
+245
+279
+394
+195
+1
+1
+1
+1
+320.27
+342.29
+402.91
+424.33
+* Fiat-nr A 60 182 (tip 126, 127, 133, 850T)
+** cu fete de contact in formă de V pentru manipularea sigura si pozitiva a inelelor pistonului
+12771
+Cleste extractor dopuri plastic
+• pentru demontarea dopurilor de fixare pe garniturile usilor, garniturile exterioare, capacele 
+barei de protectie din cauciuc etc.
+• articulatie si falci din tabla de otel calit
+• manere din tabla de otel profilata
+Set universal Kablex® de scule scos papuci
+• maner bicolor
+• cu capac de blocare a lamei, pentru a proteja lama fina si protectie impotriva ranilor
+• mai usor de manevrat pentru lucrari fine si complicate pe conectori miniaturali
+• elibereaza rapid si usor conectorii de cablu fara a le intrerupe
+• lame realizate din crom-vanadiu extrem de dur si durabil si otel cu arc special
+Componenta set:
+• Nr 1501, 1502, 1505 scule de extras papuci diametru 1,5/ 3,5/ 2,3mm
+• Nr 1511, 1512, 1515 scule de extras mansete pentru papuci  diametru 1,5/ 3,5/ 2,3 mm
+• Nr 1553 scula de extras papuci plati 2,8 si 5,8mm
+• Nr 1556 scula de extras papuci Micro-Timer II, III plati de 1,6mm
+• Nr 1559 scula de extras papuci Maxi-Power Timer plati 9,5mm
+• Nr 1562 scula de extras papuci Pit-Pod
+• Nr 1574 scula de extras papuci Micro-Timer I si din mufe pentru ABS, plati, 1,6mm
+• Nr 1591 scula de extras papuci plati 2,8 si 5,8mm cu doua limbi de blocare
+SW 76480001
+L
+230
+205
+1
+385.04
+SW 96747304
+Piese
+12 piese
+1230
+1
+4431.23

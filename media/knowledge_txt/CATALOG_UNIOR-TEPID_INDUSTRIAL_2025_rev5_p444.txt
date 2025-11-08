@@ -1,0 +1,501 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:444]
+9704011
+4171
+Tarozi extralungi de masina, filet 
+metric, pas normal/fin, NFE 66101, 
+forma A, HSS-E (Co 5%)
+• tarozi extralungi de masina ( pentru piulite ), filet metric, 
+pas normal/fin, NFE 66101
+• material: HSS-E (Co 5%), tratament termic 
+• profil filet rectificat detalonat 
+• parametri filet conform DIN ISO 13
+• toleranta 6H, conform ISO 2
+• unghiul flancurilor filetului 60°
+• forma A,  taiere pe dreapta
+• pentru gauri strapunse
+• pentru filetare in oteluri ne aliate si aliate pentru tratament 
+termic, cu σr ≤ 1400 N / mm²
+Tarod combinat cu prindere 
+hexagonala 1/4" HSS-G pas normal
+• tarod combinat cu prindere hexagonala 1/4" HSS-G pas normal 
+• material: HSS, tratament termic 
+• profil filet rectificat detalonat 
+• parametri filet conform DIN ISO 13
+• toleranta 6H, conform ISO 2
+• unghiul flancurilor filetului 60°
+• forma A,  taiere pe dreapta
+• destinate pentru filetare in oteluri ne aliate si aliate, cu 
+σr ≤ 600 N / mm²
+• se utilizeaza pe masini portabile sau stationare de gaurit cu 
+turatie reversibila, dreapta / stanga
+1110051
+Port filiera
+• corpul executat din otel
+• coada cu patrat de antrenare
+2
+d
+L
+Ø
+l1
+P
+Ø           P 
+0,5
+M3
+0,7
+M4
+0,8
+M5
+1,0
+M6
+1,0
+M7
+1,25
+M8
+1,5
+M10
+1,75
+M12
+2,0
+M14
+2,0
+M16
+2,5
+M18
+2,5
+M20
+2,5
+M22
+3,0
+M24
+0,75
+MF6
+1,0
+MF8
+1,0
+MF10
+1,25
+MF12
+1,5
+MF12
+1,5
+MF14
+1,5
+MF20
+1,5
+MF22
+1,5
+MF24
+  L          l       d2
+2,3
+280
+12,5
+2,9
+280
+18
+3,8
+280
+20
+4,5
+280
+25
+5,5
+280
+25
+6,1
+280
+32
+7,7
+280
+38
+9,3
+420
+44
+10,9
+420
+50
+12,9
+520
+50
+14,1
+520
+63
+16,1
+520
+63
+18
+520
+63
+19,3
+520
+75
+4,5
+280
+25
+6,1
+280
+32
+7,7
+280
+38
+10,1
+420
+38
+9,6
+420
+44
+11,8
+420
+50
+17,8
+520
+63
+19,8
+520
+63
+21,8
+520
+75
+182.57
+182.57
+182.57
+182.57
+199.39
+190.89
+221.30
+342.20
+387.98
+468.83
+630.06
+777.34
+945.80
+1242.44
+217.80
+203.69
+237.83
+237.83
+362.80
+405.14
+819.52
+991.70
+1731.01
+970401100300050
+970401100400070
+970401100500080
+970401100600100
+970401100700100
+970401100800125
+970401101000150
+970401101200175
+970401101400200
+970401101600200
+970401101800250
+970401102000250
+970401102200250
+970401102400300
+970401100600075
+970401100800100
+970401101000100
+970401101200125
+970401101200150
+970401101400150
+970401102000150
+970401102200150
+970401102400150
+4160
+1. Gaurire
+2. Filetare
+3. Debavurare / 
+zencuire
+M
+HSS
+G
+ISO2
+6H
+600
+N/mm²
+60°
+SPLIT POINT
+  M(filet)     Pas (mm)     Gaura (mm)
+M   3
+M   4
+M   5
+M   6
+M   8
+M 10
+2,50
+3,30
+4,20
+5,00
+6,80
+8,50
+0,50
+0,70
+0,80
+1,00
+1,25
+1,50
+41710300300
+41710300400
+41710300500
+41710300600
+41710300800
+41710301000
+4400
+¼"
+59.34
+59.34
+59.34
+59.34
+81.64
+97.70
+Tarozi extralungi de masina ( pentru
+piulite ), filet Metric, DIN 357, HSS-G,
+gauri strapunse
+Port-filiera DIN 225
+• corp din zinc turnat sub presiune ; suruburi din otel, tratate
+• manere din otel dintre care unul detasabil
+Ø                       d2
+25,4
+38,1
+8
+13
+382.93
+729.56
+11100510254
+11100510381
+4302
+Port-tarod cu clichet, varianta scurta
+si lunga
+• actionare stanga si dreapta
+• mandrina cu doua bacuri pentru tarozi cu prindere patrata
+         DIM. 
+    LT             Dim. tarod
+43021500001
+43021500002
+43021500010
+43021500020
+1
+2
+10
+20
+85
+100
+250
+300
+M 3 - 10
+M 5 - 12
+M 3 - 10
+M 5 - 12
+67.05
+81.31
+109.84
+133.61
+4300
+Port-tarod reglabil DIN 1814
+• corp din zinc turnat sub presiune si falci din otel, tratate
+• manere din otel dintre care unul detasabil
+• tarozi extralungi de masina ( pentru piulite ), filet Metric, 
+DIN 357, HSS-G, 
+pentru gauri strapunse
+• material: HSS, tratament termic 
+• profil filet rectificat detalonat 
+• parametri filet conform DIN ISO 13
+• toleranta 6H, conform ISO 2
+• unghiul flancurilor filetului 60°
+• forma A,  taiere pe dreapta
+• conul de atac :  4-5 spire
+• destinate pentru filetare in oteluri ne aliate si aliate, cu 
+σr ≤ 800 N / mm²
+M
+DIN
+357
+HSS
+G
+ISO2
+6H
+800
+N/mm²
+60°
+            M filet     Pas      Gaura      LT      LU
+22
+25
+28
+32
+40
+45
+50
+2,50
+3,30
+4,20
+5,00
+6,80
+8,50
+10,20
+M   3
+M   4
+M   5
+M   6
+M   8
+M 10
+M 12
+0,50
+0,70
+0,80
+1,00
+1,25
+1,50
+1,75
+70
+90
+100
+110
+125
+140
+180
+41600300305
+41600300407
+41600300508
+41600300610
+41600300812
+41600301015
+41600301217
+83.44
+83.44
+88.52
+88.52
+96.07
+118.03
+159.67
+                    DIM.   D x H           M-MF (dim. filiera)    G (dim. filiera)
+44001501605
+44001502005
+44001502007
+44001502509
+44001503011
+44001503810
+44001503814
+44001504514
+44001504518
+44001505516
+44001505522
+44001506518
+44001506525
+0
+1
+2
+3
+4
+5
+5b
+6
+6b
+7
+7b
+8
+8b
+16 x   5
+20 x   5
+20 x   7
+25 x   9
+30 x 11
+38 x 10
+38 x 14
+45 x 14
+45 x 18
+55 x 16
+55 x 22
+65 x 18
+65 x 25
+M     1 - M  2,6
+M     3 - M     4
+M  4,5 - M     6
+M     7 - M     9
+M   10 - M   11
+MF 12 - MF 14
+M   12 - M   14
+MF 16 - M   20
+M   16 - M   20
+MF 22 - M   24
+M   22 - M   24
+MF 27 - M   36
+M   27 - M   36
+-
+-
+-
+1/16
+1/8
+1/4
+-
+3/8 - 1/2
+-
+5/8 - 3/4
+-
+7/8 - 1
+-
+DIN
+255
+24.26
+25.25
+25.25
+30.16
+42.46
+67.21
+64.59
+85.90
+85.90
+110.49
+110.49
+201.80
+201.80
+DIN
+1814
+          DIM.        LT    M-MF tarod    Diam. tarod G   Patrat tarod
+43001500000
+43001500010
+43001500015
+43001500020
+43001500030
+43001500040
+43001500050
+0
+1
+1.1/2
+2
+3
+4
+5
+130
+180
+180
+280
+380
+500
+700
+M   1 -   8
+M   1 - 10
+M   1 - 12
+M   4 - 12
+M   5 - 20
+M 11 - 27
+M 13 - 32
+-
+-
+1/8
+1/8 - 3/8
+1/8 - 1/2
+1/8 - 3/4
+1/4 - 1
+2,1 - 4,9
+2,4 - 5,5
+2,4 - 7,0
+3,4 - 8,0
+4,9 - 12,0
+5,5 - 16,0
+9,0 - 20,0
+30.16
+35.08
+35.90
+60.98
+101.64
+180.98
+281.48

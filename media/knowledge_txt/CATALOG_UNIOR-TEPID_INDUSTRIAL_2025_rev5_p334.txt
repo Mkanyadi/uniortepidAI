@@ -1,0 +1,374 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:334]
+760HB
+P/001
+Pila dreptunghiulara bastard cu 
+maner bimaterial
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+Pila dreptunghiulara fara maner
+• pila rectangulara cu dantura incrucisata pe ambele parti
+• cu un cant activ
+•  1 - bastard; 2 - semifina; 3 - fina
+•  duritate: 60-66 HRc
+761HS
+Pila semirotunda fina cu 
+maner bimaterial
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+DIN
+7261
+Forma
+A
+LT
+270
+325
+375
+425
+a x b
+4 x 16
+5 x 20
+6.5 x 25
+6.5 x 30
+104
+245
+355
+500
+37.38
+43.28
+50.49
+70.33
+LU
+150
+200
+250
+300
+619292
+612992
+612993
+612994
+760H1/2S
+Pila dreptunghiulara semifina cu 
+maner bimaterial
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+P001350BA
+P001350SF
+P001350FI
+P001400BA
+P001400SF
+P001400FI
+761HB
+DIN
+7261
+Forma
+A
+DIN
+7261
+Forma
+E
+L
+Taiere
+a x b
+350
+350
+350
+400
+400
+400
+1
+2
+3
+1
+2
+3
+33.5 x 7.5
+33.5 x 7.5
+33.5 x 7.5
+37.5 x 8.5
+37.5 x 8.5
+37.5 x 8.5
+640
+640
+640
+975
+975
+975
+88.47
+92.99
+100.33
+141.50
+146.58
+151.42
+619311
+619312
+613008
+613009
+MC/050
+LU
+100
+150
+200
+250
+LT
+220
+270
+325
+375
+a x b
+3 x 11.5
+4.5 x 16
+5.5 x 20
+7 x 25
+106
+140
+203
+324
+39.51
+47.38
+57.70
+67.54
+Pila semirotunda fara maner
+• pila semirotunda cu dantura incrucisata pe ambele parti
+• conica
+•  1 - bastard; 2 - semifina; 3 - fina
+Pila semirotunda bastard cu 
+maner bimaterial
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+DIN
+7261
+Forma
+A
+LT
+220
+270
+325
+375
+425
+a x b
+2.5 x 12
+4 x 16
+5 x 20
+6.5 x 25
+6.5 x 30
+LU
+100
+150
+200
+250
+300
+619295
+619296
+612995
+612996
+612997
+760HS
+DIN
+7261
+Forma
+E
+95
+104
+245
+355
+545
+35.74
+38.20
+47.54
+57.54
+72.62
+LU
+100
+150
+200
+250
+300
+LT
+220
+270
+325
+375
+425
+a x b
+3 x 11.5
+4.5 x 16
+5.5 x 20
+7 x 25
+8.5 x 30
+106
+140
+203
+324
+490
+38.20
+45.08
+51.64
+60.33
+81.64
+619303
+619304
+613002
+613003
+613004
+Pila dreptunghiulara fina cu 
+maner bimaterial
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+761H1/2S
+Pila semirotunda semifina cu 
+maner bimaterial
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+DIN
+7261
+Forma
+E
+L
+Taiere
+a x b
+MC050350BA
+MC050350SF
+MC050350FI
+MC050400BA
+MC050400SF
+MC050400FI
+350
+350
+350
+400
+400
+400
+763HB
+1
+2
+3
+1
+2
+3
+34 x 9.5
+34 x 9.5
+34 x 9.5
+39 x 11
+39 x 11
+39 x 11
+600
+600
+600
+925
+925
+925
+114.21
+128.50
+134.64
+216.00
+224.88
+249.66
+Pila rotunda bastard cu 
+maner bimaterial
+• material: otel inalt aliat
+• toate pilele au dubla taiere
+DIN
+7261
+Forma
+A
+LT
+220
+270
+325
+375
+425
+a x b
+2.5 x 12
+4 x 16
+5 x 20
+6.5 x 25
+6.5 x 30
+LU
+100
+150
+200
+250
+300
+619299
+619300
+612998
+612999
+613001
+DIN
+7261
+Forma
+E
+95
+104
+245
+355
+545
+37.38
+39.02
+47.54
+57.54
+72.62
+619307
+619308
+613005
+613006
+613007
+LU
+100
+150
+200
+250
+300
+LT
+220
+270
+325
+375
+425
+a x b
+3 x 11.5
+4.5 x 16
+5.5 x 20
+7 x 25
+8.5 x 30
+106
+140
+203
+324
+490
+35.90
+42.95
+57.70
+67.54
+96.72
+LU
+150
+200
+250
+300
+LT
+270
+325
+375
+425
+D
+Ø6
+Ø7.5
+Ø8.5
+Ø12
+619316
+613011
+613012
+613013
+105
+157
+209
+317
+34.59
+39.34
+48.36
+68.69
+DIN
+7261
+Forma
+F

@@ -1,0 +1,187 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:340]
+0302100
+096
+767H1/2S
+Set 6 pile 100 mm ascutire foarte 
+fina pentru chei 
+• cu manere din lemn (forma lata, lata cutit, semirotunda, 
+riunghiulara, patrata, rotunda).
+• ideala pentru lacatuserie
+• ideala pentru incuietori
+• lungime: 100 mm
+Maner de lemn pentru pila
+• maner pentru pila din lemn de fag, intarit de un inel metalic
+Raspila dreptunghiulara cu maner,
+semifina
+• material: otel inalt aliat
+Lungime
+60
+80
+90
+100
+110
+120
+130
+140
+150
+160
+0967060
+0967080
+0967090
+0967100
+0967110
+0967120
+0967130
+0967140
+0967150
+0967160
+097
+12.53
+12.53
+12.53
+14.97
+14.97
+14.97
+17.58
+17.58
+17.58
+17.58
+Maner de plastic pentru pila
+0970981 - pentru pile 100 mm (4"): late, rotunde,
+triunghiulare si patrate; 86 mm Ø4,0 (gaura mica)
+0970983 - pentru pile 100 mm (4"): semirotunde / 
+150 mm (6"): late; semirotunde; rotunde; patrate; triunghiulare
+si raspile semirotunde; 86 mm Ø5,4 (gaura mare)
+0970984 - pentru pile 200 mm (8"): late; semirotunde;
+rotunde; patrate si triunghiulare; 110 mm Ø6,5 (gaura mica)
+0970985 - pentru pile 200 mm (8"): raspile semirotunde /
+250 mm (10") rotunde; patrate si triunghiulare; 110 mm Ø7,7
+(gaura mare)
+0970988 - pentru pile 250 mm (10"): pile late, semirotunde
+si raspile semirotunde / 300 mm (12") pile rotunde, patrate si
+triunghiulare; 135 mm Ø9,3 (gaura mica)
+0970989 - pile de 300 mm (12"): pile late, semirotunde si
+raspile semirotunde / 350 mm (14") toate pilele; 135 mm 
+Ø10.6 (gaura mare)
+mm
+100
+160.00
+0302100
+lata, lata tip cutit, semirotunda, triunghiulara, patrata, rotunda
+6
+6631300
+Masat cu profil rotund
+• lungime utila 250 mm
+• sectiune Ø 10 mm
+• greutate: 300 g
+L
+250
+Taiere
+a x b
+10,0 x 10,0
+300
+96.40
+6631300
+6651300
+Masat cu profil oval
+• lungime utila 275 mm
+• sectiune 22x1.0 mm
+• greutate: 400 g
+0970981
+0970983
+0970984
+0970985
+0970988
+0970989
+   Diametru       Lumgime
+4.0 Ø
+5.4 Ø
+6.5 Ø
+7.7 Ø
+9.3 Ø
+10.6 Ø
+86
+86
+110
+110
+135
+135
+18.10
+18.10
+18.10
+18.10
+18.10
+18.10
+6651300
+L
+275
+Taiere
+a x b
+22,0 x 10,0
+400 140.91
+LU
+200
+250
+LT
+325
+375
+a x b
+4,5 x 19,5
+5 x 23
+613038
+613039
+260
+370
+47.38
+63.77
+768H1/2S
+Raspila semirotunda cu maner,
+semifina
+• material: otel inalt aliat
+LU
+200
+250
+300
+LT
+325
+375
+425
+a x b
+5 x 19
+6,5 x 23
+7,5 x 27
+180
+280
+510
+60.00
+66.72
+82.46
+613041
+613042
+613043
+201
+Raspila lata 200 mm fara maner
+• utilizare: pentru a raspa piese din lemn, materiale plastice etc.
+• lungime: 200 mm
+• latime: 21.0 mm
+• inaltime: 7.0 mm
+• greutate: 163 g
+mm
+200
+163
+41.97
+2012200
+205
+Raspila semirotunda 200 mm
+fara maner
+• utilizare: pentru a raspa piese curbate din lemn, materiale
+ plastice etc.
+• lungime: 200 mm
+• latime: 20.0 mm
+• inaltime: 6.5 mm
+• greutate: 125 g
+2052200
+mm
+200
+125
+42.79

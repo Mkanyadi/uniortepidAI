@@ -1,0 +1,136 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:892]
+60005
+Pompa de testat tevi
+• valva: bronz
+• maner de actionare: zincat
+• manometru: 0-60 bar (0-860 Psi)
+• racord manometru: 1/4" BSP
+• racord furtun evacuare: 1/2" BSP
+• furtun cu 2 racorduei 1/2" BSP
+• lungime furtun: 1,5 m
+• diametru exterior furtun: 19 mm
+• capacitate rezervor: 12 litri
+BC-HK
+Maner pentru suport lame de 
+debavurare
+• pentru suporturi tip BC-TKB si BC-TKE
+16500300001
+1
+82.79
+BC-HE
+Maner universal pentru lame de 
+debavurare
+• pentru toate tipurile de lame BC E
+1
+5
+2
+3
+4
+6
+7
+1. Umpleti rezervorul cu apa curata. Filtrul trebuie sa fie întotdeauna 
+plasat corect
+2. Conectati furtunul la instalatia verificata
+3. Conectati furtunul la pompa, asigurati-va ca nu exista scurgeri
+4. Inchideti robinetul
+5. Pompati pana atingeti presiunea de testat
+6. Lasati pompa la presiunea necesara in timpul testarii
+7. Deschideti robinetul permitand apei sa iasa
+Dimensiune                             Capaciate                                     Conexiune
+60005 
+     60 bar                          12 l                                        1/2” 
+1
+                            7700                  2312.29
+Pompa INOX de testat tevi
+• costructie metalica, robusta pentru lucrari grele in instalatii
+• rezervor din otel inoxidabil, rezistent la coroziune, 12 litri
+• sistem de reglare rapida a presiunii cu o singura valva
+• manometru de presiune usor de citit
+• stabilitate maxima
+• racorduri 1/2”
+363A
+Dispozitiv de debavurat tevi
+interior/exterior Ø3-42 mm
+• eliminarea arderilor la interiorul sau exteriorul partilor evazate 
+ale tevilor
+• lamele de taiere din otel carbon special, tratat
+16500300002
+1
+86.72
+BC-TKB
+Suport pentru lame de debavurare
+• pentru toate tipurile de lame BC B
+Dimensiune
+626249 
+1
+   3-42 mm                      35                    74.43
+63085
+Dispozitiv de debavurat tevi
+interior/exterior Ø40 mm
+• material corp: plastic
+• material lama: otel special
+• pentru tevi din: cupru, alama, aluminiu
+litri
+12
+12
+presiune
+dimensiuni
+60=860 Psi
+500x180x275
+1
+7700
+3369.78
+100=1440 Psi
+500x180x275
+7700
+3602.11
+60011
+60012
+Dispozitiv de debavurat tevi
+interior/exterior
+• material corp: plastic
+• material lama: otel special
+• pentru tevi din: Cu, otel, plastic, inox, alamă, aluminiu 
+Dimensiune
+63085 
+1
+     40 mm                     235                  171.03
+BC-DE
+Debavurator dublu cu doua lame 
+HSS rotunde
+• lama rotunda HSS (2 bucati)
+16510300001
+1
+53.44
+BC-TKE
+Suport pentru lame de debavurare
+• pentru toate tipurile de lame BC E
+16510300002
+1
+53.44
+BC-B10
+Lama HSS forma B10 pentru 
+debavurare
+• lama HSS pentru otel, aluminiu si plastic
+• pretul de mai jos reprezinta pretul pentu o lama
+16590300010
+1
+11.97
+BC-B20
+Lama HSS forma B20 pentru 
+debavurare
+• lama HSS pentru debavurare alama si fonta
+• pentru utilizare in doua directii
+• pretul de mai jos reprezinta pretul pentu o lama
+63958 
+63959 
+Dimensiune
+1
+   8-35 mm                      250                 911.22
+  10-54 mm                     500               1182.56
+16550300001
+1
+225.74
+16590300020
+1
+11.97

@@ -1,0 +1,429 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:385]
+Suruburi cu locas hexagonal
+Ø in mm
+Dimensiune
+DIN912
+DIN 7984
+DIN 7991
+DIN 913 - DIN 914
+DIN 915 - DIN 916
+DIN 908
+SW
+M 1.4 / M 1.8
+M 2
+M 3
+M 4
+M 5
+M 6
+M 8
+M 10
+M 10
+M 12/ M 14
+M 12 / M 14
+M 16
+M 16 / M 18
+M 3
+M 4
+M 5
+M 6
+M 8
+M 10
+M 12
+M 14 / M 16
+M 18 / M 20
+M 20 / M 22
+M 3
+M 4
+M 5
+M 6
+M 8
+M 12
+M 14
+M 16 / M 18
+M 18 / M 20
+M 22 / M 24
+M 24 / M 28
+M 7
+M 1.6 / M 2
+M 2.5
+M 3
+M 4
+M 5
+M 6
+M 8
+M 10
+M12
+M 14
+0.7
+0.9
+1.5
+2
+2.5
+3
+4
+5
+6
+8
+10
+12
+1500 CR
+76515E6,3
+Bit hexagonal 1/4" DIN/ISO 1173 - 
+Forma C 6,3 - profil hexagon
+• DIN / ISO 2936
+• cu inel identificare
+Bit cu profil hexagonal, 
+varianta lunga
+• material: aliaj special S2 (1.2381 / 73 Mo V 5 2)
+• duritate material: 58 +/- 2 HRc
+• in conformitate cu standardele DIN 3126 ISO 1173
+• durabilitate ridicata
+• protectie anticoroziva
+• pentru lucrul manual si cu masina
+• pentru prindere magnetica sau non-magnetica
+Bit TORSION 1/4" DIN/ISO 1173
+Forma C 6,3 - profil hexagon T-Rip
+• TORSION - versiune forjata pentru a se potrivi perfect la 
+aplicatii grele (ex. lemn dur, metal)
+• cuplu foarte bun, de aproximativ 110% peste standardul DIN
+• DIN / ISO 2936
+• fara acoperire
+Dimensiune            L
+25
+25
+25
+25
+25
+25
+25
+HEX  1,5 H-Rip
+HEX  2,0 H-Rip
+HEX  2,5 H-Rip
+HEX  3,0 H-Rip
+HEX  4,0 H-Rip
+HEX  5,0 H-Rip
+HEX  6,0 H-Rip
+HEX  1,5 H-Rip
+HEX  2,0 H-Rip
+HEX  2,5 H-Rip
+HEX  3,0 H-Rip
+HEX  4,0 H-Rip
+HEX  5,0 H-Rip
+HEX  6,0 H-Rip
+25
+25
+25
+25
+25
+25
+25
+60725
+60726
+60727
+60728
+60729
+60730
+60731
+02882
+02883
+02884
+02885
+02886
+02887
+02888
+1604 TIN
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+10 (PP*)
+10 (PP*)
+10 (PP*)
+10 (PP*)
+10 (PP*)
+10 (PP*)
+10 (PP*)
+L
+2.93
+2.93
+2.93
+2.93
+2.93
+2.93
+2.93
+37.87
+37.87
+37.87
+37.87
+37.87
+37.87
+37.87
+NOU
+Bit TiN 1/4" DIN/ISO 1173 - Forma E 6,3
+profil hexagon
+• Titan TiN - versiune frezata pentru a se potrivi perfect la 
+aplicatii usoare (ex. lemn de esenta moale)
+L
+Dimensiune       L
+25
+25
+25
+25
+25
+25
+HX 2
+HX 2,5
+HX 3
+HX 4
+HX 5
+HX 6
+vrac
+vrac
+vrac
+vrac
+vrac
+vrac
+9.76
+9.76
+9.76
+9.76
+9.76
+9.76
+1000015072
+1000015073
+1000015074
+1000015075
+1000015076
+1000015077
+INDUSTRY HEX
+Bit hexagonal 1/4" DIN 3126 - 
+Forma C 6,3 - profil hexagonal
+• design de torsiune
+• duritate in conformitate cu norma DIN
+• sablat
+• protectie optima impotriva coroziunii
+®
+Professional Quality
+DIN 7426
+GERMANY
+TORSIONFLEX
+L
+Long
+Life
+UUSG0012069
+UUSG0012070
+UUSG0012071
+UUSG0012072
+UUSG0012073
+UUSG0012074
+UUSG0012075
+Dimensiune         L 
+25
+25
+25
+25
+25
+25
+25
+HEX 2
+HEX 2,5
+HEX 3
+HEX 4
+HEX 5
+HEX 6
+HEX 7
+10 (A*)
+10 (A*)
+10 (A*)
+10 (A*)
+10 (A*)
+10 (A*)
+10 (A*)
+126.85
+126.85
+126.85
+126.85
+126.85
+126.85
+177.52
+70108701
+70108801
+70108901
+70109001
+900548
+900549
+900550
+900551
+70108705
+70108805
+70108905
+70109005
+70108710
+70108810
+70108910
+70109010
+Dimensiune      L              D
+4.0
+4.0
+6.0
+1/4"
+4.0
+4.0
+6.0
+1/4"
+4.0
+4.0
+6.0
+1/4"
+4.0
+4.0
+6.0
+1/4"
+HX 3
+HX 4
+HX 5
+HX 6
+HX 3
+HX 4
+HX 5
+HX 6
+HX 3
+HX 4
+HX 5
+HX 6
+HX 3
+HX 4
+HX 5
+HX 6
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+L
+1000030236
+1000028553
+1000028554
+1000028696
+1000029426
+Dimensiune       L
+25
+25
+25
+25
+25
+HX 2
+HX 3
+HX 4
+HX 5
+HX 6
+vrac
+vrac
+vrac
+vrac
+vrac
+19.71
+19.71
+19.71
+19.71
+19.71
+Cupluri de testare pentru biti profil hexagon
+L
+vrac
+vrac
+vrac
+vrac
+3 (PP*)
+3 (PP*)
+3 (PP*)
+3 (PP*)
+5 (PP*)
+5 (PP*)
+5 (PP*)
+5 (PP*)
+10 (PP*)
+10 (PP*)
+10 (PP*)
+10 (PP*)
+2.74
+2.74
+2.74
+2.74
+9.62
+9.62
+9.62
+9.62
+17.17
+17.17
+17.17
+17.17
+34.35
+34.35
+34.35
+34.35
+Nm
+0,08
+0,18
+0,53
+0,82
+1,9
+3,8
+6,6
+11
+16
+24
+30
+52
+78
+0,7
+0,9
+1,3
+1,5
+2,0
+2,5
+3
+3,5
+4
+4,5
+5
+6
+7
+Nm
+120
+180
+220
+295
+370
+480
+590
+1.000
+1.000
+1.000
+1.000
+1.000
+8
+9
+10
+11
+12
+13
+14
+17
+19
+22
+24
+27

@@ -1,0 +1,431 @@
+[SOURCE:KRONUS_-_CATALOG_Editia_II_-_2025_-_06.06.2025_web] [PAGE:48]
+Prindere
+E6,3
+s1 max.
+s1 min.
+6,350
+6,292
+d3
+4,7
+e1 max. e1 min.
+L1
+7,18
+7,11
+25,0
+L3
+9,5
+L7
+1,0
+r min.
+Inch
+2,4
+1/4”
+76469C6,3
+Bit cu profil hexagonal
+• material: aliaj special S2 (1.2381 / 73 Mo V 5 2)
+• duritate material: 58 +/- 2 HRc
+• in conformitate cu standardele DIN 3126 ISO 1173
+• durabilitate ridicata
+• protectie anticoroziva
+• pentru lucrul manual si cu masina
+• pentru prindere magnetica sau non-magnetica
+76515E6,3
+Bit cu profil hexagonal, 
+varianta lunga
+• material: aliaj special S2 (1.2381 / 73 Mo V 5 2)
+• duritate material: 58 +/- 2 HRc
+• in conformitate cu standardele DIN 3126 ISO 1173
+• durabilitate ridicata
+• protectie anticoroziva
+• pentru lucrul manual si cu masina
+• pentru prindere magnetica sau non-magnetica
+C 6,3mm
+ ¼”
+Material
+S2
+L
+70104901
+70105001
+70105101
+70105201
+900529
+900530
+900531
+900532
+70104905
+70105005
+70105105
+70105205
+70104910
+70105010
+70105110
+70105210
+70104925
+70105025
+70105125
+70105225
+HEX      L      Ø     Amb.
+vrac
+HX 3
+vrac
+HX 4
+vrac
+HX 5
+vrac
+HX 6
+3
+HX 3
+3
+HX 4
+3
+HX 5
+3
+HX 6
+5
+HX 3
+5
+HX 4
+5
+HX 5
+5
+HX 6
+10
+HX 3
+10
+HX 4
+10
+HX 5
+10
+HX 6
+25
+HX 3
+25
+HX 4
+25
+HX 5
+25
+HX 6
+4.0
+4.0
+6.0
+6.0
+4.0
+4.0
+6.0
+6.0
+4.0
+4.0
+6.0
+6.0
+4.0
+4.0
+6.0
+6.0
+4.0
+4.0
+6.0
+6.0
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+25
+3
+3
+3
+3
+9
+9
+9
+9
+20
+20
+20
+20
+40
+40
+40
+40
+100
+100
+100
+100
+1.83
+1.83
+1.83
+1.83
+6.88
+6.88
+6.88
+6.88
+12.60
+12.60
+12.60
+12.60
+25.19
+25.19
+25.19
+25.19
+62.99
+62.99
+62.99
+62.99
+E 6,3mm
+ ¼”
+Material
+S2
+70108701
+70108801
+70108901
+70109001
+900548
+900549
+900550
+900551
+70108705
+70108805
+70108905
+70109005
+70108710
+70108810
+70108910
+70109010
+HEX      L     Ø      Amb.
+HX 3
+HX 4
+HX 5
+HX 6
+HX 3
+HX 4
+HX 5
+HX 6
+HX 3
+HX 4
+HX 5
+HX 6
+HX 3
+HX 4
+HX 5
+HX 6
+vrac
+vrac
+vrac
+vrac
+3
+3
+3
+3
+5
+5
+5
+5
+10
+10
+10
+10
+4.0
+4.0
+6.0
+1/4"
+4.0
+4.0
+6.0
+1/4"
+4.0
+4.0
+6.0
+1/4"
+4.0
+4.0
+6.0
+1/4"
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+50
+L
+5
+5
+5
+5
+15
+15
+15
+15
+25
+25
+25
+25
+50
+50
+50
+50
+2.74
+2.74
+2.74
+2.74
+9.62
+9.62
+9.62
+9.62
+17.17
+17.17
+17.17
+17.17
+34.35
+34.35
+34.35
+34.35
+Suruburi cu cap hexagon interior
+Suruburi cu filet metric 
+Ø in mm 
+Cupluri de testare pentru biti
+profil hexagonal 
+Nm* 
+0,08 
+0,18 
+0,53 
+0,82 
+1,9 
+3,8 
+6,6 
+11 
+16 
+24 
+30 
+52 
+78 
+120 
+180 
+220 
+295 
+370 
+480 
+590 
+1.000 
+1.000 
+1.000 
+1.000 
+1.000 
+0,7 
+0,9 
+1,3 
+1,5 
+2,0 
+2,5 
+3 
+3,5 
+4 
+4,5 
+5 
+6 
+7 
+8 
+9 
+10
+11 
+12 
+13 
+14 
+17 
+19 
+22 
+24 
+27 
+* Profil hexagonal: Fabricat conform DIN 911, ISO 2936. Valori de cuplu 
+verificate in calibru de testare, conform DIN 911, pe echipamentul de 
+testare cuplu.
+Dimensiuni
+in mm 
+DIN 912 
+DIN 7984 
+DIN 7991 
+DIN 913 - DIN 914 
+DIN 915 - DIN 916 
+DIN 908 
+SW 
+M 7 
+ 2 M / 6,1 M
+M 2,5 
+M 3 
+M 4 
+M 5 
+M 6 
+M 8 
+M 10 
+M 12 
+M 14 
+M 3 
+M 4 
+M 5 
+M 6 
+M 8 
+M 12 
+M 14 
+M 16 / M 18 
+M 3 
+M 4 
+M 5 
+M 6 
+M 8 
+M 10 
+M 12 
+M 14 / M 16 
+M 18 / M 20 
+48
+M 1,4 - M 1,8 
+ 2 M
+ 3 M
+M 4 
+M 5 
+M 6 
+M 8 
+M 10 
+M 12 / M 14 
+M 16 
+M 18 / M 20 
+M 22 / M 24 
+M 10 
+M 12 / M 14 
+M 16 / M 18 
+M 20 / M 22 
+M 24 / M 26 
+0,7 
+ 90
+ 5,1
+2 
+2,5 
+3 
+4 
+5 
+6 
+8 
+10 
+12 

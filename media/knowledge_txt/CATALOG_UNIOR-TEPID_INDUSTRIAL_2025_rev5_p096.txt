@@ -1,0 +1,274 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:96]
+310
+60990
+Adaptor hexagon exterior 1/4”- patrat exterior
+• actionare: hexagon 1/4”, DIN / ISO 1173 Forma C 6.3
+• deschidere: patrat, DIN 3121 Forma E cu stift cu arc 
+Adaptor patrat interior 1/4”- patrat exterior 3/8”
+• actionare: patrat 1/4”, DIN 3121 Forma G 6.3
+• deschidere: patrat, DIN 3121 Forma A
+E
+A
+1000003101
+310-1
+1/4”
+1/4”
+L
+25
+Ø
+8,0
+7
+ 1C 
+5
+59.07
+320
+60990
+400
+E
+1/4”
+A
+3/8”
+L
+26
+D2
+13,0
+19
+ 1C 
+1
+52.62
+Adaptor hexagon exterior 5/16”- patrat exterior
+• actionare: hexagon 5/16”, DIN / ISO 1173 Forma C 8
+• deschidere: patrat, DIN 3121 Forma E cu stift cu arc
+Adaptor articulat patrat interior 1/4”- patrat exterior 1/4”
+• actionare: patrat 1/4”, DIN 3121 Forma G 6.3
+• deschidere: patrat, DIN 3121 Forma E cu stift cu arc 
+E
+A
+1000003201
+320-1
+5/16”
+1/4”
+1000003202
+320-2
+5/16”
+3/8”
+L
+40
+40
+Ø
+-
+13,0
+16
+28
+ 1C 
+ 1C 
+5
+5
+87.64
+107.22
+1000004002
+400 KG-2
+1/4” 1/4” 40
+18,0
+E
+A L
+Ø
+D2
+13
+36
+ 1C 
+1
+249.05
+330 mK
+Adaptor hexagon exterior 1/4”- patrat exterior
+• actionare: hexagon 1/4”, DIN / ISO 1173 Forma C 6.3
+• deschidere: patrat, DIN 3121 Forma A cu bila
+500
+Prelungitor 1/4”
+• actionare: patrat 1/4”, DIN 3121 Forma G 6.3
+• deschidere: patrat, DIN 3121 Forma E cu stift cu arc 
+E
+1000103306
+330 - 5 mK
+1/4''
+1000103310
+330 - 9 mK
+1/4''
+A
+3/8''
+1/2”
+L
+50
+50
+Ø
+10,5
+14,5
+23
+36
+ 1C 
+ 1C 
+5
+5
+49.23
+56.80
+340
+Adaptor hexagon exterior 7/16”- patrat exterior
+• actionare: hexagon 7/16”, DIN / ISO 1173 Forma E 11,2
+• deschidere: patrat, DIN 3121 Forma E cu stift cu arc 
+E
+1000003401
+340 - 1
+7/16''
+1000003402
+340 - 2
+7/16''
+1000003403
+340 - 3
+7/16''
+1000003404
+340 - 4
+7/16''
+1000003405
+340 - 5
+7/16''
+1000003406
+340 - 6
+7/16''
+1000003407
+340 - 7
+7/16''
+A
+1/4''
+3/8''
+3/8''
+3/8''
+1/2''
+1/2''
+1/2''
+L
+50
+75
+125
+200
+70
+125
+200
+Ø
+13,0
+13,0
+13,0
+13,0
+16,0
+13,0
+16,5
+37
+64
+116
+195
+77
+128
+294
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+ 1C 
+5
+5
+5
+5
+5
+5
+5
+117.05
+123.08
+133.80
+156.47
+162.37
+176.18
+245.07
+400
+Adaptor patrat interior 1/4”- patrat exterior 3/8”
+• actionare: patrat 1/4”, DIN 3121 Forma G 6.3
+• deschidere: patrat, DIN 3121 Forma A
+E
+A
+L D2
+1000005001
+1000005002
+500-1
+500-2
+1/4''
+1/4''
+50
+1/4''
+1/4''
+13
+13
+13
+24
+66
+95
+ 1C 
+ 1C 
+ 1C 
+1
+1
+1
+107.22
+123.08
+201.80
+150
+200
+1000105002
+500-1 x 200
+1/4''
+1/4''
+500 W
+Prelungitor cu bila 1/4”
+• actionare: patrat 1/4”, DIN 3121 Forma G 6.3
+• deschidere: patrat, Forma A cu bila
+1000005011 500-1-W 1/4''
+1/4''
+E
+A
+L
+50
+D2
+13
+24
+ 1C 
+1
+148.83
+700 SWH
+Prelungitor cu eliberare rapida 1/4”
+• actionare: patrat 1/4”, DIN 3121 Forma G 6.3
+• deschidere: patrat, Forma A cu bila
+E
+A
+1000004001
+400-1
+1/4”
+3/8”
+L
+26
+D2
+13,0
+19
+ 1C 
+1
+123.08
+1000070950 700 SWH 1/4''
+1/4''
+E
+A
+L
+35
+D2
+13
+45
+ 1C 
+1
+458.73

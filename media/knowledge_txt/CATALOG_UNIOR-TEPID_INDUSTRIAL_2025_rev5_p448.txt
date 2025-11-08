@@ -1,0 +1,362 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:448]
+DIN
+8033
+DIN
+8033
+DIN
+8033
+DIN
+8033
+DIN
+8033
+DIN
+8033
+DIN
+8033
+DIN
+8033
+DIN
+8033
+DIN
+8033
+DIN
+8033
+DIN
+8033
+A
+ZYA
+B
+ZYAS
+C
+WRC
+G
+SPG
+F
+RBF
+M
+SKM
+D
+KUD
+E
+TRE
+H
+FLH
+J
+KSJ
+L
+KEL
+N
+WKN
+Forma A cilindrica (ZYA) fara capat dintat
+Forma B cilindrica (ZYAS)cu capat dintat
+Forma C ovala, cilindrica rotunjita (WRC)
+Forma G copac, arc ascutit (SPG)
+Forma F minge-copac, arc rotunjit (RBF)
+Forma M de con, con ascutit (SKM)
+Forma D minge, sferica (KUD)
+Forma E picatura (TRE)
+Forma H flacara (FLH)
+Forma J con 60° (KSJ)
+Forma L con rotunjit (KEL)
+Forma N unghi (WKN)
+1031651
+1031611
+1031631
+Freza din carbura monobloc forma
+rotunda serie lunga, dantura normala
+• pentru a debavura, rotunjire muchii, curatire / finisare ornamente,
+curatire cordoane de sudura si operatii de prelucrare suprafete
+pentru piese din fonta, otel si otel inoxidabil.
+• se foloseste pe masini portabile pneumatice sau electrice
+Freza din carbura de tungsten forma A 
+- cilindrica, 
+cu tais dublu (incrucisat) tip D
+• material: carbura HM
+• forma A - cilindrica
+• pentru oteluri cu rezistenta la rupere ≤ 700 N/mm², fonta, 
+aliaje cupru
+Freza din carbura de tungsten forma A 
+- cilindrica, cu tais dublu (incrucisat) 
+tip D
+• material: carbura HM
+• forma A - cilindrica cu cap taietor
+• pentru oteluri cu rezistenta la rupere ≤ 700 N/mm², fonta, 
+aliaje cupru
+l1
+l2
+Ø
+2
+d
+L
+Ø
+l1
+l2
+2
+d
+L
+Ø
+l1
+l2
+2
+d
+Ø
+3,0
+4,0
+6,0
+d2
+3,0
+4,0
+6,0
+L
+80
+80
+80
+103165103080
+103165104080
+103165106080
+1031601
+L
+l2
+20
+20
+20
+37
+42
+49
+88.36
+89.84
+92.30
+Freza din carbura de tungsten forma A 
+cilindrica, cu tais simplu tip C
+• material: carbura HM
+• forma A - cilindrica
+• pentru oteluri cu duritate pana la 1400 N/mm², otel inoxidabil
+Ø          d2         L            l2
+10316110400
+10316110600
+10316110800
+10316111000
+10316111200
+10316111600
+103161116006
+1031621
+4
+6
+8
+10
+12
+16
+16
+6
+6
+6
+6
+6
+8
+6
+50
+50
+65
+65
+70
+70
+70
+14
+16
+20
+20
+25
+25
+25
+166.62
+166.62
+200.19
+225.26
+302.49
+425.11
+425.11
+10316310400
+10316310600
+10316310800
+10316311000
+10316311200
+10316311600
+103163116006
+10316312000
+1036651
+Ø          d2         L            l2
+4
+6
+8
+10
+12
+16
+16
+20
+6
+6
+6
+6
+6
+8
+6
+6
+50
+50
+65
+65
+70
+70
+70
+70
+14
+16
+20
+20
+25
+25
+25
+25
+183.26
+183.26
+220.10
+248.73
+332.67
+472.21
+472.21
+687.49
+Freza din carbura de tungsten forma A 
+cilindrica cu cap taietor, tais simplu 
+tip C
+• material: carbura HM
+• forma A - cilindrica cu cap taietor
+• pentru oteluri cu duritate pana la 1400 N/mm², otel inoxidabil
+Freza din carbura de tungsten forma A 
+- cilindrica cu cap taietor, tais simplu
+tip A
+• material: carbura HM
+• forma A - cilindrica cu cap taietor
+• pentru aluminiu
+2
+d
+L
+Ø
+l1
+l2
+2
+d
+L
+Ø
+l1
+l2
+10316010400
+10316010600
+10316010800
+10316011000
+10316011200
+10316011600
+103160116006
+103160120006
+Ø          d2         L            l2
+4
+6
+8
+10
+12
+16
+16
+20
+6
+6
+6
+6
+6
+8
+6
+6
+50
+50
+65
+65
+70
+70
+70
+70
+14
+16
+20
+20
+25
+25
+25
+25
+139.48
+139.48
+168.17
+189.98
+252.17
+358.09
+358.09
+522.48
+Ø          d2         L            l2
+10316210400
+10316210600
+10316210800
+10316211000
+10316211200
+10316211600
+103162116006
+4
+6
+8
+10
+12
+16
+16
+6
+6
+6
+6
+6
+8
+6
+50
+50
+65
+65
+70
+70
+70
+14
+16
+20
+20
+25
+25
+25
+153.02
+153.02
+183.26
+208.45
+277.30
+394.87
+394.87
+2
+d
+L
+Ø
+l1
+l2
+Ø          d2         L            l2
+10366511200
+10366511600
+12
+16
+6
+6
+70
+70
+25
+25
+332.67
+472.27

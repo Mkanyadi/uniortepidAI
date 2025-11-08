@@ -1,0 +1,167 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1031]
+vl964/24SOS
+964/26BSOS
+vl964/27SOS
+Modul SOS pentru set 964/24SOS
+Set de pile bastard in modul 
+SOS
+Modul SOS pentru cset 964/27SOS
+39
+ 1V 
+1
+58.01
+621081
+5
+1095
+ 1F 
+1
+254.26
+B
+L
+ 760HB  (200), 
+621231 188
+364
+H
+30
+42
+ 1V 
+1
+58.01
+B
+L
+621230 188
+364
+H
+30
+964/25SOS
+Set de capete chei tubulare
+3/8" in modul SOS
+761HB  (200), 
+ 763HB  (200), 
+ 764HB  (200), 
+765HB  (200), vl964/26BSOS  (188 x 364 x 30)
+vl964/26BSOS
+Modul SOS pentru set 964/26BSOS
+621080
+6 - 22 / 23
+1765
+ 1F 
+1
+824.59
+ 238/1 6p  (6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 
+B
+L
+17, 18, 19, 20, 21, 22), 
+(3/8"), 
+(3/8" x 250, 3/8" x 125),  
+238.7/2  (3/8" - 1/2"),  vl964/25SOS  (188 x 364 x 30)
+ 238.4/1 
+ 238.6/1  (3/8"), 
+ 238.3/1  (3/8"), 
+ 238.1/1ABI 
+620901 188
+364
+964/26SSOS
+H
+30
+50
+ 1V 
+1
+58.01
+vl964/25SOS
+Modul SOS pentru set 964/25SOS
+Set de pile fine in modul SOS
+B
+L
+620898 188
+364
+H
+30
+964/26 1/2SSOS
+25
+ 1V 
+1
+58.01
+621083
+5
+1180
+ 1F 
+1
+276.72
+ 760HS (200), 
+761HS  (200), 
+ 763HS (200), 
+ 764HS (200), 
+765HS  (200), vl964/26SSOS  (188 x 364 x 30)
+Set de pile semifine in modul 
+SOS
+vl964/26SSOS
+Modul SOS pentru set 964/26SSOS
+ 964/27ASOS 
+Set de chei combinate cu 
+clichet, forjate, in modul SOS
+621082
+5
+1200
+ 1F 
+1
+276.72
+ 760H1/2S  (200), 
+761H1/2S  (200), 
+ 763H1/2S  (200), 
+ 764H1/2S  (200), 
+ 765H1/2S  (200), vl964/26 1/2SSOS 
+(188 x 364 x 30)
+vl964/26 1/2SSOS
+Modul SOS pentru set 964/26 1/2SOS
+B
+L
+620903 188
+364
+H
+30
+964/27SOS
+49
+ 1V 
+1
+58.01
+625732
+8 - 19 / 7
+870
+1F
+1
+646.72
+ 160/2  (8, 10, 13, 15, 17, 19),  
+ 710R  (5)
+Set de chei combinate forjate
+cu clichet in modul SOS
+vl964/27ASOS
+Modul SOS pentru set 964/27ASOS
+B
+L
+620902 188
+364
+H
+30
+49
+ 1V 
+1
+58.01
+160/2  (8, 9, 10, 12, 13, 14, 16, 17, 18, 19), 
+vl964/27SOS  (188 x 364 x 30)
+B
+L
+625733 188
+364
+H
+30
+42
+ 1V 
+1
+58.01
+621084
+8 - 19 / 10
+1490
+ 1F 
+1
+992.46

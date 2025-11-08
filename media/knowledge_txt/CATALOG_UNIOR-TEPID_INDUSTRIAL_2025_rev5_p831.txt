@@ -1,0 +1,405 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:831]
+5310 - 56KV25°
+5311 - 36KV36°
+Panze circulare monometalice (neplacate) pentru lemn
+• panze circulare monometalice (neplacate) cu dinti tip “de lup”
+• unghi de atac pozitiv 25°
+• recomandate la taierea transversala si longitudinala a lemnului de esenta moale sau tare
+• valoarea maximã admisa a ceaprazului este de 1/3 din grosimea corpului panzei
+pe fiecare parte
+Panze circulare monometalice (neplacate) pentru lemn
+• panze circulare monometalice (neplacate) cu dinti tip “de lup”
+• unghi de atac pozitiv 36°
+• recomandate la spintecarea lemnului de esenta moale sau tare
+• pot fi utilizate la fierãstrãul circular multiplu de spintecat
+• valoarea maxima admisa a ceaprazului este de 1/3 din grosimea corpului panzei pe fiecare parte
+cel mai popular pentru taierea lemnului
+de foc la utilizare casnica si este, de 
+asemenea, lama universala pentru 
+taiere longitudinala (inaltimea mai mica 
+a lemnului) sau transversala (limitata 
+doar de diametrul lamei)
+D          B           d           Z          ά 
+2253102001225
+2253102001625
+2253102501625
+2253102501825
+5100250 1220255600
+2253103001630
+5100300 1180305600
+5100300 1240305600
+5100350 1180305601
+5100400 1200305600
+5100400 13003056000
+5100450 1200305600
+5100450 1220305600
+2253104503530
+5100500 1220305600
+5100500 1250305600
+2253105502530
+2253105503530
+2253107003535
+5100700 1400355600
+5100800 1450405600
+200
+200
+250
+250
+250
+300
+300
+300
+350
+400
+400
+450
+450
+450
+500
+500
+550
+550
+700
+700
+800
+1.2
+1.6
+1.6
+1.8
+2.2
+1.6
+1.8
+2.4
+1.8
+2.0
+3.0
+2.0
+2.2
+3.5
+2.2
+2.5
+2.5
+3.5
+3.5
+4.0
+4.5
+25
+25
+25
+25
+25
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+35
+35
+40
+56
+56
+56
+56
+56
+56
+56
+56
+56
+56
+56
+56
+56
+56
+56
+56
+56
+56
+56
+56
+56
+25º
+25º
+25º
+25º
+25º
+25º
+25º
+25º
+25º
+25º
+25º
+25º
+25º
+25º
+25º
+25º
+25º
+25º
+25º
+25º
+25º
+760
+780
+810
+820
+840
+880
+900
+1220
+1250
+1850
+1930
+2290
+2550
+2770
+3110
+3540
+4200
+4400
+4350
+4450
+5100
+65.08
+77.21
+114.75
+159.67
+175.74
+166.39
+189.34
+233.61
+220.16
+296.23
+436.07
+391.31
+392.13
+569.18
+487.70
+507.87
+669.84
+939.18
+1390.82
+1543.93
+2398.69
+Material panze fierastrau circular
+Panzele de fierastrau circular pentru taierea lemnului sunt fabricate din otel 
+carbon pentru scule 75Cr1 (DIN 1.2003).
+Panzele de fierastrau cu grosimea de pana la 3 mm sunt intarite la 44-48 
+HRc si panzele de fierastrau cu grosimea de 3 mm la 42-46 HRc.
+Panzele de fierastrau sunt livrate indreptate si tensionate, cu dantura 
+ceaprazuita si ascutita.
+Turatia maxima indicata pe fiecare panza circulara corespunde unei viteze 
+periferice de 60 m / s pentru grosimea inferioara a corpului si 80 m/s pentru 
+grosimea mai mare a corpului.
+Valoarea ceaprazului dintilor in mm nu trebuie sa depaseasca o treime din 
+grosimea corpului panzei.
+(Exemplu: Panza de fierastrau 600 x 4,0 x 30 (4,0: 3 = 1,333 mm) >> 
+suprapunere ceapraz = 1,33 mm, scara totala = 6,66 mm (grosime + 2 × 
+valoarea ceaprazului)
+Utilizati urmatoarea formula pentru a calcula diametrul optim al flansei de 
+prindere: 5x Diametrul fierastraului poate fi utilizat pentru calcularea
+diametrul optim al flansei.
+Exemplu de specificatie standard: 56KV25 (56 = numarul de dinti; 
+KV = profilul dintilor - dinte de lup; 25 = unghi de carlig de 25°) 
+D          B           d           Z          ά 
+300
+300
+300
+350
+350
+350
+400
+400
+450
+450
+500
+550
+600
+600
+700
+2.0
+2.4
+3.0
+2.8
+3.0
+3.5
+3.0
+3.5
+2.8
+3.5
+3.5
+3.0
+3.5
+4.0
+4.0
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+35
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36
+36º
+36º
+36º
+36º
+36º
+36º
+36º
+36º
+36º
+36º
+36º
+36º
+36º
+36º
+36º
+1270
+1470
+1550
+2000
+2100
+2250
+2800
+2950
+3600
+3850
+5150
+5350
+5950
+6250
+6500
+201.15
+233.61
+286.72
+333.11
+356.56
+393.93
+436.07
+471.97
+492.13
+569.18
+717.54
+752.30
+1022.13
+1128.03
+1543.93
+5110300 1200303600
+5110300 1240303600
+5110300 1300303600
+5110350 1280303600
+2253113503030
+2253113503530
+2253114003030
+2253114003530
+2253114502830
+2253114503530
+5110500 1350303600
+5110550 1300303600
+2253116003530
+2253116004030
+2253117004035
+5314 - NV
+Panze circulare monometalice (neplacate) pentru lemn
+• panze circulare monometalice (neplacate) cu dinti triunghiulari
+• unghi de atac pozitiv 0 - 10°.
+• recomandate la taierea longitudinala si transversala a lemnului subtire si a materialelor plastice
+• valoarea maxima admisa a ceaprazului este de 1/3 din grosimea corpului panzei pe fiecare parte
+pentru grosimi mici de lemn, plastic 
+etc., se folosesc mai ales pentru masini 
+electrice
+D          B           d           Z          ά 
+5140160 1100169000
+5140160 1100209000
+5140175 2100161000
+5140185 2140201000
+5140190 2140301000
+5140200 1180251000
+5140250 1180251200
+5140350 1180301400
+160
+160
+175
+185
+190
+200
+250
+350
+1.0
+1.0
+1.4
+1.4
+1.4
+1.8
+1.8
+1.8
+16
+20
+16
+20
+30
+25
+25
+30
+90
+90
+100
+100
+100
+100
+120
+140
+0º
+0º
+0º
+0º
+0º
+8º
+8º
+320
+320
+350
+370
+395
+420
+600
+10º
+1300
+56.39
+56.39
+87.28
+96.40
+98.58
+124.75
+170.00
+200.16

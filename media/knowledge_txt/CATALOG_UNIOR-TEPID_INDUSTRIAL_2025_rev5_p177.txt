@@ -1,0 +1,275 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:177]
+461/4G
+466/1BI
+455/1BI
+Cleste cu tais lateral
+•  material: compozitie speciala pentru calire revenire
+•  tratat complet
+•  partile taietoare tratate prin inductie
+•  cap vopsit
+•  acoperire: fosfatare conform cu standardul DIN 12476 
+•  maner de plastic pentru conditii grele
+•  in conformitate cu standardul ISO 5749
+Cleste cu tais lateral pentru
+conditii grele
+•  material: compozitie speciala pentru calire revenire 
+•  tratat complet
+•  partile taietoare tratate prin inductie, cap polizat
+•  finisare: cromat in conformitate cu standardul EN12540 
+•  manere bimaterial pentru conditii grele
+•  in conformitate cu standardul ISO 5749
+Cleste cu tais fata
+•  material: Ck 60
+•  tratat complet
+•  partile taietoare tratate prin inductie,cap polizat
+•  finisare: cromat in conformitate cu standardul EN12540 
+•  manere bimaterial pentru conditii grele
+•  in conformitate cu standardul ISO 5748
+L
+608697 140
+B
+19
+608698 160
+22.5
+A
+9.5
+10
+C
+18
+22
+capacitatea de taiere (10N=1kg)
+169
+214
+ 4B 
+ 4B 
+10
+10
+75.25
+81.48
+L
+max 1600 N/mm²
+max 650 N/mm²
+1,6
+1,6
+2,0
+2,5
+608697 140
+608698 160
+461/4P
+Cleste cu tais lateral
+•  material: compozitie speciala pentru calire revenire 
+•  tratat complet
+•  partile taietoare tratate prin inductie, cap vopsit
+•  acoperire: fosfatare conform cu standardul DIN 12476 
+•  manere de plastic
+•  in conformitate cu standardul ISO 5749
+L
+B
+617686 160
+23.5
+608850 180
+608837 200
+28
+27
+A
+10
+11
+11
+C
+20.5 214
+20
+21
+313
+344
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+121.15
+143.93
+165.57
+capacitatea de taiere (10N=1kg)
+L
+max 2150 N/mm²
+max 650 N/mm²
+617686 160
+608850 180
+608837 200
+466/4G
+1,6
+1,8
+2,0
+2,5
+3,0
+3,5
+Cleste cu tais lateral pentru 
+conditii grele
+•  material: compozitie speciala pentru calire revenire 
+•  tratat complet
+•  partile taietoare tratate prin inductie, cap vopsit
+•  acoperire: fosfatare conform standardului DIN 12476 
+•  maner de plastic pentru conditii grele
+•  in conformitate cu standardul ISO 5749
+L
+609192 160
+B
+27
+A
+22
+C
+7
+capacitatea de taiere (10N=1kg)
+254
+ 4B 
+10
+132.30
+L
+max 1600 N/mm²
+max 650 N/mm²
+609192 160
+1,6
+2,5
+467SHARK/4DP
+Cleste cu tais lateral
+PowerShark
+Caracteristici si avantaje:
+• material: otel cu continut ridicat de carbon
+• forjat
+• tratat complet 47 HRc
+• falcile de taiere sunt tratate in intregime prin inductie 64 HRc
+• acoperire anticoroziva (brunare)
+• lubrifiere pentru a proteja suprafata impotriva ruginii
+• manerele ergonomice, anti-alunecare din plastic cu dublustrat
+Pentru taiere precisa:
+• sarma moale (pana la 6 mm)
+• sarma dura (pana la 3,5 mm)
+• coarda pian (pana la 3,0 mm)
+• suruburi, cuie, nituri etc. pana la o grosime de 4 mm
+L
+612327 125
+B
+19
+A
+9.5
+C
+18
+capacitatea de taiere (10N=1kg)
+115
+ 4B 
+10
+70.98
+L
+max 1600 N/mm²
+max 650 N/mm²
+612327 125
+1,6
+2,0
+62284
+NOU
+Cleste pentru cabluri Cu/Al 63 mm²
+•  material: Cr-V
+•  manere bimaterial care asigura o prindere ergonomica, 
+antiderapanta si confort maxim
+•  ideal pentru cupru si aluminiu
+•  duritate falci taietoare: 55-60 HRc
+L
+B
+617687 160
+23.5
+608700 180
+609190 200
+28
+27
+A
+10
+11
+11
+C
+20.5 214
+20
+21
+313
+344
+ 4B 
+ 4B 
+ 4B 
+10
+10
+10
+111.64
+110.98
+130.66
+B
+C
+A
+L
+capacitatea de taiere (10N=1kg)
+L
+B C A
+L
+max 2150 N/mm²
+max 650 N/mm²
+626490 250 30
+24
+12 389  4B 
+1
+203.61
+617687 160
+608700 180
+609190 200
+62151
+1,6
+1,8
+2,0
+2,5
+3,0
+3,5
+capacitatea de taiere (10N=1kg)
+L
+max 2150 N/mm²
+max 650 N/mm²
+626490 250
+3
+6
+NOU
+62164
+NOU
+Cleste pentru cabluri Cu/Al 63 mm²
+•  material: Cr-V
+•  manere bimaterial care asigura o prindere ergonomica, 
+antiderapanta si confort maxim
+•  ideal pentru cupru si aluminiu
+•  duritate falci taietoare: 45 HRc
+Cleste pentru cabluri Cu/Al 154 mm²
+•  material: Cr-V
+•  manere aluminiu + cauciuc
+•  ideal pentru cupru si aluminiu
+•  duritate falci taietoare: 54-58 HRc
+L
+Ø Cu/Al (mm²)
+L
+Ø Cu/Al (mm²)
+L
+Ø Cu/Al (mm²)
+62284 150
+9
+63
+160
+ 4B 
+6
+112.95
+62151 250
+14
+63
+490
+ 4B 
+6
+207.87
+62164 600
+14
+154
+1700  4B 
+1
+1222.79

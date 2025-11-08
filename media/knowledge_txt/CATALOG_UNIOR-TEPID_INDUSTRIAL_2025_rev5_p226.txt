@@ -1,0 +1,251 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:226]
+714
+Cheia dinamometrica digitala unghiulara cu capete 
+interschimbabil MANOSKOP® 
+• 4 moduri de masurare (moment de rasucire, unghi de rotire, moment de rasucire cu control 
+variabil al unghiului de rotire, unghi de rotire cu control variabil al momentului de rasucire)
+• afisaj grafic color de inalta rezolutie cu lumini de semnalizare laterale suplimentare, structura 
+meniu liber configurabila
+• 3 moduri de functii: declansare, varf (afisare functionare cu afisaj valoare de varf) si cale 
+(afisare functionare cu afisaj valoare curenta)
+• interfata Micro-USB 2,0
+• memorie de date (2500 operatiuni de insurubat), pana la 200 insurubari programabile in 
+maxim 25 de procese
+• unitati de masura: Nm, ft.lb, in.lb/moment corectat automat la introducerea unei dimensiuni 
+deviate efective
+• semnal de decuplare sesizabil, optic si acustic, cuplu si unghi de rotatie vizibile concomitent
+• semnalare automata a urmatorului termen de calibrare in functie de timp si/sau numarul 
+incarcarilor
+• rezolutie de afisare unghi de rotatie 0,1°
+• rezolutia de afisaj a cuplului ≤ 60 Nm: 0,01 Nm > 60 Nm: 0,1 Nm
+• setare rapida si precisa prin intermediul tastaturii, blocare automata a tastelor pentru 
+protectia impotriva dereglarii neintentionate
+• protectie la supraincarcare asigurata de semnale de avertizare acustice si optice precum si 
+decuplarea fortata (dreapta)
+• anevrare sigura datorita manerului cu forma ergonomica (rezistent la uleiuri, vaseline, 
+combustibili, lichide de frana si Skydrol)
+Set de livrare:
+• in cutie robusta din plastic (dimensiune 40 in cutie din tabla de otel), cu software Sensomaster, 
+cablu USB, 4 micro-baterii AAA/LR03, pot fi folositi acumulatori Micro-NiMH de 1,5 V AAA, 1,2 V.
+713R
+NOU
+Cheia dinamometrica digitala unghiulara cu capete 
+interschimbabil SENSOTORK® 
+• operare simplă, flexibilă datorită ghidării operatorului pe afișaj de format mare
+• domeniu de măsurare foarte larg (5% până la 100% din valoarea nominală)
+• livrata cu unelte de inserare clichet reversibil, mai multe scule de inserare
+• blocare de siguranță QuickRelease
+• pentru cuplu în sensul acelor de ceasornic și în sens invers acelor de ceasornic
+• măsurători independente de punctul de aplicare a forţei
+• unități de măsură: N·m, ft·lb, in·lb
+• puncte de avertizare anticipata programabile pentru semnale vizuale, tactile si acustice
+• cuplul și unghiul sunt vizibile simultan
+• nou: afișajul iluminat din spate ajută la evaluarea operațiunii de strângere (culori semafor).
+• măsurare convenabilă a unghiului într-un interval de unghi foarte larg fără braț de referință
+• lungimile sculelor de inserție pot fi setate individual
+• ușor de întreținut datorită ajustării ușoare și reamintirii automate a următoarei date de calibrare
+• îmbinările repetate pot fi adunate pentru a forma o singură secvență ghidată de meniu
+• nou: lucrările de strângere sunt stocate cu un marcaj de timp
+• posibile marcaje individuale de identificare
+• protecție prin parolă pentru a preveni modificările accidentale și pentru a face instrumentul inviolabil
+• îndeplinește cerințele DKD-R 3-7, Clasa 2
+• cu certificat
+• în carcasă solidă din plastic (dimensiunea 40 în carcasă din oțel dur)
+• se livreaza cu doua baterii AA de 1,5 V. AA/LR6, pot fi utilizate și celule reîncărcabile NiMH de -.2 V.
+• calibrare complet automatizată (cuplu) folosind unitatea de calibrare perfectControl nr. 7794-2.
+• reglare fara demontare.
+• afisarea valorii abaterii pentru unghi ± 1°
+• valoarea abaterii afișajului ± 1%
+SW 96501606
+3/8”
+3 - 60
+2,5 - 44
+SW 96501620
+1/2”
+10 - 200
+7,0 - 148
+SW 96501640
+3/4”
+20 - 400
+15 - 296
+L
+378
+608
+838
+Antrenare
+856
+1552
+2332
+9x12
+14x18
+14x18
+1
+1
+1
+13771.65
+NOU
+14616.91
+NOU
+16034.24
+Cheie dinamometrica cu capete interschimbabile 14x18
+si afisaj electronic
+• angrenajul cu clichet este fabricat din Cr-V pentru rezistenta maxima
+• sistem de inregistrare si comunicare a datelor (pentru modele cu cablu de comunicatie
+articolele 57591 soii 57592)
+• pornirea progresiva a LED-urilor si a semnalului acustic la apropierea valorii prestabilite
+• manerele ergonomice si antiderapante supradimensionate
+• sistem de calibrare web 24h.
+• doua moduri de masurare: 
+- M1: pentru verificarea cuplului de strangere
+- M2: pentru Peak (valoarea cuplului maxim) si Track (valoarea cuplului curent)
+• ofera optiunea de a stoca pana la 9 valori diferite ale cuplului
+unitati de masura: Nm, Lb.ft, Lb.in, Kg.cm.
+cutie de transport
+SW 96500901
+SW 96500902
+SW 96500904
+SW 96500906
+SW 96500910
+SW 96500920
+SW 96500940
+SW 96500965
+SW 96500980
+SW 96500100
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1 - 10
+2 - 20
+4 - 40
+6 - 60
+0,7 - 7,5
+1,5 - 15
+3 - 30
+4,5 - 45
+10 - 100
+7,4 - 75
+20 - 200
+15 - 150
+40 - 400
+30 - 300
+65 - 650
+48 - 480
+L
+188
+188
+214
+355
+428
+516
+656
+890
+80 - 800
+60 - 600
+1158
+100 - 1000
+74 - 750
+1343
+Antrenare
+9x12
+9x12
+9x12
+9x12
+9x12
+14x18
+14x18
+24x32
+24x32
+24x32
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+12730.01
+NOU
+12730.01
+NOU
+13387.43
+NOU
+13387.43
+NOU
+13959.49
+NOU
+14138.74
+NOU
+15752.44
+NOU
+19141.96
+NOU
+22915.77
+NOU
+24145.25
+370
+380
+420
+810
+1085
+1361
+1765
+3222
+4572
+4990
+57587
+57588
+57591*
+57592*
+14x18
+14x18
+14x18
+14x18
+10 -200
+7-148 lb.ft
+17 - 340
+12-251 lb.ft
+10 - 200
+7-148 lb.ft
+17 - 340
+12-251 lb.ft
+L
+470
+590
+470
+590
+A
+38
+38
+38
+38
+±2%
+±3%
+1400
+ 1S  3838.27
+±2%
+±3%
+1600
+±1%
+±2%
+1400
+ 1S 
+ 1S 
+4094.07
+5629.47
+±1%
+±2%
+1600
+ 1S 
+5757.52
+* : Track mode: Valoare directa a cuplului - Peak mode: Valoarea maxima a cuplului
+* : Cablu pentru calibrare si comunicare de date inclus

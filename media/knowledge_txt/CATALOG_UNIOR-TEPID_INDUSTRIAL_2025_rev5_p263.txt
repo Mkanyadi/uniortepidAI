@@ -1,0 +1,212 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:263]
+4780-85A
+Raportor
+• material: otel inoxidabil
+• scala cromare satinata
+• cu surub de fixare
+4700
+Rigla planeitate
+• in conformitate cu DIN 874
+• acoperire cromare satinata 
+• cu muchie tesita
+• material: otel inoxidabil, tratat termic
+2176
+Raportor digital
+• butoane: on/off, zero
+• cu surub pentru blocare
+• gradatie lama: 1 mm si 1/32"
+• baterie: CR2032
+• oprire automata daca nu este utilizat
+Dimensiune   Scala Gradatii    Acuratete
+4780-85A     85x150      0⁰-180⁰    1⁰ 
+    ± 0.3⁰         88.20
+4700-150
+4700-200
+4700-300
+Dimensiune  Acuratete      W       H
+30
+2.6 µm
+150 mm
+6
+200 mm
+300 mm
+2.8 µm
+3.2 µm
+6
+8
+30
+40
+245.70
+307.65
+581.70
+4700-400
+In gama producatorului exista si alte lungimi; lungimea maxima 500 mm
+400 mm
+3.2 µm
+40
+1270.50
+8
+Dimensiune   Scala  Rezolutie   Acuratete
+2176-200
+2176-300
+200
+300
+0⁰-360⁰
+0⁰-360⁰
+0.1⁰
+0.1⁰
+± 0.3⁰
+± 0.3⁰
+243.60
+267.75
+242
+NOU
+Raportor universal cu lupa
+• raportor universale cu lupa
+• fabricat din otel inoxidabil
+• gradatie marcata cu laser
+• toate fețele de masurare sunt calite si slefuite
+• cu ajustare fina, luneta reglabila
+• baza cu unghi ascutit ca accesoriu standard
+• domeniul de masurare 360º, citire 5', precizie ±5'
+• ambalat in cutie de carton
+• include 3 rigle, 150, 200 si 300 mm
+242
+Raportor
+• raportor pentru măsurarea 1-180°, gradatia 1°.
+• fabricat din otel carbon
+• lama mobila
+• placa dreptunghiulara
+• finisaj cromat satinat, cu surub de blocare
+• ambalat in husa moale
+NOU
+241
+NOU
+Rigla de precizie pentru planeitate
+• rigla de precizie pentru planeitate
+• in conformitate cu DIN874/00
+• fabricat din otel inoxidabil, tratat termic
+• cromat satinat mat
+• marginea inclinata rectificata fin si lepuita 
+• cu maner de izolatie negru
+• ambalat in punga moale
+Dimensiune     Scala     Gradatii
+242-0580
+85x150
+     00-1800           10
+-
+242
+NOU
+Raportor 10-170°, gradatie 1°
+• raportor pentru măsurarea 10-170°, gradatia 1°.
+• fabricat din otel carbon
+• lama mobila
+• finisaj cromat satinat, cu surub de blocare
+• ambalat in husă moale
+91.28
+99.46
+128.19
+144.56
+276.57
+379.31
+559.69
+968.82
+NOU
+Dimensiune      L       a        h
+100 mm
+125 mm
+150 mm
+200 mm
+300 mm
+400 mm
+500 mm
+600 mm
+100
+125
+150
+200
+300
+400
+500
+600
+5
+5
+6
+6
+8
+8
+10
+10
+20
+20
+25
+25
+35
+35
+42
+42
+241-1471
+241-1488
+241-1495
+241-1501
+241-1518
+241-1525
+241-1532
+241-1549
+6104
+Raportor digital
+• fabricat din otel inoxidabil
+• scala mm / inch, citire: 1 mm, 1/32""
+• afisaj LCD, oprire automata
+• ON / OFF, Reset
+• cu mecanismul de blocare, baterie: 3V CR2032
+• temperatura de functionare: 0⁰ ~ +50⁰
+• cu gauri de agatat
+• livrat cu un manual, cutie colorata
+reglaj fin
+rigla 150 mm (inclusa)
+Dimensiune  Scala   Gradatii  Acuratete
+6104-200D
+6104-300D
+200 mm
+300 mm
+00-3600
+00-3600
+0.10
+0.10
+± 0.30
+± 0.30
+166.93
+190.02
+Dimensiune    Acuratete   Gradatii
+242-0504
+00-3600
+±5’
+50
+701.89
+242-0658
+242-0665
+242-0672
+242-0689
+242-0696
+Dimensiune     Scala     Gradatii
+100x150
+150x300
+200x400
+250x500
+300x600
+100-1700
+100-1700
+100-1700
+100-1700
+100-1700
+10 
+10 
+10 
+10 
+10 
+174.29
+208.14
+253.41
+358.84
+448.98

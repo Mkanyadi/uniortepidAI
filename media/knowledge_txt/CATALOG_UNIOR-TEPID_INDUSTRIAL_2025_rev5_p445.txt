@@ -1,0 +1,363 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:445]
+4500
+GW12
+8236451
+Prelungitor pentru tarozi, conform
+DIN 377
+Trusa tarozi si filiere M3-M12 
+44 piese
+• prelungitor pentru tarozi, conform DIN 377
+• executie din otel aliat, tratat termic integral
+• suprafete rectificate
+• pentru patrat de antrenare conform DIN 10
+• patratul interior si in patratul exterior cu aceeasi dimensiune
+DIN
+377
+26.23
+27.54
+36.23
+40.66
+48.03
+62.13
+83.61
+94.59
+132.62
+                                      DIM.    LT      M - MF (dim.tarod)
+45001500270
+45001500340
+45001500490
+45001500550
+45001500700
+45001500900
+45001501100
+45001501200
+45001501450
+M 3
+M 4
+M 5 - M 8
+M 9 - M 10
+M 12
+M 14 - M 16
+M 18
+M 20 
+M 22 - M 24
+2,7
+3,4
+4,9
+5,5
+7,0
+9,0
+11,0
+12,0
+14,5
+80
+95
+110
+115
+125
+135
+150
+155
+174
+GK12
+Trusa tarozi si burghie 28 piese
+60001410044
+1045.90
+44 piese
+tarozi set 3 DIN 352 HSS-G: M 3 - M12
+filiere DIN 223 B HSS-G: M 3 - M 12
+port filiera DIN 225: 20x5 / 20x7 / 25x9 
+/ 30x11 / 38x14
+port tarod DIN 1814: Nr. 1 + 2
+surubelnita, set lere
+DIN 338 HSS: 2.5, 3.3, 4.2, 5.0, 6.8, 8.5, 10.2 mm
+11900970014
+Trusa tarozi si filiere M3-M12 
+39 piese
+41001410028
+S410
+28 piese
+515.25
+tarozi set 3 DIN 352 HSS-G:  M 3 - M12 
+burghie DIN 338 HSS: 2.5, 3.3, 
+4.2, 5.0, 6.8, 8.5, 10.2 mm
+GW20
+Trusa tarozi si filiere M3-M20 
+54 piese
+11900970014
+39 piese
+927.22
+    port tarod cu brat detasabil: M3  - M12;
+    port tarod cu maner in T: M3 - M6;
+    port filiera: maxim M25;
+    1 set lere filet: 0.5 / 0.6 / 0.7 / 0.75 / 0.8 / 0.9 / 1 / 1.25 / 
+1.5 / 1.75 si NPT271;
+    surubelnita: 0.7 x 3.5 x 40/97 mm;
+    tarozi: M3 x 0.5; M3 x 6.0; M4 x 0.7; M4 x 0.75; 
+M5 x 0.8; M5 x 0.9; M6 x 0.75; M6 x 1.0; M7 x 0.75;
+ M7 x 1.0; M8 x 1.0; M8 x 1.25; M10 x 1.25; M10 x 1.5;
+ M12 x 1.5; M12 x 1.75; NPT27 x 1/8";
+    filiere: M3 x 0.5; M3 x 6.0; M4 x 0.7; M4 x 0.75; M5 x 0.8; 
+M5 x 0.9; M6 x 0.75; M6 x 1.0; M7 x 0.75; M7 x 1.0; M8 x 1.0; 
+M8 x 1.25; M10 x 1.25; M10 x 1.5; M12 x 1.5; M12 x 1.75; 
+NPT27 x 1/8".
+2528.52
+60001410054
+54 piese
+tarozi set 3 DIN 352 HSS-G: M 3 - M20
+filiere DIN 223 B HSS-G: M 3 - M 20
+port filiera DIN 225: 20x5 / 20x7 / 
+25x9 / 30x11 / 38x14 / 45x18
+port tarod DIN 1814: Nr. 1 + 3
+surubelnita, set lere
+Freza cilindro frontala din carbura HM, 
+DIN 6527K, Z2
+• material: carbura HM
+• conform DIN 6527K
+• varfuri de ascutire cu sanfren deprotectie
+• pentru oteluri cu rezistenta la rupere σr ≤ 1200 N/mm², 
+aliaje de aluminiu, otel inoxidabil, fonta
+• unghiul spirei: 30º
+• numar de dinti: Z2
+• toleranta: e8
+2
+d
+L
+Ø
+l1
+l2
+Ø        d2        L        l2
+1
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+6
+7
+8
+9
+10
+12
+14
+16
+18
+20
+3
+3
+3
+3
+3
+6
+6
+6
+6
+6
+8
+8
+10
+10
+12
+14
+16
+18
+20
+38
+38
+38
+38
+38
+50
+54
+54
+54
+54
+58
+58
+66
+66
+73
+75
+82
+84
+92
+3
+3
+3
+3
+4
+4
+5
+5
+6
+7
+8
+9
+10
+11
+12
+14
+16
+18
+20
+99.20
+93.70
+82.74
+93.70
+82.74
+99.20
+99.20
+117.11
+117.11
+138.05
+186.76
+208.68
+285.97
+285.97
+386.26
+496.83
+607.11
+906.33
+1026.82
+82364510100
+82364510150
+82364510200
+82364510250
+82364510300
+82364510350
+82364510400
+82364510450
+82364510500
+82364510600
+82364510700
+82364510800
+82364510900
+82364511000
+82364511200
+82364511400
+82364511600
+82364511800
+82364512000
+8236511
+Freza cilindro frontala lunga, din 
+carbura HM, DIN 6527L, Z2
+• material: carbura HM
+• conform DIN 6527L
+• varfuri de ascutire cu sanfren de protectie 
+• pentru oteluri cu rezistenta la rupere σr ≤1200 N/mm², aliaje 
+de aluminiu, otel inoxidabil, fonta
+• unghiul spirei: 30º
+• numar de dinti: Z2
+• toleranta: e8
+2
+d
+L
+Ø
+l1
+l2
+82365110200
+82365110250
+82365110300
+82365110350
+82365110400
+82365110450
+82365110500
+82365110600
+82365110700
+82365110800
+82365110900
+82365111000
+82365111200
+82365111400
+82365111600
+82365111800
+82365112000
+Ø        d2        L        l2
+6
+2
+7
+2.5
+7
+3
+7
+3.5
+8
+4
+8
+4.5
+10
+5
+10
+6
+13
+7
+16
+8
+16
+9
+19
+10
+22
+12
+22
+14
+26
+16
+26
+18
+32
+20
+38
+38
+38
+57
+57
+57
+57
+57
+63
+63
+72
+72
+83
+83
+92
+92
+104
+3
+3
+3
+6
+6
+6
+6
+6
+8
+8
+10
+10
+12
+14
+16
+18
+20
+97.71
+110.62
+97.71
+117.05
+117.05
+138.34
+138.34
+162.89
+220.33
+246.20
+337.43
+337.43
+455.80
+586.34
+716.35
+1069.45
+1211.46

@@ -1,0 +1,220 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:417]
+11452070017
+VE10
+Set burghie DIN 338, rectificate, HSS 
+1-13 mm x 0,5 mm / 25 piese
+• material: HSS
+• in conformitate cu DIN 338 
+Trusa burghie DIN 338, HSS-E 
+Co 5%, rectificate, 
+1,0-10,0 mm x 0,5 mm / 19 piese
+11452070003
+NOU
+Set burghie DIN 338, rectificate,
+HSS 1-13 mm / 100 piese
+• burghie cilindrice scurte pentru metal, conform DIN 338, tip N,
+unghi de ascutire 118°
+• material HSS-G, tratate, rectificate
+• taiere pe dreapta
+• unghiul spirei 20-30°
+• toleranta diametrului h8
+• de la Ø 2 mm cu ascutire suplimentara pe fata de asezare si micsorarea 
+taisului transversal, conform DIN 1412 C, pentru o aschiere mai usoara / 
+micsorarea fortei de aschiere si o gaurire mai rapida
+• destinate pentru gaurire in oteluri ne aliate si slab aliate, cu σr≤800 N/mm², 
+gaurire in fonte si materiale neferoase (aliaje de aluminiu, cupru si bronzuri), 
+mase plastice, materiale sinterizate diverse (nu in piese sinterizate din 
+pulberi de oteluri sau din carburimetalice)
+11452070017   1,0-13,0 mm x 0,5 mm / 25 piese    491.84
+11452070015
+Set burghie DIN 338, rectificate, HSS 
+1-10 mm x 0,5 mm / 19 piese
+• material: HSS
+• in conformitate cu DIN 338 
+11401410119
+19 piese
+1,0-10,0 mm x 0,5 mm / 19 piese
+366.39
+VG10
+Trusa burghie DIN 338, HSS-G, 
+rectificate, 1,0-10,0 mm x 0,5 mm
+19 piese
+100
+11452070003
+1-13 mm / 100 piese
+1270
+625,41
+(Ø 1 - 1.5 (x5) - 2 - 2.5 - 3 (x10)- 3.2 - 3.5 (x5) - 4 (x10) - 4.2 - 
+4.5 (x5) - 5 (x10) 5.5 (x3) - 6 (x5) - 6.5 - 8 (x3) - 8.5 - 9 - 10 - 
+11 - 12 - 13 mm (x1)
+1145312
+Burghie cilindrice scurte pentru metal,
+conform DIN 338, tip N, HSS,  
+"Steam TiN", acoperire TiN
+• aplicatii: otel inoxidabil, fonta, oteluri cu rezistenta la rupere 
+< 950 N/mm²
+• gaurirea rapida fara efort in serii mari
+• durata mai lunga de viata datorita stratului de acoperire TiN
+• precizia gaurii obtinute datorita varfului de ascutire de 135°
+• coada cu 3 aplatizari pentru o prindere antialunecare perfecta
+• patent TIVOLY
+11453120100
+11453120150
+11453120200
+11453120250
+11453120300
+11453120320
+11453120350
+11453120400
+11453120420
+11453120450
+11453120500
+11453120520
+11453120550
+11453120600
+11453120650
+11453120700
+11453120800
+11453120850
+11453120900
+11453121000
+11453121100
+11453121200
+11453121300
+Ø
+1
+1.5
+2
+2.5
+3
+3.2
+3.5
+4
+4.2
+4.5
+5
+5.2
+5.5
+6
+6.5
+7
+8
+8.5
+9
+10
+11
+12
+13
+d2           L            l1 
+1
+1.5
+2
+2.5
+3
+3.2
+3.5
+4
+4.2
+4.5
+5
+5.2
+5.5
+6
+6.5
+7
+8
+8.5
+9
+10
+11
+12
+13
+34
+40
+49
+57
+61
+65
+70
+75
+75
+80
+86
+86
+93
+93
+101
+109
+117
+117
+125
+133
+142
+151
+151
+12
+18
+24
+30
+33
+36
+39
+43
+43
+47
+52
+52
+57
+57
+63
+69
+75
+75
+81
+87
+94
+101
+101
+14.59
+14.92
+10.66
+12.30
+12.46
+13.11
+13.28
+14.43
+15.41
+15.57
+16.56
+22.13
+19.51
+20.16
+25.08
+27.87
+35.08
+37.87
+42.79
+48.52
+66.89
+76.72
+85.08
+11201410119
+19 piese
+1,0-10,0 mm x 0,5 mm / 19 piese
+170.66
+11453170001
+Set burghie DIN 338, titanizate, HSS 
+1-10 mm x 1,0 mm / 10 piese
+• material: HSS, acoperire TiN
+• in conformitate cu DIN 338 
+11452070015   1,0-10,0 mm x 0,5 mm / 19 piese     276.79
+MG10
+MT13
+Trusa burghie DIN 338, HSS-TiN, 
+rectificate, 1,0-13,0 mm x 0,5 mm
+25 piese
+11301310025
+25 piese
+1,0-13,0 mm x 0,5 mm / 25 piese
+360.98
+11453170001   1,0-10,0 mm x 1,0 mm / 10 piese     237.54

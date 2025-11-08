@@ -1,0 +1,105 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:229]
+Utilizarea corecta a multiplicatorului de cuplu
+Multiplicatorul de forta, art. 280, este un instrument de precizie care multiplica de cinci ori forta initiala.
+Pentu a roti o piulita: selectati un cap de cheie de ¾” (articol 280, 1300Nm) sau 1” (articol 280, 2700 Nm). Este 
+recomandabil, dar nu essential, sa se foloseasca un cap de forta. In timpul utilizarii, corpul instrumentului se 
+roteste in directia opusa impulsului aplicat. Este necesar sa se permita bratului multiplicatorului sa se sprijine pe 
+un corp solid in timpul folosirii.
+Se poate utiliza un prelungitor de 9”cu conditia ca momentul de iesire sa nu depaseasca 1000Nm, iar fortele 
+de reactie sa se produca langa capatul barii de reactie.
+Pentru art. 280 (1300Nm) se recomanda folosirea unui antrenor cu patrat de ½” sau un cap cheie tubulara de 
+32 mm; iar pentru art. 280 (2700Nm), un antrenor cu patrat de ¾” sau un cap cheie tubulara de 36 mm. Pentru 
+efectuarea unei strangeri controlate este necesara o cheie dinamometrica. Fixati cuplul de torsiune la o cincime 
+din cel dorit. Nu depasiti impulsul maxim de intrare: 260 Nm (190 lbf. ft) pentru art. 280 (1300Nm) si 540 Nm 
+(400 lbf. ft) pentru art. 280 (2700 Nm).
+NU FOLOSITI MULTIPLICATORUL DE FORTA CU CHEI DE IMPACT SAU DE IMPULS!
+ HT5/25 1" 
+Multiplicator de cuplu
+• contin angrenaje foarte precise.
+• rata de multiplicare 25:1.
+• modele robuste, ceea ce inseamna mentenanta minima si durabilitate.
+• se folosesc in combinatie cu chei dinamometrice, determinarea momentelor acestora din urma 
+facandu-se printr-un simplu calcul matematic - impartirea momentului dorit la factorul de 
+multiplicare – 5 in cazul de fata.
+• compuse din elemente mecanice precise, testate in timp, cu posibilitate redusa de decalibrare.
+• modelul 17221 recomandat si pentru strangerea/desfacerea prezoanelor la camioane si autobuze
+• precizie ±4%.
+280
+Multiplicator de cuplu
+•  5:1 moment de multiplicare, acuratete garantata de +/-4%
+•  livrat cu doua modele de bare de antrenare pentru o maxima polivalenta
+•  constructie robusta necesitand intretinere minima si durata de exploatare lunga
+•  se livreaza intr-o cutie de protectie. Ideala pentru a fi inclusa intr-un kit de lucrari 
+grele.
+Avantaje:
+•  definirea exacta a multiplicarii-nu este nevoie de un tabel de conversie
+•  utilizarea simpla nu necesita cunostinte suplimentare
+Utilizare
+•  constructii
+•  echipament agricol
+•  industria grea
+•  constructia de masini
+•  industria de constructii navale
+•  industria aerospatiala
+•  elemente de agregate industriale
+•  rafinarii
+Important
+•  Folosirea capetelor de impact UNIOR este recomandata
+•  Nu trebuie sa depasim niciodata momentul de torsiune indicat al multiplicatorului
+616804 1300 960 5:1 1/2"(32mm) 3/4" 108 126 210 180 7000  1F 
+616805 2700 2000 5:1 3/4"(36mm)
+1"
+108 128 210 186 7000  1F 
+1
+1
+9937.38
+9937.38
+D A C H
+MP3000
+Multiplicator de cuplu MULTIPOWER
+• multiplicatorul de cuplu STAHLWILLE MULTIPOWER cu angrenaje planetara elimina oboseala din 
+strangerea sau slabirea conexiunilor rigide sau cu auruburi mari. Nu este necesara un levier lung
+• STAHLWILLE MULTIPOWER multiplica puterea umana; transferul cuplului constant este usor pe piulite 
+si suruburi. Chiar si cele mai mari cupluri sunt transferate cu usurinta si precizie pe perioade lungi.
+• in consecinta, materialele din care este realizat si manopera sunt extrem de robuste
+• cutie de transport
+• abaterea indicatiei ± 5%
+D H L
+SW 53030800 800
+590
+SW 53031350 1350 996
+4:1
+4:1
+1/2”
+3/4”
+3/4”
+1:3,5
+3/4”
+1:3,6
+B
+66
+90
+h
+85
+L
+215 2000
+8213.41
+106 265 7000
+11987.22
+ 16028
+3400 2500 27:1 1/2”
+1”
+-
+119 127 355 6400
+30051.77
+SW 53033000 3000 2212 16:1 3/4”
+1.1/2”
+1:12,5
+95
+161 330 7000
+29660.72
+SW 53035000 5000 3687 20:1 3/4”
+1”
+1:17
+120 180 400 10400
+44226.44

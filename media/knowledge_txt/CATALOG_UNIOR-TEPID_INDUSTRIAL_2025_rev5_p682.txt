@@ -1,0 +1,168 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:682]
+HYBC-120
+DBBN-120
+Dispozitiv de taiat bare metalice
+• capacitate de taiere: 
+- latime maxima: 120 mm
+- grosime maxima: 12 mm
+• materiale adecvate: aluminiu, cupru, fier
+• stand vertical ideal pentru bara colectoare de cupru solid si aluminiu 
+• taiere precisa
+• capacitate mare de taiere
+• cilindrul cu actiune simpla poate fi decuplat de capacitatea de taiere
+• cilindrul poate fi, de asemenea, conectat la dispozitivul de indoirea barei de colectare modelul 
+HYBN-120
+• actionata de orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari (10.000 psi).
+Dispozitiv de indoit bare metalice
+• capacitate de indoire: 
+- latime maxima: 120 mm
+- grosime maxima: 12 mm
+- unghi maxim: 90 grade
+• materiale adecvate: aluminiu, cupru, fier
+• suport vertical ideal pentru indoirea barei colectoare din cupru solid si aluminiu
+• 2 opritoare paralele laterale pentru pozitionarea unghiulara exacta a barelor colectoare
+• scala pentru citirea unghiului de indoire
+• cilindrul poate fi, de asemenea, conectat la dispozitivul de indoirea barei de colectare modelul 
+HYBC-120
+• actionata de orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari (10.000 psi).
+MANUAL
+Follow User Guide
+MAINTAIN
+Maintain Regularly
+PROTECTION
+Put On Goggles
+PROTECTION
+Work With Glove
+Cursa efectiva: 130 mm
+MANUAL
+Follow User Guide
+MAINTAIN
+Maintain Regularly
+PROTECTION
+Put On Goggles
+PROTECTION
+Work With Glove
+10274.59
+DBBN-120
+mm
+120x12
+1
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Inaltime
+Greutate
+1
+12650.00
+15500
+120x12 mm
+24.13 tone (214.7 kN)
+124 cc
+700 bar
+360 mm
+15,5 kg
+HYBC-120
+mm
+120x12
+1
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Inaltime
+Greutate
+1
+14800
+120x12 mm
+21,8 tone
+131 cc
+700 bar
+410 mm
+14,8 kg
+HYBN-120
+Dispozitiv de indoit bare metalice
+• capacitate de indoire: 
+- latime maxima: 120 mm
+- grosime maxima: 12 mm
+- unghi maxim: 90 grade
+• materiale adecvate: aluminiu, cupru, fier
+• suport vertical ideal pentru indoirea barei colectoare din cupru solid si aluminiu
+• 2 opritoare paralele laterale pentru pozitionarea unghiulara exacta a barelor colectoare
+• scala pentru citirea unghiului de indoire
+• cilindrul poate fi, de asemenea, conectat la dispozitivul de indoirea barei de colectare modelul 
+HYBC-120
+• actionata de orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari (10.000 psi).
+HYBN-160
+Dispozitiv de indoit bare metalice
+• capacitate de indoire: 
+- latime maxima: 160 mm
+- grosime maxima: 12 mm
+- unghi maxim: 90 grade
+• materiale adecvate: aluminiu, cupru, fier
+• suport vertical ideal pentru indoirea barei colectoare din cupru solid si aluminiu
+• 2 opritoare paralele laterale pentru pozitionarea unghiulara exacta a barelor colectoare
+• scala pentru citirea unghiului de indoire
+• cilindrul poate fi, de asemenea, conectat la dispozitivul de indoirea barei de colectare modelul 
+HYBC-120
+• actionata de orice pompa hidraulica cu o presiune nominala a uleiului de 700 bari (10.000 psi).
+Cursa efectiva: 130 mm
+MANUAL
+Follow User Guide
+MAINTAIN
+Maintain Regularly
+PROTECTION
+Put On Goggles
+PROTECTION
+Work With Glove
+Cursa efectiva: 160 mm
+MANUAL
+Follow User Guide
+MAINTAIN
+Maintain Regularly
+PROTECTION
+Put On Goggles
+PROTECTION
+Work With Glove
+HYBN-120
+mm
+120x12
+1
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Inaltime
+Greutate
+1
+12197.54
+15200
+120x12 mm
+24.13 tone (214.7 kN)
+124 cc
+700 bar
+360 mm
+15,2 kg
+HYBN-160
+mm
+160x12
+1
+1G
+Capacitate maxima
+Forta exercitata
+Necesar ulei
+Presiune maxima
+Inaltime
+Greutate
+1
+13234.43
+18200
+120x12 mm
+24.13 tone (214.7 kN)
+130 cc
+700 bar
+360 mm
+18,2 kg

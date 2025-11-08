@@ -1,0 +1,132 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:934]
+603CS6ATVD
+Set de surubelnite izolate si 
+tester de tensiune
+•  lama: otel crom vanadium molibden tratata integral 
+•  capat brunat
+•  maner: forma ergonomica
+•  monomaterial
+•  gaura de agatare
+•  in concordanta cu standardul ISO 8764-1,2 si 60900
+629CS6VDETBI
+Set de surubelnite izolate
+cu cap tubular
+•  lama: otel crom vanadium molibden tratata integral 
+•  capat brunat
+•  maner: forma ergonomica
+•  trimaterial
+•  gaura de agatare
+•  in concordanta cu standardul 60900
+630VDE140ST
+Stand testere de tensiune
+220-250 V
+617656
+6
+390
+ 1G 
+1
+143.61
+617050
+5.5 - 13 / 6
+865
+ 1G 
+1
+713.11
+ 629VDETBI  (5.5, 6, 7, 8, 10, 13)
+905VDEBI
+Trusa scule izolate la 1000 V
+in mapa textila
+ 603VDE  (0.5x 3.0 x 100, 0.8 x 4.0 x 100, 
+1.0 x 5.5 x 125), 
+PH2 x 100), 
+ 613VDE  (PH1 x 80, 
+ 630VDE  (0.5 x 3.0 x 140)
+FR251174
+Trusa scule izolate la 1000 V
+ELAN-17
+• 1 cleste combinat, 180 mm, nr. 106
+• 1 cleste cu tais lateral, 160 mm, nr. 206
+• 1 cleste de telefonie, 160 mm, nr. 606
+• 1 cleste de dezizolare, 160 mm, nr. 806
+• 1 cleste de sertizare, 0,5-2,5 mm2, nr. 655
+• 1 taietor de cablu, 160 mm, nr. 486
+• 3 surubelnite, 100/4 - 125 / 5,5 - 150 / 6,5 mm, nr. 207
+• 1 surubelnite PH 2, nr. 210
+• 1 tester de tensiune, 65/3 mm, nr. 220
+• 1 dalta de piatra, 250 x 23/13 mm
+• 1 dalta, 250 x 10 mm
+• 1 ciocan, 500 g
+• 1 spaclu, 50 mm
+• 1 castron cauciuc
+• 1 cheie universala
+623907
+18
+700
+ 1G 
+1
+313.28
+ 630VDE 18 x (0.5 x 3.0 x 140)
+964VDE1
+Set de chei fixe simple izolate
+la 1000 V in modul SOS
+• material suport: spuma de polietilena de 
+joasa densitate
+617571
+13
+1958
+ 1T 
+1
+1352.46
+ 406/1VDEBI  (180), 
+ 461/1VDEBI 
+(160), 
+ 478/1VDEBI  (160), 
+ 472/1VDEBI  (160), 
+ 385VDE  (180), 
+ 753VDEDP  (150), 
+ 603VDETBI 
+(0.4 x 2.5 x 75, 0.8 x 4.0 x 100, 1.0 x 5.5 x 125), 
+ 613VDETBI  (PH1 x 80, PH2 x 100), 
+ 710P (3), 
+ 630VDE  (0.5 x 3.0 x 140)
+906VDEBI
+Trusa scule izolate la 1000 V
+in mapa textila
+621782 6 - 24 / 15
+2500
+ 1F 
+1
+1356.89
+ 110/2VDEDP  (6, 7, 8, 10, 12, 13, 14, 15, 17, 
+19, 20, 21, 22, 23, 24), VL964VDE1  (374 x 364 x 30)
+VL964VDE1
+Modul SOS pentru 964VDE1
+• material suport: spuma de polietilena de joasa densitate
+B
+L
+621781 374
+364
+H
+30
+112
+ 1V 
+1
+111.37
+Dimensiune
+FR251174
+330x190x280
+17
+3047.87
+617573
+6
+911
+ 1T 
+1
+511.31
+ 461/1VDEBI  (160), 
+ 406/1VDEBI 
+(180), 
+0.8 x 4.0 x 100), 
+ 603VDETBI  (0.4 x 2.5 x 75,        
+ 613VDETBI  (PH2 x 100), 
+ 630VDE  (0.5 x 3.0 x 140)

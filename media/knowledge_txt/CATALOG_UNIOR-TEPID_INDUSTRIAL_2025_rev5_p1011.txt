@@ -1,0 +1,119 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1011]
+Subler 150 mm antiex, CuBe
+• material: CuBe
+Perie de sarma 3 randuri
+• material: alama
+Perie de sarma cu maner
+• material: MZW
+NOU
+054
+mm
+150
+citire
+0,02
+A
+40
+L
+235
+350
+8724.90
+72739
+mm
+350
+L
+350
+150
+549.61
+73730
+096
+Perie de sarma rotativa
+• material: MZW
+Perie de sarma cu maner
+• material: alama
+NOU
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+054 3500
+541
+mm
+350
+L
+350
+200
+747.54
+Perie de sarma
+• material: MZW
+randuri
+6
+4
+L
+215
+290
+73419
+72526
+60
+170
+372.46
+413.86
+METALMINOTTI
+COOPER AND UNCONVENTIONAL COOPER ALLOYS
+096 0150
+D Ø
+150
+d Ø
+22,2
+650
+1836.07
+Perie de sarma 4 randuri
+• material: alama
+Perie de sarma rotativa
+• material: alama
+541 1800
+mm
+67
+L
+180
+Perie de sarma 
+• material: alama
+300
+550.82
+NOU
+randuri
+61581
+4
+L
+280
+120
+85.81
+Perie de sarma antistatica
+• material: alama
+D Ø
+150
+200
+d Ø
+22
+32
+71634
+73426
+700
+1000
+2356.16
+3949.05
+randuri
+71632
+5
+L
+180
+200
+858.54
+L
+79226
+320
+L1
+100
+Ø1
+82
+Ø2
+6,6
+55
+1415.25

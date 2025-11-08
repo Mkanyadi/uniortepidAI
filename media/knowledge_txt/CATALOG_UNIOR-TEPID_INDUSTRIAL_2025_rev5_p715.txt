@@ -1,0 +1,112 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:715]
+2208.1B/2
+Surub extractor pentru 2208
+2210.1/4
+Surub pentru 2210/2
+•  material:otel special de scule
+•  acoperire:brunare
+M
+623961 Tr 10 x 1,5
+L
+60
+S
+15
+45
+ 1V 
+1
+21.17
+M
+623964 Tr 14 x 1,5
+L
+82,5
+S
+17
+140
+ 1V 
+1
+69.37
+2208.2A/2
+Brat extractor scurt pentru 2208
+2210.2/2
+Brat pentru 2210/2
+623962
+130
+ 1V 
+1
+129.10
+2208.2B/2
+Brat extractor lung pentru 2208
+623966
+50
+ 1V 
+1
+63.52
+2210/2A
+Extractor universal pentru roata distributie
+•  material:otel carbon
+•  capul cheii este tratat in intregime
+•  acoperire: cromare in conformitate cu EN 12540, surubul brunat
+•  pentru inlocuirea tuturor tipurilor de roti ( cu 2,3,4,5,6,7,8,9 canale)
+•  Scula este destinata inlocuirii volantelor cu suprafata canelata.Se executa 
+demontarea fara niciun pericol de deteriorare a volantului.Scula este reglabila pe 
+diverse diametre, ca si bratele reglabile
+623963
+175
+ 1V 
+1
+135.12
+2210/2
+Extractor volante
+•  material:otel carbon
+•  capul cheii este tratat in intregime
+•  acoperire: cromare in conformitate cu EN 12540, surubul brunat
+•  pentru inlocuirea rotilor cu 3,6,9 canale
+•  Scula este destinata inlocuirii volantelor cu suprafata canelata.Se executa 
+demontarea fara niciun pericol de deteriorare a volantului.Scula este reglabila 
+pe diverse diametre, ca si bratele reglabile
+B
+100
+D
+48 - 82
+H
+135
+621780
+750
+ 1G 
+1
+542.62
+2210.2/2A
+Brat pentru 2210/2A
+B
+H
+D
+623967
+50
+ 1V 
+1
+66.61
+2210.1/4A
+Surub pentru 2210/2A
+•  material:otel special de scule
+•  acoperire:brunare
+B
+100
+D
+48 - 82
+H
+135
+620226
+1085
+ 1G 
+1
+426.07
+M
+623965 Tr 14 x 1,5
+L
+82,5
+S
+17
+140
+ 1V 
+1
+74.36

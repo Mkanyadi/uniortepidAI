@@ -1,0 +1,170 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:607]
+FL 18V L20
+NOU
+12.589
+12.916
+NOU
+Lampa cu acumulator Li-ion 3,7 V
+AVANTAJELE PRODUSULUI
+• lanterna cu baterie de 3,7V si capacitate luminoasa echivalenta 
+cu un LED de 21W.
+• diverse moduri de iluminare cu diferite niveluri de putere pentru a 
+se adapta la situatii si nevoi specifice.
+• diferite manere care permit utilizarea lanternei in diverse moduri:
+• maner pentru utilizare manuala
+• trepied pentru asezarea pe suprafete plane.
+• carlig pentru agqtat-o pe rafturi.
+• baterie STAYER Li-ion HIGH-TECH, L20 cu protectie impotriva 
+supraincarcarii, descarcarea bateriei, supraincalzire si scurtcircuit.
+• intre 3 si 6 ore de lumina neintrerupta, in functie de modul de 
+iluminare ales.
+• design usor si compact.
+Acumulator seria L20 18 V, 5.0 Ah
+AVATAJELE PRODUSULUI
+• acumulatori cu litiu pentru SERIA STAYER L20
+• protejat impotriva: supraincarcare, descarcare, supraincalzire si 
+comenzi rapide
+• indicator luminos al nivelului bateriei
+• 2 randuri conectate în paralel continand fiecare cate 5 celule de l
+itiu conectate in linie (pentru un total de 10 celule).
+• Litiu 1865 INR 25 R
+• tensiune = 5 celule x 3,6 V/celula = 18 V
+• amperi = 2,5 Ah/rand x 2 randuri = 5,0 Ah
+Incarcator seria L20 18 V, 2.0 - 6.0 Ah
+AVATAJELE PRODUSULUI
+• incarcator compatibil cu toata gama STAYER L20.
+• ventilator integrat.
+• reglare amperaj
+X
+X
+FL 18V L20
+FL 18V L2012
+FL 18V L2022
+FL 18V L2014
+FL 18V L2024
+1.3106
+1.3308
+1.3309
+1.3310
+1.3311
+X
+1 x 2.0Ah
+2 x 2.0Ah
+1 x 4.0Ah
+2 x 4.0Ah
+442.62
+770.49
+1049.18
+1000.00
+1442.62
+Tensiune acumulator Li-ion
+Capacitate acumulator
+Putere LED
+Intensitate luminoasa
+Durata acumulator
+Modele iluminare
+Greutate
+3,7 V
+4,4 Ah
+21 W
+2500 lm
+3-6 h
+3
+0,9 kg
+12.575
+Acumulator seria L20 18 V, 2.0 Ah
+AVATAJELE PRODUSULUI
+• acumulatori cu litiu pentru SERIA STAYER L20
+• protejat impotriva: supraincarcare, descarcare, supraincalzire si 
+comenzi rapide
+• indicator luminos al nivelului bateriei
+• 1 rand cu 5 celule de litiu conectate in linie.
+• tensiune = 5 celule x 3,6 V/celula = 18 V
+• amperi = 2,0 Ah
+12.575
+12.577
+2.0Ah
+278.69
+Acumulator seria L20 18 V, 4.0 Ah
+AVATAJELE PRODUSULUI
+• acumulatori cu litiu pentru SERIA STAYER L20
+• protejat impotriva: supraincarcare, descarcare, supraincalzire si 
+comenzi rapide
+• indicator luminos al nivelului bateriei
+• 2 randuri conectate in paralel continand fiecare cate 5 celule de 
+litiu conectate în linie (pentru un total de 10 celule).
+• tensiune = 5 celule x 3,6 V/celula = 18 V
+• amperi = 2,0 Ah/rand x 2 randuri = 4,0 Ah
+12.589
+12.858
+5.0Ah
+770.49
+NOU
+Acumulator seria L20 18 V, 6.0 Ah
+AVATAJELE PRODUSULUI
+• acumulatori cu litiu pentru SERIA STAYER L20
+• protejat impotriva: supraincarcare, descarcare, supraincalzire si 
+comenzi rapide
+• indicator luminos al nivelului bateriei
+• 3 randuri conectate in paralel continand fiecare cate 5 celule de 
+litiu conectate in linie (pentru un total de 15 celule).
+• Litiu 1865 INR 25 R
+• tensiune = 5 celule x 3,6 V/celula = 18 V
+• amperi = 2 Ah/rand x 3 randuri = 6,0 Ah
+12.858
+L20
+6.0Ah
+901.64
+Incarcator seria L20 18 V, 2.0 / 4.0-5.0 Ah
+AVATAJELE PRODUSULUI
+• incarcator pentru acumulatori compatibil cu SERIA STAYER L20.
+• incarcator inteligent cu 2 lumini pentru a afisa stadiul de incarcare 
+al acumulatorului
+• protectie impotriva supraincarcarii si supraincalzirii, crescand durata 
+de viata a acumulatorului
+12.576
+12.578
+2.0Ah
+4.0-5.0Ah
+131.15
+196.72
+12.916
+12.859
+2.0 - 6.0 Ah
+262.30
+NOU
+Incarcator seria L20 18 V, 2.0 - 8.0 Ah
+AVATAJELE PRODUSULUI
+• incarcator pentru acumulatori compatibil cu SERIA STAYER L20.
+• potrivit pentru acumulatori de la 2,0 la 8,0 A
+• incarcaorulul isi adapteaza curentul la amperajul bateriei conectate.
+• afisaj digital pentru controlul maxim al nivelului bateriei.
+• protectie impotriva supraincarcarii si supraincalzirii, crescand durata 
+de viata a bateriei
+12.859
+12.933
+2.0 - 8.0 Ah
+672.13
+NOU
+Acumulator pentru IWB 1600 18 V, 7,5 Ah
+AVATAJELE PRODUSULUI
+• acumulatori cu litiu pentru IWB 1600 
+• NU ESTE COMPATIBIL CU SERIA STAYER L20
+• protejat impotriva: supraincarcare, descarcare, supraincalzire si 
+comenzi rapide
+12.933
+12.932
+7.5Ah
+901.64
+NOU
+Incarcarcator pentru IWB 1600 18 V, 
+7,5 Ah
+AVATAJELE PRODUSULUI
+• oncarcator pentru IWB 1600
+• NU ESTE COMPATIBIL CU SERIA STAYER L20
+12.577
+4.0Ah
+442.62
+12.932
+7.5Ah
+196.72

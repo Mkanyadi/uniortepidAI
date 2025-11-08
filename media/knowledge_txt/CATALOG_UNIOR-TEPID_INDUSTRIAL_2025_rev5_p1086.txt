@@ -1,0 +1,129 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1086]
+ECO STRONGO 01
+NOU
+ECO STRONGO 03
+NOU
+ECO META 04
+NOU
+Cutie din plastic 210x395x177 mm
+cu catarame metalice
+• corpul si capacul cutiei; cu ajutorul aditivilor combinati
+la materia prima reciclata; corpul si capacul sunt mai durabile
+• in timp ce manerul este in pozitie verticala; manerul blocheaza 
+corpul pe capac si evita deschiderea chiar daca incuietorile
+principale sunt deschise
+• exista un capac transparent pe tava care ofera un avantaj de 
+a folosi tava ca organizator separat
+• noul sistem de blocare; prindere suplimentara cu blocare mai 
+puternica si slot de blocare
+• corp: PP homopolimer (negru)
+• capac: PP homopolimer (negru)
+• maner: PP homopolimer (galben)
+• sertar: PP homopolimer (negru)
+• capac sertar: PP (transparent)
+• sistem blocare: metal
+Cutie din plastic 276x535x267 mm
+cu catarame metalice
+• corpul si capacul cutiei; cu ajutorul aditivilor combinati
+la materia prima reciclata; corpul si capacul sunt mai durabile
+• in timp ce manerul este in pozitie verticala; manerul blocheaza 
+corpul pe capac si evita deschiderea chiar daca incuietorile
+principale sunt deschise
+• exista un capac transparent pe tava care ofera un avantaj de 
+a folosi tava ca organizator separat
+• noul sistem de blocare; prindere suplimentara cu blocare mai 
+puternica si slot de blocare
+• corp: PP homopolimer (negru)
+• capac: PP homopolimer (negru)
+• maner: PP homopolimer (galben)
+• sertar: PP homopolimer (negru)
+• capac sertar: PP (transparent)
+• sistem blocare: metal
+Cutie din plastic 295x555x265 mm
+cu catarame metalice
+• corpul si capacul cutiei; cu ajutorul aditivilor combinati
+la materia prima reciclata; corpul si capacul sunt mai durabile
+• noul sistem de blocare; prindere suplimentara cu blocare mai 
+puternica si slot de blocare
+• corp: PP homopolimer (negru)
+• capac: PP homopolimer (transparent)
+• maner: PP homopolimer (galben)
+• sertar: PP homopolimer (negru)
+• sistem blocare: metal
+SE. 01
+Lmm
+210
+Lmm
+hmm
+395
+177
+-
+64.48
+ECO STRONGO 02
+NOU
+SE. 03
+Lmm
+276
+Lmm
+535
+hmm
+267
+Cutie din plastic 233x458x247 mm
+cu catarame metalice
+• corpul si capacul cutiei; cu ajutorul aditivilor combinati
+la materia prima reciclata; corpul si capacul sunt mai durabile
+• in timp ce manerul este in pozitie verticala; manerul blocheaza 
+corpul pe capac si evita deschiderea chiar daca incuietorile
+principale sunt deschise
+• exista un capac transparent pe tava care ofera un avantaj de 
+a folosi tava ca organizator separat
+• noul sistem de blocare; prindere suplimentara cu blocare mai 
+puternica si slot de blocare
+• corp: PP homopolimer (negru)
+• capac: PP homopolimer (negru)
+• maner: PP homopolimer (galben)
+• sertar: PP homopolimer (negru)
+• capac sertar: PP (transparent)
+• sistem blocare: metal
+-
+148.93
+NOU
+ECO META 03
+Cutie din plastic 276x535x267 mm
+cu catarame metalice
+• corpul si capacul cutiei; cu ajutorul aditivilor combinati
+la materia prima reciclata; corpul si capacul sunt mai durabile
+• noul sistem de blocare; prindere suplimentara cu blocare mai 
+puternica si slot de blocare
+• corp: PP homopolimer (negru)
+• capac: PP homopolimer (transparent)
+• maner: PP homopolimer (galben)
+• sertar: PP homopolimer (negru)
+• sistem blocare: metal
+SE. 02
+Lmm
+233
+Lmm
+hmm
+458
+247
+-
+98.41
+ME. 03
+Lmm
+276
+Lmm
+535
+hmm
+267
+-
+89.55
+ME. 04
+Lmm
+295
+Lmm
+555
+hmm
+265
+-
+131.02

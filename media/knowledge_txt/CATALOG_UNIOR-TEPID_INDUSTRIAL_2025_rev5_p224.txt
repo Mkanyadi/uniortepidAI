@@ -1,0 +1,150 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:224]
+730DR
+TWW (EZ)
+Cheie dinamometrica cu afisaj electronic si cu 
+capete interschimbabile EZ acuratete ±1%
+• abaterea maxima admisibila ± 1% din citirea masurarii efective
+• comunicare standard prin USB sau prin Bluetooth
+• comunicare prin serial si Zigbee disponibile la cerere
+• durata de viata a bateriei: pana la 180 de ore.
+• limbi: engleza, germana, franceza, spaniola, italiana, rusa, poloneza, portugheza, chineza
+• unitati: Nm, ozf.in, lbf.in, lbf.ft, kgf.cm, kgf.m
+• unghi de vizualizare de 170 grade
+• clichet reversibil
+• LED si ecran cu vizibilitate mare
+• Semnale de avertizare
+• Membrana tactila
+• Comutator cu semnale de avertizare verde/rosu
+• Manere ergonomice pentru confort
+• 4 baterii AA
+Mod de urmarire
+Mod de presetare 
+Memorie
+afiseaza cuplul 
+aplicat in timp real
+ecranul isi schimba culoarea la 
+atingerea cuplului presetat
+memoreaza si afiseaza 
+mai mult de 2000 de 
+rezultate sau incarcari pe 
+PC sau SPC
+TW800W
+3/4”
+80 - 800
+-
+1360
+6000
+24x32
+1
+13148.36
+L
+Antrenare
+Cheia dinamometrica digitala cu cap de antrenare 
+interschimbabil 1/2” (14x18 mm) MANOSKOP® 
+• semnal de declansare tactil si acustic
+• utilizare cu capete interschimbabile
+• blocare de siguranta QuickRelease
+• setare rapida utilizand tastatura convenabila
+• compensare automata pentru a obtine un cuplu de strangere corect chiar daca este 
+introdusa o extensie modificata
+• protectie la suprasarcina prin intermediul semnalelor acustice si vizuale
+• blocarea automata a tastaturii previne modificarile accidentale
+• afisajul functioneaza si pentru cuplul in sens invers acelor de ceasornic
+• unitati de masura: N · m, ft · lb, in   · lb
+• pot fi stabilite limite diferite de toleranta pentru fiecare articulatie
+• semnalele vizuale rosii di verzi de pe afisaj confirma starea articulatiei
+• securitate suplimentara pentru presetari (modul functional, declansator sau valoare presetata, 
+unitate de masura, toleranta, salvare, extensie deviata) utilizand codul PIN
+• pot fi stocate pana la 7.500 de masuratori
+• interfata USB
+• notificare automata a urmatoarei date de calibrare
+• calibrare utilizand unitatea de calibrare perfectControl® nr. 7794 sau sistemul de calibrare 
+nr. 7791
+• maner bicomponent cu straturi mai moi de culoare verde proiectate ergonomic (rezistente 
+la uleiuri, grasimi, combustibili, lichide de frana si skydrol)
+• certificat in conformitate cu DIN EN ISO 6789-2: 2017
+• in cutie de plastic robusta (dimensiuni 40-100 in cutie de otel)
+• brevet
+• livrat cu doua baterii de 1,5 V AA. Se pot utiliza si baterii reincarcabile AA / LR6, 1,2 V
+• fiseaza valoarea deviatiei ± 2%, ± 1 digit
+SW 96501810
+1/2” 10 - 100
+7,4 - 75
+SW 96501820
+1/2” 20 - 200
+15 - 150
+SW 96501840
+3/4” 40 - 400
+30 - 300
+SW 96501865
+3/4” 65 - 650
+48 - 480
+L
+501
+595
+738
+975
+SW 96501880
+3/4” 80 - 800
+60 - 600
+1255
+SW 96501800
+3/4” 100 - 1000 900-9000
+1439
+Antrenare
+9x12
+14x18
+14x18
+14x18
+24x32
+24x32
+1232
+1663
+2232
+3767
+6492
+6910
+1
+1
+1
+1
+1
+1
+NOU
+5652.04
+6036.26
+NOU
+8384.22
+NOU
+10279.72
+NOU
+18390.72
+NOU
+21686.36
+TWP (Pro)
+Cheie dinamometrica cu afisaj electronic si cu 
+capete interschimbabile Pro acuratete ±1%
+• abaterea maxima admisibila ± 1% din citirea masurarii efective
+• comunicare standard prin USB sau prin Bluetooth
+• comunicare prin serial si Zigbee disponibile la cerere
+• durata de viata a bateriei: pana la 180 de ore.
+• limbi: engleza, germana, franceza, spaniola, italiana, rusa, poloneza, portugheza, chineza
+• unitati: Nm, ozf.in, lbf.in, lbf.ft, kgf.cm, kgf.m
+• unghi de vizualizare de 170 grade
+• clichet reversibil
+• LED si ecran cu vizibilitate mare
+• Semnale de avertizare
+• Membrana tactila
+• Comutator cu semnale de avertizare verde/rosu
+• Manere ergonomice pentru confort
+• 4 baterii AA
+TW2000P
+1” 200 - 2000
+-
+1600
+8000
+27x36
+1
+21920.33
+L
+Antrenare

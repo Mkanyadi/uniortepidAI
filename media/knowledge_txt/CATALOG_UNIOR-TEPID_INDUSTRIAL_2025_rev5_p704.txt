@@ -1,0 +1,152 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:704]
+F113 - 2,5
+Presa universala cu 3 brate si cu cilindru hidraulic
+• surub (filet x lungime): M10 x 90 mm
+12 t / 120 KN
+136
+Presa cu 3 brate
+• cu surub de fixare a bratelor
+• pentru spatii extrem de inguste
+• surub (filet x lungime): G 1/2”x 14 x 270 mm
+a
+b
+c
+d
+Diametru       Lungime           Nm         tone      SW     a      b      c       d          
+F113-2,5 50 - 200
+145
+60
+-
+13
+4 16
+35
+25
+3016.73
+100-M
+Presa universala cu 3 brate
+• extractor universal cu 3 brate culisante care raman paralele tot timpul, construit 
+pentru conditii grele de lucru, cu diferite lungimi de brate 
+• surub (filet x lungime): M10 x 90 mm
+a
+b
+c
+d
+100 - M1
+100 - M2
+Diametru       Lungime           Nm         tone      SW     a      b      c       d          
+100 - 380
+120 - 520
+200
+200
+400
+400
+25
+25
+36
+36
+15
+15
+54
+54
+35
+35
+5
+5
+5364.35
+6353.19
+113 KRALLEX
+Extractor KRALLEX cu 3 brate
+• 3 brate de lungime standard, culisante pentru pastrarea paralelismului, bratele sunt 
+plate si au ciocurile de agatare subtiri
+• setul de brate se poate comanda pe diferite lungimi
+• surub (filet x lungime): G1/2"x14x210
+a
+b
+c
+d
+113 - 24
+Diametru       Lungime           Nm         tone      SW     a      b      c       d          
+60 - 200
+150
+7.5
+40
+5
+150
+6.5
+22
+15
+1816.48
+a
+b
+c
+d
+Diametru       Lungime           Nm         tone      SW     a      b      c       d          
+50 - 400
+50 - 500
+50 - 500
+400
+500
+650
+220
+220
+220
+25
+25
+25
+22
+22
+22
+12
+12
+12
+30
+30
+30
+48
+48
+48
+5
+5
+5
+1685.70
+1980.12
+2284.64
+136-5
+136-7
+136-10
+314
+Extractor tip foarfeca cu autocentrare
+• surub (filet x lungime): M10 x 105 mm
+a
+b
+c
+d
+Diametru       Lungime           Nm         tone      SW     a      b      c       d          
+6 - 100
+2.5 4.5 8.5
+70/80
+1.5
+12
+25
+23
+717.53
+314-1
+105
+Piston hidraulic pentru prese mecanice
+• presa va fi montata impreuna cu pistonul hidraulic intr-o pozitie sigura
+• se roteste surubul de actionare al pistonului
+• NU SE FOLOSESC SCULE DE IMPACT
+• daca cursa pistonului nu este suficienta, se slabeste si se mai coboara surubul presei
+   Cursa         Cuplu maxim                    Surub presiune          SW
+17
+17
+M14x1,5x60
+M14x1,5x85
+60 Nm
+70 Nm
+8
+12
+105-0
+105-1
+1058.21
+1241.64

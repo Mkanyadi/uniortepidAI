@@ -1,0 +1,707 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:441]
+4151
+9602011
+9603011
+Tarozi lungi de masina DIN 376, 
+HSS-G, pentru gauri strapunse si 
+infundate
+• tarozi lungi de masina DIN 376, HSS-G, pentru gauri 
+strapunse si infundate
+• material: HSS, tratament termic 
+• profil filet rectificat detalonat 
+• parametri filet conform DIN ISO 13
+• toleranta 6H, conform ISO 2
+• unghiul flancurilor filetului 60°
+• forma C, canale elicoidale RSP / 35º,  taiere pe dreapta
+• conul de atac :  2-3 spire
+• destinate pentru filetare in oteluri ne aliate si aliate, cu 
+σr ≤ 800 N / mm² 
+Tarozi lungi de masina, pas normal /
+fin,  DIN 371, HSS-E ( Co 5% ), pentru
+gauri strapunse
+• tarozi lungi de masina, pas normal / fin,  DIN 371, 
+• material: HSS-E ( Co 5% ), tratament termic 
+• profil filet rectificat detalonat 
+• parametri filet conform DIN ISO 13
+• toleranta 6H, conform ISO 2
+• unghiul flancurilor filetului 60°
+• forma C,  taiere pe dreapta
+• pentru gauri strapunse
+• destinate pentru filetare in oteluri ne aliate si aliate pentru
+tratament termic, cu σr ≤ 700 N / mm²
+Tarozi lungi de masina, pas normal /
+fin,  DIN 374/376, HSS-E ( Co 5% ),
+Forma C
+• tarozi lungi de masina, pas normal / fin,  DIN 374/376, 
+• material: HSS-E ( Co 5% ),  tratament termic 
+• profil filet rectificat detalonat 
+• parametri filet conform DIN ISO 13
+• toleranta 6H, conform ISO 2
+• unghiul flancurilor filetului 60°
+• forma C,  taiere pe dreapta
+• pentru gauri strapunse
+• destinate pentru filetare in oteluri ne aliate si aliate pentru 
+tratament termic, cu σr ≤ 700 N / mm²
+2
+d
+L
+Ø
+l1
+P
+2
+d
+L
+Ø
+l1
+P
+M
+DIN
+371/376
+HSS
+G
+FORM
+C
+ISO2
+6H
+RSP
+35°
+60°
+41510301200
+41510301400
+41510301600
+41510301800
+41510302000
+41510302200
+41510302400
+            M filet  Pas (mm)     Gaura (mm)
+1,75
+2,00
+2,00
+2,50
+2,50
+2,50
+3,00
+10,20
+12,00
+14,00
+15,50
+17,50
+19,50
+21,00
+M 12
+M 14
+M 16
+M 18
+M 20
+M 22
+M 24
+800
+N/mm²
+89.51
+106.72
+124.75
+170.49
+180.66
+221.64
+266.89
+4142
+Tarozi lungi de masina DIN 371, 
+HSS-E (Co 5%), pentru gauri 
+strapunse
+• tarozi lungi de masina DIN 371, HSS-E (Co 5%), pentru gauri
+strapunse
+• material: HSS-E (Co 5%), tratament termic 
+• profil filet rectificat detalonat 
+• parametri filet conform DIN ISO 13
+• toleranta 6H, conform ISO 2
+• unghiul flancurilor filetului 60°
+• forma B,  taiere pe dreapta
+• conul de atac :  4-5 spire
+• destinate pentru filetare in oteluri ne aliate si aliate, cu 
+σr ≤ 900 N / mm²
+FORM
+B
+M
+DIN
+371/376
+HSS-E
+Co5
+ISO2
+6H
+900
+N/mm²
+60°
+Ø        P         L        l      d2
+960201100200040
+960201100250045
+960201100260045
+960201100300050
+960201100350060
+960201100400070
+960201100500080
+960201100600100
+960201100800125
+960201101000150
+960201100400050
+960201100500050
+960201100700075
+960201100800075
+960201100800100
+960201101000100
+960201101000125
+M2
+M2,5
+M2,6
+M3
+M3,5
+M4
+M5
+M6
+M8
+M10
+MF4
+MF5
+MF7
+MF8
+MF8
+MF10
+MF10
+0,4
+0,45
+0,45
+0,5
+0,6
+0,7
+0,8
+1,0
+1,25
+1,5
+0,5
+0,5
+0,75
+0,75
+1,0
+1,25
+1,25
+45
+50
+50
+56
+56
+63
+70
+80
+90
+100
+63
+70
+80
+90
+90
+100
+100
+8
+9
+9
+10
+11
+12
+14
+16
+18
+20
+10
+11
+16
+18
+18
+20
+20
+2,8
+2,8
+2,8
+3,5
+4
+4,5
+6
+6
+8
+10
+4,5
+6
+7
+8
+8
+10
+10
+98.11
+99.72
+99.72
+74.76
+89.74
+75.91
+75.91
+86.41
+96.97
+110.85
+142.12
+143.61
+150.73
+140.52
+116.99
+127.20
+148.55
+4152
+Tarozi lungi de masina DIN 371,
+HSS-E (Co 5%), pentru gauri 
+infundate si strapunse
+• tarozi lungi de masina DIN 371, HSS-E (Co 5%), gauri 
+infundate si strapunse
+• material: HSS-E (Co 5%), tratament termic 
+• profil filet rectificat detalonat 
+• parametri filet conform DIN ISO 13
+• toleranta 6H, conform ISO 2
+• unghiul flancurilor filetului 60°
+• forma C, canale elicoidale RSP / 35º,  taiere pe dreapta
+• conul de atac :  2-3 spire
+• destinate pentru filetare in oteluri ne aliate si aliate, cu 
+σr ≤ 900 N / mm² 
+41420300200
+41420300250
+41420300300
+41420300400
+41420300500
+41420300600
+41420300800
+41420301000
+            M filet  Pas (mm)     Gaura (mm)
+0,40
+0,45
+0,50
+0,70
+0,80
+1,00
+1,25
+1,50
+M 2
+M 2,5
+M   3
+M   4
+M   5
+M   6
+M   8
+M 10
+1,60
+2,05
+2,50
+3,30
+4,20
+5,00
+6,80
+8,50
+61.31
+49.51
+48.52
+48.52
+52.62
+52.62
+65.08
+80.66
+M
+DIN
+371/376
+HSS-E
+Co5
+FORM
+C
+ISO2
+6H
+RSP
+35°
+60°
+41520300300
+41520300400
+41520300500
+41520300600
+41520300800
+41520301000
+            M filet  Pas (mm)     Gaura (mm)
+0,50
+0,70
+0,80
+1,00
+1,25
+1,50
+M   3
+M   4
+M   5
+M   6
+M   8
+M 10
+2,50
+3,30
+4,20
+5,00
+6,80
+8,50
+900
+N/mm²
+57.05
+57.05
+59.34
+60.98
+75.41
+92.13
+960301100300050
+960301100400070
+960301100500080
+960301100600100
+960301100800125
+960301101000150
+960301101200175
+960301101400200
+960301101600200
+960301102000250
+960301102400300
+960301103000350
+960301103300350
+960301103600400
+960301103900400
+960301104200450
+960301104500450
+960301104800500
+960301100600075
+960301100800100
+960301101000100
+960301101000125
+960301101200100
+960301101200125
+960301101200150
+960301101300100
+960301101400100
+960301101400150
+960301101500100
+960301101600100
+960301101600125
+960301101600150
+960301101800150
+960301102000100
+960301102000150
+960301102200100
+960301102200150
+960301102400200
+960301102500150
+960301102700200
+960301103000200
+960301103200150
+960301103600150
+960301104000150
+Ø        P     L         l     d2   DIN
+376
+M3
+376
+M4
+376
+M5
+376
+M6
+376
+M8
+376
+M10
+376
+M12
+376
+M14
+376
+M16
+376
+M20
+376
+M24
+376
+M30
+376
+M33
+376
+M36
+376
+M39
+376
+M42
+376
+M45
+376
+M48
+376
+MF6
+374
+MF8
+374/376
+MF10
+374/376
+MF10
+374/376
+MF12
+374/376
+MF12
+374/376
+MF12
+374/376
+MF13
+374/376
+MF14
+374/376
+MF14
+374/376
+MF15
+374/376
+MF16
+374/376
+MF16
+374/376
+MF16
+374/376
+MF18
+374/376
+MF20
+374/376
+MF20
+374/376
+MF22
+374/376
+MF22
+374/376
+MF24
+374/376
+MF25
+374/376
+MF27
+374/376
+MF30
+374/376
+MF32
+374/376
+MF36
+374/376
+MF40
+0,4
+0,7
+0,8
+1,0
+1,25
+1,5
+1,75
+2,0
+2,0
+2,5
+3,0
+3,5
+3,5
+4,0
+4,0
+4,5
+4,5
+5,0
+0,75
+1,0
+1,0
+1,25
+1,0
+1,25
+1,5
+1,0
+1,0
+1,5
+1,0
+1,0
+1,25
+1,5
+1,5
+1,0
+1,0
+1,0
+1,5
+2,0
+1,5
+2,0
+2,0
+1,5
+1,5
+1,5
+45
+63
+70
+80
+90
+100
+110
+10
+110
+140
+160
+180
+180
+200
+200
+200
+220
+250
+80
+90
+90
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+110
+110
+125
+125
+125
+125
+140
+140
+140
+150
+150
+170
+170
+2,2
+2,8
+3,5
+4,5
+6
+7
+9
+11
+12
+16
+18
+22
+25
+28
+32
+32
+36
+36
+4,5
+8
+7
+7
+9
+9
+9
+9
+11
+11
+11
+12
+12
+12
+12
+14
+16
+18
+18
+18
+18
+18
+22
+28
+28
+32
+8
+12
+14
+16
+18
+20
+22
+25
+28
+32
+32
+40
+40
+45
+45
+50
+50
+56
+12
+18
+18
+20
+22
+22
+22
+22
+22
+22
+22
+22
+22
+22
+22
+25
+25
+25
+25
+25
+25
+25
+32
+28
+32
+32
+76.31
+77.80
+77.80
+89.68
+100.75
+114.81
+143.16
+184.70
+221.53
+339.04
+491.43
+785.89
+935.25
+1192.87
+1526.23
+1982.26
+2143.89
+2636.25
+118.02
+121.30
+134.43
+177.52
+177.52
+175.98
+160.66
+313.91
+267.38
+189.63
+352.87
+339.04
+370.14
+237.20
+296.70
+496.43
+335.77
+578.65
+404.62
+634.42
+773.67
+871.21
+944.60
+965.48
+1256.96
+1685.51

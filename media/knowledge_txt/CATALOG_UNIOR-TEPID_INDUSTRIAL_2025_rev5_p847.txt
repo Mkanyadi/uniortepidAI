@@ -1,0 +1,135 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:847]
+18-
+19-
+Freza cilindro-frontala profilata convex 1/2C, 
+cu rulment superior, placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se pot utiliza atat pe CNC, cat si pe masini portabile de frezat
+• pentru adancimi de frezare mari, se recomanda trecerile multiple prin material
+Freza cilindro-frontala cu profil cupa, 
+cu rulment superior, placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se pot utiliza atat pe CNC, cat si pe masini portabile de frezat
+• pentru adancimi de frezare mari, se recomanda trecerile multiple prin material
+A
+H
+h
+R
+A
+19-50606P
+F03FR01616
+H
+h
+D
+R
+D
+R
+D
+D               h              H              A                              C            Z      rpm max.
+D               h              H              A              C              R            Z      rpm max.
+18-51008P
+18-51208P
+15,8
+19
+11
+11,1
+59,5
+59,5
+8
+8
+15,8
+19
+2
+2
+24000
+24000
+192.30
+192.30
+19-50606P
+19
+15,9
+58,7
+6
+19
+6,35
+2
+24000
+218.36
+19-
+Freza cilindro-frontala cu profil cupa, 
+placata CMS, Z2, cu coada
+• material prelucrat: materiale pe baza de lemn, placaj, lemn masiv. 
+• se pot utiliza atat pe CNC, cat si pe masini portabile de frezat
+• pentru adancimi de frezare mari, se recomanda trecerile multiple prin material
+A
+39-
+Freza profilata frontal 
+placata CMS Z-2, cu coada
+• pentru materiale compozite, placaj, lemn de esenta tare si rasinoase
+• utilizare pe masini masini de frezat portabile
+• folositi mai multe treceri atunci cand eliminati cantitati mari de material
+A
+H
+h
+D
+R
+D
+D               h              H              A                              R            Z      rpm max.
+19-10608P
+19
+15,9
+47,5
+8
+6,35
+2
+24000
+191.97
+39-20908P
+F03FR01873
+R
+D
+A
+39-20808P
+F03FR01872
+24,7
+R 6
+39-20908P
+F03FR01873
+31,75
+R 9,53
+H
+h
+H
+h
+R
+D
+39-20808P
+F03FR01872
+D               h              H              A                              R            Z      rpm max.
+39-20908P
+39-20808P
+39-20206P
+24,7
+31,75
+12,7
+12,7
+14,3
+8
+44,7
+46,3
+50
+8
+8
+6
+6
+9,53
+3,2
+2
+2
+2
+24000
+24000
+24000
+191.97
+208.03
+155.90

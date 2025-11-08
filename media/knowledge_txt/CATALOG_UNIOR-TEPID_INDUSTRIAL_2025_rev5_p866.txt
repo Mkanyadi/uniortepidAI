@@ -1,0 +1,39 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:866]
+9999003INT
+Set profil contraprofil pentru usi interior
+• set de freze cu placute amovibile, Z2
+• realizeaza profilul si contraprofilul foii de usa cu grosimea de 45 mm
+posibilitatea de a avea 4 profile diferite, cu aceelasi corp al frezei, schimband doar setul de placute
+• material prelucrat: lemn esente tari, esente moi
+• sens de rotatie: dreapta
+• masini: masina normala de frezat
+• avans manual
+D - diametrul exterior
+B - inaltime
+d - alezaj
+Z - numar de dinti
+45
+45
+45
+45
+45
+45
+1
+5
+1
+6
+1
+7
+1
+9
+2
+0
+9999003INT
+45
+2
+30
+17275.20
+8637.60
+                                                                     B                                                                        Z                                                               d
+NET PROMO
+NET PROMO Pret NET PROMO reprezinta pretul promotional net de facturare valabil pana la lichidarea stocului actual. Dupa reaprovizionare produsul revine la pretul de lista alaturat.

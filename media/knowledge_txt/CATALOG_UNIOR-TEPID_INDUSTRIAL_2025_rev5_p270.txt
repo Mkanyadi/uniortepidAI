@@ -1,0 +1,145 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:270]
+1150
+Dispozitiv digital de trasat
+• rezolutie: 0.01 mm/0.0005"
+• butoane: on/off, zero, mm/inch, ABS/INC, data hold, TOL, set
+• ABS/INC este pentru măsurare absolută și incrementală
+• TOL - toleranta masuratorii
+• trasator cu carbura
+• material: otel inoxidabil (in afara de baza)
+• baterii: SR44 sau LR44
+• export date
+• dotata cu clema de prindere
+Clema de prindere
+271
+Subler mecanic de exterior, interior, cu tije de 
+adancime 
+• precizie: 0,02mm/0,001"
+• functii: masurarea dimensiunilor interioare, exterioare, adancimi si intervale
+• in conformitate cu standardul DIN 862
+• scala dubla inch si mm
+Scala 
+0-150 mm
+Acuratete 
+± 0.02 mm
+L                     b                    
+235
+40
+175.90
+612035
+1205
+Subler mecanic de exterior, interior, cu tije de 
+adancime 
+• in conformitate cu DIN 862
+• material: otel inoxidabil, cromare satinata
+• gradatie: 0.05 mm/1/128"
+Trasator cu carbura
+Scala 
+Acuratete 
+L          a          b           c       d
+1205-150S
+0-150 mm
+± 0.05 mm
+1205-200S
+0-200 mm
+± 0.05 mm
+1205-250S
+0-250 mm
+± 0.05 mm
+1205-300S
+0-300 mm
+± 0.05 mm
+235
+290
+364
+414
+20.5
+23.5
+27.5
+27.5
+15.5
+19
+22
+22
+16
+16
+20
+20
+40
+50
+64
+64
+Sublerele se pot aduce si cu gradatie 0.02 mm/0,001"
+210
+227.32
+383.25
+885.15
+729.75
+NOU
+Subler mecanic de exterior, interior, cu tije de adancime 
+• in conformitate cu DIN 862
+• gradatie: 0.05 mm/1/128"
+• fabricat din inoxidabil, calit, finisaj cromare satinata
+• cu surub de blocare superior, bumbul de impingere din metal
+• livrare cu raportul de inspectie
+• in cutie de plastic
+Scala
+Acuratete
+210-0016T
+0-150mm/0-6"
+± 0.05 mm
+210-0023T
+0-200mm/0-8"
+± 0.05 mm
+210-0030T
+0-300mm/0-12"
+± 0.05 mm
+L
+236
+286
+400
+a
+40
+50
+60
+b
+16.5
+19.5
+21.5
+h
+16
+16
+16
+297
+322
+410
+227.32
+326.58
+461.14
+tip A
+tip B
+1150-300
+1150-500
+1150-600
+1150-1000
+Scala                 Tip              Acuratete                  L
+0-300 mm
+0-500 mm
+0-600 mm
+0-1000 mm
+A
+A
+A
+B
+± 0.04 mm
+± 0.05 mm
+± 0.05 mm
+± 0.07 mm
+470
+720
+820
+1275
+3003.00
+4315.50
+5617.50
+11445.00

@@ -1,0 +1,158 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:273]
+210
+NOU
+1240
+Subler cu ceas, de exterior-interior, cu tije de adancime
+• acuratetea in conformitate cu DIN 862
+• gradatie: 0.01 mm
+• fabricat din inoxidabil, calit, finisaj cromare
+• rezistent la soc; cu surub de fixare superior
+• cu tije de adancime plata; pentru patru tipuri de masuratori
+• tabel pentru filete pe spate
+• livrare cu raportul de inspectie
+• in cutie de plastic
+Subler mecanic de adancime
+• material: otel inoxidabil
+• cromare satinata
+Scala
+Acuratete
+0-150 mm
+± 0.03 mm
+0-200 mm
+± 0.03 mm
+0-300 mm
+± 0.04 mm
+L
+236
+286
+410
+a
+40
+50
+64
+b
+16.5
+19.5
+21.5
+h
+16
+16
+20
+416
+568
+912
+310.58
+408.22
+593.88
+210-8371
+210-8869
+210-8876
+1176-150
+Subler digital pentru caneluri interioare
+• masurarea diametrului canelurilor din interiorul gaurilor
+• material: otel inoxidabil
+• gradatie: 0.01 mm / 0.0005”
+• butoane: 
+   on/off, zero, mm/inch, preset (+,-) (tip A)
+   on/off, zero, mm/inch, ABS/REL, hold (tip B)
+• baterie CR2032
+• accesorii optionale: limitator de adancime (cod 6143)
+Scala 
+  Acuratete 
+            L 
+       d
+0-150 mm
+0-200 mm
+0-300 mm
+0-500 mm
+0-150 mm
+0-200 mm
+0-300 mm
+0-500 mm
+± 0.03 mm
+± 0.03 mm
+± 0.04 mm
+± 0.05 mm
+± 0.05 mm
+± 0.05 mm
+± 0.08 mm
+± 0.09 mm
+245
+282
+382
+585
+245
+282
+382
+585
+100
+100
+100
+100
+100
+100
+100
+150
+337.05
+363.30
+466.20
+970.20
+334.95
+360.15
+462.00
+968.10
+gradatie 0.02 mm
+1240-1501
+1240-2001
+1240-3001
+1240-5001
+gradatie 0.05 mm
+1240-150
+1240-200
+1240-300
+1240-500
+1247
+Subler de adancime
+• material: otel inoxidabil
+• domeniu de utilizare: 0 - 300 mm
+• precizie: ±0.8 mm
+• gradatie minima: 0.05 mm
+• se pot monta extensii la baza
+1247-200
+Scala 
+0-200
+Acuratete 
+± 0.05 mm
+      L                     c                 d
+100
+290
+16
+limitator de adancime 
+(cod 6143)
+(optional)
+dimensiune masurata
+(utilizare falca
+superioara)
+dimensiune masurata
+(utilizare falca
+inferioara)
+Superior 
+   Inferior 
+Tip       Acuratete             L           a
+1176-150
+9-150 mm
+17-150 mm
+A
+± 0.04 mm
+260
+3
+1879.50
+16
+1247-300
+• la comanda se pot aduce si dimensiuni de 600 mm si 1000 mm
+± 0.08 mm
+0-300
+390
+100
+475.65
+592.20

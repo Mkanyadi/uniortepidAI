@@ -1,0 +1,90 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:256]
+56889
+56890 / 56891
+Pompa electrica 0.8 kW / 1.25 CP
+•  unitatile EGA Master sunt fabricate pentru a functiona in medii nefavorabile, permitand reglarea 
+presiunii pentru a asigura cuplul de iesire corect la fiecare aplicatie
+•  telecomandă pentru o utilizare usoara si un maner confortabil pentru transport.
+•  designul o face potrivita pentru lucrul in cele mai dificile medii si in cele mai exigente conditii, 
+cum ar fi instalatiile de foraj si industria miniera 
+•  porturi: 1
+•  pentru utilizare cu: 56572, 56573, 56578, 56579, 56586, 56587, 56588
+•  greutate fara ulei: 22 kg
+•  debit 8,6l / min. @ 75bar / 0,75l / min @ 700bar
+•  buton de control al presiunii
+•  telecomanda pentru actionare de la distanta: 4 m
+•  furtun hidraulic Twinline: 4 m 
+Pompa pneumatica
+•  unitatile EGA Master sunt fabricate pentru a functiona in medii nefavorabile, permitand reglarea 
+presiunii pentru a asigura cuplul de iesire corect la fiecare aplicatie
+•  pompa cu actionare pneumatica pentru a fi utilizata in medii explozive sau in aplicatii in care 
+electricitatea nu este disponibila
+•  telecomandă pentru o utilizare usoara si un maner confortabil pentru transport.
+•  designul o face potrivita pentru lucrul in cele mai dificile medii si in cele mai exigente conditii, 
+cum ar fi instalatiile de foraj si industria miniera 
+•  porturi 56890: 1
+•  porturi 56891: 4
+•  pentru utilizare cu: 56572, 56573, 56578, 56579, 56580, 56581, 56582, 56583, 56586, 56587,
+56588, 56589, 56590, 56591
+•  debit 11,5l/min. @ 75bar / 0,9l/min @ 700bar
+•  buton de control al presiunii
+•  telecomanda pentru actionare de la distanta: 4 m
+•  furtun hidraulic Twinline: 4 m 
+56889
+kW
+0.8
+litri
+5.5
+V
+220
+22000
+66401.58
+56575 / 56887
+Pompa electrica 1.1 kW
+•  unitatile EGA Master sunt fabricate pentru a functiona in medii nefavorabile, permitand reglarea 
+presiunii pentru a asigura cuplul de iesire corect la fiecare aplicatie
+•  telecomandă pentru o utilizare usoara si un maner confortabil pentru transport.
+•  designul o face potrivita pentru lucrul in cele mai dificile medii si in cele mai exigente conditii, 
+cum ar fi instalatiile de foraj si industria miniera 
+•  porturi 56575: 1
+•  porturi 56887: 4
+•  pentru utilizare cu: 56572, 56573, 56578, 56579, 56580, 56581, 56582, 56583, 56586, 56587,
+56588, 56589, 56590, 56591
+•  debit 11,5l/min. @ 75bar / 0,9l/min @ 700bar
+•  buton de control al presiunii
+•  telecomanda pentru actionare de la distanta: 4 m
+•  furtun hidraulic Twinline: 4 m 
+kW
+4.5
+4.5
+litri
+7.5
+7.5
+33000
+33000
+la cerere
+la cerere
+56890
+56891
+56893
+Distribuitor cu 4 porturi
+•  distribuitor cu 4 porturi
+•  pentru pompe 56885, 56575, 56890 
+56893
+4000
+la cerere
+56575
+56887
+kW
+1.1
+1.1
+litri
+5.5
+7.5
+V
+220
+220
+29000
+30000
+89821.03
+la cerere

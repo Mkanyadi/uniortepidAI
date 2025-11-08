@@ -1,0 +1,180 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:833]
+LM06
+GAMMA IV
+Panza circulara placata CMS cu dinti geluitori 
+pentru taieri multiple in lung de fibra a lemnului
+• pentru debitarea in lungul fibrei a lemnului masiv de esenta moale, tare si extradur
+• recomandate pentru utilizare in fabricile de cherestea pentru taierea lemnului umed cu un 
+continut ridicat de rasina si o umiditate de peste 10%
+• utilizare pe utilaje cu panza unica, dubla si multipla
+• ascutire dreapta
+Panza circulara placata CMS pentru taierea 
+longitudinala a lemnului
+• pentru debitarea in lungul fibrei a lemnului masiv de esenta moale si tare
+• utilizare pe circulare cu masa pentru formatizat
+• ascutire alternativa
+°
+2
+1
+2 5 °
+LM06 1500
+    300x3,5/2,5x70 Z20+4 HW
+n max 6500 RPM
+00000000 - 00/13 
+HW  K10S
+°
+2
+1
+25°
+B
+b
+D                   B/b                     Z                                        d
+α
+LM06 1300
+350
+4,2/3,0
+20 + 2 + 4
+25°
+70
+943.28
+Acoperire cu start de argint I.C.E.
+Reducerea frecarii: acoperire cu strat argint I.C.E.
+• O acoperire de inalta performanta si anticoroziva pentru mentinerea temperaturii scazute a lamei in 
+timpul procesului de lucru.
+• Caracteristica anti-lipire imbunatateste evacuarea aschiei si reduce in mod semnificativ formarea 
+rasinii, reducand frecarea si prelungind durata de viata a lamei.
+12 °12 °
+10 °10 °
+10 °10 °
+D                   B/b                     Z                                        d
+α
+250
+300
+300
+350
+350
+400
+400
+450
+450
+500
+500
+550
+600
+3,2/2,2
+3,2/2,2
+3,2/2,2
+3,5/2,5
+3,5/2,5
+3,8/2,8
+3,8/2,8
+4,0/3,0
+4,0/3,0
+4,0/3,0
+4,0/3,0
+4,0/3,0
+4,0/3,0
+24
+24
+36
+28
+42
+32
+48
+36
+54
+40
+60
+44
+48
+20°
+20°
+18°
+20°
+18°
+20°
+18°
+20°
+18°
+20°
+18°
+20°
+20°
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+30
+404.57
+418.52
+460.38
+558.04
+578.96
+662.66
+718.46
+920.76
+1074.22
+1088.16
+1269.52
+1227.67
+1325.33
+αα
+LC2502401
+LC3002406
+LC3003601
+LC3502802
+LC3504206
+LC4003202
+LC4004801
+LC4503602
+LC4505404
+LC5004003
+LC5006002
+LC5504401
+LC6004804
+LG1C
+Panza circulara placata CMS pentru taierea 
+longitudinala a lemnului masiv
+• pentru debitarea longitudinala pe fibra a lemnului masiv de esenta moale si tare
+• utilizare pe circulare cu masa pentru formatizat sau multilama
+• ascutire alternativa 10° cu unghi de taiere pozitiv
+°
+5
+1
+°
+0
+1
+2 0 °
+LG1C 0400
+    300x3,2/2,2x30 Z26 HW
+n max 6500 RPM
+00000000 - 00/13
+Vedere in sectiune pentru sloturile antivibratie
+Precizie imbunatatita: sloturi anti-vibratii pentru finisarea perfecta
+• Sloturi in corpul panzei taiate cu laser cu tehnologia inovatoare Freud.
+• Disponibile si cu umplutura din poliuretan termoplastic, care reduce considerabil vibratiile si 
+minimizeaza zgomotul.
+b
+20°
+D                   B/b                     Z                                        d
+α
+LG1C 1000
+350
+3,5/2,5
+30
+20°
+30
+473.11
+HW  H01K
+B
+°
+5
+1

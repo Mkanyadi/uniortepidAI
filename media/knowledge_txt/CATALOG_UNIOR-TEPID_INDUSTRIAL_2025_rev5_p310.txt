@@ -1,0 +1,214 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:310]
+647
+Set de dornuri
+660/6
+Dalta lata 
+•  material: crom vanadiu
+•  forjata
+•  tratat complet
+•  capatul tratat prin inductie
+•  acoperire: vopsire
+•  executie conform standardului DIN 6453
+660/6AHS
+Dalta cu maner de protectie 
+pentru zidarie
+•  material: crom vanadiu
+•  forjata
+•  tratat complet
+•  capatul tratat prin inductie
+•  acoperire: vopsire
+•  executie conform standardului DIN 7254
+601738 2 - 8 / 6
+575
+ 1S 
+1
+194.92
+ 641/6  (2, 3, 4, 5, 6, 8)
+647A
+Set de dornuri
+L
+a x b
+604267 100
+16 x 3
+601732 150
+19 x 3
+604242 175
+22 x 3
+601733 200
+24 x 3
+601734 250
+26 x 4
+B
+16
+19
+22
+24
+24
+90
+183
+283
+388
+506
+ 1P 
+ 1P 
+ 1P 
+ 1P 
+ 1P 
+10
+10
+10
+10
+10
+39.51
+45.25
+55.25
+60.82
+71.48
+L
+608497 250
+608498 300
+608499 350
+16
+18
+18
+B
+23
+26
+26
+529
+758
+848
+ 1E 
+ 1E 
+ 1E 
+5
+5
+5
+90.82
+106.39
+117.87
+620176 3 - 5 / 3
+283
+ 1S 
+1
+87.70
+ 641/6  (3, 4, 5)
+647B
+Set de dornuri
+670/6
+Dalta cruce
+•  material: crom vanadiu
+•  forjata
+•  tratat complet
+•  capatul tratat prin inductie
+•  acoperire: vopsire
+•  conform cu standardul DIN 6541
+620177 6 - 10 / 3
+390
+ 1S 
+1
+93.77
+ 641/6  (6, 8, 10)
+L
+a x b
+601747 150
+601748 200
+6 x 2
+7 x 3
+B
+23
+30
+172  1P 
+302  1P 
+10
+10
+52.79
+70.00
+660/6HS
+660/6A
+Dalta lata cu maner de protectie
+•  material: crom vanadiu
+•  forjata
+•  tratat complet
+•  capatul tratat prin inductie
+•  acoperire: vopsire
+•  executie conform standardului DIN 6453
+Dalta lata pentru constructii
+•  material: crom vanadiu
+•  forjata
+•  tratat complet
+•  capatul tratat prin inductie
+•  acoperire: vopsire
+•  executie conform standardului DIN 7254
+665/6A
+Dalta pentru electricieni
+•  material: crom vanadiu
+•  forjata
+•  tratat complet
+•  capatul tratat prin inductie
+•  acoperire: vopsire
+L
+608500 250
+608501 250
+8
+10
+B
+10
+10
+110
+160
+ 1P 
+ 1P 
+10
+10
+38.69
+42.79
+666/6A
+Dalta lata
+•  material:material: crom vanadiu
+•  forjata
+•  tratat complet
+•  capatul tratat prin inductie
+•  acoperire: vopsire
+L
+a x b
+608484 250 26 x 4
+B
+24
+L
+608554 125
+608492 250
+615
+ 1E 
+5
+103.44
+608493 300
+B
+12
+23
+26
+10
+16
+18
+76
+403
+612
+ 1P 
+ 1P 
+ 1P 
+10
+10
+10
+37.54
+64.75
+79.67
+L
+a x b
+603477 240
+28 x 3
+B
+28
+315
+ 1P 
+10
+67.21

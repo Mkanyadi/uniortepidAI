@@ -1,0 +1,117 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:268]
+7262
+7261
+Compas de exterior cu inel si surub de reglare
+• material: otel carbon de scule
+• varfuri tratate termic
+Compas de interior cu inel si surub de reglar
+• material: otel carbon de scule
+• varfuri tratate
+pasul 1
+pasul 2
+pasul 1
+pasul 2
+varf
+Dimensiune 
+155 mm
+210 mm
+265 mm
+310 mm
+7262-150
+7262-200
+7262-250
+7262-300
+7247
+Tip                Deschidere
+0-140 mm 
+A
+A
+A
+A
+0-210 mm 
+0-270 mm 
+0-320 mm
+103.64
+116.55
+164.85
+185.85
+Compas mecanic cu aripa de blocare
+• material: otel carbon de scule
+• varfuri tratate
+varf
+Dimensiune 
+150 mm
+200 mm
+250 mm
+300 mm
+7261-150
+7261-200
+7261-250
+7261-300
+7260
+Tip 
+A
+A
+A
+A
+Deschidere
+15-140 mm
+18-190 mm
+20-240 mm
+20-290 mm
+103.22
+116.55
+154.35
+172.20
+Compas de trasat cu inel si surub de reglare
+• material: otel carbon de scule
+• varfuri tratate
+pasul 1
+pasul 2
+pasul 1
+pasul 2
+7247-150
+7247-200
+7247-300
+Dimensiune 
+150 mm
+200 mm
+300 mm
+          Deschidere 
+0-140 mm
+0-190 mm
+0-290 mm
+a 
+8.5
+10
+12
+b
+7
+7
+7
+7260-150
+7260-200
+7260-250
+7260-300
+Dimensiune 
+150 mm
+200 mm
+245 mm
+300 mm
+72.87
+90.62
+135.45
+Tip 
+A
+A
+A
+B
+Deschidere
+0-150 mm
+0-210 mm
+0-260 mm
+0-320 mm
+103.43
+116.55
+154.35
+172.20

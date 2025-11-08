@@ -1,0 +1,205 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:645]
+NOU
+NOU
+Masina de insurubat pneumatica 
+compacta la 90º cu hexagon 1/4”
+4000 rpm
+AVANTAJELE PRODUSULUI
+• carcasa metalica, rezistenta la zgarieturi
+• maner din plastic moale si robust
+• reversibila inversand parghia de langă tragaci
+• vibratii reduse, prevenind oboseala mainii in timpul operatiunilor lungi
+Masina de insurubat pneumatica 
+compacta la 45º cu hexagon 1/4”
+4000 rpm
+AVANTAJELE PRODUSULUI
+• carcasa metalica, rezistenta la zgarieturi
+• maner din plastic moale si robust
+• reversibila inversand parghia de langă tragaci
+• vibratii reduse, prevenind oboseala mainii in timpul operatiunilor lungi
+1597
+Ciocan pneumatic reversibil
+1.1/2"
+•  viteza de rotatie 3000 rot/min
+•  moment de torsiune max.4065 Nm
+•  presiunea maxima de aer comprimat: 6,2 Bar
+•  consum de aer comprimat 435 l/min
+•  racord de aer 1/2"
+•  capacitate maxima surub (piulita) M52
+Avantaje:
+•  moment de torsiune controlat
+•  insurubare rapida
+•  o diversitate de utilizari
+Utilizare
+•  industria auto
+•  industria aerospatiala
+•  echipament agricol
+•  industria grea
+•  constructia de masini
+•  industria de constructii navale
+•  montari individuale
+58990
+58992
+RPM
+4000
+4000
+L
+mm
+240
+104x27x16.5
+650
+6020.65
+6978.09
+310
+172x27x16.5
+Putere
+Tutatii
+Consumul de aer
+Racord aer
+Vibratii
+Presiune de lucru
+Nivel de zgomot
+750
+0.22 kW
+4000 rpm
+238 LPM (10 CFM)
+1/4"
+2,5 m/s² 
+6,3 bari / 90 PSI
+81,5 dBA
+58991
+58993
+RPM
+4000
+4000
+L
+mm
+260
+120x31x16
+650
+6020.65
+330
+197x31x16
+Putere
+Tutatii
+Consumul de aer
+Racord aer
+Vibratii
+Presiune de lucru
+Nivel de zgomot
+6978.09
+750
+0.22 kW
+4000 rpm
+283 LPM (10 CFM)
+1/4"
+2,5 m/s² 
+6,3 bari / 90 PSI
+81,5 dBA
+A
+L
+617691 1.1/2" 145 465 4065 18600  1F 
+1
+24478.20
+NOU
+NOU
+Masina de insurubat pneumatica 
+compacta la 90º cu hexagon 1/4”
+3600 rpm
+AVANTAJELE PRODUSULUI
+• carcasa metalica, rezistenta la zgarieturi
+• maner din plastic moale si robust
+• reversibila inversand parghia de langă tragaci
+• vibratii reduse, prevenind oboseala mainii in timpul operatiunilor lungi
+Masina de insurubat pneumatica 
+compacta la 45º cu hexagon 1/4”
+3600 rpm
+AVANTAJELE PRODUSULUI
+• carcasa metalica, rezistenta la zgarieturi
+• maner din plastic moale si robust
+• reversibila inversand parghia de langă tragaci
+• vibratii reduse, prevenind oboseala mainii in timpul operatiunilor lungi
+1596
+Ciocan pneumatic reversibil
+1.1/2"
+•  viteza de rotatie 3000 rot/min
+•  moment de torsiune max.3388 Nm
+•  presiunea maxima de aer comprimat: 6,2 Bar
+•  consum de aer comprimat 410 l/min
+•  racord de aer 1/2"
+•  capacitate maxima surub (piulita) M45
+Avantaje:
+•  moment de torsiune controlat
+•  insurubare rapida
+•  o diversitate de utilizari
+Utilizare
+•  industria auto
+•  industria aerospatiala
+•  echipament agricol
+•  industria grea
+•  constructia de masini
+•  industria de constructii navale
+•  montari individuale
+58994
+58996
+RPM
+3600
+3600
+A
+L
+617690 1.1/2" 145 550 3388 17800  1F 
+1
+18384.10
+L
+mm
+260
+104x27x16.5
+900
+7319.82
+8278.24
+330
+172x27x16.5
+Putere
+Tutatii
+Consumul de aer
+Racord aer
+Vibratii
+Presiune de lucru
+Nivel de zgomot
+1000
+0.37 kW
+3600 rpm
+368 LPM (13 CFM)
+1/4"
+2,5 m/s² 
+6,3 bari / 90 PSI
+80 dBA
+58995
+58997
+RPM
+3600
+3600
+L
+mm
+270
+120x31x16
+900
+7319.82
+350
+197x31x16
+Putere
+Tutatii
+Consumul de aer
+Racord aer
+Vibratii
+Presiune de lucru
+Nivel de zgomot
+8278.24
+1000
+0.37 kW
+3600 rpm
+368 LPM (13 CFM)
+1/4"
+2,5 m/s² 
+6,3 bari / 90 PSI
+80 dBA

@@ -1,0 +1,597 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:436]
+42101101000
+42101101200
+42101101400
+42101101600
+42101101800
+42101102000
+            M filet  Pas (mm)    Diametru (mm)
+1,50
+1,75
+2,00
+2,00
+2,50
+2,50
+30 x 11
+38 x 14
+38 x 14
+45 x 18
+45 x 18
+45 x 18
+M 10
+M 12
+M 14
+M 16
+M 18
+M 20
+153.28
+240.66
+241.80
+386.72
+386.72
+386.72
+4209
+Filiera pentru filet metric, pas normal,
+pe stanga, DIN 22568 (DIN 223 B)
+HSS-G
+• filiera pentru filet metric, pas normal, pe stanga, DIN 22568 
+(DIN 223 B) HSS-G
+• material HSS; tratament termic integral
+• parametri filet conform DIN ISO 13
+• toleranta 6g, conform ISO 2
+• tip B,  taiere pe stanga
+• unghiul flancurilor filetului 60°
+• destinate pentru filetare in oteluri ne aliate si aliate, cu 
+σr ≤ 800 N / mm²
+M
+DIN  EN
+22568
+HSS
+G
+LINKS
+LEFT
+800
+N/mm²
+FORM
+B
+60°
+Tol.
+6g
+42091100300
+42091100400
+42091100500
+42091100600
+42091100800
+42091101000
+42091101200
+42091101400
+42091101600
+42091101800
+42091102000
+42091102200
+42091102400
+            M filet  Pas (mm)    Diametru (mm)
+0,50
+0,70
+0,80
+1,00
+1,25
+1,50
+1,75
+2,00
+2,00
+2,50
+2,50
+2,50
+3,00
+20 x   5
+20 x   5
+20 x   5
+20 x   5
+25 x   9
+30 x 11
+38 x 14
+38 x 14
+45 x 18
+45 x 18
+45 x 18
+55 x 22
+55 x 22
+M   3
+M   4
+M   5
+M   6
+M   8
+M 10
+M 12
+M 14
+M 16
+M 18
+M 20
+M 22
+M 24
+60.33
+60.33
+63.77
+63.77
+68.36
+81.97
+104.43
+118.52
+169.34
+169.34
+169.34
+273.28
+273.28
+4101
+Tarozi pentru filetare manuala 
+MF DIN 2181 HSS-G, pas fin, 2 buc/set
+• tarozi pentru filetare manuala, filet metric, pas fin, DIN 2181,
+ HSS-G,  2 buc/set
+• material: HSS, profil filet rectificat detalonat 
+• parametri filet conform DIN ISO 13
+• toleranta 6H, conform ISO 2
+• unghiul flancurilor filetului 60°
+• destinate pentru filetare in oteluri ne aliate si aliate, cu 
+σr ≤ 800 N / mm² 
+• conul de atac :
+- Nr1.,  5-6 spire
+- Nr2.,  2-3 spire
+• pentru gauri strapunse sau infundate
+4110
+1100411
+Tarozi pentru filetare manuala, pas
+normal, DIN 352, HSS-E ( 5% Co ) VAP,
+3 buc/set
+• tarozi pentru filetare manuala, filet metric, pas normal, 
+DIN 352, HSS-E ( 5% Co ) VAP,  3 buc/set
+• material: HSS-E ( 5% Co ), profil filet rectificat detalonat 
+• parametri filet conform DIN ISO 13
+• tolerant 6H, conform ISO 2
+• unghiul flancurilor filetului 60°
+• destinate pentru filetare in oteluri ne aliate, aliate si inoxidabile 
+σr ≤ 1000 N / mm² 
+• conul de atac :
+- Nr1.,  6-8 spire
+- Nr2.,  4-5 spire
+- Nr3.,  2-3 spire
+• pentru gauri strapunse sau infundate
+Filiera pentru filet metric, pas normal,
+DIN 22568 (DIN 223 B) HSS-G
+• filiera pentru filet metric, pas normal,  DIN 22568 (DIN 223 B) HSS-G
+• material HSS; tratament termic integral
+• parametri filet conform DIN ISO 13
+• toleranta 6g, conform ISO 2
+• forma B,  taiere pe dreapta
+• unghiul flancurilor filetului 60°
+• destinate pentru filetare in oteluri ne aliate si aliate, cu 
+σr ≤ 700 N / mm², aliaje de aluminiu
+Ø         P         L            l
+M2
+M2,5
+M3
+M4
+M5
+M6
+M7
+M8
+M9
+M10
+M11
+M12
+M14
+M16
+M18
+M20
+M22
+M24
+M27
+M30
+M33
+M36
+M39
+M42
+0,4
+0,45
+0,5
+0,7
+0,8
+1,0
+1,0
+1,25
+1,25
+1,5
+1,5
+1,75
+2,0
+2,0
+2,5
+2,5
+2,5
+3,0
+3,0
+3,5
+3,5
+4,0
+4,0
+4,5
+5
+5
+5
+5
+7
+7
+9
+9
+9
+11
+11
+14
+14
+18
+18
+18
+22
+22
+25
+25
+25
+25
+30
+30
+1100411020040
+1100411025045
+1100411030050
+1100411040070
+1100411050080
+1100411060100
+1100411070100
+1100411080125
+1100411090125
+1100411100150
+1100411110150
+1100411120175
+1100411140200
+1100411160200
+1100411180250
+1100411200250
+1100411220250
+1100411240300
+1100411270300
+1100411300350
+1100411330350
+1100411360400
+1100411390400
+1100411420450
+4210
+16
+16
+20
+20
+20
+20
+25
+25
+25
+30
+30
+38
+38
+45
+45
+45
+55
+55
+65
+65
+65
+65
+75
+75
+195.66
+171.16
+158.99
+158.99
+149.12
+149.12
+188.25
+158.99
+207.76
+201.80
+250.62
+250.62
+250.62
+339.96
+349.43
+349.43
+503.60
+503.60
+719.91
+719.91
+855.49
+855.49
+1222.19
+1344.34
+Filiera pentru filet metric, pas normal,
+DIN 22568 (DIN 223 B) HSS-E (5% Co) 
+VAP
+• filiera pentru filet metric pas normal,  DIN 22568 (DIN 223 B) 
+HSS-E ( 5% Co ) VAP
+• material HSS; tratament termic integral
+• parametri filet conform DIN ISO 13
+• tolerant 6g, conform ISO 2
+• tip B,  taiere pe dreapta
+• unghiul flancurilor filetului 60°
+• destinate pentru filetare in oteluri nealiate, aliate, inoxidabile, 
+cu σr ≤ 1000 N / mm²
+M
+DIN
+352
+HSS-E
+Co5
+VAP
+60°
+VA 
+INOX
+41101100300
+41101100400
+41101100500
+41101100600
+41101100800
+41101101000
+41101101200
+41101101400
+41101101600
+41101101800
+41101102000
+          M filet   Pas (mm)   Gaura (mm)
+0,50
+0,70
+0,80
+1,00
+1,25
+1,50
+1,75
+2,00
+2,00
+2,50
+2,50
+2,50
+3,30
+4,20
+5,00
+6,80
+8,50
+10,20
+12,00
+14,00
+15,50
+17,50
+M   3
+M   4
+M   5
+M   6
+M   8
+M 10
+M 12
+M 14
+M 16
+M 18
+M 20
+1000
+N/mm²
+ISO2
+6H
+103.93
+106.89
+125.41
+129.84
+159.84
+210.33
+265.57
+272.46
+457.54
+470.33
+520.66
+4200
+Filiera pentru filet metric, pas normal,
+DIN 22568 (DIN 223 B) HSS-G
+• filiera pentru filet metric, pas normal, DIN 22568 (DIN 223 B) HSS-G
+• material HSS; tratament termic integral
+• parametri filet conform DIN ISO 13
+• tolerant 6g, conform ISO 2
+• tip B,  taiere pe dreapta
+• unghiul flancurilor filetului 60°
+• destinate pentru filetare in oteluri ne aliate si aliate, σr ≤ 800 N/mm²
+800
+N/mm²
+M
+DIN
+EN
+22568
+HSS
+G
+FORM
+B
+Tol.
+6g
+60°
+          M filet 
+M   3
+M   4
+M   5
+M   6
+M   8
+M 10
+M 12
+M 14
+M 16
+M 18
+M 20
+M 22
+M 24
+M 27
+M 30
+M 33
+M 36
+42001100300
+42001100400
+42001100500
+42001100600
+42001100800
+42001101000
+42001101200
+42001101400
+42001101600
+42001101800
+42001102000
+42001102200
+42001102400
+42001102700
+42001103000
+42001103300
+42001103600
+ Pas (mm)   Diametru (mm)
+0,50
+0,70
+0,80
+1,00
+1,25
+1,50
+1,75
+2,00
+2,00
+2,50
+2,50
+2,50
+3,00
+3,00
+3,50
+3,50
+4,00
+20 x   5
+20 x   5
+20 x   5
+20 x   5
+25 x   9
+30 x 11
+38 x 14
+38 x 14
+45 x 18
+45 x 18
+45 x 18
+55 x 22
+55 x 22
+65 x 25
+65 x 25
+65 x 25
+65 x 25
+25.57
+25.57
+27.54
+28.85
+32.79
+51.80
+85.74
+94.59
+140.98
+140.98
+140.98
+222.79
+222.79
+344.75
+344.75
+344.75
+344.75
+Tol.
+6g
+VAP
+60°
+VA  
+INOX
+M
+DIN  EN
+HSS-E
+22568
+Co5
+            M filet  Pas (mm)    Diametru (mm)
+0,50
+0,70
+0,80
+1,00
+1,25
+20 x   5
+20 x   5
+20 x   5
+20 x   5
+25 x   9
+M   3
+M   4
+M   5
+M   6
+M   8
+42101100300
+42101100400
+42101100500
+42101100600
+42101100800
+ISO2
+6H
+MF
+800
+N/mm²
+HSS
+G
+60°
+DIN
+2181
+            M filet  Pas (mm)    Diametru (mm)
+41011100303
+41011100405
+41011100505
+41011100607
+41011100807
+41011100810
+41011101010
+41011101012
+MF   3
+MF   4
+MF   5
+MF   6
+MF   8
+MF   8
+MF 10
+MF 10
+0,35
+0,50
+0,50
+0,75
+0,75
+1,00
+1,00
+1,25
+2,60
+3,50
+4,50
+5,20
+7,20
+7,00
+9,00
+8,70
+88.03
+72.13
+77.21
+80.98
+95.25
+77.21
+85.90
+99.84
+1000
+N/mm²
+FORM
+B
+87.21
+87.21
+87.21
+87.21
+107.38

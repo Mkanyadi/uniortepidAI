@@ -1,0 +1,89 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:773]
+3600/2BI
+Carlig arcuri motocicleta
+• material: lama din otel special de scule
+• maner ergonomic rezistent bimaterial
+Utilizare:
+• scula este folosita pentru asamblarea si demontarea arcurilor (arcul de la suport, sa si rezervor, 
+sistemul de evacuare, ca scula pentru asamblarea lantului de la arborele cotit, etc.)
+• pentru toate tipurile de motociclete
+3700MX PROKIT
+Trusa mobila servisare motocicleta de teren
+• utilizare de uz profesional  pe teren
+• geanta cu 35 buzunare personalizate pentru fiecare scula in parte pentru eficienta sporita
+• contine 107 scule adecvate interventiilor rapide necesare la fata locului
+• geanta impermeabila durabila in timp pentru lucrul in conditii atmosferice variate
+• dimensiuni interioare: 500x350x194 mm
+• gabarit exterior: 555x428x211 mm
+• fundul este prevazut cu spuma protectie de 470x170 mm pentru asezarea sculelor 
+aditionale trusei
+• supapa automata de descarcare presiune interioara
+• valiza heavy-duty etansa la apa si praf din compozit rezistent
+d
+4,2
+C
+130
+B
+80
+L
+170
+67
+ 4B
+83.11
+620411
+516/4
+Clestele de rasucit pentru asigurare
+• clestele de sigurantat este un instrument versatil care va ajuta sa realizati rapid 
+si consecvent blocarea cu fir rasucit
+• asigurarile cu sarma rasucita, raman cea mai pozitiva si sigura metoda de fixare 
+a elementelor de fixare critice care nu trebuie lasate sa se desfaca: orice tendinta de 
+slabire a dispozitivului de fixare este contracarata prin strangerea firului de siguranta.
+• capacitate de rasucire si taiere
+• sarma de otel inox diametrul 0,5 mm fara tratament termic
+• sarma moale diametrul 0.8 mm
+Utilizare:
+• strangerea suruburilor, capacelor de ulei, a robinetului de evacuare, a supapelor si a 
+conectorilor electrici cu rasucire unica
+628977
+106
+19200
+ 1G
+6991.80
+125/1 (6, 8, 10, 12, 13, 14, 16, 17, 19, 21, 22, 27, 30, 32); 186.4/2A (14); 188.1/1ABI (1/4")
+188.3/2 (1/4"); 188.4/2 (1/4"x55, 1/4"x150); 188.6/2 (1/4"); 188/2 6p (4, 4.5, 5, 5.5, 6, 7, 8, 9, 
+10, 11, 13, 12, 14); 190.1/1ABI (1/2"); 190.3/1 (1/2"); 190.4/1 (1/2"x125, 1/2"x250); 190.6/2 
+(1/2") 190.7/2 (1/2"x3/8"); 190/1 6p (10, 11, 12, 13, 14, 15, 17, 19, 22, 24, 27, 30, 32); 
+192/2HX (6, 7, 8, 10, 12, 14, 17); 193N (6, 8, 10); 193TX (TX 15, TX 20, TX 25, TX 30)
+192/2TXL  (TX 45); 220/3SLPH; 220/7TXPH; 300/2 (500 (3x)); 461/1BI (140); 449/1PYTHON 
+(240); 506/1BI (140); 516/4 (213); 556A (160x18); 605TBI (0.5 x 3.0x80, 0.8 x 4.0x100, 
+1.0 x 5.5x125, 1.2 x 6.5x100, 1.2 x 8.0x175); 615TBI (PH 1x80, PH 2x100); 710R (2 m);
+820A (22); 2042/2 (115); 3301/2 (5x6x6,3x7, 5,4x5,6x6,5x6,8); 3202/1P; 3600/2BI (4,2)
+SET1-3800MX
+NOU
+Set de scule in modul SOS 1 pentru 3800MX
+C
+B
+B1D
+L
+L
+213
+B
+19
+B1
+49
+C
+40
+D
+24
+627530
+250
+ 1G
+255.41
+629522
+21
+2920
+ 1G
+1241.88
+120/1 (7, 8, 10 (2x), 12, 13, 14, 17, 19), 2 x 300/2 (300), 508/1BI (170), 556A (160x18),
+605TBI (0.8x4.0x100, 1.2x6.5x125), 615TBI (PH 1x80, PH 2x100), 710R (3 m), 820B (40), 
+3202/1P, vl1.3800MX (560x267x30)

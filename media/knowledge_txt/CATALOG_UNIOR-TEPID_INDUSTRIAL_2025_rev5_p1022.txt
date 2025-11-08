@@ -1,0 +1,90 @@
+[SOURCE:CATALOG_UNIOR-TEPID_INDUSTRIAL_2025_rev5] [PAGE:1022]
+1011CEV4
+1011AEV6
+Set de scule de 127 piese in module 
+SOS in carucior de scule 940EV4
+• conceput pentru intretinerea de baza in service-uri auto, 
+agricole si in industrie
+Set de scule de 325 piese in module 
+SOS in carucior de scule 940EV6
+• conceput pentru intretinerea de baza in service-uri auto, 
+agricole si in industrie
+624137
+127
+75500  1K
+1
+10843.28
+964/49SOS, 964/47SOS, 964/46SOS, 964/48SOS
+940EV4
+1011BEV4
+Set de scule de 193 piese in module 
+SOS in carucior de scule 940EV4
+• conceput pentru intretinerea de baza in service-uri auto, 
+agricole si in industrie
+621757
+193
+77000  1K
+1
+13353.28
+964/37SOS, 964/35SOS, 964/32ASOS, 964/36SOS
+940EV4
+1011DEV6
+Set de scule de 238 piese in module 
+SOS in carucior de scule 940EV6
+• conceput pentru intretinerea de baza in service-uri auto, 
+agricole si in industrie
+621756
+325
+103200  1K
+1
+21836.72
+964/31SOS, 964/32ASOS, 964/33SOS, 964/34SOS, 
+964/28SOS, 964/29ASOS, 964/30SOS
+940EV6
+1012A
+Set de scule de 208 piese in module 
+SOS in carucior de scule 940EV6
+• conceput pentru intretinerea de baza in service-uri auto, 
+agricole si in industrie
+1011FPLUS1
+Set de scule de 297 piese in module 
+SOS in carucior de scule 920PLUS1
+• conceput pentru intretinerea de baza in service-uri auto, 
+agricole si in industrie
+625594
+297
+125000  1K
+1
+23057.38
+964/31SOS, 964/33SOS, 964/34SOS, 964/32ASOS,
+964/28SOS, 964/30SOS
+920PLUS1
+1011GECO
+Set de scule de 97 piese in module 
+SOS in carucior de scule 940ECO
+• conceput pentru intretinerea de baza in service-uri auto, 
+agricole si in industrie
+624138
+238
+96000  1K
+1
+17170.66
+623942
+208
+106270  1K
+1
+17468.69
+625595
+97
+77000  1K
+1
+7141.80
+964/28SOS, 964/29ASOS, 964/30SOS, 964/33SOS,
+964/50SOS, 964/28SOS, 964/52SOS, 964/54SOS, 
+964/48SOS, 964/49SOS
+940EV6
+964/33SOS, 964/51SOS, 964/53SOS
+940EV6
+964ECO2A, 964ECO9, 964ECO10, 964ECO6, 964ECO19, 
+964ECO5
+940ECO
