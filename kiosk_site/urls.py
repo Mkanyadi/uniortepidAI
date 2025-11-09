@@ -5,11 +5,13 @@ from django.conf import settings
 from django.conf.urls.static import static
 
 from assistant import views
+from assistant.views import index, ask, ping
 
 urlpatterns = [
     path("admin/", admin.site.urls),
     path("", views.index, name="index"),
     path("ask/", views.ask, name="ask"),
+    path("ping/", ping, name="ping"),
 ]
 
 # Servește STATIC și MEDIA doar în development

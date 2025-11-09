@@ -153,3 +153,30 @@ def ask(request):
         text = "Nu am găsit ceva clar în cataloagele încărcate. Îmi dai un cod sau o denumire mai precisă?"
 
     return JsonResponse({"answer_html": text})
+
+# --- PING endpoint gyors modell-teszthez ---
+from django.http import JsonResponse
+from django.views.decorators.http import require_GET
+import os, httpx
+from openai import OpenAI
+
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+client = OpenAI(
+    api_key=os.getenv("OPENAI_API_KEY"),
+    http_client=httpx.Client(timeout=30)
+)
+
+@require_GET
+def ping(request):
+    try:
+        r = client.chat.completions.create(
+            model=OPENAI_MODEL,
+            messages=[{"role": "user", "content": "ping"}]
+        )
+        return JsonResponse({
+            "ok": True,
+            "model": OPENAI_MODEL,
+            "reply": r.choices[0].message.content
+        })
+    except Exception as e:
+        return JsonResponse({"ok": False, "model": OPENAI_MODEL, "error": str(e)}, status=500)
