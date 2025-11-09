@@ -14,6 +14,11 @@ load_dotenv()
 logger = logging.getLogger(__name__)
 
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+OPENAI_MODEL = (OPENAI_MODEL or "").strip()
+if OPENAI_MODEL.lower() == "gpt-40-mini":  # gyakori elütés: nulla vs o
+    OPENAI_MODEL = "gpt-4o-mini"
+
+logger.info(f"OPENAI_MODEL resolved to: {OPENAI_MODEL}")
 
 BASE = pathlib.Path(__file__).resolve().parents[1]
 TXT_DIR = BASE / "media" / "knowledge_txt"
@@ -123,12 +128,13 @@ def ask(request):
             model=OPENAI_MODEL,
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": text},
                 {
                     "role": "user",
                     "content": (
-                        "Întrebare: " + message + "\n\n"
-                        "Context din cataloage (fragmente relevante):\n"
-                        + (pre_context or "(nu am găsit fragmente locale)")
+                            "Întrebare: " + message + "\n\n"
+                                                      "Context din cataloage (fragmente relevante):\n"
+                            + (pre_context or "(nu am găsit fragmente locale)")
                     ),
                 },
             ],
