@@ -2,270 +2,322 @@
 <!doctype html>
 <html lang="ro">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Dan – Asistent Scule Serioase</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dan – Asistent Scule Serioase</title>
 
-    <style>
-        :root {
-            --ut-blue-deep: #004F8C;
-            --ut-blue: #0071BC;
-            --ut-card: #121a33;
-            --ut-stroke: #1f2a4a;
-            --ut-text: #eaf2ff;
-            --ut-muted: #9fb2cf;
-        }
+  <style>
+    :root{
+      --ut-blue-deep:#004F8C; --ut-blue:#0071BC; --ut-card:#121a33;
+      --ut-stroke:#1f2a4a; --ut-text:#eaf2ff; --ut-muted:#9fb2cf;
+    }
+    html,body{height:100%}
+    body{
+      margin:0; font-family:system-ui, Segoe UI, Roboto, Arial, sans-serif;
+      color:var(--ut-text);
+      background:linear-gradient(180deg,var(--ut-blue-deep) 0%,var(--ut-blue) 55%,#0e5fa5 100%) fixed;
+    }
 
-        html, body { height: 100% }
+    /* HEADER */
+    .ut-header{
+      position:sticky; top:0; z-index:10;
+      display:flex; align-items:center; justify-content:center;
+      padding:10px 16px; background:#fff;
+      border-bottom:1px solid rgba(0,0,0,.08);
+      box-shadow:0 2px 10px rgba(0,0,0,.06);
+    }
+    .ut-logo-img{height:42px; width:auto; display:block}
 
-        body {
-            margin: 0;
-            font-family: system-ui, Segoe UI, Roboto, Arial, sans-serif;
-            color: var(--ut-text);
-            background: linear-gradient(180deg, var(--ut-blue-deep) 0%, var(--ut-blue) 55%, #0e5fa5 100%) fixed;
-        }
+    .wrap{max-width:1000px; margin:22px auto; padding:0 16px}
+    .headline{font-size:20px; font-weight:600; margin:8px 0 12px}
 
-        /* HEADER – fehér háttér, a logó KÖZÉPEN (csak itt van logó) */
-        .ut-header {
-            position: sticky;
-            top: 0;
-            z-index: 10;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 10px 16px;
-            background: #fff;
-            border-bottom: 1px solid rgba(0, 0, 0, .08);
-            box-shadow: 0 2px 10px rgba(0, 0, 0, .06);
-        }
-        .ut-logo-img { height: 42px; width: auto; display: block; }
+    .card{
+      background:var(--ut-card); border:1px solid var(--ut-stroke);
+      border-radius:12px; padding:16px; margin-top:16px;
+      box-shadow:0 10px 24px rgba(0,0,0,.18);
+    }
 
-        /* Layout */
-        .wrap { max-width: 1000px; margin: 22px auto; padding: 0 16px }
-        .headline { font-size: 20px; font-weight: 600; margin: 8px 0 12px }
+    .mic{display:flex; gap:8px; align-items:center; flex-wrap:wrap}
+    button{
+      background:#0ea5e9; color:#fff; border:none; border-radius:10px;
+      padding:12px 16px; font-weight:600; cursor:pointer;
+    }
+    button:disabled{opacity:.5; cursor:not-allowed}
+    input{
+      width:100%; padding:12px; border-radius:10px; border:1px solid #334;
+      background:#0b1226; color:#fff;
+    }
+    select{
+      padding:10px; border-radius:10px; border:1px solid #334;
+      background:#0b1226; color:#fff;
+    }
 
-        .card {
-            background: var(--ut-card);
-            border: 1px solid var(--ut-stroke);
-            border-radius: 12px;
-            padding: 16px;
-            margin-top: 16px;
-            box-shadow: 0 10px 24px rgba(0, 0, 0, .18);
-        }
+    /* Fallback eredménykártyák */
+    .results{
+      display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
+      gap:12px; margin-top:12px;
+    }
+    .res{background:#0f172a; border:1px solid #263055; border-radius:10px; padding:10px}
+    .res img{width:100%; border-radius:8px; border:1px solid #223}
+    .small{opacity:.85}
 
-        .mic { display: flex; gap: 8px; align-items: center; flex-wrap: wrap }
-        button {
-            background: #0ea5e9; color: #fff; border: none; border-radius: 10px;
-            padding: 12px 16px; font-weight: 600; cursor: pointer
-        }
-        button:disabled { opacity: .5; cursor: not-allowed }
-        input {
-            width: 100%; padding: 12px; border-radius: 10px; border: 1px solid #334;
-            background: #0b1226; color: #fff
-        }
-        select {
-            padding: 10px; border-radius: 10px; border: 1px solid #334;
-            background: #0b1226; color: #fff
-        }
+    /* Szabad szöveg (MyAIDrive) */
+    .answer-html{white-space:pre-wrap; line-height:1.5}
 
-        /* Eredménykártyák (fallback) */
-        .results {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-            gap: 12px; margin-top: 12px
-        }
-        .res { background: #0f172a; border: 1px solid #263055; border-radius: 10px; padding: 10px }
-        .res img { width: 100%; border-radius: 8px; border: 1px solid #223 }
-        .small { opacity: .85 }
+    /* FELSŐ KÉP-KERET – 4 kép egy sorban desktopon */
+    .hero-frame{
+      background:rgba(255,255,255,.05);
+      border:1px solid rgba(255,255,255,.15);
+      border-radius:14px;
+      padding:10px;
+      display:grid;
+      grid-template-columns:repeat(4,1fr);
+      gap:10px;
+      box-shadow:0 10px 24px rgba(0,0,0,.18);
+      margin-top:12px;
+    }
+    /* fix magasságú cella → minden elem egyforma */
+    .hero-cell{
+      height:140px;
+      display:flex; align-items:center; justify-content:center;
+      background:#0b1226; border:1px solid var(--ut-stroke);
+      border-radius:10px; padding:6px;
+    }
+    .hero-cell img{
+      max-height:100%; max-width:100%;
+      width:auto; height:auto; display:block;
+    }
+    @media (max-width:900px){ .hero-frame{grid-template-columns:repeat(2,1fr);} }
+    @media (max-width:520px){ .hero-frame{grid-template-columns:1fr;} }
 
-        /* Szabad szöveg megjelenítés (MyAIDrive) */
-        .answer-html { white-space: pre-wrap; line-height: 1.5; }
-
-        /* KERETEZETT DOBOZ: bal és jobb kép, KÖZÉP LOGÓ NINCS */
-        .hero-frame {
-            background: rgba(255,255,255,0.06);
-            border: 1px solid rgba(255,255,255,0.18);
-            border-radius: 16px;
-            padding: 14px;
-            display: grid;
-            grid-template-columns: 1fr 1fr;   /* két oszlop: bal kép – jobb kép */
-            align-items: center;
-            gap: 12px;
-            box-shadow: 0 10px 24px rgba(0,0,0,0.2);
-            margin-top: 12px;
-        }
-        .hero-img {
-            width: 100%;
-            max-height: 140px;
-            object-fit: contain;
-            background: #0b1226;
-            border: 1px solid var(--ut-stroke);
-            border-radius: 12px;
-            padding: 8px;
-        }
-
-        @media (max-width: 640px) {
-            .hero-frame { grid-template-columns: 1fr; }
-        }
-    </style>
+    /* Footer (kredit) */
+    .site-footer{
+      margin:18px 0 8px;
+      padding-top:10px;
+      border-top:1px solid rgba(255,255,255,.15);
+      color:var(--ut-muted);
+      font-size:.9rem;
+      text-align:center;
+    }
+    .site-footer a{ color:var(--ut-text); text-decoration:underline; }
+    .site-footer .sep{ margin:0 .5rem; }
+  </style>
 </head>
 <body>
 
 <header class="ut-header">
-    <img class="ut-logo-img"
-         src="{% static 'page_images/logo-unior-tepid-calitate-industriala.png' %}"
-         alt="Unior-Tepid">
+  <img class="ut-logo-img" src="{% static 'page_images/logo-unior-tepid-calitate-industriala.png' %}" alt="Unior-Tepid">
 </header>
 
 <div class="wrap">
 
-    <!-- Két kép egy lekerekített keretben (nincs középső logó) -->
-    <div class="hero-frame">
-        <img class="hero-img" src="{% static 'page_images/Trusa_38piese.jpg' %}" alt="Trusă 38 piese">
-        <img class="hero-img" src="{% static 'page_images/carucior_de_truse.png' %}" alt="Cărucior de truse">
+  <!-- 4 kép egy sorban (desktop) -->
+  <div class="hero-frame">
+    <div class="hero-cell">
+      <img src="{% static 'page_images/Unior-1000V-surubelnita.png' %}" alt="Unior 1000V Șurubelniță" loading="lazy">
+    </div>
+    <div class="hero-cell">
+      <img src="{% static 'page_images/Trusa_38piese.jpg' %}" alt="Trusă 38 piese" loading="lazy">
+    </div>
+    <div class="hero-cell">
+      <img src="{% static 'page_images/Unior-1000V-Mediafax7-800x343.png' %}" alt="Unior 1000V set" loading="lazy">
+    </div>
+    <div class="hero-cell">
+      <img src="{% static 'page_images/carucior_de_truse.png' %}" alt="Cărucior de truse" loading="lazy">
+    </div>
+  </div>
+
+  <div class="headline">Dan – Asistent Scule Serioase</div>
+
+  <div class="card">
+    <div class="mic">
+      <button id="talkBtn">🎤 ȚINE APĂSAT ȘI ÎNTREABĂ</button>
+      <span id="status" class="small">microfon în așteptare…</span>
+      <span style="flex:1"></span>
+      <label class="small">Limba:
+        <select id="langSel">
+          <option value="ro-RO" selected>Română</option>
+          <option value="hu-HU">Magyar</option>
+          <option value="en-US">English</option>
+        </select>
+      </label>
+      <label class="small">Voce:
+        <select id="voiceSel"></select>
+      </label>
     </div>
 
-    <div class="headline">Dan – Asistent Scule Serioase</div>
-
-    <div class="card">
-        <div class="mic">
-            <button id="talkBtn">🎤 ȚINE APĂSAT ȘI ÎNTREABĂ</button>
-            <span id="status" class="small">microfon în așteptare…</span>
-            <span style="flex:1"></span>
-            <label class="small">Limba:
-                <select id="langSel">
-                    <option value="ro-RO" selected>Română</option>
-                    <option value="hu-HU">Magyar</option>
-                    <option value="en-US">English</option>
-                </select>
-            </label>
-        </div>
-
-        <div style="margin-top:8px">
-            <input id="q" placeholder="Ex.: Caută cheie reglabilă Kronus 300 mm">
-            <div style="margin-top:8px">
-                <button id="sendBtn">Trimite</button>
-            </div>
-        </div>
+    <div style="margin-top:8px">
+      <input id="q" placeholder="Ex.: Caută cheie reglabilă Kronus 300 mm">
+      <div style="margin-top:8px">
+        <button id="sendBtn">Trimite</button>
+      </div>
     </div>
+  </div>
 
-    <div id="answer" class="card"></div>
-    <div id="results" class="results"></div>
+  <div id="answer" class="card"></div>
+  <div id="results" class="results"></div>
+
+  <!-- CREDIT FOOTER -->
+  <footer class="site-footer">
+    <span>© 2025 Mkonnect Solutions. All rights reserved.</span>
+    <span class="sep">•</span>
+    <span>Designed &amp; built by
+      <a href="https://github.com/Mkanyadi" target="_blank" rel="noopener">Mihály Kányádi</a>.
+    </span>
+  </footer>
 </div>
 
 <script>
-    const API = "{% url 'ask' %}";
+  const API = "{% url 'ask' %}";
 
-    const answerEl = document.getElementById('answer');
-    const resultsEl = document.getElementById('results');
-    const qEl = document.getElementById('q');
-    const sendBtn = document.getElementById('sendBtn');
-    const statusEl = document.getElementById('status');
-    const talkBtn = document.getElementById('talkBtn');
-    const langSel = document.getElementById('langSel');
+  const answerEl = document.getElementById('answer');
+  const resultsEl = document.getElementById('results');
+  const qEl = document.getElementById('q');
+  const sendBtn = document.getElementById('sendBtn');
+  const statusEl = document.getElementById('status');
+  const talkBtn = document.getElementById('talkBtn');
+  const langSel = document.getElementById('langSel');
+  const voiceSel = document.getElementById('voiceSel');
 
-    function speak(text) {
-        if (!text) return;
-        const u = new SpeechSynthesisUtterance(text);
-        u.lang = langSel.value || 'ro-RO';
-        u.rate = 1; u.pitch = 1;
-        speechSynthesis.cancel();
-        speechSynthesis.speak(u);
+  // ---------- TTS: román hang preferálása + opcionális választó ----------
+  let allVoices = [];
+  function loadVoices(){
+    allVoices = speechSynthesis.getVoices() || [];
+    if (voiceSel){
+      const keep = voiceSel.value;
+      voiceSel.innerHTML = "";
+      allVoices
+        .filter(v => v.lang)
+        .sort((a,b)=> a.lang.localeCompare(b.lang) || a.name.localeCompare(b.name))
+        .forEach(v=>{
+          const o = document.createElement('option');
+          o.value = v.name; o.textContent = `${v.name} — ${v.lang}`;
+          voiceSel.appendChild(o);
+        });
+      if (keep) voiceSel.value = keep;
     }
+  }
+  speechSynthesis.addEventListener('voiceschanged', loadVoices);
+  loadVoices();
 
-    function stripHtml(html) {
-        const d = document.createElement('div');
-        d.innerHTML = html || '';
-        return d.textContent || d.innerText || '';
+  function pickBestVoiceFor(langCode){
+    const pool = (allVoices.length ? allVoices : speechSynthesis.getVoices())
+      .filter(v => (v.lang||'').toLowerCase().startsWith(langCode.toLowerCase()));
+    if (!pool.length) return null;
+    const preferred = [
+      'Google română',
+      'Microsoft Anca','Microsoft Daniela','Microsoft Emil',
+      'Anca','Daniela','Emil'
+    ];
+    for (const name of preferred){
+      const hit = pool.find(v => v.name.toLowerCase().includes(name.toLowerCase()));
+      if (hit) return hit;
     }
+    return pool[0];
+  }
 
-    async function ask(message) {
-        if (!message) return;
+  function speak(text){
+    if (!text) return;
+    const u = new SpeechSynthesisUtterance(text);
+    const lang = (langSel && langSel.value) || 'ro-RO';
+    u.lang = lang;
 
-        answerEl.innerHTML = "Întreb: <b>" + message + "</b>";
-        resultsEl.innerHTML = "";
-        sendBtn.disabled = true;
+    let chosen = voiceSel && voiceSel.value
+      ? (allVoices||[]).find(v=>v.name===voiceSel.value)
+      : pickBestVoiceFor(lang);
+    if (chosen) u.voice = chosen;
 
-        try {
-            const res = await fetch(API, {
-                method: 'POST',
-                headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify({message, lang: langSel.value})
-            });
+    u.rate = 1.0; u.pitch = 1.0;
+    speechSynthesis.cancel();
+    speechSynthesis.speak(u);
+  }
+  // ----------------------------------------------------------------------
 
-            const raw = await res.text();
-            let data = {};
-            try { data = raw ? JSON.parse(raw) : {}; } catch (parseErr) {}
+  function stripHtml(html){
+    const d=document.createElement('div'); d.innerHTML=html||'';
+    return d.textContent||d.innerText||'';
+  }
 
-            if (!res.ok) {
-                const shown = (data && (data.answer_html || data.error)) || raw || "Eroare server (fără conținut).";
-                answerEl.innerHTML = "<div class='headline'>Eroare</div><div class='answer-html'>" + shown + "</div>";
-                return;
-            }
+  async function ask(message){
+    if (!message) return;
 
-            if (data.answer_html) {
-                answerEl.innerHTML = "<div class='headline'>Răspuns</div><div class='answer-html'>" + data.answer_html + "</div>";
-                speak(stripHtml(data.answer_html));
-                return;
-            }
+    answerEl.innerHTML = "Întreb: <b>"+message+"</b>";
+    resultsEl.innerHTML=""; sendBtn.disabled=true;
 
-            if (data.error) {
-                answerEl.innerHTML = "<div class='headline'>Eroare</div><div class='answer-html'>" + data.error + "</div>";
-                return;
-            }
+    try{
+      const res = await fetch(API,{
+        method:'POST', headers:{'Content-Type':'application/json'},
+        body:JSON.stringify({message, lang: langSel.value})
+      });
+      const raw = await res.text();
+      let data={}; try{ data = raw ? JSON.parse(raw) : {}; }catch(_){}
 
-            answerEl.innerHTML = "<div class='headline'>Răspuns</div><div class='answer-html'>" + (data.spoken_summary || '') + "</div>";
-            if (data.spoken_summary) speak(data.spoken_summary);
+      if (!res.ok){
+        const shown = (data && (data.answer_html||data.error)) || raw || "Eroare server (fără conținut).";
+        answerEl.innerHTML = "<div class='headline'>Eroare</div><div class='answer-html'>"+shown+"</div>";
+        return;
+      }
 
-            if (Array.isArray(data.results)) {
-                data.results.forEach(r => {
-                    const div = document.createElement('div');
-                    div.className = 'res';
-                    div.innerHTML =
-                        (r.page_image ? ('<img src="' + r.page_image + '" alt="pagina ' + r.page + '">') : '') +
-                        '<div><b>' + (r.name || '') + '</b></div>' +
-                        '<div class="small">' + (r.code || '') + '</div>' +
-                        '<div class="small">Pag. ' + (r.page || '?') + '</div>' +
-                        '<div class="small">' + (r.context || '') + '</div>';
-                    resultsEl.appendChild(div);
-                });
-            }
-        } catch (err) {
-            answerEl.innerHTML = "<div class='headline'>Eroare</div><div class='answer-html'>Nu am putut trimite cererea. Vezi Console/Network (F12).</div>";
-        } finally {
-            sendBtn.disabled = false;
-        }
+      if (data.answer_html){
+        answerEl.innerHTML = "<div class='headline'>Răspuns</div><div class='answer-html'>"+data.answer_html+"</div>";
+        speak(stripHtml(data.answer_html));
+        return;
+      }
+
+      if (data.error){
+        answerEl.innerHTML = "<div class='headline'>Eroare</div><div class='answer-html'>"+data.error+"</div>";
+        return;
+      }
+
+      answerEl.innerHTML = "<div class='headline'>Răspuns</div><div class='answer-html'>"+(data.spoken_summary||'')+"</div>";
+      if (data.spoken_summary) speak(data.spoken_summary);
+
+      if (Array.isArray(data.results)){
+        data.results.forEach(r=>{
+          const div=document.createElement('div');
+          div.className='res';
+          div.innerHTML =
+            (r.page_image?('<img src="'+r.page_image+'" alt="pagina '+r.page+'">'):'')+
+            '<div><b>'+(r.name||'')+'</b></div>'+
+            '<div class="small">'+(r.code||'')+'</div>'+
+            '<div class="small">Pag. '+(r.page||'?')+'</div>'+
+            '<div class="small">'+(r.context||'')+'</div>';
+          resultsEl.appendChild(div);
+        });
+      }
+    } catch(e){
+      answerEl.innerHTML = "<div class='headline'>Eroare</div><div class='answer-html'>Nu am putut trimite cererea. Vezi Console/Network (F12).</div>";
+    } finally{
+      sendBtn.disabled=false;
     }
+  }
 
-    // Click és Enter
-    sendBtn.onclick = () => ask(qEl.value);
-    qEl.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter') { e.preventDefault(); ask(qEl.value); }
-    });
+  // küldés gomb & Enter
+  sendBtn.onclick = ()=>ask(qEl.value);
+  qEl.addEventListener('keydown',e=>{ if(e.key==='Enter'){ e.preventDefault(); ask(qEl.value);} });
 
-    // STT
-    let rec;
-    function setupSTT() {
-        const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
-        if (!SR) { statusEl.textContent = "STT indisponibil în browser."; return; }
-        rec = new SR();
-        rec.lang = langSel.value || 'ro-RO';
-        rec.interimResults = false;
-        rec.maxAlternatives = 1;
-        rec.onresult = (e) => {
-            const text = e.results[0][0].transcript;
-            qEl.value = text; ask(text);
-            statusEl.textContent = "am trimis întrebarea.";
-        };
-        rec.onend = () => statusEl.textContent = "microfon în așteptare…";
-        rec.onerror = (e) => statusEl.textContent = "Eroare microfon: " + e.error;
-    }
-    setupSTT();
-    langSel.addEventListener('change', () => { if (rec) rec.lang = langSel.value; });
-    talkBtn.onmousedown = () => { if (rec) { statusEl.textContent = "ascult…"; rec.start(); } };
-    talkBtn.onmouseup   = () => { try { rec && rec.stop(); } catch (e) {} };
-    talkBtn.ontouchstart = (e) => { e.preventDefault(); if (rec) { statusEl.textContent = "ascult…"; rec.start(); } };
-    talkBtn.ontouchend   = (e) => { e.preventDefault(); try { rec && rec.stop(); } catch (e) {} };
+  // STT (voice input)
+  let rec;
+  function setupSTT(){
+    const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+    if (!SR){ statusEl.textContent="STT indisponibil în browser."; return; }
+    rec = new SR();
+    rec.lang = langSel.value || 'ro-RO';
+    rec.interimResults=false; rec.maxAlternatives=1;
+    rec.onresult = (e)=>{
+      const text = e.results[0][0].transcript;
+      qEl.value = text; ask(text);
+      statusEl.textContent="am trimis întrebarea.";
+    };
+    rec.onend = ()=> statusEl.textContent="microfon în așteptare…";
+    rec.onerror = (e)=> statusEl.textContent="Eroare microfon: "+e.error;
+  }
+  setupSTT();
+  langSel.addEventListener('change', ()=>{ if(rec) rec.lang = langSel.value; });
+  talkBtn.onmousedown = ()=>{ if(rec){ statusEl.textContent="ascult…"; rec.start(); } };
+  talkBtn.onmouseup   = ()=>{ try{ rec && rec.stop(); }catch(e){} };
+  talkBtn.ontouchstart= (e)=>{ e.preventDefault(); if(rec){ statusEl.textContent="ascult…"; rec.start(); } };
+  talkBtn.ontouchend  = (e)=>{ e.preventDefault(); try{ rec && rec.stop(); }catch(e){} };
 </script>
 </body>
 </html>

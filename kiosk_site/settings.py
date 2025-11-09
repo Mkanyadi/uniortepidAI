@@ -6,7 +6,11 @@ load_dotenv()
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = 'dev-secret-key-change-me'
+import os
+from dotenv import load_dotenv
+load_dotenv()
+SECRET_KEY = os.getenv('SECRET_KEY', 'dev-secret-key-change-me')
+
 DEBUG = os.getenv('DJANGO_DEBUG','1') == '1'
 ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS','127.0.0.1,localhost').split(',')
 
