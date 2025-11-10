@@ -15,6 +15,9 @@ from dotenv import load_dotenv
 import httpx
 from openai import OpenAI
 
+CATALOG_KEYWORDS = re.compile(r"\b(preț|pret|price|cod|code)\b", re.IGNORECASE | re.UNICODE)
+MIN_OVERLAP = 2  # legalább 2 közös token a kérdéssel
+
 load_dotenv()
 logger = logging.getLogger(__name__)
 
@@ -63,10 +66,16 @@ def _list_text_files():
     return [str(p) for p in TXT_DIR.glob("*.txt")]
 
 
+CATALOG_KEYWORDS = re.compile(r"\b(preț|pret|price|cod|code)\b", re.IGNORECASE | re.UNICODE)
+MIN_OVERLAP = 2  # legalább 2 közös token a kérdéssel
+
+
 def _prefilter_local_snippets(txt_files, query: str, top_k: int = 40, window: int = 6) -> str:
     """
-    Citește rapid .txt-urile din media/knowledge_txt și întoarce fragmente relevante.
-    Scor simplu după overlap de token-uri; folosește ferestre de linii dacă nu sunt paragrafe.
+    Gyors, heurisztikus előszűrés:
+    - token-átfedés alapján pontoz
+    - CSAK olyan jelöltet enged át, ahol katalógus-jelek vannak (Preț/Price/Cod)
+    - minimum átfedés küszöb (MIN_OVERLAP)
     """
     q_tokens = set(re.findall(r"[a-z0-9ăâîșţșț\-]+", (query or "").lower()))
     if not q_tokens:
@@ -86,12 +95,20 @@ def _prefilter_local_snippets(txt_files, query: str, top_k: int = 40, window: in
                 paras.append("\n".join(lines[i:i + window]))
 
         for p in paras:
-            p_tokens = set(re.findall(r"[a-z0-9ăâîșţșț\-]+", p.lower()))
+            p_low = p.lower()
+            p_tokens = set(re.findall(r"[a-z0-9ăâîșţșț\-]+", p_low))
             overlap = len(q_tokens & p_tokens)
-            if overlap:
-                heapq.heappush(candidates, (overlap, p))
+            # csak ha van katalógus-jel ÉS elég az átfedés
+            if overlap >= MIN_OVERLAP and CATALOG_KEYWORDS.search(p_low):
+                # kis bonusz, ha 'preț/price' is van
+                bonus = 1 if re.search(r"\b(preț|pret|price)\b", p_low) else 0
+                score = overlap + bonus
+                heapq.heappush(candidates, (score, p))
                 if len(candidates) > top_k:
                     heapq.heappop(candidates)
+
+    if not candidates:
+        return ""
 
     top = [frag for _score, frag in sorted(candidates, key=lambda t: -t[0])]
     return "\n\n---\n\n".join(top)
@@ -127,8 +144,8 @@ def ask(request):
 
     pre_context = _prefilter_local_snippets(txt_files, user_text, top_k=40)
 
-    # --- HARD GATE: ha nincs releváns helyi kontextus, NE kérdezzük a modellt ---
-    if not (pre_context or "").strip():
+    # ha van pre_context, de nincs benne katalógus-jel, úgy tekintjük, hogy nem releváns
+    if not (pre_context or "").strip() or not CATALOG_KEYWORDS.search(pre_context.lower()):
         return JsonResponse({
             "answer_html": (
                 "Nu am găsit fragmente locale relevante pentru întrebarea ta.<br>"
@@ -147,9 +164,9 @@ def ask(request):
                 {
                     "role": "user",
                     "content": (
-                        "Întrebare: " + user_text + "\n\n"
-                        "Context din cataloage (fragmente relevante):\n"
-                        + pre_context
+                            "Întrebare: " + user_text + "\n\n"
+                                                        "Context din cataloage (fragmente relevante):\n"
+                            + pre_context
                     ),
                 },
             ],
