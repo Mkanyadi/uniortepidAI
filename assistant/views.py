@@ -41,15 +41,17 @@ TXT_DIR = BASE / "media" / "knowledge_txt"
 SYSTEM_PROMPT = """
 Ești Dan — asistent tehnic & comercial pentru scule industriale (Unior Tepid).
 
-Răspunde scurt, prietenos și practic, ca într-un chat cu un client. Folosește bullet-points când ajută.
-Când poți, propune 2–6 opțiuni relevante, fiecare cu:
-- denumire scurtă,
-- preț (doar dacă apare explicit în fragmentele din context; nu inventa; menționează valuta),
-- cod (dacă e clar din surse),
-- 1–2 atribute cheie (dimensiune/standard/aplicație),
-- observație practică (ex.: „bun pentru montaj pardoseli laminate”).
-
-Dacă datele nu apar în fișierele mele, cere clarificări. Răspunde în română.
+Reguli FOARTE importante:
+- Răspunzi DOAR pe baza fragmentelor din contextul furnizat mai jos.
+- Dacă informația NU apare în context, spune explicit: „Nu am date în context pentru asta.” și cere clarificări/cuvinte-cheie.
+- NU inventa produse, coduri, prețuri sau specificații.
+- Când poți, propune 2–6 opțiuni RELEVANTE găsite în context, fiecare cu:
+  - denumire scurtă,
+  - preț (doar dacă apare EXPLICIT în context; menționează valuta; nu inventa),
+  - cod (dacă apare),
+  - 1–2 atribute cheie (dimensiune/standard/aplicație),
+  - observație practică.
+- Răspunde concis, în română, tip bullet-list; nu include alte surse decât contextul.
 """.strip()
 
 
@@ -110,7 +112,6 @@ def ask(request):
 
     user_text = (payload.get("message") or payload.get("text") or "").strip()
     if not user_text:
-        # form fallback
         user_text = (request.POST.get("message") or request.POST.get("text") or "").strip()
 
     if not user_text:
@@ -126,7 +127,17 @@ def ask(request):
 
     pre_context = _prefilter_local_snippets(txt_files, user_text, top_k=40)
 
-    # --- OpenAI hívás ---
+    # --- HARD GATE: ha nincs releváns helyi kontextus, NE kérdezzük a modellt ---
+    if not (pre_context or "").strip():
+        return JsonResponse({
+            "answer_html": (
+                "Nu am găsit fragmente locale relevante pentru întrebarea ta.<br>"
+                "Te rog verifică fișierele din <code>media/knowledge_txt</code> "
+                "și folosește termeni apropiați de denumirile/codurile din catalog."
+            )
+        }, status=200)
+
+    # --- OpenAI hívás csak user_text + context ---
     try:
         resp = client.chat.completions.create(
             model=OPENAI_MODEL,
@@ -138,7 +149,7 @@ def ask(request):
                     "content": (
                         "Întrebare: " + user_text + "\n\n"
                         "Context din cataloage (fragmente relevante):\n"
-                        + (pre_context or "(nu am găsit fragmente locale)")
+                        + pre_context
                     ),
                 },
             ],
@@ -152,7 +163,10 @@ def ask(request):
         )
 
     if not answer_text:
-        answer_text = "Nu am găsit ceva clar în cataloagele încărcate. Îmi dai un cod sau o denumire mai precisă?"
+        answer_text = (
+            "Nu am găsit ceva clar în fragmentele din context. "
+            "Îmi dai un cod sau o denumire mai precisă?"
+        )
 
     return JsonResponse({"answer_html": answer_text})
 
@@ -173,3 +187,18 @@ def ping(request):
     except Exception as e:
         logger.exception("Ping failed: %s", e)
         return JsonResponse({"ok": False, "model": OPENAI_MODEL, "error": str(e)}, status=500)
+
+
+# --- Debug: láthatóak-e a TXT-k a szerveren? --------------------------------
+@require_GET
+def debug_knowledge(request):
+    files = _list_text_files()
+    out = []
+    for p in files:
+        try:
+            txt = pathlib.Path(p).read_text(encoding="utf-8", errors="ignore")
+            head = txt[:400]
+        except Exception as e:
+            head = f"<< read error: {e} >>"
+        out.append({"path": p, "head_len": len(head), "head": head})
+    return JsonResponse({"count": len(files), "files": out})

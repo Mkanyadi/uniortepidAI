@@ -6,12 +6,14 @@ from django.conf.urls.static import static
 
 from assistant import views
 from assistant.views import index, ask, ping
+from assistant.views import ping, debug_knowledge
 
 urlpatterns = [
     path("admin/", admin.site.urls),
     path("", views.index, name="index"),
     path("ask/", views.ask, name="ask"),
     path("ping/", ping, name="ping"),
+    path("debug/knowledge/", debug_knowledge),
 ]
 
 # Servește STATIC și MEDIA doar în development
