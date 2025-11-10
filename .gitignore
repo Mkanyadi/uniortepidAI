@@ -11,3 +11,7 @@ media/knowledge/*.pdf
 .env
 __pycache__/
 *.pyc
+# --- Allow knowledge_txt inside media ---
+!media/
+!media/knowledge_txt/
+!media/knowledge_txt/*.txt
