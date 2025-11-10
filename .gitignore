@@ -9,3 +9,5 @@ __pycache__/
 .vscode/
 media/knowledge/*.pdf
 .env
+__pycache__/
+*.pyc
