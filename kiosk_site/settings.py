@@ -6,73 +6,82 @@ load_dotenv()
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-import os
-from dotenv import load_dotenv
+# --- Secrets / Debug ---
+SECRET_KEY = os.getenv("SECRET_KEY", "dev-secret-key-change-me")
+DEBUG = os.getenv("DJANGO_DEBUG", "1") == "1"
 
-load_dotenv()
-SECRET_KEY = os.getenv('SECRET_KEY', 'dev-secret-key-change-me')
+# --- Hosts (env + Render hostname) ---
+ALLOWED_HOSTS = [h.strip() for h in os.getenv("ALLOWED_HOSTS", "127.0.0.1,localhost").split(",") if h.strip()]
+render_host = os.getenv("RENDER_EXTERNAL_HOSTNAME")
+if render_host and render_host not in ALLOWED_HOSTS:
+    ALLOWED_HOSTS.append(render_host)
 
-DEBUG = os.getenv('DJANGO_DEBUG', '1') == '1'
-ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS', '127.0.0.1,localhost').split(',')
-
+# --- Apps ---
 INSTALLED_APPS = [
-    'django.contrib.admin',
-    'django.contrib.auth',
-    'django.contrib.contenttypes',
-    'django.contrib.sessions',
-    'django.contrib.messages',
-    'django.contrib.staticfiles',
-    'assistant',
+    "django.contrib.admin",
+    "django.contrib.auth",
+    "django.contrib.contenttypes",
+    "django.contrib.sessions",
+    "django.contrib.messages",
+    "django.contrib.staticfiles",
+    "assistant",
 ]
 
+# --- Middleware (WhiteNoise Security után) ---
 MIDDLEWARE = [
-    'django.middleware.security.SecurityMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware',
-    'django.contrib.sessions.middleware.SessionMiddleware',
-    'django.middleware.common.CommonMiddleware',
-    'django.middleware.csrf.CsrfViewMiddleware',
-    'django.contrib.auth.middleware.AuthenticationMiddleware',
-    'django.contrib.messages.middleware.MessageMiddleware',
-    'django.middleware.clickjacking.XFrameOptionsMiddleware',
-
+    "django.middleware.security.SecurityMiddleware",
+    "whitenoise.middleware.WhiteNoiseMiddleware",
+    "django.contrib.sessions.middleware.SessionMiddleware",
+    "django.middleware.common.CommonMiddleware",
+    "django.middleware.csrf.CsrfViewMiddleware",
+    "django.contrib.auth.middleware.AuthenticationMiddleware",
+    "django.contrib.messages.middleware.MessageMiddleware",
+    "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
 
-ROOT_URLCONF = 'kiosk_site.urls'
+ROOT_URLCONF = "kiosk_site.urls"
 
 TEMPLATES = [
     {
-        'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [BASE_DIR / 'templates'],
-        'APP_DIRS': True,
-        'OPTIONS': {
-            'context_processors': [
-                'django.template.context_processors.debug',
-                'django.template.context_processors.request',
-                'django.contrib.auth.context_processors.auth',
-                'django.contrib.messages.context_processors.messages',
+        "BACKEND": "django.template.backends.django.DjangoTemplates",
+        "DIRS": [BASE_DIR / "templates"],
+        "APP_DIRS": True,
+        "OPTIONS": {
+            "context_processors": [
+                "django.template.context_processors.debug",
+                "django.template.context_processors.request",
+                "django.contrib.auth.context_processors.auth",
+                "django.contrib.messages.context_processors.messages",
             ],
         },
     },
 ]
 
-WSGI_APPLICATION = 'kiosk_site.wsgi.application'
+WSGI_APPLICATION = "kiosk_site.wsgi.application"
 
+# --- DB ---
 DATABASES = {
-    'default': {'ENGINE': 'django.db.backends.sqlite3', 'NAME': BASE_DIR / 'db.sqlite3'}
+    "default": {
+        "ENGINE": "django.db.backends.sqlite3",
+        "NAME": BASE_DIR / "db.sqlite3",
+    }
 }
 
-LANGUAGE_CODE = 'ro-ro'
-TIME_ZONE = 'Europe/Bucharest'
+# --- i18n ---
+LANGUAGE_CODE = "ro-ro"
+TIME_ZONE = "Europe/Bucharest"
 USE_I18N = True
 USE_TZ = True
 
-STATIC_URL = '/static/'
-STATICFILES_DIRS = [BASE_DIR / 'static']
-MEDIA_URL = '/media/'
-MEDIA_ROOT = BASE_DIR / 'media'
+# --- Static / Media ---
+STATIC_URL = "/static/"
+STATIC_ROOT = BASE_DIR / "staticfiles"  # ide gyűlik collectstatic
+STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 
-DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+# ha van saját /static mappa buildhez/fejlesztéshez:
+STATICFILES_DIRS = [BASE_DIR / "static"]
 
-STATIC_URL = 'static/'
-STATIC_ROOT = BASE_DIR / 'staticfiles'
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+MEDIA_URL = "/media/"
+MEDIA_ROOT = BASE_DIR / "media"
+
+DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
