@@ -58,17 +58,21 @@ Reguli FOARTE importante:
 CATALOG_KEYWORDS = re.compile(r"\b(preț|pret|price|cod|code)\b", re.IGNORECASE | re.UNICODE)
 MIN_OVERLAP = 2  # legalább 2 közös token
 
+
 def index(request):
     return render(request, "assistant/index.html", {})
 
+
 def _list_text_files():
     return [str(p) for p in TXT_DIR.glob("*.txt")]
+
 
 def _prefilter_local_snippets(txt_files, query: str, top_k: int = 40, window: int = 6) -> str:
     """
     Heurisztikus előszűrés:
     - token-átfedés alapján pontoz
-    - CSAK olyan jelöltet enged át, ahol katalógus-jel (Preț/Price/Cod) van
+    - CSAK olyan jelölt, ahol katalógus-jel (Preț/Price/Cod) van
+    - a blokk elejére betesszük a [FILE:...] fejléct, hogy lásd a forrást
     """
     q_tokens = set(re.findall(r"[a-z0-9ăâîșţșț\-]+", (query or "").lower()))
     if not q_tokens:
@@ -95,7 +99,8 @@ def _prefilter_local_snippets(txt_files, query: str, top_k: int = 40, window: in
             if overlap >= MIN_OVERLAP and CATALOG_KEYWORDS.search(p_low):
                 bonus = 1 if re.search(r"\b(preț|pret|price)\b", p_low) else 0
                 score = overlap + bonus
-                heapq.heappush(candidates, (score, p))
+                block = f"[FILE:{path}]\n{p}"  # <—— forrás jelölése
+                heapq.heappush(candidates, (score, block))
                 if len(candidates) > top_k:
                     heapq.heappop(candidates)
 
@@ -105,42 +110,47 @@ def _prefilter_local_snippets(txt_files, query: str, top_k: int = 40, window: in
     top = [frag for _score, frag in sorted(candidates, key=lambda t: -t[0])]
     return "\n\n---\n\n".join(top)
 
+
 # --- Automatikus kinyerés kontextusból ---------------------------------------
 def _extract_catalog_entries(pre_context: str) -> str:
     """
     Kinyer Denumire/Preț/Cod mezőket a kontextusból.
+    Csak akkor ad vissza tételt, ha VAN Preț vagy Cod.
     Ha a Preț mellett nincs valuta, automatikusan RON-t teszünk.
-    Visszatér: formázott HTML (vagy üres string, ha nincs találat).
+    A [FILE:...] fejléceket megtartjuk, hogy visszakövethető legyen a forrás.
     """
     if not pre_context:
         return ""
 
     entries = []
-    blocks = re.split(r"\n\s*\n+", pre_context)
+    blocks = re.split(r"\n\s*---\s*\n", pre_context)  # a join mintájára darabolunk
 
     for block in blocks:
-        if not re.search(r"(preț|pret|price|cod|code)", block, re.I):
+        # szedd le a fejléct külön, hogy tudd a forrást
+        file_match = re.search(r"^\[FILE:(.+?)\]\s*", block)
+        source = file_match.group(1).strip() if file_match else None
+        body = re.sub(r"^\[FILE:.+?\]\s*", "", block).strip()
+
+        if not re.search(r"(preț|pret|price|cod|code)", body, re.I):
             continue
 
-        # név – sok katalógusban nincs explicit "Denumire:", ezért az első sorból próbálunk
-        first_line = block.strip().splitlines()[0].strip() if block.strip() else ""
-        name_match = re.search(r"(?:Denumire|Produs|Articol|Lamp[ăa]|Lantern[ăa])[:\-]?\s*(.+)", block, re.I)
-        name = (name_match.group(1).strip() if name_match else first_line) or "(fără denumire)"
+        # NE használjunk first_line „találgatást”, csak explicit mezőket
+        name_match = re.search(r"(?:Denumire|Produs|Articol|Lamp[ăa]|Lantern[ăa])[:\-]?\s*(.+)", body, re.I)
+        price_match = re.search(r"(?:Preț|Pret|Price)[:\-]?\s*([0-9][0-9\.\, ]*)", body, re.I)
+        code_match = re.search(r"(?:Cod|Code)[:\-]?\s*([A-Za-z0-9\-/]+)", body, re.I)
 
-        price_match = re.search(r"(?:Preț|Pret|Price)[:\-]?\s*([0-9][0-9\.\, ]*)", block, re.I)
-        code_match  = re.search(r"(?:Cod|Code)[:\-]?\s*([A-Za-z0-9\-/]+)", block, re.I)
-
+        name = name_match.group(1).strip() if name_match else None
         price = price_match.group(1).strip() if price_match else None
-        code  = code_match.group(1).strip() if code_match else None
+        code = code_match.group(1).strip() if code_match else None
 
-        if not (name or price or code):
+        # csak akkor listázzuk, ha VAN (price vagy code)
+        if not (price or code):
             continue
 
-        # valuta pótlás
         if price and not re.search(r"\b(RON|EUR|USD)\b", price, re.I):
             price = price + " RON"
 
-        entries.append({"name": name, "price": price, "code": code})
+        entries.append({"name": name, "price": price, "code": code, "source": source})
 
     if not entries:
         return ""
@@ -148,13 +158,17 @@ def _extract_catalog_entries(pre_context: str) -> str:
     parts = []
     for i, e in enumerate(entries, 1):
         row = []
-        row.append(f"<b>{i}. {html.escape(e['name'])}</b>")
+        title = e["name"] or "(fără denumire)"
+        row.append(f"<b>{i}. {html.escape(title)}</b>")
         if e["price"]:
             row.append(f"Preț: {html.escape(e['price'])}")
         if e["code"]:
             row.append(f"Cod: {html.escape(e['code'])}")
+        if e["source"]:
+            row.append(f"<i>Source: {html.escape(e['source'])}</i>")
         parts.append("<br>".join(row))
     return "<div class='catalog-results'>" + "<hr>".join(parts) + "</div>"
+
 
 # --- API ---------------------------------------------------------------------
 @csrf_exempt
@@ -211,9 +225,9 @@ def ask(request):
                 {
                     "role": "user",
                     "content": (
-                        "Întrebare: " + user_text + "\n\n"
-                        "Context din cataloage (fragmente relevante):\n"
-                        + pre_context
+                            "Întrebare: " + user_text + "\n\n"
+                                                        "Context din cataloage (fragmente relevante):\n"
+                            + pre_context
                     ),
                 },
             ],
@@ -234,6 +248,7 @@ def ask(request):
 
     return JsonResponse({"answer_html": answer_text})
 
+
 # --- Gyors modell-teszt ------------------------------------------------------
 @require_GET
 def ping(request):
@@ -246,6 +261,7 @@ def ping(request):
     except Exception as e:
         logger.exception("Ping failed: %s", e)
         return JsonResponse({"ok": False, "model": OPENAI_MODEL, "error": str(e)}, status=500)
+
 
 # --- Debug: látja-e a szerver a TXT-ket? ------------------------------------
 @require_GET
@@ -260,3 +276,13 @@ def debug_knowledge(request):
             head = f"<< read error: {e} >>"
         out.append({"path": p, "head_len": len(head), "head": head})
     return JsonResponse({"count": len(files), "files": out})
+
+@require_GET
+def debug_preview(request):
+    q = (request.GET.get("q") or "").strip()
+    if not q:
+        return JsonResponse({"error": "missing ?q="}, status=400)
+
+    txt_files = _list_text_files()
+    pre_context = _prefilter_local_snippets(txt_files, q, top_k=20)
+    return JsonResponse({"query": q, "pre_context": pre_context})

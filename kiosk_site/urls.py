@@ -7,6 +7,7 @@ from django.conf.urls.static import static
 from assistant import views
 from assistant.views import index, ask, ping
 from assistant.views import ping, debug_knowledge
+from assistant.views import debug_preview
 
 urlpatterns = [
     path("admin/", admin.site.urls),
@@ -14,6 +15,7 @@ urlpatterns = [
     path("ask/", views.ask, name="ask"),
     path("ping/", ping, name="ping"),
     path("debug/knowledge/", debug_knowledge),
+    path("debug/preview/", debug_preview),
 ]
 
 # Servește STATIC și MEDIA doar în development
